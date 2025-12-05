@@ -1,0 +1,46 @@
+### Fluidkey
+
+DApps
+
+Infrastructure
+
+[0xB9800F...FD2e3598](https://arbiscan.io/address/0xB9800F0c6f6DaEA52f8eFe215134f066FD2e3598)
+
+[fluidkey](https://x.com/fluidkey)
+
+[https://fluidkey.com](https://fluidkey.com/)
+
+[fluidkey](https://github.com/fluidkey)
+
+Fluidkey is a simple, privacy-preserving wallet that allows users to manage their funds onchain and access the full power of DeFi.To preserve privacy, Fluidkey provides each user with an ENS that automatically returns a new stealth address on every query. Each payment received is thereby sent to a fresh address that isn't publicly linked to any of the previously used addresses or the user's public address.Fluidkey is fully self-custodial, built on Safe smart accounts. It supports gas sponsorship, automatic deposits to yield vaults, bank transfers, swaps, and transaction exports.All of the smart contracts and core cryptography have been audited.
+
+### IMPACT STATEMENTS
+
+-   over $500m in transactions processed through Fluidkey stealth addresses to date
+-   over 680k stealth addresses generated to date
+-   over 10k users registered
+
+### CONTRIBUTIONS
+
+-   Our wallet offers user friendly stealth address privacy across Ethereum, Base, Arbitrum, Polygon, Optimism, and Gnosis
+-   All of the core stealth address crypto has been open sourced and made available to third parties in our stealth account kit
+
+CONTRIBUTIONS LINKS[Stealth Account Kit](https://github.com/fluidkey/fluidkey-stealth-account-kit)
+
+### PAST GRANTS AND FUNDING
+
+GRANTS
+
+Other
+
+90000
+
+USD
+
+PRE-SEED FUNDING
+
+Other
+
+500000
+
+USD

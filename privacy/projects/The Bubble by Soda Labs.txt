@@ -1,0 +1,42 @@
+### The Bubble by Soda Labs
+
+Research
+
+Infrastructure
+
+[0xA2A803...4786287b](https://arbiscan.io/address/0xA2A8032DEf98116C90b278Aa9F517b7B4786287b)
+
+[sodabubblelabs](https://x.com/sodabubblelabs)
+
+[https://www.sodalabs.xyz](https://www.sodalabs.xyz/)
+
+[soda-mpc](https://github.com/soda-mpc)
+
+Soda Labs & The Bubble Network
+==============================
+
+What is the Bubble
+------------------
+
+The Bubble Network, built by Soda Labs, is a plug-and-play privacy-as-a-service layer for any chain, be it L1, L2, L3 or even oracles. It enables confidential, compliant, and high-throughput on-chain transactions---bringing privacy to stablecoins, RWAs, and DeFi. Unlike heavy FHE-based systems, The Bubble uses garbled circuits cryptography (GC), offering 1000× higher throughput and million-times lower cost (≈ $0.000008 per confidential ERC20 transfer). A private testnet wallet built on Soda Labs' infra is live on an invite basis, and support for more chains is coming.
+
+What Are Garbled Circuits
+-------------------------
+
+A Garbled circuit (GC) is a cryptographic box that enables computation on encrypted data, unlike FHE that is tied to a specific encryption scheme, GC can work with different encryption schemes; in particular, it supports the standard most time and pressure tested encryption scheme on earth, namely AES. This means that by adopting the post-quantum AES one can get a post-quantum security for on-chain privacy! Soda Labs' had multiple breakthrough in applying GC cryptography to blockchains: (1) completely separating "offline" work from "online" work and making online work very lightweight; this means that network participants can build garbled circuits while idle, and when private workload is demanded they can satisfy it in a very low latency. (2) supporting a multiparty protocol based on GC while maintaining the performance of two-party, this means that the network can easily scale to thousands of participants without experiencing degradation in performance. (3) public auditability is necessary for the onchain verification of the computation done by the network. (4) Compared to other solutions based on FHE/ZK/TEE, Soda Labs' GC-based protocol does not rely on special hardware, meaning very low costs for participants.
+
+### IMPACT STATEMENTS
+
+-   Soda Labs' GC-EVM is the first-ever fully fledged privacy preserving chain that relies only on cryptography, and it is in mainnet already since April 2025 by the COTI Network.
+-   The Bubble bridges privacy and compliance for all chains --- solving one of Web3's biggest missing pieces. It protects users from MEV, enables private DeFi, and unlocks institutional participation in tokenized assets and payments.
+-   Bubble is designed to scale to real-world adoption, ensuring privacy becomes a default feature of blockchain.
+
+### CONTRIBUTIONS
+
+-   Soda Labs has delivered the first-ever production-grade on-chain confidential compute engine that relies solely on cryptography.
+-   Soda Labs' gcEVM powers COTI Network's live confidential transactions and is being integrated by Privex for a privacy-preserving DEX (top 22 in volume across all web3). The gcEVM is open source (link below) and we're happy to get your feedback!
+-   The Bubble is currently in devnet mode and accessible to partners across the industry, including stablecoin and RWA platforms, DeFi and compliance. In addition:
+-   Open cryptographic research, "GC--VM: Publicly Auditable MPC via Garbled Circuit" (link below), including security proofs and a detailed performance benchmarking.
+-   Cross-industry pilots with Chainlink Labs, the ECB Digital Euro Pioneers Program, and more soon. We regularly present about confidential computing and differences between various solutions at top cryptography and privacy conferences.
+
+CONTRIBUTIONS LINKS[GC-EVM whitepaper v0.1](https://docsend.com/view/t4hbwp97vpj85hn4)[GC-VM: Publicly Auditable MPC via Garbled Circuits (Technical research paper)](https://docsend.com/view/edxd4srjfv37z762)[GC-EVM Node Repository](https://github.com/soda-mpc/gcEVM-node)[gcEVM testnet explorer](http://testnet.explorer.sodalabs.net/)[Private ERC20 contract](https://github.com/soda-mpc/soda-contracts)

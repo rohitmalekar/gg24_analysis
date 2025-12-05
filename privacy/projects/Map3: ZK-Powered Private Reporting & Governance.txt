@@ -1,0 +1,27 @@
+### Map3: ZK-Powered Private Reporting & Governance
+
+Research
+
+DApps
+
+Infrastructure
+
+[0x20e229...4ec2C50e](https://arbiscan.io/address/0x20e229667Cec8A0e9D3C6Fb89693B2a44ec2C50e)
+
+[atenyun](https://x.com/atenyun)
+
+<https://map3.aratta.dev/>
+
+[web3senior](https://github.com/web3senior)
+
+Map3 is a deployed governance ecosystem for tracking real-world issues, proposals, and events. While the current system is purely transparent, we recognize that privacy is essential for integrity and safety. The public nature of reporter identities exposes users to retaliation, and public voting can lead to bribery and collusion---directly compromising democratic participation and autonomy. Our goal for this grant is to convert Map3 into a ZK-enhanced system, targeting three key privacy gaps: 1. Private Reporter Identity: Using ZKP (e.g., Semaphore or Noir integration) to allow users to prove eligibility (e.g., they are a unique human or a local resident) to submit an Issue without revealing their creator address on the public ledger. 2. Private Proposal Voting: Implementing MACI or a similar ZK mechanism to ensure collusion-resistant, secret ballot voting on proposals, directly addressing the grant's focus on democratic privacy. 3. Private Data Proofs: Allowing organizations to verify issue data (e.g., geo-coordinates are within a service area) without revealing the underlying issue content to ineligible parties.
+
+### IMPACT STATEMENTS
+
+Map3's ZK conversion will have a profound impact by establishing a model for safe, sustainable public goods governance. The immediate impact is on reporter and voter safety, protecting individuals who report corruption, abuse, or sensitive issues from harassment and retaliation (core to human rights). The long-term impact is on systemic integrity, ensuring that the billions of dollars allocated through governance systems are not subject to bribery or collusion by integrating ZK voting mechanisms. By moving from simple transparency to verifiable anonymity, Map3 directly addresses the "lack of robust and well-adopted privacy infrastructure" in the Ethereum ecosystem, particularly for mission-critical democratic dApps.
+
+### CONTRIBUTIONS
+
+Current State: We have successfully developed and deployed the Issue.sol contract, establishing a transparent, immutable public goods ledger for geo-tagged community issues. This serves as the necessary foundation upon which we are building the privacy layer. Planned ZKP Contributions: Our current research and development focus is the integration of ZK primitives. Specifically, we are building a framework to move the current public-identity submission model to a private, authenticated model. This involves: 1. Protocol Design: Defining the Merkle tree/set for authenticated reporters/voters. 2. Circuit Development: Building the ZK circuits necessary to generate a proof of membership/eligibility without revealing the wallet address. 3. Smart Contract Modification: Updating the createIssue and future voting contracts to verify the ZKP instead of the msg.sender for authentication.
+
+CONTRIBUTIONS LINKS[Map3 GitHub Repo](https://github.com/Aratta-Labs/Map3)[Map3.sol](https://github.com/Aratta-Labs/Map3/blob/main/src/contracts/Map3/Map3.sol)

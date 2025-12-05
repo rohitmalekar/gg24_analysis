@@ -1,0 +1,42 @@
+### UNIQ ID 
+
+DApps
+
+Infrastructure
+
+[0x6a5F74...83768390](https://arbiscan.io/address/0x6a5F74b8cE7cfa3eC40056155B87F8b983768390)
+
+[UNIQ_ID](https://x.com/UNIQ_ID)
+
+<https://uniq-id.lovable.app/>
+
+[GeneDetective](https://github.com/GeneDetective)
+
+> *In today's digital world, privacy is one of the most endangered aspects of online life.*
+
+UNIQ ID is a decentralized, *privacy-first* digital identity system built to eliminate the need for passwords and centralized user databases. It addresses the critical privacy failures that exist today: when users sign up for websites using centralized systems like Google OAuth, their `email addresses` and `passwords` are often stored in plaintext or weakly hashed forms within centralized databases.This creates a large attack surface. When these databases are breached---*as seen in the catastrophic Yahoo data breach of 2013*---millions of users become vulnerable to *phishing, identity theft, and credential stuffing attacks*, where repeated passwords are exploited across multiple platforms. This exposes not only personal data but also financial information and digital assets.Instead of storing sensitive information on centralized servers, UNIQ ID operates fully on-chain, using Merkle tree anchoring to represent verified identities as cryptographic roots. Each user's identity data --- `email hash`, `encrypted paraphrase`, and `on-chain root` --- is processed through *zero-knowledge proofs (ZKPs)* to confirm authenticity without ever revealing private information.During registration, user data is `locally hashed` and `encrypted`, producing a unique on-chain identity root anchored to a smart contract. When logging in, users generate `ZK-based proofs` that verify their ownership of that identity without exposing email, password, or keys. Websites verify these proofs and derive a local user account, ensuring every login is *unique, anonymous, and unlinkable across platforms*.This approach redefines authentication by removing traditional attack surfaces --- no email databases, no password leaks, no tracking. Users remain fully in control of their digital footprint, with cryptographic commitments ensuring verifiable trust. Technical building blocks include `Poseidon` hashing, `Merkle root` management, and optional KDFs such as `Argon2` for local hashing/encryption workflows.By combining Ethereum-based verification, `Poseidon` hashing, and Merkle root management, UNIQ ID builds a universal, privacy-preserving identity layer for the decentralized web --- a true evolution beyond login forms, restoring user privacy at internet scale.
+
+### IMPACT STATEMENTS
+
+Why it matters. Email addresses and passwords act as *digital passports* across the web --- but when stored centrally they create a single catastrophic failure point. Large-scale breaches repeatedly expose emails, credentials, and sensitive PII (for example, Yahoo's 2013 intrusion ultimately affected ~3 billion accounts). :contentReference[oaicite:0]{index=0}Security effect. By removing central email databases and replacing them with on-chain cryptographic commitments + ZK verification, UNIQ ID eliminates common attack surfaces (email dumps, password leaks, credential stuffing). Recent analyses show billions of breached credentials and extensive password reuse --- a core reason credential stuffing remains effective. :contentReference[oaicite:1]{index=1}Practical uses & beneficiaries.
+
+-   Wallet providers & on-ramps: verifying email ownership for account recovery without exposing the email.
+-   Voting / DAO access: anonymous verification of eligibility.
+-   DeFi & custodial services: identity attestation without leaking PII.
+-   Privacy-first consumer apps: login with verifiable identity without tracking.
+
+Scalability & roadmap. UNIQ ID's core primitives (Poseidon, Merkle anchoring, ZK circuits) are interoperable with Ethereum L2s and can be adopted progressively: start with testnet anchors and optional on-chain attestations, then expand to cross-chain relayers and developer SDKs. I selected Privacy --- DApps because UNIQ ID implements a privacy-first authentication flow as a user-facing application (login/registration UIs and SDKs).I selected Privacy --- Infrastructure because the project provides reusable primitives (on-chain root anchoring, Poseidon commitments, ZKP verification contracts) that other developers and services can integrate to add privacy-preserving authentication.
+
+### CONTRIBUTIONS
+
+What we built. UNIQ ID eliminates centralized email/password storage by creating a *unique cryptographic identity root*for each user. User data (e.g. `email hash`, `encrypted paraphrase`) is hashed and encrypted locally, then anchored on-chain as a Merkle root. Authentication is performed via zero-knowledge proofs (ZKPs) so websites can verify ownership of an identity without ever receiving or storing the user's email, password, or private keys.Technical highlights.
+
+-   Local hashing & encryption (Argon2 / KDF for local key derivation).
+-   Poseidon hashing for compact, SNARK-friendly commitments (`Poseidon`).
+-   Merkle-tree anchoring and on-chain root management (smart contract stores roots and revocation metadata).
+-   ZKP-based login flow: user proves ownership of a committed identity without revealing any private attributes.
+-   Site-specific account derivation so logins are anonymous and unlinkable across services.
+
+Previous work & reproducibility. Proof-of-concept implementation (testnet smart contract + reference UI) is open-source with step-by-step docs and test vectors so reviewers can reproduce registration, root anchoring, and ZK login.
+
+CONTRIBUTIONS LINKS[The smart contract for the MVP is deployed on the Sepolia Testnet and verified on Etherscan. You can view on-chain transactions of multiple test user registrations, demonstrating live registration and Merkle root anchoring.](https://sepolia.etherscan.io/address/0x9B12b3E17dc1a84e84331258939763120031052E)[This is the official open-source repository of UNIQ ID, licensed under GPL-3.0. It contains the complete MVP workflow, including Zero-Knowledge Proofs (ZKPs), smart contracts, and the on-chain identity logic.](https://github.com/GeneDetective/THE-UNIQ-ID)[This GitHub repository hosts a test comparison website that implements both Google OAuth and the UNIQ SDK. It demonstrates how user data is securely processed and stored using UNIQ ID, compared to the insecure and centralized handling of data in traditional OAuth-based authentication.](https://github.com/GeneDetective/THE-UNIQ-ID-DEMO-SDK-WEBSITE)[This is a YouTube video walkthrough showcasing the complete user registration process and a detailed demonstration of the current MVP of UNIQ ID in action.](https://www.youtube.com/watch?v=RINw12L6YXY)[This is the official UNIQ ID Whitepaper, outlining its architecture, planned mechanisms, implementation workflows, and cryptographic foundations behind the decentralized privacy-first identity system.](https://drive.google.com/file/d/1IsAA9BgKbUrA_gF57MCKD-zel5nuD9GO/view)[This is the pitch deck for UNIQ ID, summarizing the project's vision, use cases, technical architecture, and future roadmap. (Downloading recommended for better quality and viewing experience.)](https://drive.google.com/file/d/1gJLIJWznYpIpnNBZJtONuei0hK8iLfb4/view)

@@ -1,0 +1,160 @@
+Shinobi.cash: Borderless Privacy for a Multi-Chain World
+
+
+Shinobi.cash is a cross-chain privacy protocol enabling users to deposit on one blockchain and withdraw privately on another — with full cryptographic unlinkability between deposits and withdrawals.
+
+
+
+By combining zero-knowledge proofs (ZK-SNARKs) with the Open Intent Framework (OIF), Shinobi.cash treats the entire multi-chain ecosystem as one unified privacy set.
+
+
+
+Tagline: “Because privacy shouldn’t stop at chain boundaries.”
+
+
+
+The Problem
+
+
+
+Public blockchains expose every transaction, linkable forever to wallet addresses. This leads to:
+
+Transaction surveillance and deanonymization risks
+Fragmented privacy sets — privacy isolated per chain
+Poor UX for users moving between chains
+
+
+Existing privacy solutions like Tornado Cash or Privacy Pool work within a single chain, forcing users to either use bridge during cross-chain operations(Bad UX) or maintain separate privacy pools per chain—severely limiting the anonymity set.
+
+
+
+Our Solution
+
+
+
+Zero-Knowledge Cross-Chain Privacy
+
+Users deposit on Chain A (e.g., Base) and withdraw privately on Chain B (e.g., Arbitrum).
+ZK-SNARKs prove ownership of deposits without revealing identities.
+Nullifiers prevent double-spending.
+Unified cross-chain pool expands anonymity set across all supported chains.
+Decentralized Settlement via OIF
+
+OIF enables intent-based, trustless cross-chain settlement:
+Intent-based deposits: Solvers compete to fill user intents; verified by oracles.
+Intent-based withdrawals: ZK proofs validate ownership; settlement verified by fill oracles.
+No centralized relayers or bridges.
+Transparency: All intents public — privacy enforced only through ZK proofs.
+
+OIF provides the infrastructure, not privacy itself — enabling decentralized execution for ZK-based privacy.
+
+Current Status
+
+
+
+Deployed & Operational:
+
+
+
+✅ Core privacy pool contracts with ZK proof verification
+✅ Cross-chain withdrawal via OIF intents
+✅ Cross-chain deposits via OIF intents
+🚧 Dual oracle validation system (intent + fill) - in progress
+🚧 Solver network for intent settlement - in progress
+🚧 Web interface for deposit/withdrawal operations - in progress
+🚧 Testnet deployment (Base Sepolia ↔ Arbitrum Sepolia) - in progress
+Roadmap (3-6 Months)
+
+Security & Testnet + Mainnet Launch
+
+Contract audits + gas optimization
+Testnet launch on Arbitrum, Base, Optimism
+New Features
+
+Stealth Address withdrawals
+Cross-asset withdrawals to any supported token
+
+
+Impact statements
+
+
+
+Privacy Infrastructure Impact
+Exponentially larger anonymity sets: First protocol to unify privacy pools across chains (Base, Arbitrum, Optimism, etc.), dramatically increasing privacy guarantees compared to single-chain solutions
+Eliminates trusted intermediaries: Demonstrates viable alternative to centralized bridges for cross-chain transfers
+OIF Ecosystem Impact
+Demonstrates OIF for complex, privacy-critical app, not just simple token swaps
+Sets reusable patterns (dual-oracle, solver network)
+Accelerates adoption through open reference implementation
+Ethereum Ecosystem Impact
+Contributes cross-chain privacy layer to Ethereum
+Provides SDKs + contracts for developers
+Advances standards for multi-chain privacy interoperability
+User Impact
+Enables private, cross-chain transfers for individuals, DAOs, and organizations
+Offers real-world privacy — for salaries, treasury operations, and donations
+
+
+contributions
+
+Advancing OIF Adoption & Innovation
+First major privacy protocol built fully on OIF, demonstrating intent-based settlement for privacy-critical applications
+Introduces dual-oracle validation pattern (intent + fill oracles) establishing best practices for secure intent settlement
+Open-source reference for intent-based cross-chain applications
+Defining Cross-Chain Privacy Standards
+Unified privacy pool architecture demonstrating how to merge anonymity sets across multiple chains
+Novel approach to cross-chain privacy without trusted bridge operators
+Expanding Privacy Accessibility
+Removes technical, economic, and UX barriers
+Deposit once — withdraw privately anywhere
+Open Source Public Goods
+Fully MIT/Apache-2.0 licensed
+ZK circuits, intents, and oracles publicly available
+Reference contracts for developers building with OIF
+
+
+Who?
+
+Karandeep Singh
+
+X/Twitter | GitHub
+Full-stack blockchain developer, multiple hackathon winner.
+Previous projects & experience:
+
+WalletConnect & Pimlico – contractor, full-stack development for web3 products.
+PrepaidGas.xyz – first decentralized paymaster & “Bring Your Own Paymaster” SDK.
+Privacy-Pool Paymasters – removes dependency on third-party relayers for private withdrawals.
+
+
+Tantodefi
+
+X/Twitter | GitHub
+Experienced in web3 hackathons and grant/public goods development.
+Previous projects:
+dstealth.xyz – privacy payments app with zk-receipts proving stealth address payments.
+
+
+Demo
+
+https://arbitrum.hackquest.io/projects/Arbitrum-Open-House-India-IRL-Hack-Bengaluru-ShinobiCash
+
+
+Milestones (4-6 months)
+
+"""Testnet Deployment: Launch a fully functional cross-chain privacy pool on Ethereum Layer2s (Arbitrum, Optimism), supporting deposits and withdrawals via the Open Intent Framework (OIF), enabling developers and users to experience seamless private transactions across chains.
+
+Smart Contract Audit: Conduct formal audits of all contracts—including entrypoints, settlers, and pool logic—to ensure security, privacy, and ASP compliance.
+
+Open-Source Artifacts: Publish audited contracts, SDKs, and integration guides to allow other projects to build interoperable privacy solutions."""
+
+
+Please example how your project meets the round-specific eligibility criteria.
+
+"""Shinobi Cash aligns closely with the GG24 Interop Standards, Infra & Analytics criteria by building cross-chain privacy infrastructure using the Open Intents Framework (OIF). Our project:
+
+Advances Interop Infrastructure: Enables intent-based, verifiable, and private fund transfers across EVM chains, including deposits and withdrawals.
+
+Implements Open Standards: Uses OIF for intent propagation, settlement, and solver coordination, demonstrating practical adoption of the framework.
+Runs a Pilot for OIF Adoption: Demonstrates real-world multi-chain deposits and withdrawals, showing how OIF can power private, compliant, and decentralized applications.
+
+In short, Shinobi Cash is a public-good, open-source project that strengthens Ethereum’s multi-chain ecosystem, showcases OIF adoption, and provides infrastructure for verifiable, interoperable privacy."""

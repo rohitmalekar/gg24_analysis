@@ -1,0 +1,35 @@
+### Obscura
+
+Infrastructure
+
+DApps
+
+Research
+
+[0x364d11...ea91ACEE](https://arbiscan.io/address/0x364d11a2c51F235063b7DB5b60957aE2ea91ACEE)
+
+[UseObscura](https://x.com/UseObscura)
+
+<https://www.obscura.finance/>
+
+Obscura is building the Verifiable Reputation Layer for DeFi, a privacy-first protocol designed to solve the critical trust and privacy dilemma in social and copy trading.The Problem: In today's DeFi, traders cannot prove their performance without exposing sensitive financial data, leading to a high-trust, high-risk environment. Followers struggle to discern genuine talent from fraudulent claims.Our Solution: Obscura's "Trade Anywhere, Prove On-Chain" model allows traders to connect their existing CEX/DEX accounts and build a unified, cryptographically verifiable track record. We achieve this by integrating:Zero-Knowledge (ZK) Proofs (Noir): To prove trading performance without revealing underlying strategy or portfolio details.Confidential Computing (TEEs - AWS Nitro Enclaves): To securely handle sensitive credentials like exchange API keys for confidential copy-trading.Decentralized Oracles: To ensure tamper-resistant data ingestion for ZK proof generation.Our initial deployment focuses on Horizen L3 for on-chain verification and settlement, leveraging its privacy-centric architecture. Obscura brings immense value to the privacy domain by creating a high-volume engine for ZK proof generation, demonstrating real-world utility for private computation in DeFi. We are committed to a progressive decentralization roadmap, ensuring a credibly neutral and community-governed future.Key Alignment with GG24 Privacy Domain:Privacy Research & dApp: We are building a dApp fundamentally rooted in cutting-edge ZK and TEE privacy research.Infrastructure: We are creating foundational infrastructure for private reputation in DeFi.MACI Integration: We are particularly excited about the privacy domain's use of MACI, aligning with our commitment to privacy-preserving governance.We believe Obscura will be a flagship project showcasing the power of privacy-preserving technologies in real-world financial applications.
+
+### IMPACT STATEMENTS
+
+The impact of Obscura will be to establish a new paradigm for trust and accountability in DeFi, solving the critical "reputation deficit" that leads to capital inefficiency and systemic risk.Our impact will be felt across three key areas:For Traders and Users: Obscura will empower millions of traders to build an immutable, on-chain track record and monetize their skills without sacrificing their privacy. For followers and capital allocators, it provides access to a marketplace of talent where performance is not just claimed, but cryptographically proven, drastically reducing the risk of fraud.For the DeFi Ecosystem: By creating a credibly neutral reputation layer, Obscura will unlock new forms of capital efficiency. Our system provides a mechanism to move beyond over-collateralization as the sole risk management tool, paving the way for more sophisticated financial applications like under-collateralized lending based on verifiable performance.For the Privacy Community: Obscura will serve as a high-volume, real-world showcase for privacy-preserving technologies. By transforming every trade on any exchange into a potential ZK proof, we will become a significant driver of adoption and a practical case study for the scalability and utility of ZK proofs, TEEs, and private on-chain voting mechanisms like MACI.
+
+### CONTRIBUTIONS
+
+Obscura's primary contribution is a novel, open-source protocol for verifiable, privacy-preserving reputation in DeFi. We are contributing a complete, hybrid-system architecture that synthesizes cutting-edge privacy technologies into a cohesive, functional whole.Our specific technical contributions include:A Decentralized Oracle Network (The Sentinel DON): We are contributing a blueprint for a Byzantine Fault Tolerant (BFT) network for ingesting trade data, secured by robust cryptoeconomics (staking and slashing). This design replaces the fragile, centralized oracle model and provides a credibly neutral foundation for data verification.A Confidential Compute Architecture (The Citadel): We are contributing a secure architecture for handling sensitive user credentials (like API keys) using Trusted Execution Environments (AWS Nitro Enclaves). Our design leverages cryptographic attestation to ensure that only the verified, untampered version of our code can access secrets, providing hardware-enforced guarantees of confidentiality.An Optimized ZK Proving Subsystem (The Alchemist): We are contributing an efficient system for generating verifiable proofs of performance using the Noir language and its UltraHonk proving system. Our architecture includes a strategy for recursive proof aggregation, allowing thousands of individual trade verifications to be compressed into a single, constant-cost on-chain transaction.
+
+CONTRIBUTIONS LINKS[Whitepaper](https://drive.google.com/file/d/11idbG1itLzy922oIIy_d9BXlnVlgQEAY/view)[Medium](https://obscuraprotocol.medium.com/announcing-obscura-building-the-verifiable-reputation-layer-for-defi-741de78578d8)
+
+### PAST GRANTS AND FUNDING
+
+THRIVE PROTOCOL X HORIZEN
+
+Partner Fund
+
+11000
+
+ZEN

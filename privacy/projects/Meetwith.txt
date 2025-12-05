@@ -1,0 +1,50 @@
+### Meetwith
+
+DApps
+
+[0x91836F...8fEF4A25](https://arbiscan.io/address/0x91836F34a46a4b804744010EC81bF6648fEF4A25)
+
+[https://meetwith.xyz](https://meetwith.xyz/)
+
+Meetwith is a simple, privacy-first scheduling tool designed for individuals and teams who manage multiple workstreams. It helps users effortlessly coordinate 1-1 and group meetings without the back-and-forth of finding times that work.Built for freelancers, coaches, digital nomads, and cross-organization teams, Meetwith eliminates scheduling friction by allowing anyone to share availability, connect with contacts, and confirm meetings in just a few clicks --- all while keeping personal information secure.Whether you're booking client calls, organizing team syncs, or running paid sessions, Meetwith gives you full control over your time and privacy, so you can focus on the conversations that matter.
+
+### IMPACT STATEMENTS
+
+-   Over the past 2 years, We have helped 1,000+ users schedule meetings in a privacy preserving way.
+-   Users have created >5,000 and 169 meetings and scheduling groups respectively where they coordinate group and 1-1 meetings in a privacy-first way.
+-   We have multiple organisations using Meetwith to schedule team and 1-1 meetings (most notably Unlock Protocol and KFMedia).
+
+### CONTRIBUTIONS
+
+Meetwith contributes to privacy by reimagining scheduling as a user-owned experience. Unlike traditional tools that require sharing personal emails, calendars, or metadata with third-party platforms, Meetwith is built to protect user identity and data at every step.
+
+-   Users can schedule meetings without exposing personal information such as email addresses or phone numbers.
+-   The platform uses wallet-based and pseudonymous identities, ensuring that individuals maintain full control over what information they share.
+
+CONTRIBUTIONS LINKS[Meetwith DApp](https://github.com/appcalipse/meetwith)
+
+### PAST GRANTS AND FUNDING
+
+ARBITRUM GRANT
+
+Other
+
+16960
+
+USDC
+
+CELO GRANT
+
+Other
+
+10000
+
+CUSD
+
+GITCOIN ROUNDS
+
+Other
+
+5500
+
+USDC

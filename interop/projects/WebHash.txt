@@ -1,0 +1,38 @@
+Webhash.com is a revolutionary no-code platform that empowers users to effortlessly create tokenized, decentralized, and permanent websites. Catering to both ENS (Ethereum Name Service) and traditional DNS domains, Webhash enables users to build and deploy robust websites without any coding knowledge, ensuring a tamper-proof and enduring web presence. Websites are deployed on IPFS (InterPlanetary File System) and tokenized on Base, offering enhanced security, immutability, and ownership verification.
+
+
+
+Tokenization: Each website on Webhash.com is represented by a unique token on the Base blockchain, ensuring clear ownership and provenance. This allows for easy transfer and trading of website ownership, creating a seamless and secure way to manage web properties.
+
+
+
+Decentralization: By leveraging IPFS, Webhash.com uses a distributed network of nodes to store and serve content. This decentralized approach eliminates single points of failure, making websites more resilient to censorship and server outages. Content remains accessible as long as the network exists, without reliance on any central authority.
+
+
+
+Permanence: The combination of IPFS and Filecoin ensures that websites are permanent and immutable. Content added to IPFS is distributed across multiple nodes, making it tamper-proof. Our smart contract on Base provides an immutable ledger of ownership and changes, guaranteeing that once a website is created and tokenized, its history and content cannot be altered or erased.
+
+
+
+With Webhash.com, users can set a new standard in website development and management, ensuring their web presence is secure, resilient, and everlasting.
+
+
+Milestones (4-6 months)
+
+"""Gateway Infrastructure Upgrade (Month 1–3)
+        •        Deploy multi-node gateway clusters to improve uptime and latency for ENS/IPFS content delivery.
+        •        Expand metrics collection to include domain resolution counts, content types, and uptime dashboards.
+Open Data Dashboard (Month 3–4)
+        •        Launch a public dashboard showing live ENS resolution stats, node performance, and hosted site data (aligned with “Open Data Initiatives”).
+        •        Publish all data under an open license for research and analytics use.
+Interop Pilot with OIF Principles (Month 4–6)
+        •        Demonstrate how Webhash fulfills user intent (“open decentralized content”) across Ethereum L1 and L2 networks.
+        •        Document findings and propose improvements to Ethereum’s decentralized web standards."""
+
+Please example how your project meets the round-specific eligibility criteria.
+
+"""Webhash meets the GG24 Interop Standards, Infra & Analytics eligibility criteria by directly strengthening Ethereum’s open web and interoperability infrastructure.
+        •        Ethereum-Focused: Webhash builds on Ethereum standards such as EIP-1577 (contenthash) and EIP-3668 (CCIP Read), improving how ENS domains resolve decentralized content hosted on IPFS and other distributed networks.
+        •        Interop Infrastructure: Our open-source resolver and gateway serve as a bridge between Ethereum’s naming system and the broader web, enhancing cross-layer and cross-network access to Ethereum data.
+        •        Open Source & Public Good: All core components are released under open licenses, with source code, APIs, and dashboards publicly available for developers and researchers.
+        •        Open Data & Transparency: We publish real-time analytics on active nodes, hosted sites, and ENS resolutions, supporting verifiable, evidence-based insights into Ethereum’s decentralized content ecosystem."""

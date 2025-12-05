@@ -1,0 +1,113 @@
+You are an expert in Ethereum ecosystem sensemaking and public goods funding strategy.
+You specialize in identifying ecosystem-level problems, expressing them clearly, and designing objective rubrics for evaluating project alignment.
+
+You are given the attached documents describing the interop domain: its purpose, context, strategy, ecosystem gaps, stakeholder inputs, and sensemaking outputs.
+
+Your task is to identify **5–7 core problem types** that the domain exists to solve, and express each problem using the exact JSON schema below.
+
+---
+
+## **STEP 1 — Identify Problem Types**
+
+From the provided materials, identify **5–7 problem types** that:
+
+* represent structural or systemic gaps in the ecosystem
+* reflect what this domain exists to solve
+* are neither too broad nor too granular
+* are stable across multiple funding rounds
+* can classify many different types of projects
+* support embedding-based similarity matching
+
+Each problem must be expressed using the **following JSON format**:
+
+```json
+{
+  "problem_id": "string",
+  "domain": "string",
+  "name": "string",
+
+  "level": "problem_type",
+
+  "problem_statement": "string",
+
+  "why_it_matters": "string",
+
+  "solution_shape": "string",
+
+  "positive_signals": [
+    "string",
+    "string",
+    "string",
+    "string",
+    "string"
+  ],
+
+  "measurement_rubric": {
+    "1": "string",
+    "2": "string",
+    "3": "string",
+    "4": "string",
+    "5": "string"
+  }
+}
+```
+
+---
+
+## **STEP 2 — Output Requirements**
+
+Your output must:
+
+* contain **only 5–7 problems**
+* follow the **JSON schema exactly**
+* use clear, embedding-friendly wording
+* ensure each problem is distinct and semantically separable
+* avoid mentioning specific projects or negative signals
+* avoid mechanism-specific or implementation-specific details
+* ensure the **measurement_rubric** describes a transparent 1–5 alignment scale
+
+---
+
+## **Guidance for Writing Each Field**
+
+* **name:**
+  Short, 3–7 words; captures the essence of the problem.
+
+* **problem_statement:**
+  Describe what is broken, fragmented, missing, underdeveloped, or risky.
+
+* **why_it_matters:**
+  State the ecosystem consequences if the problem is not solved.
+
+* **solution_shape:**
+  Describe *types of solutions*, not specific implementations.
+
+* **positive_signals:**
+  4–7 short phrases that a relevant project might naturally mention.
+  These improve semantic matching for embeddings.
+
+* **measurement_rubric:**
+  Provide a clear 1–5 scale:
+
+  * 1 = very weak or tangential alignment
+  * 5 = strong, direct, systemic alignment
+
+---
+
+## **FINAL OUTPUT FORMAT**
+
+Your final answer must be a **JSON array** structured like this:
+
+```json
+{
+  "problems": [
+    { ...problem_1_json... },
+    { ...problem_2_json... },
+    { ...problem_3_json... },
+    { ...problem_4_json... },
+    { ...problem_5_json... }
+  ]
+}
+```
+
+

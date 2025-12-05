@@ -1,0 +1,382 @@
+{
+  "summary": {
+    "total_projects": 22,
+    "folder": "interop"
+  },
+  "results": [
+    {
+      "folder": "interop",
+      "project": "Beacon Labs",
+      "project_file": "Beacon Labs.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "interop_06",
+        "name": "Coordination Barriers for Builders and Funders",
+        "score": 5
+      },
+      "primary_score": 4,
+      "secondary_score": 5
+    },
+    {
+      "folder": "interop",
+      "project": "Open Source Observer",
+      "project_file": "Open Source Observer.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_06",
+        "name": "Coordination Barriers for Builders and Funders",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "interop",
+      "project": "Ethereum Attestation Service",
+      "project_file": "Ethereum Attestation Service.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "interop_01",
+        "name": "Fragmented Multi-Chain Visibility",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "interop",
+      "project": "DIP.box: Decentralized Innovation workspace",
+      "project_file": "DIP.box: Decentralized Innovation workspace.txt",
+      "primary_problem": {
+        "problem_id": "interop_06",
+        "name": "Coordination Barriers for Builders and Funders",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_02",
+        "name": "Lack of Shared Interop Standards",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "interop",
+      "project": "Unlock Protocol - Certification boost with EAS",
+      "project_file": "Unlock Protocol - Certification boost with EAS.txt",
+      "primary_problem": {
+        "problem_id": "interop_02",
+        "name": "Lack of Shared Interop Standards",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "interop_06",
+        "name": "Coordination Barriers for Builders and Funders",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "interop",
+      "project": "eth.limo",
+      "project_file": "eth.limo.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "interop_06",
+        "name": "Coordination Barriers for Builders and Funders",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "interop",
+      "project": "Astral",
+      "project_file": "Astral.txt",
+      "primary_problem": {
+        "problem_id": "interop_01",
+        "name": "Fragmented Multi-Chain Visibility",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_02",
+        "name": "Lack of Shared Interop Standards",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "interop",
+      "project": "EAS Pulse",
+      "project_file": "EAS Pulse.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_01",
+        "name": "Fragmented Multi-Chain Visibility",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "interop",
+      "project": "Hypercerts Foundation",
+      "project_file": "Hypercerts Foundation.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_06",
+        "name": "Coordination Barriers for Builders and Funders",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "interop",
+      "project": "CARBON Copy",
+      "project_file": "CARBON Copy.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_01",
+        "name": "Fragmented Multi-Chain Visibility",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "interop",
+      "project": "DAOstar",
+      "project_file": "DAOstar.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_01",
+        "name": "Fragmented Multi-Chain Visibility",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "interop",
+      "project": "Atlantis",
+      "project_file": "Atlantis.txt",
+      "primary_problem": {
+        "problem_id": "interop_06",
+        "name": "Coordination Barriers for Builders and Funders",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 5
+      },
+      "primary_score": 4,
+      "secondary_score": 5
+    },
+    {
+      "folder": "interop",
+      "project": "Superchain Eco",
+      "project_file": "Superchain Eco.txt",
+      "primary_problem": {
+        "problem_id": "interop_01",
+        "name": "Fragmented Multi-Chain Visibility",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_02",
+        "name": "Lack of Shared Interop Standards",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "interop",
+      "project": "WebHash",
+      "project_file": "WebHash.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_01",
+        "name": "Fragmented Multi-Chain Visibility",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "interop",
+      "project": "Shutter Network",
+      "project_file": "Shutter Network.txt",
+      "primary_problem": {
+        "problem_id": "interop_04",
+        "name": "Low Adoption of Intent-Based Architectures",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "interop_06",
+        "name": "Coordination Barriers for Builders and Funders",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "interop",
+      "project": "Blockscout Open-Source Block Explorer",
+      "project_file": "Blockscout Open-Source Block Explorer.txt",
+      "primary_problem": {
+        "problem_id": "interop_01",
+        "name": "Fragmented Multi-Chain Visibility",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "interop",
+      "project": "Silvi",
+      "project_file": "Silvi.txt",
+      "primary_problem": {
+        "problem_id": "interop_02",
+        "name": "Lack of Shared Interop Standards",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "interop_04",
+        "name": "Low Adoption of Intent-Based Architectures",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "interop",
+      "project": "GainForest",
+      "project_file": "GainForest.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_01",
+        "name": "Fragmented Multi-Chain Visibility",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "interop",
+      "project": "growthepie - Understand every slice of Ethereum",
+      "project_file": "growthepie - Understand every slice of Ethereum.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_01",
+        "name": "Fragmented Multi-Chain Visibility",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "interop",
+      "project": "Shinobi Cash",
+      "project_file": "Shinobi Cash.txt",
+      "primary_problem": {
+        "problem_id": "interop_04",
+        "name": "Low Adoption of Intent-Based Architectures",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "interop_03",
+        "name": "Underdeveloped Multi-Chain Coordination Infrastructure",
+        "score": 5
+      },
+      "primary_score": 4,
+      "secondary_score": 5
+    },
+    {
+      "folder": "interop",
+      "project": "The Regen Atlas",
+      "project_file": "The Regen Atlas.txt",
+      "primary_problem": {
+        "problem_id": "interop_05",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "interop_01",
+        "name": "Fragmented Multi-Chain Visibility",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "interop",
+      "project": "Regen Claims Engine <--> Ethereum Intents Bridge",
+      "project_file": "Regen Claims Engine <--> Ethereum Intents Bridge.txt",
+      "primary_problem": {
+        "problem_id": "interop_04",
+        "name": "Low Adoption of Intent-Based Architectures",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "interop_02",
+        "name": "Lack of Shared Interop Standards",
+        "score": 5
+      },
+      "primary_score": 4,
+      "secondary_score": 5
+    }
+  ]
+}

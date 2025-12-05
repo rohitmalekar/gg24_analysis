@@ -1,0 +1,37 @@
+### Hinkal
+
+DApps
+
+Infrastructure
+
+[0xadAD53...34b75bDA](https://arbiscan.io/address/0xadAD53D27Fb1Ad8F808E1B44834E14da34b75bDA)
+
+[hinkal_protocol](https://x.com/hinkal_protocol)
+
+[https://hinkal.pro](https://hinkal.pro/)
+
+Hinkal Wallet extension and SDK enable users to maintain on-chain privacy for any asset and transaction. It's fully composable with DeFi and enables full privacy of wallet data and confidential transactions. Hinkal uses ZK proofs for sender privacy and stealth addresses for recipient privacy. It also supports opt-in TEE proving for non-performant machines.Hinkal is built with a compliance-first approach, integrating privacy-preserving ZK-TLS providers to prevent illicit use and create a secure environment for users. Hinkal's smart contract has been audited by 5 leading security firms.
+
+### IMPACT STATEMENTS
+
+-   Hinkal provides critical privacy infrastructure for DeFi, enabling users to execute on-chain strategies without exposing their sensitive financial data.
+-   Deployed across Ethereum and 4 major EVM blockchains: Arbitrum, Polygon, Optimism, and Base, with more chains on the horizon.
+-   Contributing to the broader Web3 developer ecosystem by offering an SDK that allows dApps and wallets to seamlessly integrate a full privacy layer.
+
+### CONTRIBUTIONS
+
+-   Over $250M in private transaction volume processed to date.
+-   Enabling privacy for over 1,000 users.
+-   SDK already integrated by Request Network and Omy Payments.
+
+CONTRIBUTIONS LINKS[Hinkal SDK](https://hinkal-team.gitbook.io/hinkal/developers/hinkal-sdk)
+
+### PAST GRANTS AND FUNDING
+
+SEED ROUND
+
+Other
+
+6000000
+
+USD

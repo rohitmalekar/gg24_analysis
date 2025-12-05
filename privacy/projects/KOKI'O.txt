@@ -1,0 +1,54 @@
+### KOKI'O
+
+Research
+
+DApps
+
+Infrastructure
+
+Education
+
+[0xBE5D45...4Fa60f6b](https://arbiscan.io/address/0xBE5D4567004C4838F6899a3cb46151264Fa60f6b)
+
+[kokiodotapp](https://x.com/kokiodotapp)
+
+[https://kokio.app](https://kokio.app/)
+
+[Blockchain-Powered-eSIM](https://github.com/Blockchain-Powered-eSIM)
+
+Allows users to purchase eSIMs plans and subscriptions using both crypto and FIAT, with coverage in over 200 countries through multiple eSIM partners, including special regional and global plans. The app uniquely identifies each user without collecting personal information, provides eSIMs on-the-go, with monthly billing handled by providers in FIAT. It is entirely passwordless and keyless, enabling users to pay and authenticate using biometrics. Smart contracts introduce verifiability, a feature missing in traditional telecom, which enhances interoperability for telecom operators. eSIM plans and amounts are recorded on-chain, ensuring transparency and trust. The eSIM Wallet ensures ownership of purchased plans and more, giving users a way to spend their crypto on daily necessities while also upgrading non-crypto users.
+
+### IMPACT STATEMENTS
+
+-   10 ⭐ [eSIM Contract Suite](https://github.com/Blockchain-Powered-eSIM/smart-contract-suite) - utilising smart contracts for daily necessity of mobile device users with web3 principles, designed for the users.
+-   ~100 Beta testers [KOKI'O Mobile App](https://kokio.app/) - purchase eSIM securely with privacy and anonimity.
+-   31 ⭐ [Open RSP](https://github.com/Blockchain-Powered-eSIM/OpenRSP) - for research driven innovation.
+
+### CONTRIBUTIONS
+
+> As the whole telecom and eSIM industry is a closed industry and thus researching and delivering open source work has been very difficult. We've made significant contribution in source and consumer safeguarding communities.
+
+-   [eSIM wallet smart contract suite](https://github.com/Blockchain-Powered-eSIM/smart-contract-suite) , open source innovation in eSIM industry utilising smart contracts for users to purchase eSIMs via AA smart wallets and upgrading non-crypto users on-chain via Lazy wallet.
+-   [KOKI'O mobile app](https://kokio.app/) , Mobile app to purchase eSIM via travelling without sharing any information, built for users not the providers, designed for mass adoption on-chain.
+-   [Informative wikis on eSIMs](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki) , with in depth research , for anyone who wants to know more about eSIM mobile technology , no information is biased towards any industry as the point is to educate users.
+-   [Open source remote SIM provisioning](https://github.com/Blockchain-Powered-eSIM/OpenRSP) , RnD project towards building open source components on eSIMs utilising smart contracts and modern cryptography for more control to users rather provider.
+
+CONTRIBUTIONS LINKS[Smart contracts for telco susbscription of mobile device users with web3 principles, designed for the users.](https://github.com/Blockchain-Powered-eSIM/smart-contract-suite)[Mobile app to purchase eSIM via travelling without KYC, built for users not the providers, designed for mass adoption on-chain.](https://kokio.app/)[RnD project towards building open source components on eSIMs utilising smart contracts and modern cryptography for more control to users rather provider.](https://github.com/Blockchain-Powered-eSIM/OpenRSP)
+
+### PAST GRANTS AND FUNDING
+
+PSE(PRIVACY-SCALING-EXPLORATIONS) GRANTEE (TEAM OF THREE MAR'24 - DEC'24)
+
+Other
+
+287500
+
+USD
+
+ETHINDIA GRANTEE (KOKI'O)
+
+Other
+
+3000
+
+USD

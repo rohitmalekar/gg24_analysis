@@ -1,0 +1,120 @@
+### Noir Playground
+
+Infrastructure
+
+[0xAdea33...57cd0D4d](https://arbiscan.io/address/0xAdea33469fCa95164Be08aaD4DfF7FD457cd0D4d)
+
+[andeebtceth](https://x.com/andeebtceth)
+
+<https://www.noir-playground.app/>
+
+[0xandee](https://github.com/0xandee)
+
+Noir Playground is a production-grade web application that brings zero-knowledge proof development to the browser, making ZK circuit development accessible without requiring complex local toolchain installation. Built with React + TypeScript and Monaco Editor, it provides a complete development environment for the Noir programming language with professional-grade tooling.The platform features a 5-step execution pipeline (Parse → Compile → Execute → Prove → Verify) powered by @noir-lang/noir_js and @aztec/bb.js (Barretenberg backend). It supports dual compilation modes: server-side native compilation using `nargo compile` CLI (2-5x faster, native git dependency resolution) and browser-based WASM compilation as a fallback.
+
+### Advanced Features
+
+-   Interactive DAP-based debugger with step-through execution, breakpoint management, and real-time variable/witness inspection
+-   Circuit complexity profiling with visual heatmaps showing ACIR/Brillig opcodes and gate counts per line
+-   External library support with automatic recursive dependency resolution and IndexedDB caching (95% faster subsequent loads)
+-   Dynamic input generation from function signatures with intelligent form rendering
+-   Code sharing system with Supabase integration and dynamic SEO for social media previews
+
+### IMPACT STATEMENTS
+
+1.  Democratized Zero-Knowledge Development
+
+-   No installation required --- developers can start building circuits instantly
+-   Onboarding time reduced from hours → seconds
+-   Enables workshops, hackathons, and education without complex setup
+
+1.  Visual Circuit Understanding
+
+-   Real-time profiling visualizes circuit complexity line-by-line
+-   ACIR/Brillig gate counts reveal performance hotspots for optimization
+-   Makes ZK circuit behavior intuitive and measurable
+
+1.  Streamlined Debugging Workflow
+
+-   Step-through debugging replaces print-based inspection
+-   Witness and variable inspection improve comprehension
+-   Familiar DAP-based UX reduces friction for new Noir devs
+
+1.  Fostered Ecosystem Growth
+
+-   Integrated with popular Noir libraries (poseidon, noir-bignum, etc.)
+-   Dependency caching improves developer retention and productivity
+-   MIT-licensed codebase and docs invite open-source collaboration
+
+1.  Performance & Reliability
+
+-   Dual compiler ensures performance (server) and availability (browser fallback)
+-   Server-side native compilation achieves 2--5× faster build times
+-   Production deployments verified stable under active usage
+
+### Community & Adoption
+
+Noir Playground has gained strong early traction and ecosystem validation:
+
+-   567 unique visitors since launch 2 months ago.
+
+![metrics](https://i.postimg.cc/nzM4cd2m/image.png)
+
+-   Noir Playground was selected as a Main Track Winner in [NRG#4 Developer Tools Grant](https://github.com/orgs/noir-lang/discussions/8811), receiving $30,000 USD for advancing Noir's developer tooling ecosystem from Aztec Labs.
+
+### CONTRIBUTIONS
+
+#### 1\. Complete Browser-Based ZK Development Environment
+
+-   Implemented full Noir compilation and proof generation workflow using @noir-lang/noir_js and @aztec/bb.js UltraHonkBackend
+-   Designed dual-compiler architecture supporting both server-side native compilation and browser WASM fallback
+-   Built multi-file Monaco Editor integration with custom Noir syntax highlighting and language definition
+
+#### 2\. Interactive Debugging System (DAP Protocol)
+
+-   Architected Debug Adapter Protocol (DAP) client-server integration for step-by-step circuit execution
+-   Implemented DebugContext React state management for session lifecycle, breakpoints, and variable inspection
+-   Created VSCode-style debug UI with step controls (next/stepIn/stepOut/continue), current line highlighting, and glyph margin breakpoint indicators
+-   Built NoirDebuggerService HTTP client for parallel fetching of variables, witness map, and ACIR opcodes
+
+#### 3\. Real-Time Circuit Complexity Profiling
+
+-   Developed MetricsAggregationService for processing SVG profiler output into normalized heat values (0-1 scale)
+-   Implemented HeatmapDecorationService managing Monaco editor inline badges, background highlights, and gradient color application
+-   Created interactive hotspot navigator with click-to-jump functionality for high-complexity line identification
+-   Engineered debounced analysis pipeline (1-second delay) with caching for non-blocking UI updates
+
+#### 4\. External Library Dependency System
+
+-   Built DependencyResolverService with recursive git dependency resolution supporting transitive dependencies
+-   Implemented DependencyCacheService using IndexedDB with LRU eviction (50MB limit, version-keyed storage)
+-   Created GitHub API integration layer for fetching library files from public repositories
+-   Designed TOML rewriting system converting git dependencies to path dependencies for noir_wasm compatibility
+
+#### 5\. Unified Server Backend
+
+Repository: [noir-playground-server](https://github.com/0xandee/noir-playground-server)
+
+-   Architected NestJS REST API providing three core services: compilation, profiling, and debugging
+-   Implemented NoirServerCompiler with native `nargo compile` execution and automatic git operations
+-   Built DAP server handling debug session management, stepping commands, and state inspection
+-   Created Docker deployment with pre-built noir-profiler CLI and Barretenberg binaries
+
+#### 6\. Production-Ready Infrastructure
+
+-   Configured Vite WASM support with custom middleware routing and cross-origin isolation headers (CORP/COOP)
+-   Implemented code sharing system with Supabase integration and dynamic SEO meta tag generation for social media crawlers
+-   Built serverless functions (Vercel/Netlify) for bot detection and dynamic HTML serving
+-   Set up automated sitemap generation, Vercel Analytics integration, and responsive UI with mobile warnings
+
+CONTRIBUTIONS LINKS[Application link](https://noir-playground.app/)[Frontend Repository](https://github.com/0xandee/noir-playground)[Backend Repository](https://github.com/0xandee/noir-playground-server)
+
+### PAST GRANTS AND FUNDING
+
+NRG#4 DEVELOPER TOOLS GRANT
+
+Other
+
+30000
+
+USD

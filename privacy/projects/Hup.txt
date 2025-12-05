@@ -1,0 +1,25 @@
+### Hup
+
+Infrastructure
+
+DApps
+
+[0x20e229...4ec2C50e](https://arbiscan.io/address/0x20e229667Cec8A0e9D3C6Fb89693B2a44ec2C50e)
+
+[hupsocial](https://x.com/hupsocial)
+
+[https://hup.social](https://hup.social/)
+
+[web3senior](https://github.com/web3senior)
+
+Project Description: Hup (Modular Privacy Layer for Decentralized Social)Hup is a decentralized social protocol building the core infrastructure for true digital sovereignty, designed to operate entirely free from Big Tech servers. Hup ensures that users maintain full control and portability over their posts, allowing seamless movement across platforms with zero downtime. While the core posting mechanism is immutable and transparent (to guarantee censorship resistance), we recognize that true user autonomy requires privacy for sensitive on-chain actions.Privacy-Preserving Element: Zero-Knowledge Poll Voting (pollZKP)We have integrated a custom-built ZK Proof module (pollZKP) to address the privacy gap in on-chain signaling. This module allows users to:Prove Eligibility: A voter proves they are a valid participant (e.g., they hold a specific NFT or have the required token balance) without revealing which wallet they are.Private Tally: The vote is submitted as a zero-knowledge proof, ensuring that the final tally is publicly verifiable, but the link between the voter's address and their choice is cryptographically concealed on-chain.This feature is immediately applicable to private governance, DAO signaling, and sensitive community decisions, fulfilling the grant's goal of funding private voting infrastructure.Future Development and Expansion PlansThe grant funding will be used to finalize the pollZKP module, commission a full security audit of the cryptography, and integrate ZKP functionality across other sensitive features, including:Private Membership Verification: Proving you are a member of a community without revealing your membership ID.Encrypted, Uncensorable Messaging: Implementing end-to-end encrypted messaging that cannot be shut down or censored, providing a fully private communication layer.Cross-Chain Privacy Modules: Adapting pollZKP to function seamlessly across Hup's planned multi-chain Constellation architecture.
+
+### IMPACT STATEMENTS
+
+The impact of Hup is twofold:1- Digital Sovereignty & Resilience: By guaranteeing that user posts are permanent digital assets controlled by the user and not Big Tech, Hup fundamentally solves the problem of arbitrary censorship and content deletion. This creates a highly resilient public record essential for free expression.2- Protecting Autonomy in Governance: The pollZKP module directly addresses a major vulnerability in decentralized voting: the risk of voter coercion and targeted backlash due to public exposure. By providing verifiable anonymity for sensitive signaling, we increase the legitimacy of DAO governance, ensure votes reflect genuine user will, and safeguard the personal and economic freedom of our community members. Our planned future for encrypted, uncensorable messaging will further expand this privacy impact to all digital communication.
+
+### CONTRIBUTIONS
+
+Hup is building the first truly immutable, on-chain social data layer, guaranteeing digital sovereignty by moving core user content and network data off centralized servers and onto the blockchain.Our core technical contribution is a fully modular and extensible smart contract architecture that enables rapid feature integration. For this grant round, our specific contribution is the pollZKP module. This module utilizes Zero-Knowledge Proofs (ZKPs) to:1- Grant Private Voting: Allow any user to submit a verifiable vote in an on-chain poll while cryptographically concealing their voter identity from the public ledger.2- Ensure Integrity: The ZKP ensures that only eligible parties can vote, and the final tally is publicly auditable, but the link between the address and the choice remains anonymous.This contribution delivers robust, decentralized social infrastructure (Hup Core) with critical privacy features (pollZKP) needed for true autonomy in Web3.
+
+CONTRIBUTIONS LINKS[Hup GitHub Repo](https://github.com/web3senior/hupsocial)[Poll ZKP contract](https://github.com/web3senior/hupsocial/blob/main/src/contracts/Poll/PollZKP.sol)[Verified contract address on LUKSO network](https://explorer.execution.testnet.lukso.network/address/0xBA65F9C271463FA1eB9F8Fda5AB1aFc7ed4Ac845?tab=contract)

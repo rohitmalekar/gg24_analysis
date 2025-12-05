@@ -1,0 +1,66 @@
+ETH.LIMO is a privacy-preserving ENS gateway, enabling users to access Ethereum-native dApps and content. LIMO represents a shift in dweb adoption by providing an alternative means of accessing ENS resolvable domains.
+
+
+
+
+
+
+
+The eth.limo gateway is the default resolver for app.ens.domains and numerous other ENS projects. We are actively engaged in partnerships with WYSIWYG editors, as well as blogging and CMS platforms (among others) in an effort to support the needs of small teams and individual creators. The eth.limo team strongly believes that a rising tide lifts all ships, which is why we actively work to partner with and engage other ENS ecosystem projects.
+
+
+
+The LIMO project is organized around the following founding principles:
+
+Operate ETH.LIMO (gateway, DoH resolver, DNS resolver) as a public good.
+Provide support and technical guidance for builders and users.
+Work towards building a truly decentralized ENS/IPFS gateway service and global CDN.
+Build a world-class developer platform for dWebsites, including integrated analytics reporting and traffic management deployment tooling for commonly used web2 patterns.
+Develop and support DNS standards for ENS integrations.
+A commitment to open source software and the advancement of web3 through education, best practices, evangelism, and public accessibility.
+Ecosystem alignment to better collaborate and serve innovative projects.
+
+
+Past experience working on ENS:
+
+Since September 2021, we have been responsible for the maintenance, operation, and ongoing development of the eth.limo gateway.
+
+We’ve dedicated efforts to enhance the performance and reliability of our service, incorporating new features based on valuable feedback from the community.
+
+
+
+
+
+CCIP-read support: This has been enabled for the eth.limo resolver since July 2022. The current implementation leverages ethers.js to automatically query resolver contracts for CCIP gateways (if configured) and perform off-chain retrieval of the ENS record contenthash (https://offchainexample.eth.limo)
+Automated, on-demand certificates for ENS subdomains
+IPFS peering with all major content providers (Fleek, Web3 Storage, Cloudflare, etc…).
+Accelerated DHT (Distributed Hash Table) support for IPFS. This results in faster retrieval times and a better user experience.
+DNS over HTTPS (DoH) resolver. We now offer an easy to use DNS resolver for ENS domains. The DoH resolver can be integrated with applications for native ENS resolution, or even your browser! We feature both JSON and DNS wire format responses with DNSLink support.
+Support for Swarm and Arweave Contenthashes
+Support for Emoji and Unicode Domains
+HTTP Object Caching
+Base32 and Base36 Encoding for IPFS/IPNS - We have updated both the eth.limo gateway and our DNS over HTTPS service to explicitly use Base32 encoding for IPFS CIDs and Base36 for IPNS peer IDs.
+.art name resolution support
+Reduced caching TTLs and synchronous cache expiry
+General performance/stability/availability/security improvements
+
+
+☑️LIMO takes public gateway services a step further by enforcing strong privacy guarantees such as never logging IP addresses or engaging in TCP fingerprinting. Limo now actively blocks FLoC (Federated Learning of Cohorts). This is a Google developed algorithm that tracks and correlates users based on their browsing history. FLoC enables advanced fingerprinting capabilities and greatly undermines online privacy and anonymity.
+
+Milestones (4-6 months)
+
+"""Existing operational capabilities and associated costs (eth.limo/eth.link/gno.limo).
+Personnel and consultants (including on-call support).
+Infrastructure scaling/new deployments.
+Unforeseen and unexpected costs from “known-unknowns”.
+Continued integrations and broader contentHash codec handling.
+Responding to and mitigating abusive content.
+Providing support for both end users and developers.
+Continued performance and resiliency optimizations.
+Continued development and operational work on “trustless”, client-side ENS and IPFS content verification service workers.
+Ad-hoc development based on user/community requests and feedback (new integrations, tools, services, etc…).
+Introduction of real-time ENS dWebsite monitoring via LLM"""
+
+Please example how your project meets the round-specific eligibility criteria.
+
+eth.limo provides CCIP-read support: This has been enabled for the eth.limo resolver since July 2022. The current implementation leverages ethers.js to automatically query resolver contracts for CCIP gateways (if configured) and perform off-chain retrieval of the ENS record contenthash (https://offchainexample.eth.limo)

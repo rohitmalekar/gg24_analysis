@@ -1,0 +1,30 @@
+### Mirage
+
+DApps
+
+Infrastructure
+
+[0x40e0B6...831810a0](https://arbiscan.io/address/0x40e0B656D94cD0A01A3978897D14dEA5831810a0)
+
+[mirageprivacy](https://x.com/mirageprivacy)
+
+[https://mirageprivacy.com](https://mirageprivacy.com/)
+
+[MiragePrivacy](https://github.com/MiragePrivacy)
+
+We're building Mirage because we believe the best privacy solution is one that people actually use. No matter how sophisticated a technology is, if no one adopts it, it might as well not exist.We're tackling privacy from a user-first perspective, prioritizing three critical elements:Undetectable Usage: No one should know you used a privacy solution in the first place. Your transaction appears indistinguishable from any other on-chain activity.Speed: Stablecoin transactions complete in under 90 seconds on mainnet. Privacy shouldn't mean waiting hours or days for your funds to clear.User Experience: Send a private transfer in a single transaction. No complicated multi-step processes or technical expertise required.For the next generation of crypto users, privacy is essential. No business or individual wants to expose their entire financial history to the world. Yet current solutions fall short:
+
+-   Pool-based designs and mixers don't scale. They're expensive, slow, and force users to associate their funds with unknown actors.
+-   Existing privacy tools create stigma. The moment a user interacts with current privacy solutions, their address gets tagged, limiting their ability to interact freely with other protocols.
+
+This approach won't onboard the next million users. We need something better.The SolutionSimple, fast, affordable one-transaction private stablecoin transfers. That's what we're building with Mirage, a privacy solution designed for mainstream adoption, not just crypto natives.
+
+### IMPACT STATEMENTS
+
+Making privacy accessible to mainstream users. Our impact will be measured by the number of users who transact with stablecoins for the first time and don't even realize they're public by default because Mirage has seamlessly made them private. By removing the barriers that prevent people from using privacy tools today, we're creating the foundation for mass adoption of private transactions on Ethereum.
+
+### CONTRIBUTIONS
+
+We're a team of three engineers who have developed a fundamentally different approach to on-chain privacy. Unlike pool-based systems, our design has each user deploy a small, unique escrow while a node processes transactions upfront, eliminating the need for shared pools and their associated risks. Currently in private beta on testnet with a planned 2026 mainnet launch. Our core protocol is complete and operational.
+
+CONTRIBUTIONS LINKS[GitHub](https://github.com/mirageprivacy)[Docs](https://docs.mirageprivacy.com/)

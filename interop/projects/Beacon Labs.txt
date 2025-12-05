@@ -1,0 +1,17 @@
+Beacon Labs (prev Fracton Research) is an R&D institution for a positive sum world through exploring inclusive coordination design. We will bring plural funding mechanisms reflected plural values into a public goods space. We enable funding based on diverse value systems through a statistical approach. Current public goods funding makes a decision based on a single value framework, even though public goods has different outcomes which they would like to achieve. We envision a future where each public good receives funding optimized for its own unique goals, and we aim to build protocols that support Ethereum to thrive sustainably.
+
+
+
+We reflect the diversity of values they embody through evaluating and measuring the impact of public goods and funding mechanisms. While impact evaluation / measurement has been developed in recent years, most progress has focused on measuring the impact of OSS(open-source software). In contrast, there is a lack of evaluating non-technical activities such as educational influence and contributions to local communities. We envision a future where public goods can grow sustainably toward their respective goals by using outcome metrics tailored to each project.
+
+
+
+By pursuing funding mechanisms that reflect plural values and provide a greater sense of fairness and legitimacy, we bring new light to the Ethereum ecosystem. Let’s build for a positive-sum world together.
+
+Milestones (4-6 months)
+
+MUSE will reshape how digital public goods are planned and funded across Ethereum. By integrating with Hypercerts, OSO, and Eval.Science, MUSE becomes an open-source evidence layer for evidence communication, transforming research into reusable evidence cards and rigorous logic models. This shifts attention from retrospective output checks to planning-stage clarity, improving funding efficiency and helping stewards of programs like Retro Funding allocate resources toward projects with verifiable pathways to impact. MUSE also advances plurality and trust by combining evidence-based practice with democratic, community-defined values, ensuring decisions reflect each project’s unique mission beyond open-source software alone. Finally, MUSE enables evidence-based pre-funding, allowing credible projects to secure capital before execution while still accessing outcome-based support afterward—creating a balanced, ustainable funding cycle for digital public goods.
+
+Please example how your project meets the round-specific eligibility criteria.
+
+MUSE meets both "Data Analytics Platforms/Tools” and “User Experience & Access (Voting/Governance Mechanisms)". It is an "Evidence Layer" for digital public goods, including Ethereum. While funding models like Giveth, Gitcoin, Quadratic Funding, Retro Funding, and Protocol Guild support public goods, project goals vary more than funding methods. MUSE helps stakeholders—especially communities—reach persuasive consensus on which projects are meaningful. As an evidence-based practice (EBP) support system tailored to digital public goods, MUSE uses scientific evidence to inform OSS development and grant program design, fostering acceptance across differing values and improving fairness. By offering evidence-based evaluation criteria that are distinct from arbitrary judgments or purely democratic decision-making, MUSE provides a scientific basis for decisions, complementing both builder and funder environments across the digital public goods ecosystem.

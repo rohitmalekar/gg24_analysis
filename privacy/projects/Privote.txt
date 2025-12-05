@@ -1,0 +1,54 @@
+### Privote
+
+DApps
+
+Infrastructure
+
+[0xEA96B3...89655b8D](https://arbiscan.io/address/0xEA96B32c78Afbd1b01C3346f2C42cc2d89655b8D)
+
+[privoteweb3](https://x.com/privoteweb3)
+
+[https://privote.live](https://privote.live/)
+
+[privote-project](https://github.com/privote-project)
+
+Privote is an open-source protocol and dApp designed to solve a critical flaw at the heart of on-chain voting: the lack of privacy. While blockchain technology provides an invaluable, trustless foundation for governance, its inherent public nature creates significant vulnerabilities. Every vote is exposed, which enables coercion, bribery, and social pressure, fundamentally undermining the integrity of decentralized systems. Privote is architected to fix this.Our solution is built on the powerful MACI (Minimal Anti-Collusion Infrastructure) protocol, which allows us to provide robust cryptographic guarantees of vote privacy. With Privote, individual choices remain completely secret and encrypted, while the final, mathematically verifiable tally is published on-chain for all to audit. This model delivers the best of both worlds: the verifiable trust of the blockchain and the essential protection of user privacy.However, our core focus extends beyond just security; it is about delivering a seamless user experience that abstracts away all underlying complexity. We believe privacy tools must be simple to use to be effective. With Privote, anyone can create a decentralized, private, on-chain poll in just a few clicks. We have integrated a wide variety of gatekeepers directly into the UI, allowing creators to easily restrict participation based on:
+
+-   Anon Aadhaar
+-   NFT ownership
+-   Governance token holdings
+-   Gitcoin Passport
+-   Ethereum Attestation Service (EAS)
+-   Simple whitelists, etc
+
+Looking ahead, we are also planning to integrate Web2-style gatekeepers, likely using zk-email. This will enable novel use-cases, allowing communities to create private on-chain polls for anyone with a specific email domain, attendees of a Luma event, and more, further bridging the gap between Web2 and Web3.This versatility, combined with features like gasless transactions and wallet-less onboarding via Porto, provides a truly frictionless experience. We are committed to making private voting not just possible, but accessible to everyone, regardless of their technical expertise.Privote is a general-purpose, EVM-compatible protocol, designed to be a public good for the entire ecosystem. Our goal is to become the default infrastructure for any form of on-chain voting, from community grant rounds to large-scale DAO governance. Our north star is to hold actual elections on Privote some day.
+
+### IMPACT STATEMENTS
+
+Our impact is demonstrated through direct, real-world adoption and by empowering communities to conduct fair and private governance and funding.
+
+1.  Powering the Gitcoin Grants 24 Privacy Round: Our most significant impact is being the chosen platform to host the very round we are applying to. We are facilitating a $150,000+ matching pool for dozens of privacy-focused projects. This demonstrates the highest level of trust from the ecosystem and showcases our ability to handle a large-scale, high-stakes event securely and efficiently.
+2.  Empowering Grassroots Events (Stack Too Deep Hackathon): We successfully collaborated with IIT Roorkee BlocSoc to host a private Quadratic Voting round for their flagship hackathon, "Stack Too Deep." This validated the demand for a simple, self-serve tool for smaller, community-run events and proved our platform's versatility.
+3.  Making Privacy Practical: Our primary impact is moving private voting from a theoretical cryptographic concept to a practical, easy-to-use tool. By abstracting the complexity, we are enabling communities of all sizes to run collusion-resistant funding rounds and secure governance votes, strengthening the fairness and integrity of the entire ecosystem.
+
+### CONTRIBUTIONS
+
+Privote is a fully open-source public good, and our contributions are structured to maximize trustlessness and accessibility for the community. Our work is primarily divided into following:-
+
+1.  The Privote Protocol ([Smart Contracts](https://github.com/PriVote-Project/privote-contracts)): We have developed a robust and modular set of smart contracts that abstract away the complexities of the underlying MACI infrastructure. This repository is a contribution in itself, allowing any developer or project to integrate private voting directly. Crucially, users can interact with these contracts on-chain without ever touching our frontend, fulfilling the trustless and decentralized ethos of Web3. This ensures the protocol is a credibly neutral piece of infrastructure, not just a centralized service.
+2.  The Privote dApp: On top of our open-source contracts, we have built an intuitive frontend that serves as the primary gateway for users. This application is our contribution to making private voting accessible to non-technical users. It integrates various gatekeepers (like Gitcoin Passport), abstracts away gas fees, and provides a simple, clean interface for creating polls, applying for funding rounds, and voting.
+3.  Dockerized MACI Infrastructure: To further lower the barrier to entry for running the MACI backend, we've created a [Docker implementation](https://github.com/PriVote-Project/maci-docker). This allows developers and organizations to easily run the entire MACI infrastructure in containers, abstracting away device-specific dependencies and simplifying setup. and a lot more open-sourced utilities available in our github for everyone to use.
+
+By contributing a core protocol, a user-friendly frontend, and simplified infrastructure tooling, we are providing a complete, end-to-end solution for private voting that serves developers, DAOs, and the entire community.
+
+CONTRIBUTIONS LINKS[Privote Contracts](https://github.com/PriVote-Project/privote-contracts)[Privote Frontend](https://github.com/PriVote-Project/privote-frontend)[Maci-docker](https://github.com/PriVote-Project/maci-docker)[Privote Coordinator](https://github.com/PriVote-Project/privote-coordinator)
+
+### PAST GRANTS AND FUNDING
+
+GRANT
+
+Other
+
+30000
+
+USD

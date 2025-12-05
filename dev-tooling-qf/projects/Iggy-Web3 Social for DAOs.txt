@@ -1,0 +1,41 @@
+Iggy is a free, open-source Web3 framework for easily creating social apps for communities, featuring optional plugins like a token swap, NFT launchpad, and more.
+
+Think of Iggy as “ Wordpress for Web3 Social ”. A web3 framework that lets you easily set up a Web3 Social app for your community.
+
+Open Source and Free
+
+Iggy is completely free to use! The code is open source and available on GitHub:
+
+- Frontend code: https://github.com/iggy-social/iggy-social-frontend
+- Smart contracts: https://github.com/iggy-social/iggy-contracts
+-
+
+The Iggy framework includes many useful plugins that go beyond just a social app, such as a token swap module, NFT launchpad module, Send Tokens module, etc.
+
+These modules are all optional and developers can decide on their own which ones to use (or even develop new ones).
+
+Where is it used
+
+Some of the communities that use the Iggy framework are the Degen token community, Songbird & Flare community, Mode Network community, BasePunk NFT community, Superposition community, etc.
+
+Here are a few of them:
+
+- FLR Chat (web3 community chat): https://flr.chat/
+
+- NFT Degen (social NFT launchpad): https://nftdegen.lol/
+
+- Degen Radio (social music playlists): https://degenradio.lol/
+
+- MeowNFTs (social NFT launchpad): https://meownfts.com/
+
+Impact
+
+The impact of Iggy as a low-code web3 framework is to save developers a ton of time launching a Web3 Social site for any DAO or web3 community.
+
+From our experience so far, developers are loving this tool, and we expect the usage of Iggy to grow much more in the near future.
+
+- GitHub Organization: https://github.com/iggy-social
+
+Use of funds
+
+At Iggy Social, we're a motivated team with ambitious goals. Without any VC funding, we've been relying on grants to fund our growth.

@@ -1,0 +1,42 @@
+Unlock Protocol has built momentum as an open standard for onchain memberships and certifications, with smart contracts, UIs, and SDKs serving 1000+ creators. This project bridges Unlock with Ethereum Attestation Service (EAS) to unlock powerful new capabilities.
+
+The Problem Current Unlock certificates are generic - every student receives identical NFTs with the same title, image, and course data. There's no way to include student-specific information like grades, thesis names, achievements, or personalized credentials. This limits real-world adoption for educational institutions, course platforms, and professional certifications.
+
+Our Solution Integrate EAS attestations with Unlock Protocol to enable:
+
+Personalized certificates: Student names, grades, completion times, achievements
+Verifiable credentials: Off-chain generation, on-chain verification via EAS
+Privacy controls: Opt-in/opt-out for student data
+Enhanced design: Professional certificate templates (GitHub issue #16197)
+Interoperability Impact This bridges two key Ethereum standards (Unlock + EAS), creating composable credentials that work across platforms. Educational institutions can issue tamper-proof certificates; students can prove achievements across DAOs, job platforms, and Web3 communities.
+
+Deliverables: Smart contract integration, certificate UI system, privacy features, documentation - all open-source contributions to Unlock Protocol.
+
+
+Milestones (4-6 months)
+
+"""I expect to have this project delivered within 3 to 4 weeks maximum. By this time, the project will:
+- have upgraded the Unlock contracts to enable EAS
+- have produced the UIs necessary to create and verify attestations  created by Unlock contracts
+- have front-end and backend tests"""
+
+Please example how your project meets the round-specific eligibility criteria.
+
+"""Open Source & Public Good
+This project will be released under MIT license and contributed directly to the Unlock Protocol GitHub repository ( including issue #16197). All code, documentation, and certificate schemas will be publicly accessible and serve the Ethereum ecosystem as a public good.
+Domain Alignment: Ethereum Interoperability Standards
+This project directly advances interoperability by bridging two key Ethereum standards:
+-Unlock Protocol (membership/certification standard)
+-EAS - Ethereum Attestation Service (attestation standard)
+By integrating these standards, this project enables composable credentials that work across platforms - educational institutions, DAOs, course platforms, and professional certification systems can all leverage the same verifiable credential infrastructure.
+Proven Activity & Impact
+- Working with established protocol: Unlock Protocol has 1000+ active creators and deployed smart contracts with measurable on-chain activity
+- Official DAO support: Claimed GitHub issue #16197 with endorsement from Unlock DAO core members
+- Clear implementation plan: Building on existing Unlock infrastructure, not starting from concept stage
+Transparent Reporting & Data
+Committed to:
+- Regular progress updates via GitHub issue #16197
+- Open-source code contributions to Unlock Protocol repository
+- Public documentation of EAS attestation schemas
+-Progress reporting for GG24 retro funding round (~4 months)
+This project strengthens Ethereum's multi-chain ecosystem by making verifiable credentials portable, privacy-respecting, and composable across applications."""

@@ -1,0 +1,23 @@
+Who?
+
+Unlock Protocol was founded in 2018 by Julien Genestoux and has consistently decentralized the project, specifically its ownership. In 2024, the community started to take over operations in incremental steps led by former Lead Steward Stella Achenbach. Since 2025, a full Steward Council has been established, and several global contributors have helped to build and maintain the protocol. Every decision about the protocol is made through onchain peer governance by $UP token holders to ensure the democratization of the protocol's core technology.
+
+What?
+
+Unlock Protocol is an open-source toolset available on 14 EVM-compatible blockchains. It allows anyone, regardless of coding background, to create, deploy, and manage smart contracts (updateable ERC-721 and time-limited variants) for memberships, certifications, event ticketing, recurring payments, and whatever else users can imagine.
+
+Why?
+
+The protocol exists to lower the barriers for decentralized, programmable access and participation. It empowers communities and builders with tools for onchain engagement, automation, and experimentation, making it easier to create custom logic for digital passes, paywalled content, and verified credentials.
+
+Where?
+
+Unlock Protocol is deployed across major EVM networks, including Ethereum, Polygon, Arbitrum, Optimism, and more, ensuring wide interoperability and access for global users and developers. The protocol also allows for cross-chain payments to ease user interaction.
+
+How?
+
+Unlock features open-source contracts, an accessible Locksmith API, and a developer SDK that simplify integration and development. These allow rapid prototyping and scaling, whether developers are building full platforms (their own startup ideas) or automating workflows. The documentation and monorepo support seamless implementation with popular front-end and back-end environments.
+
+When?
+
+Unlock Protocol is live for immediate use, continually evolving with active governance, feature contributions, and retroactive rewards for ecosystem builders. New integrations and tooling enhancements are regularly added thanks to active community stewardship.

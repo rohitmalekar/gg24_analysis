@@ -1,0 +1,59 @@
+### Invisible Garden
+
+Research
+
+Education
+
+[0x6E6557...1289e1BF](https://arbiscan.io/address/0x6E6557458E7861161Db728f0B4D9c69B1289e1BF)
+
+[invisiblgarden](https://x.com/invisiblgarden)
+
+<https://invisible.garden/>
+
+[invisible-garden](https://github.com/invisible-garden)
+
+Invisible Garden is a nonprofit dev city bringing together builders, researchers, and developers exploring Ethereum, Zero-Knowledge, AI, and cybersecurity. Through immersive workshops, mentorship, and collaborative labs, it cultivates an environment where technical depth meets creative exploration --- a space to prototype public goods, open protocols, and new forms of digital trust.Our first edition in Chiang Mai (2024) gathered over 80 on-site developers from 15+ countries, for six weeks with free accommodation, participating in 83 workshops led by +40 top-tier mentors from the Ethereum Foundation, PSE, and other top organizations. From 34 submitted projects, 22 fully open-source projects graduated, ranging from ZK biometric authentication to lattice-based encryption frameworks. This success gave rise to a vibrant alumni network now active across the globe --- a growing ecosystem of builders and mentors carrying Invisible Garden's spirit forward into each new edition, including our upcoming Buenos Aires (Oct 27 -- Nov 16, 2025) chapter.
+
+### IMPACT STATEMENTS
+
+The first edition of Invisible Garden in Chiang Mai (2024) generated measurable impact across technical learning, open-source development, and community building. Out of 830 applicants, 160 developers were accepted, and 80 participated on-site, with 76 graduating and 22 becoming fellows. Participants originated from over 15 countries, representing one of the most diverse early-stage builder cohorts in the Ethereum ecosystem. Across 83 workshops led by 40+ mentors from the Ethereum Foundation, PSE, and other leading organizations, participants produced 34 open-source projects, 22 of which graduated after technical review and mentorship.These projects covered advanced domains such as Zero-Knowledge Proofs, lattice-based encryption, and privacy-preserving authentication, with several now continuing development across public repos. Alumni report ongoing collaboration through an expanding global network of builders and mentors, many of whom have since joined ecosystem organizations, contributed to new research tracks, or co-led educational efforts in their regions.The program also reached beyond technical outputs: it generated 82 hours of freely-accesible recorded lectures, hundreds of cross-regional connections, and visible community engagement through social channels and public showcases. Its long-term impact lies in creating a replicable model for decentralized technical education --- one that strengthens Ethereum's human infrastructure and expands the reach of open innovation into new regions like Latin America, beginning with Buenos Aires 2025 prior to Devconnect.
+
+### CONTRIBUTIONS
+
+Invisible Garden contributes a new model for decentralized technical education --- one that merges Ethereum's open-source ethos with rigorous learning, creative exploration, and collective living. It was designed to fill a gap between short hackathons and traditional accelerators: creating a dev city where builders not only ship projects but also internalize the cultural and philosophical foundations of the ecosystem. Through this model, Invisible Garden redefines what it means to "build in public," fostering deep mentorship loops, cross-disciplinary exchange, and a rhythm of learning that mirrors open collaboration on-chain.The program introduces a holistic pedagogy for the Ethereum community, emphasizing not only protocol-level skills but also communication, math fundamentals for ZK, and design for privacy. Each workshop, lecture, and mentor interaction is embedded within a shared environment that values mutual aid, curiosity, and peer learning --- a living network of knowledge transmission. By structuring its education around collective immersion, Invisible Garden transforms learning into a participatory act of ecosystem-building, rather than a transactional one.Invisible Garden also contributes a scalable framework for ecosystem alignment: sponsors and mentors propose challenge areas connected to real-world infrastructure needs, while developers work openly to produce public goods and research artifacts. This creates a natural feedback loop between industry, academia, and grassroots innovation --- strengthening Ethereum's capacity to evolve in ways that remain grounded, transparent, and socially aware.Finally, Invisible Garden contributes to the social architecture of Ethereum: it acts as a connective tissue between regions, disciplines, and generations of builders. The relationships and alumni networks emerging from the program form durable bridges that help local ecosystems integrate into global ones, ensuring that the next wave of protocol builders, privacy researchers, and creative technologists inherit not just tools --- but the values that sustain them.
+
+CONTRIBUTIONS LINKS[Chiang Mai 2024: All Projects](https://github.com/invisible-garden/cm24-projects)[Chiang Mai 2024: Graduated Projects](https://invisible.garden/cm24-graduated-projects)[Invisible Garden Chiang Mai Dev City Lecture Series](https://www.youtube.com/@Invisible_Garden/playlists)[Chiang Mai 2024: Recap](https://invisible.garden/chiang-mai-recap)[Invisible Garden Fellows](https://invisible.garden/fellows)
+
+### PAST GRANTS AND FUNDING
+
+ZUZALU QUADRATIC FUNDING ROUND (CHIANG MAI '24)
+
+Governance Fund
+
+14000
+
+USD
+
+ANONYMOUS DONOR (BUENOS AIRES '25)
+
+Other
+
+15000
+
+USD
+
+ALTLAYER SPONSORSHIP (BUENOS AIRES '25)
+
+Other
+
+10000
+
+USD
+
+ETHEREUM SUPPORT PROGRAM
+
+Other
+
+20000
+
+USD

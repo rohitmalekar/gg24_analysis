@@ -1,0 +1,7 @@
+Human Passport is an identity verification application and Sybil resistance protocol. It enables users to collect verifiable credentials, or Stamps, that prove their identity and trustworthiness without exposing personally identifying information. Apps and organizations can then utilize Passport to protect their community and projects from Sybil attacks and other bad actors.
+
+Passport makes multiple different verification methods available for developers. The public-facing Stamp-based method enables developers to access the Stamp-based score and Stamp data to see if a user was able to build up enough evidence using our verifiable credentials to prove their humanity.
+
+A more recent development on the Passport front has made available new supervised machine learning models that can score how likely a user is to be a unique human or Sybil by comparing their transaction history to a database of known humans and Sybils. This method can score any address that has ample transaction history, and help developers and integrators identify which accounts to prioritize without requiring any effort from those accounts. As of July 2024, models have been developed for ETH (L1), NFTs, and several L2s including Arbitrum.
+
+Passport is also committed to onchain builders. Users can push their Passport score and Stamp data onchain to a number of different L2s, including Arbitrum. Developers can then access this data using the Passport smart contracts, and protect access to their programs, completely onchain.

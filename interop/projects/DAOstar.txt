@@ -1,0 +1,55 @@
+TL;DR
+
+
+DAOstar (https://daostar.org/) is a non-profit championing interoperable standards (“DAOIPs”), vital public infrastructure, and collaborative research for DAOs. 
+
+
+
+We’ve previously supported the DAO ecosystem by creating and promoting the adoption of EIP-4824 (DAOIP-2), which set the stage for onchain storage of DAO metadata, as well as DAOIP-5, the leading open data schema for Web3 grants. 
+
+
+
+Our latest project, OpenGrants, built on top of DAOIP-5, aims to improve the utility, composability, and transparency of Web3 funding data. We've recently released the OpenGrants gateway API and ecosystem funding dashboard providing cross-program analytics.
+
+
+
+Our Current Focus
+
+
+Making Web3 Grant Programs More Transparent and Interoperable
+
+
+
+OpenGrants is open data infrastructure powered by structured metadata from the DAOIP-5 standard and supported by a robust data lake hosted by Open Source Observer (OSO). 
+
+
+
+The value proposition is built on three pillars:
+
+
+
+Unified, Verifiable Data - Common metadata fields across leading platforms, creating structured, interoperable records that can be trusted and consumed anywhere.
+Accessibility and Composability - A continually updated, open source data warehouse of grant activity across Web3, and a gateway API that offers access to this aggregated data to researchers, funders, and builders alike.
+Analytics & Reporting - Dashboards, benchmarks, and that reveal funding patterns, flag potential risks, and highlight impact across the ecosystem.
+
+
+How Will Your Support Transform Our Journey?
+
+
+By supporting DAOstar and OpenGrants, you will help us promote the long-term success of the DAO ecosystem. 
+
+
+
+We need more public goods infrastructure to help DAOs scale and cross to the mainstream. We need more collaborative research. We need more interoperable standards. We need more builders working together. Join us in making this a reality!
+
+
+
+DAOstar is supported by many amazing projects and organizations in the ecosystem, including Optimism, Arbitrum, ENS, Tally, Agora, and the Ethereum Foundation, among others.
+
+Milestones (4-6 months)
+
+DAOstar's OpenGrants will continue to promote Ethereum ecosystem adoption and build more robust funding data sets by onboarding more partners into our data lake and dashboard analytics. We want to begin incorporating funded-project performance metrics into our data sets in order to begin tracking and visualizing their impact. Ultimately, OpenGrants aims to provide valuable funding analytics and reporting to help improve grant management processes across the Ethereum ecosystem. In addition, DAOstar itself will continue producing and facilitating collaborative research about DAOs and governance.
+
+Please example how your project meets the round-specific eligibility criteria.
+
+Since May 2023, we have been tracking Layer 2s building on Ethereum, now having Ethereum L1 and L2 data on 30+ different chains, including fundamental metrics, economics, blockspace usage, data availability metrics, and application metric data. All data is pulled by us using RPCs, indexed, cleaned and visualized on our platform. Furthermore, all data is free to access through our API (for example, ethereum.org is using our API for their Layer 2 data). For blockspace usage, we label smart contracts that are deployed on the different chains we are tracking, in order to better track different smart contracts by different projects on different chains in the Ethereum ecosystem. This allows for better traceability and understanding where usage lies and how different projects are performing on different chains. This also allows end users and researchers to see what is happening in the entire Ethereum ecosystem, and builders can prove their traction across different chains. For smart contract labelling, we adhere to the Open Labels Initiative standard, again allowing everyone to use this data and use this open dataset. Our aim has always been to unify Ethereum and its chains, showing transparently what is going on and how these different chains are not parasitic to each other, but grow the Ethereum pie as a whole.

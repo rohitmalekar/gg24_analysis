@@ -1,0 +1,61 @@
+### Keypo
+
+Research
+
+Infrastructure
+
+[0xd0d5dE...5137aA6a](https://arbiscan.io/address/0xd0d5dE463E8082B7947E3ce2178c3b2E5137aA6a)
+
+<https://www.keypo.io/>
+
+Keypo Introduction
+==================
+
+Keypo is the easiest way to add end-to-end encrypted access control to your app, with support for any data-type and EVM wallet. We handle encryption, key management, and access control so you can focus on building privacy-first apps:
+
+Key Features
+------------
+
+-   Decryption keys are stored in a distributed key management network and never touch your app.
+-   Access control logic lives on-chain, owned and defined by the data owner.
+-   Encrypted data is stored on IPFS and accessible from any gateway.
+-   The SDK is gasless and works with embedded wallets like Privy, including email-based sign-ins.
+-   Trusted execution environments (TEEs) enable advanced access controls, like private compute by authorized programs.
+
+Access Control
+--------------
+
+-   Users who encrypted data have full, self-custody control over the data.
+-   Access controls are mediated by EVM smart contracts.
+-   Use share to update access conditions in place on previously encrypted data, without requiring re-encryption.
+
+Wallet Management
+-----------------
+
+-   Keypo is compatible with EOAs and the following embedded wallets: Privy, Turnkey and Dynamic.
+
+Contract Addresses (on base sepolia currently)
+----------------------------------------------
+
+-   RegistryContractAddress: `0x8370eE1a51B5F31cc10E2f4d786Ff20198B10BBE`
+-   DefaultValidationContractAddress: `0x35ADB6b999AbcD5C9CdF2262c7190C7b96ABcE4C`
+
+### IMPACT STATEMENTS
+
+Keypo empowers developers to build privacy-preserving, user-owned applications with just a few lines of code.By unifying decentralized key management, programmable access control, and wallet abstraction, Keypo has enabled projects to: - Protect sensitive files, keys, and AI models without exposing raw secrets. - Enforce NFT-based or contract-based access conditions across apps and media. - Deliver seamless user experiences where encryption, decryption, and gas handling happen automatically behind the scenes.This approach transforms encryption and access control into programmable primitives, accelerating the adoption of secure, privacy-respecting technologies across AI, Web3, and data-sharing ecosystems.
+
+### CONTRIBUTIONS
+
+Keypo contributes a unified framework for securely gating access to data across any stack --- simplifying the process of integrating encryption, access control, and user authentication.At its core, Keypo: - Simplifies using Lit Protocol for encryption and decentralized key management. - Provides easy-to-use smart contracts for managing access control on-chain. - Uses ZeroDev for account abstraction, so end-users never have to pay gas. - Integrates seamlessly with embedded wallets like Privy, Turnkey, and Dynamic.Together, these components make it possible for developers to securely encrypt data, define complex on-chain or off-chain access conditions, and deliver gated content --- all without needing dedicated servers or centralized trust.
+
+CONTRIBUTIONS LINKS[Keypo Registry Smart Contract](https://sepolia.basescan.org/address/0x8370eE1a51B5F31cc10E2f4d786Ff20198B10BBE)[Keypo Validation Smart Contract Template](https://sepolia.basescan.org/address/0x35ADB6b999AbcD5C9CdF2262c7190C7b96ABcE4C)[Keypo Typescript SDK (for browser environments)](https://www.npmjs.com/package/@keypo/typescript-sdk)[Keypo Typescript Server SDK (for node.js environments)](https://www.npmjs.com/package/@keypo/typescript-sdk-server)
+
+### PAST GRANTS AND FUNDING
+
+FILECOIN ONCHAIN CLOUD ALPHA COHORT
+
+Partner Fund
+
+2000
+
+USD

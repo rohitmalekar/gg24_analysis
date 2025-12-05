@@ -1,0 +1,47 @@
+Our mission is to make Ethereum safer and more user-friendly by eliminating hex contract addresses for users.
+
+What
+
+Enscribe is a smart contract naming service built on ENS. It allows developers and projects to name their deployed contracts with ENS names, associate metadata, and verify their authenticity through integrations with services like Sourcify.
+
+This creates human-readable, trustworthy identities for contracts, turning unreadable hexadecimal addresses into meaningful names.
+
+Why
+
+Every Ethereum user has been asked to sign a transaction to an address they don’t recognise. This creates friction, confusion, and sometimes loss. Enscribe fixes this, making it easy for projects to name their smart contracts with ENS names, helping users understand who they’re interacting with and building a more transparent and safer Ethereum ecosystem.
+
+When users transact on Ethereum they should see a contract name instead of meaningless hex. The below image shows what this future should look like.
+
+Where
+
+Enscribe is built on Ethereum and integrates directly with ENS. Our app is available at app.enscribe.xyz, and we’re collaborating with the ENS DAO and other algiend projects to drive broad adoption.
+
+We've already integrated with Safe, Ethereum Follow Protocol and Open Labels Initiative, and provide verification support via Etherscan, Blockscout and Sourcify.
+
+How
+
+We've created an app and library that makes it easy for developers to name their smart contracts. We're also creating new standards for bringing contract metadata on-chain with ENS and experimenting with incentives like POAPs for contract naming.
+
+We've also just released a Harthat plugin and are working on Foundry and Remix integrations.
+
+Our work is open-source and community-aligned.
+
+Enscribe is also aligned with Vitalik's vision on low-risk DeFi.
+
+We also recently released our Dune Dashboard, which enables you to track the progress being made of our north star metric — smart contracts being named on Ethereum.
+
+When
+
+Enscribe is live, with core features already available for Ethereum mainnet, Base and Linea.
+
+Our current priorities include:
+
+Growing our user base and working with users to refine the experience. This includes educating teams on the value of naming contracts, as it's currently a blind spot in the Ethereum ecosystem.
+
+Encouraging teams to name their contracts after they deploy and verify them. It will take time for this to become part of the normal developer workflow, which is why we're continuing to invest in building plugins for leading devtools including Foundry and Remix.
+
+Adding the ability to add contract metadata to smart contracts. This will enable teams to provide users with a lot more context about their smart contracts, as illustrated below.
+
+We're also continuing to contribute directly to the ENS protocol, by identifying ways in which we can support primary naming for all smart contracts on Ethereum.
+
+Giveth contributions will the continued development of Enscribe and help us eliminate hex contract addresses from Ethereum UX. Making Ethereum safer for everyone!

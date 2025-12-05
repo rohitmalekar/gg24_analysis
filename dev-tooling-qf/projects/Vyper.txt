@@ -1,0 +1,21 @@
+Vyper is a pythonic smart contract programming language for the Ethereum Virtual Machine (EVM). Vyper contracts secure more than $4 billion across multiple chains for major protocols such as Curve, Lido and Yearn.
+
+It is currently the second most popular EVM programming language.
+
+Vyper is an open-source project maintained by a core team of experienced web3 engineers and a number of volunteer contributors. We collaborate extensively with partners across the EVM toolchain, infrastructure, and security ecosystems.
+
+Vyper aims to become the leading choice for smart contract development by offering:
+
+- Superior developer experience through pythonic syntax and extensive tooling
+- Enhanced security with a safe-by-default approach that removes common security footguns
+- Maximum readability, making contracts easier and cheaper to audit
+- Optimized performance with 50% smaller bytecode and lower gas costs
+- Easy onboarding for Python developers
+
+To do so, we are currently working on:
+
+- Improving compiler security through regular, extensive audits, automated testing and the use of formal verification methods
+- Implementing new features (struct packing, traits, generics) to make the language more powerful for developers
+- Enhancing developer tools and framework integration (Titanoboa, Moccasin, Snekmate)
+- Continuous improvement of compiler optimization through the Venom backend
+- Building better documentation and learning resources

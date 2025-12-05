@@ -1,0 +1,10 @@
+{
+    "round_name": "Developer Tooling & Infrastructure (QF)",
+    "description": "The Developer Tooling & Infrastructure QF Round is dedicated to strengthening the foundation of the Ethereum ecosystem. With a $200,000 matching pool, this round supports the open-source builders, client teams, and researchers whose work ensures that Ethereum remains secure, scalable, and accessible for developers worldwide.",
+    "fields": {
+      "mechanism": "Quadratic Funding",
+      "funding_pool": "$200,000",
+      "number_of_grantees": 48
+    }
+  }
+  

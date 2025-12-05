@@ -1,0 +1,15 @@
+Remix is...
+
+A powerful, no-setup, Web3 development environment used globally as a platform for builders, educators, and researchers. Built with a plugin architecture that supports experimentation, extensibility, and accessibility via web or as a desktop app, Remix is known as the premier Web2 to Web3 onboarding platform.
+
+Web3 is complicated. There are barriers to entry at every level, making it inaccessible to the widest audiences. The majority of existing Web3 educational and development tools do not focus on expanded accessibility, so Remix serves as a critical educational bridge to Web3 technology through its open-source, free-to-use tooling and education platform.
+
+Since 2015, Remix’s primary goal has been to improve Web3 accessibility so users can get to work instantly via a comprehensive and integrated user interface that simultaneously teaches the Web3 stack and its associated concepts, which are now increasingly guided by AI technologies.
+
+Remix also offers...
+
+Free, comprehensive support for students to take on more complex concepts, draft smart contracts, or prototype ideas in areas such as zero-knowledge cryptography and emerging Web3 programming languages like Vyper and Rust.
+
+In July 2025, as part of Ethereum Foundation’s longstanding goal of subtraction, Remix Project established itself as an independent entity, Remix Labs/Soundboard, and must now rely on the wider ecosystem for the support it needs to remain a vital Web3 public good.
+
+Establishing Remix's Web3 education and advocacy platforms as an org with US 501(c)(3) status allows Remix to continue its mission, sustaining and expanding efforts to offer a range of activities that support workforce development and entrepreneurship in this rapidly evolving sector—particularly as Web3 and AI technologies increasingly play together in the new global digital paradigm.

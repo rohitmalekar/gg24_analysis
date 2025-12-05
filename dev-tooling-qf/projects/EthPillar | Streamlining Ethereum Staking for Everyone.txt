@@ -1,0 +1,35 @@
+EthPillar is the quickest, zero-config, and easiest one-liner Ethereum staking node setup tool and management TUI (Text-based User Interface) designed to democratize access to Ethereum staking. We believe that participating in the Ethereum network's security and earning rewards should be accessible to everyone, regardless of their technical expertise. Created by CoinCashew.eth, EthPillar is the culmination of supporting and building a community of home and solo stakers since pre-Ethereum merge starting May 2020.
+
+Why EthPillar Matters
+
+Setting up and managing an Ethereum staking node can be a daunting task. It involves navigating complex command-line interfaces, configuring various software components, and staying up-to-date with the latest security patches. This complexity creates a barrier to entry for many individuals who are interested in staking but lack the technical skills or time to manage a node themselves. EthPillar simplifies this process by providing a user-friendly TUI and automated setup scripts, allowing anyone to launch and manage their own staking node with ease.
+
+Demo of UI:
+
+Our Progress and Goals
+
+We have already achieved a fully functional one-liner setup for homestakers and cloud users alike. The TUI allows users to monitor their node's performance, manage their validator keys, and update their software with ease.
+
+Our goals include:
+
+- Supporting Aztec L2 Sequencers
+- Supporting upcoming Glamsterdam and H-star Ethereum Upgrades
+- Sustaining and maintaining EthPillar integrations with Lido CSM and the general staking ecosystem
+
+EthPillar contrinbutes to the decentralization and security of the Ethereum network by:
+
+- Increases validating nodes at home.
+- Lowers the technical barrier to staking.
+- Lowers the financial requirement to staking wtih Lido CSM integration.
+- Decreases risk of non-finality event by supporting minority execution-consensus layer clients.
+- Builds and supports the home staking community.
+
+As an example of our progress, a recent EthPillar release v5.2.2 includes support for upcoming 🦓 Fusaka and 🥷 Aztec L2 Sepolia Testnet Sequencers
+
+Why Donate to EthPillar?
+
+Your donation will help us continue to develop and maintain EthPillar, ensuring that it remains a valuable tool for the Ethereum community. By supporting EthPillar, you are directly contributing to the decentralization and security of the Ethereum network. You'll be empowering individuals to participate in staking and earn rewards, fostering a more inclusive and resilient Ethereum ecosystem. Every contribution, no matter the size, makes a difference!
+
+Run a Node, Make History with EthPillar!
+
+Docs: https://docs.coincashew.com/ethpillar

@@ -1,0 +1,59 @@
+Web3GPT 🚀 w3gpt.ai
+
+Deploy Smart Contracts with Natural Language - No Coding Required
+
+🎯 What is Web3GPT?
+
+Web3GPT is an AI-powered platform that transforms natural language into deployed smart contracts. Simply describe what you want to build, and our AI handles the code generation, deployment, and verification - making blockchain development accessible to everyone.
+
+📊 Traction & Impact
+
+- 750+ smart contracts deployed across EVM chains
+- 300+ Monthly Users building with Web3GPT
+- Polygon × Encode Builder Program participant
+- New contracts page tracking all deployments at w3gpt.ai/contracts
+
+🛠️ Core Features
+
+🤖 AI-Powered Development
+
+- Generate production-ready smart contracts from plain English descriptions
+- No coding experience required - perfect for entrepreneurs and creators
+- Advanced AI understands complex contract logic and best practices
+
+⚡ Instant Deployment
+
+- Deploy directly to Base, Polygon, Arbitrum, and other EVM chains
+- Agent enables contract deployment without needing a web3 wallet
+- Automatic contract verification on block explorers, codebase pinned to IPFS.
+
+📈 Developer Tools
+
+- Real-time deployment analytics and tracking
+- Personal deployment history and statistics
+- IPFS storage for contract source code
+- Rewards program and leaderboard for builders
+
+🏆 Why Web3GPT?
+
+🌐 Democratizing Web3 - We're removing the technical barriers that prevent 99% of people from building on blockchain. If you can describe it, you can deploy it.
+
+⚡ Speed to Market - Go from idea to deployed contract in minutes, not weeks. Perfect for hackathons, MVPs, and rapid experimentation.
+
+🔒 Enterprise Ready - All contracts are verified, auditable, and follow best practices. Built by developers, for everyone.
+
+👨‍💻 Built by
+
+Markeljan Sokoli - #13 Talent Protocol Builder
+
+- Previous Gitcoin grant recipient
+- Active Web3 builder and open source contributor
+
+📚 Resources
+
+- 🌐 Platform: w3gpt.ai
+- 📊 Stats: d.w3gpt.ai/stats
+- 📄 Deck: d.w3gpt.ai/deck
+- 💬 Community: @w3gptai
+
+Ready to build? Start deploying smart contracts in seconds at w3gpt.ai 🚀

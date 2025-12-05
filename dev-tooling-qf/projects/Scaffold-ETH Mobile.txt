@@ -1,0 +1,23 @@
+Scaffold-ETH Mobile is an open-source toolkit for building mobile decentralized applications (dApps) on Ethereum and other EVM-compatible blockchains. It simplifies mobile dApp development with fast, secure and customizable pre-built components to create, deploy and interact with smart contracts.
+
+Tech Stack: Built with React Native(Expo), Hardhat, Ethers, and TypeScript to streamline mobile dApp development.
+
+Key Features
+
+- 🧑‍💻 Contract Debugger: Inspect smart contract details such as address, balance, variables, and functions. It also allows real-time interaction with contracts, making development more efficient.
+
+- 💳 In-Built Wallet: A secure mobile crypto wallet for managing funds, signing transactions, and interacting with multiple EVM-compatible chains.
+
+- ✅ Contract Hot Reload: Automatically updates the mobile frontend to reflect changes made to smart contracts during development.
+
+- 🪝 Custom Hooks: A collection of React hooks with TypeScript autocompletion, simplifying contract interaction in your mobile app.
+
+- 🧱 Web3 Components: Pre-built components for quickly building mobile dApp frontends.
+
+By providing these tools, Scaffold-ETH Mobile significantly reduces the time and effort required to build mobile dApps, making development more accessible to both new and experienced developers.
+
+Why Support Us?
+
+Scaffold-ETH Mobile is crucial for the future of mobile dApp development on Ethereum and other EVM-compatible chains. By supporting Scaffold-ETH Mobile, you are contributing to the growth of mobile decentralized applications, helping developers deliver seamless and user-friendly dApps. Scaffold-ETH Mobile not only simplifies development but also enhances mobile accessibility, ensuring users can interact with dApps effortlessly.
+
+If you believe in the future of mobile-first dApps on Ethereum and beyond, DONATE TO SUPPORT SCAFFOLD-ETH MOBILE!

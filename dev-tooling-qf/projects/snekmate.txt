@@ -1,0 +1,161 @@
+While there are plenty of Solidity libraries out there, nobody has been working on high-quality, secure, and easy-to-integrate library-like Vyper code. 🐍 snekmate fundamentally changed this! In one sentence: 🐍 snekmate are state-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks. Or in other words: What OpenZeppelin is for Solidity, 🐍 snekmate is for Vyper. 🐍 snekmate has helped numerous Vyper builders (e.g. Curve, Aerodrome Finance). Not only does client diversity matter but also language diversity!
+
+Contracts
+
+src
+
+└── snekmate
+
+├── auth
+
+│ ├── ownable — "Owner-Based Access Control Functions"
+
+│ ├── ownable_2step — "2-Step Ownership Transfer Functions"
+
+│ ├── access_control — "Multi-Role-Based Access Control Functions"
+
+│ ├── interfaces
+
+│ │ └── IAccessControl — "AccessControl Interface Definition"
+
+│ └── mocks
+
+│ ├── ownable_mock — "ownable Module Reference Implementation"
+
+│ ├── ownable_2step_mock — "ownable_2step Module Reference Implementation"
+
+│ └── access_control_mock — "access_control Module Reference Implementation"
+
+├── extensions
+
+│ ├── erc2981 — "ERC-721 and ERC-1155 Compatible ERC-2981 Reference Implementation"
+
+│ ├── erc4626 — "Modern and Gas-Efficient ERC-4626 Tokenised Vault Implementation"
+
+│ ├── interfaces
+
+│ │ └── IERC2981 — "EIP-2981 Interface Definition"
+
+│ └── mocks
+
+│ ├── erc2981_mock — "erc2981 Module Reference Implementation"
+
+│ └── erc4626_mock — "erc4626 Module Reference Implementation"
+
+├── governance
+
+│ ├── timelock_controller — "Multi-Role-Based Timelock Controller Reference Implementation"
+
+│ └── mocks
+
+│ └── timelock_controller_mock — "timelock_controller Module Reference Implementation"
+
+├── tokens
+
+│ ├── erc20 — "Modern and Gas-Efficient ERC-20 + EIP-2612 Implementation"
+
+│ ├── erc721 — "Modern and Gas-Efficient ERC-721 + EIP-4494 Implementation"
+
+│ ├── erc1155 — "Modern and Gas-Efficient ERC-1155 Implementation"
+
+│ ├── interfaces
+
+│ │ ├── IERC20Permit — "EIP-2612 Interface Definition"
+
+│ │ ├── IERC721Enumerable — "EIP-721 Optional Enumeration Interface Definition"
+
+│ │ ├── IERC721Metadata — "EIP-721 Optional Metadata Interface Definition"
+
+│ │ ├── IERC721Permit — "EIP-4494 Interface Definition"
+
+│ │ ├── IERC721Receiver — "EIP-721 Token Receiver Interface Definition"
+
+│ │ ├── IERC1155 — "EIP-1155 Interface Definition"
+
+│ │ ├── IERC1155MetadataURI — "EIP-1155 Optional Metadata Interface Definition"
+
+│ │ ├── IERC1155Receiver — "EIP-1155 Token Receiver Interface Definition"
+
+│ │ └── IERC4906 — "EIP-4906 Interface Definition"
+
+│ └── mocks
+
+│ ├── erc20_mock — "erc20 Module Reference Implementation"
+
+│ ├── erc721_mock — "erc721 Module Reference Implementation"
+
+│ └── erc1155_mock — "erc1155 Module Reference Implementation"
+
+└── utils
+
+├── base64 — "Base64 Encoding and Decoding Functions"
+
+├── batch_distributor — "Batch Sending Both Native and ERC-20 Tokens"
+
+├── block_hash — "Utility Functions to Access Historical Block Hashes"
+
+├── create — "CREATE EVM Opcode Utility Functions"
+
+├── create2 — "CREATE2 EVM Opcode Utility Functions"
+
+├── create3 — "CREATE3-Based Utility Functions"
+
+├── ecdsa — "Elliptic Curve Digital Signature Algorithm (ECDSA) Secp256k1-Based Functions"
+
+├── p256 — "Elliptic Curve Digital Signature Algorithm (ECDSA) Secp256r1-Based Functions"
+
+├── message_hash_utils — "Signature Message Hash Utility Functions"
+
+├── signature_checker — "ECDSA and EIP-1271 Signature Verification Functions"
+
+├── eip712_domain_separator — "EIP-712 Domain Separator"
+
+├── eip7702_utils — "EIP-7702 Utility Functions"
+
+├── math — "Standard Mathematical Utility Functions"
+
+├── merkle_proof_verification — "Merkle Tree Proof Verification Functions"
+
+├── multicall — "Multicall Functions"
+
+├── pausable — "Pausable Functions"
+
+├── interfaces
+
+│ ├── IERC1271 — "EIP-1271 Interface Definition"
+
+│ └── IERC5267 — "EIP-5267 Interface Definition"
+
+└── mocks
+
+├── base64_mock — "base64 Module Reference Implementation"
+
+├── batch_distributor_mock — "batch_distributor Module Reference Implementation"
+
+├── block_hash_mock — "block_hash Module Reference Implementation"
+
+├── create_mock — "create Module Reference Implementation"
+
+├── create2_mock — "create2 Module Reference Implementation"
+
+├── create3_mock — "create3 Module Reference Implementation"
+
+├── ecdsa_mock — "ecdsa Module Reference Implementation"
+
+├── p256_mock — "p256 Module Reference Implementation"
+
+├── message_hash_utils_mock — "message_hash_utils Module Reference Implementation"
+
+├── signature_checker_mock — "signature_checker Module Reference Implementation"
+
+├── eip712_domain_separator_mock — "eip712_domain_separator Module Reference Implementation"
+
+├── eip7702_utils_mock — "eip7702_utils Module Reference Implementation"
+
+├── math_mock — "math Module Reference Implementation"
+
+├── merkle_proof_verification_mock — "merkle_proof_verification Module Reference Implementation"
+
+├── multicall_mock — "multicall Module Reference Implementation"
+
+└── pausable_mock — "pausable Module Reference Implementation"

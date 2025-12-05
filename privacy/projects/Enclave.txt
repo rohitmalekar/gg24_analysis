@@ -1,0 +1,76 @@
+### Enclave
+
+Infrastructure
+
+[0x63D8Df...bb490314](https://arbiscan.io/address/0x63D8Df33070AB795642cFf60D0d87E9Ebb490314)
+
+[EnclaveE3](https://x.com/EnclaveE3)
+
+[https://enclave.gg](https://enclave.gg/)
+
+[auryn-macmillan](https://github.com/auryn-macmillan)
+
+### PROBLEM
+
+Collaborative computation faces a fundamental gap: systems can protect privacy, prove integrity, or combine data, but not all three at once.
+
+-   FHE preserves confidentiality but cannot efficiently combine data across parties.
+-   ZKPs prove integrity but operate on already-revealed or pre-processed inputs.
+-   Existing multiparty or trusted-hardware systems allow aggregation but require trust in centralized operators or trusted environments.
+
+When one property is missing, collaboration breaks down: data stays siloed, exposed, or unverifiable.\
+Developers lack infrastructure that allows encrypted data from multiple entities to be jointly computed, verified, and kept private throughout the process.
+
+* * * * *
+
+### SOLUTION
+
+Enclave is an open-source protocol for verifiable confidential computation. It introduces Encrypted Execution Environments (E3s) that bring together confidentiality, verifiability, and secure aggregation.Each E3 combines Fully Homomorphic Encryption (FHE) for encrypted computation, Zero-Knowledge Proofs (ZKPs) for correctness verification, and Multiparty Computation (MPC) for decentralized decryption and key management.Together, these components enable programs to run on encrypted data from multiple sources while producing verifiable outputs, resolving the long-standing gap between privacy, proof, and collaboration.E3s coordinate encryption, proof generation, and decryption through a network of staked Ciphernodes, ensuring correctness without exposing intermediate data or relying on trusted intermediaries.
+
+* * * * *
+
+### EXAMPLE APPLICATIONS
+
+-   Secret ballots and coercion-resistant governance
+-   Sealed-bid auctions and fair price discovery
+-   Collaborative AI model training across sensitive data sources
+-   Confidential data pools for research and analytics
+
+Developers can build these applications using the Enclave CLI, SDK, and composable E3 programs.
+
+* * * * *
+
+### CURRENT STATE
+
+-   Public Enclave CLI and SDK available for developers
+-   Reference E3 programs, including CRISP, demonstrating verifiable secret ballots
+-   Integration with RISC Zero zkVM for proof generation and on-chain verification
+-   Testnet under development with public node incentives.
+
+### IMPACT STATEMENTS
+
+Enclave strengthens the privacy ecosystem by making advanced cryptography usable for real-world coordination.Where current privacy tools focus on individual protection, Enclave enables collective privacy, allowing multiple entities to compute together on encrypted data while maintaining verifiability and decentralization.By combining FHE, ZKPs, and MPC within a single protocol, Enclave demonstrates that privacy, proof, and collaboration can coexist. This unlocks new capabilities for governance, finance, research, and AI systems that rely on shared yet sensitive data. Examples include sealed-bid auctions, secret ballots, and privacy-preserving analytics, applications that are currently infeasible without trusted intermediaries.Enclave's open-source CLI, SDK, and example E3 programs lower the barrier for developers to experiment with encrypted computation, bringing practical cryptography to new domains of use. This helps transform privacy-preserving computation from a research challenge into a composable public good, infrastructure that other projects, institutions, and researchers can build upon.Through this work, Enclave contributes to a more secure and verifiable digital commons, where collaboration no longer requires disclosure.
+
+### CONTRIBUTIONS
+
+Enclave contributes to the development of open, verifiable infrastructure for confidential computation.It provides an integrated framework for Encrypted Execution Environments (E3s), decentralized systems that allow multiple parties to run programs on encrypted data while proving correctness to the public. Each E3 combines FHE, ZKPs, and MPC, bridging the gap between cryptographic research and real-world usability.Enclave's core contributions include:
+
+-   Open-source protocol design for verifiable confidential computation, enabling new privacy-preserving applications.
+-   Developer tooling (the Enclave CLI and SDK) to simplify building and testing encrypted programs.
+-   Reference implementations, such as CRISP, a secret ballot system demonstrating coercion-resistant voting and verifiable tallying.
+-   Integration examples with compute providers (e.g., RISC Zero zkVM) for proof generation and verification.
+-   Documentation and tutorials that make advanced encryption methods accessible to developers without cryptographic specialization.
+
+All Enclave components are released under the LGPL-3.0 License, ensuring the protocol remains open, interoperable, and reusable across privacy, governance, and AI research ecosystems.
+
+CONTRIBUTIONS LINKS[Enclave repo](https://github.com/gnosisguild/enclave)[Docs](https://docs.enclave.gg/)[Demo app (for Secret Ballots/Confidential Voting)](https://crisp.enclave.gg/)
+
+### PAST GRANTS AND FUNDING
+
+PRIVATE INVESTMENT (FOR EARLY DEVELOPMENT)
+
+Other
+
+4000000
+
+USD

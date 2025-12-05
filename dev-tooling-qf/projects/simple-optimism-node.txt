@@ -1,0 +1,17 @@
+simple-optimism-node is a Docker Compose script that lets you spin up OP Stack full or archive nodes (Optimism, Base, etc.) with one command. It’s the officially documented “quick start” path in Optimism’s node-operator tutorials.
+
+Adoption is broad across the Superchain ecosystem and the repo shows active maintenance with strong community uptake (~409 stars and 158 forks).
+
+simple-optimism-node is being forked by Celo to serve as their official node launch script.
+
+Follow these steps to get your Optimism full node running in seconds and to complete synchronization in less than a day using Snap Sync:
+
+# 1) Clone and enter git clone https://github.com/smartcontracts/simple-optimism-node.git cd simple-optimism-node
+# 2) Configure from the sample cp.env.example.env # Edit.env: # NETWORK_NAME=op-mainnet # or op-sepolia, base-mainnet, base-sepolia # NODE_TYPE=full # or archive # OP_NODE__RPC_ENDPOINT=<your L1 RPC> # OP_NODE__L1_BEACON=<your L1 beacon endpoint>
+# 3) Start (detached) and build latest images docker compose up -d --build
+
+When updating, pull and rebuild:
+
+git pull && docker compose pull && docker compose up -d --build --force-recreate
+
+The simple-optimism-node project was originally developed by smartcontracts and has since been further developed by me, Chomtana.

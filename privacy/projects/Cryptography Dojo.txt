@@ -1,0 +1,40 @@
+### Cryptography Dojo
+
+Education
+
+[0x96373d...27b50ADD](https://arbiscan.io/address/0x96373d84487E69aA10EF3e8d2ecE28Ca27b50ADD)
+
+[privacyguardia](https://x.com/privacyguardia)
+
+<https://www.privacylatam.xyz/>
+
+PROBLEM: Through multiple meetings and questionnaires, we have identified 4 key universal problems faced by the industry:
+
+-   A LACK OF SKILLED WEB3 PRIVACY AND CRYPTOGRAPHY TALENT
+-   SCATTERED & HANDS-OFF EDUCATIONAL RESOURCES
+-   EDUCATION IS SILOED AWAY FROM PEOPLE DRIVING THE PROTOCOLS & INDUSTRY
+-   "BROKEN" HACKATHONS WITH AN ABUNDANCE OF SHORT SIGHTED BOUNTY HUNTERS
+
+SOLUTION: We aim to create a A WORLD CLASS CRYPTO ACADEMY: 01. PRACTICAL FOCUS: A unique platform that blends deep theoretical concepts with hands-on, real-world use cases and applications. 02. FOCUS ON LIVE USE CASES: Showcase existing solutions and speak to their founders with practical training and tooling that devs can immediately use. 03. A NETWORK OF INDUSTRY LEADERS: Content created in collaboration with ecosystem leaders, top-tier universities, and investors. 04.A COMPLEMENT TO HACKATHONS: Reduce your reliance on bounty hunters and short-term financial gainers. Invest in dedicated talent that is in it for the long-run.PRODUCT:
+
+-   8 weeks part-time duration
+-   English and Spanish Program
+-   Screening and Selection Process
+-   Community calls and groups
+-   Recording and written resources
+-   Live sessions, Q&A, Office Hours
+
+Training Camp: 01. Math and crypto primitives 02. Applied cryptography 03. ZKP and circuits 04. Snarks and Starks 05. Libraries and Tools 06. Real world applications 07. Contributhon (complement to hackathons)
+
+### IMPACT STATEMENTS
+
+-   Combined reach: 3100 followers
+-   Events: 7 conferences across 5 countries
+-   Community: 25+ meetups
+-   Network partners: 30+
+
+### CONTRIBUTIONS
+
+We advance privacy & cryptography by connecting developers to the most promising protocols.
+
+CONTRIBUTIONS LINKS[Privacy Contribution Program](https://www.privacylatam.xyz/about)

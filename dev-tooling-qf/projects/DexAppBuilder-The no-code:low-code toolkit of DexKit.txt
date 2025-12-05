@@ -1,0 +1,33 @@
+👉👨‍💻 Create your DApp for Web3 effortlessly using DexAppBuilder.
+
+1.🛠️ DexAppBuilder: Your no-code/low-code Web3 DApp toolkit
+
+DexAppBuilder simplifies DApp creation for Web3 and the interaction with smart contracts, removing the complexity for Web3 entry. It's the flagship product of DexKit, a Brazilian startup dedicated to making Web3 accessible.
+
+DexAppBuilder provides a comprehensive kit of no-code/low-code tools and solutions, enabling anyone to easily create customized DApps for Web3.
+
+Features:
+
+- Swap;
+- Exchange;
+- Token generation;
+- NFT issuance;
+- Token and NFT airdrop;
+- Gated content;
+- Smart contract integration.
+
+We've open-sourced DexAppBuilder features on NPM for the wider benefit of the Web3 development community.
+
+🌐 Explore more about us!
+
+DexAppBuilder platform: https://dexappbuilder.dexkit.com
+
+GitHub: https://github.com/DexKit
+
+Website: https://www.dexkit.com/
+
+Roadmap: https://dexkit.canny.io
+
+2.💡 Funding for an enhanced DexAppBuilder UX
+
+With your support, we'll enhance the user experience (UX) of DexAppBuilder in the next 6 months, attracting new users and fostering a thriving community. Join us in establishing DexAppBuilder as the most accessible and user-friendly platform for Web3 DApp development.

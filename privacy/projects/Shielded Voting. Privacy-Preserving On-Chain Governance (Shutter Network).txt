@@ -1,0 +1,41 @@
+### Shielded Voting. Privacy-Preserving On-Chain Governance (Shutter Network)
+
+DApps
+
+[0xB476Ee...E9772969](https://arbiscan.io/address/0xB476Ee7D610DAe7B23B671EBC7Bd6112E9772969)
+
+[ShutterNetwork](https://x.com/ShutterNetwork)
+
+<https://www.shutter.network/shielded-voting>
+
+[shutter-network](https://github.com/shutter-network)
+
+Shielded Voting, powered by Shutter Governance, introduces privacy-preserving voting to DAOs on Snapshot through threshold encryption. This integration hides individual votes until a proposal ends, ensuring voters can decide freely---without social pressure, signaling bias, or last-minute manipulation by large holders.Unlike traditional commit-reveal schemes that require multiple transactions, Shielded Voting uses Shutter's Keyper network to automatically manage encryption and decryption. Votes are encrypted using keys generated via Distributed Key Generation (DKG), then collectively revealed only after the voting period closes. This design guarantees that no single party can access results early or block the vote outcome.By establishing information symmetry during voting, Shielded Voting promotes fairer, higher-quality participation and strengthens DAO governance integrity.Any DAO using Snapshot can now enable Shielded Voting directly in their settings, bringing enhanced privacy, trust, and censorship resistance to decentralized decision-making.
+
+### IMPACT STATEMENTS
+
+Since launch, Shielded Voting has brought verifiable privacy and fairness to decentralized governance at scale.881+ DAOs Protected from signaling bias and manipulation.372,914+ Votes Encrypted, ensuring participants could express preferences privately.87% of DAOs Using Shielded Voting after one year, demonstrating rapid adoption and community trust.
+
+### CONTRIBUTIONS
+
+Shielded Voting extends Shutter's core privacy infrastructure, threshold encryption to the realm of governance, making it available to all DAOs and communities using Snapshot.Through a seamless integration, Shielded Voting enables DAOs to conduct private yet verifiable votes where ballots remain encrypted until the proposal closes. This removes social pressure, vote buying, and opportunistic last-minute manipulation, empowering participants to vote freely and fairly.
+
+CONTRIBUTIONS LINKS[Blog post about Shielded voting](https://blog.shutter.network/shutter-brings-shielded-voting-to-snapshot/)
+
+### PAST GRANTS AND FUNDING
+
+PUBLIC NOUNS
+
+Governance Fund
+
+5
+
+ETH
+
+ARBITRUM JOKERACE
+
+Other
+
+2500
+
+ARB

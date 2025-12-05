@@ -1,0 +1,50 @@
+### Aragon 
+
+DApps
+
+Infrastructure
+
+[0xDc2409...cB2a6081](https://arbiscan.io/address/0xDc240918FDC867FFd4B43187Cb02CF05cB2a6081)
+
+[@aragonproject](https://x.com/@aragonproject)
+
+<https://www.aragon.org/>
+
+[aragon](https://github.com/aragon)
+
+Aragon has been building DAO technology since 2017, launching the first-ever DAO framework that powers some of the leading projects in web3 such as Lido, API3, Decentraland, Curve, Morpho, Yieldbasis, Polygon, Taiko and many more. To date, Aragon has secured over $40 billion in total value.Aragon is deeply aligned with Ethereum's values of openness, neutrality, and decentralization, Aragon is committed to building infrastructure that strengthens Ethereum's governance and coordination layer. Aragon OSx is a DAO framework built from years of learnings across thousands of onchain organisations. It's designed to open access and create custom governance systems for all onchain organizations.OSx also provides a robust infrastructure for building privacy tools and private voting systems. The framework is a modular, permissioned architecture that allows other protocols, to integrate this was demonstrated with the partnership with MACI. With OSx, developers can deploy privacy-preserving governance mechanisms that are verifiable, composable, and secure.
+
+### IMPACT STATEMENTS
+
+Aragon has fundamentally shaped and defined the landscape of decentralized governance since 2017. By building an open source, modular framework for onchain organizations, it has allowed for some of Ethereum's largest DAOs and protocols to govern transparently, securely, and autonomously - forming a core layer of Ethereum's organizational infrastructure.Through the modular architecture of Aragon OSx, developers can easily integrate advanced capabilities, such as privacy-preserving voting. By integrating OSx Aragon is able to partner with cryptographic privacy protocols like MACI. Aragon and MACI were able to make secure, verifiable, large-scale private onchain voting possible. This sets a new precedent for decentralized governance. Privacy becomes normal and coordination becomes safer for individuals, more legitimate for communities, and more resilient for protocols.We believe privacy in governance isn't a nice to have- it's a fundamental feature. Without it, participants self-censor or abstain. With it, they can vote their conscience, which leads to higher participation, more legitimate outcomes, and safer decision-making environments.Some examples of what becomes possible with private voting in governance:
+
+-   Grants: remove back-channel pressure
+-   Elections and compensation: protect reputations
+-   Vendor/RFP selection: reduce politicization
+-   Community governance: increase honest turnout
+
+Aragon Project has also funded other Privacy proof of concept's and a ZK research team in the past and you can view a POC that was completed with that funding for Private Voting in Nouns DAO in partnership with Aztec, in the links section.Aragon continues to advance the frontier of onchain coordination, empowering the next generation of organizations to govern freely, transparently, and privately without compromise.Disclosure: Aragon is being actively developed by Aragon X AG, the development company behind the Aragon Project. This application only applies to work being completed by Aragon X AG.
+
+### CONTRIBUTIONS
+
+Aragon OSx is the governance operating system that makes advanced onchain coordination secure, flexible, and scalable. It provides the core infrastructure, modular governance logic, fine-grained permission control, and upgradeable contracts, that allows organizations to evolve their governance over time without redeploying.Its open plugin architecture enables integrations like Aragons partnership with MACI for private voting alongside other governance extensions.Paired with the Aragon App, a no-code front-end for creating and managing onchain organizations, any organization can easily deploy, customize, and upgrade complex governance systems.
+
+CONTRIBUTIONS LINKS[Private voting on Aragon with MACI](https://blog.aragon.org/private-onchain-voting-on-aragon-with-maci/)[Aragon OSx](https://github.com/aragon/osx)[Aragon App ](https://app.aragon.org/?daoFilter=member)[MACI - Aragon Pulgin](https://maci.pse.dev/blog/maci-aragon-plugin)[Private Voting Demo link](https://x.com/AragonProject/status/1958138194278412798)[Private Voting in Nouns DAO](https://blog.aragon.org/announcing-a-proof-of-concept-for-private-voting-in-nouns-dao/)[Ethereum Twitter Post on Aragon Private Voting ](https://x.com/ethereum/status/1963672688372879783)
+
+### PAST GRANTS AND FUNDING
+
+GRANT - JAN 2024 
+
+Other
+
+5400000
+
+USD
+
+ONCHAIN SERVICES - 2025
+
+Revenue
+
+500000
+
+USD

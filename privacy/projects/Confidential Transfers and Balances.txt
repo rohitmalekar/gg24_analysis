@@ -1,0 +1,73 @@
+### Confidential Transfers and Balances
+
+Research
+
+DApps
+
+Infrastructure
+
+Education
+
+[0x8147CF...0705DB16](https://arbiscan.io/address/0x8147CF7F76D018f9f84b7dBBcb73DEA10705DB16)
+
+[0xfairblock](https://x.com/0xfairblock)
+
+<https://www.fairblock.network/>
+
+[Fairblock](https://github.com/Fairblock)
+
+Fairblock is building compliant, confidential transfers and balances using multimodal cryptography (MPC-IBE, HE, ZK). We build developer tooling and applications that span across various privacy use cases.The flagship use case is confidential stablecoins. Through encrypted transfer amounts and balances, users get bank-like privacy and better execution: lower slippage, no frontrunning, tighter quotes, less market impact of large orders.We build dev tooling so Ethereum ecosystem builders can add privacy without reinventing the cryptography. We've also shipped applications like encrypted limit orders with CowSwap, our own predictions app with encrypted bids called Time Machine, and are working with teams like Arbitrum, Hyperliquid, M0, Noble, Anoma, Uniswap, and Squid.Our approach is to use the right cryptographic tool for the right job to ensure it's performant, secure, and compliant. If strategies, balances, and invoices remain public onchain, adoption will always hit a ceiling. Confidentiality with selective disclosure is how Ethereum will further build trust with users and ultimately achieve the last mile of mainstream adoption.
+
+### IMPACT STATEMENTS
+
+1.  Practical, UX friendly privacy on Ethereum: For example, FairyCow gives CowSwap users access to private limit orders, which reduces info leakage and pre-execution manipulation risks
+2.  New user experiences that expands the design space of privacy tech: Our Time Machine predictions app showed consumer UX (encrypt bids now, reveal later). Drove 13k users, 40k encrypted bids in 14 days.
+3.  Developer adoption: Our repos and docs lower the barrier for teams to add confidentiality and selective disclosure to EVM using MPC-IBE, HE, ZK. For instance, we deployed Curve BLS12-381 and Rust library ic_bls12_381 for the first time and used it for IBE.
+4.  Advancing L2 privacy: Using Arbitrum Stylus, we've shown that Rust cryptography and onchain verification can keep sensitive logic private while staying verifiable across EVM L2s.
+5.  Public education: we regularly publish demos and docs on confidential solutions and programmable privacy to fight the misconception that privacy is only for bad actors and anonymity.
+
+### CONTRIBUTIONS
+
+1.  We have shipped confidential apps (cApps) on Ethereum/EVM
+
+-   FairyCow (with CowSwap): time-lock encrypted limit orders. Orders stay private until a chosen time. Launched as an additional front-end to cowSwap.
+-   Time Machine: an encrypted predictions app with sealed bids and public reveal at close
+-   For more cApps, see here: https://www.fairblock.network/cApps
+
+1.  Open-source code and docs. We have active GitHub and developer docs for building confidential apps (cApps) on FairyRing, our native chain, and on EVM.
+2.  Confidential execution for L2s. Demonstrated confidential DeFi on Arbitrum Stylus: Fairates, a fixed-rate lending market
+3.  Education and ecosystem content: publish articles, research, and product pages explaining confidential stablecoins and broader use cases across DeFi, verifiable randomness, gaming, etc.
+
+Below are select list of published articles and research papers
+
+1.  Confidential USDH https://x.com/0xfairblock/status/1966113738978939236
+2.  Confidentiality means profit https://x.com/0xfairblock/status/1960321889840009353
+3.  Our partnership with Arbitrum https://x.com/0xfairblock/status/1969033915210830007
+
+CONTRIBUTIONS LINKS[GitHub](https://github.com/Fairblock/)[Confidential Apps](https://www.fairblock.network/cApps)[Market Education](https://www.fairblock.network/articles)[Academic research](https://scholar.google.com/citations?user=5DeL1bUAAAAJ&hl=en)
+
+### PAST GRANTS AND FUNDING
+
+VENTURE CAPITAL
+
+Other
+
+2500000
+
+USD
+
+ARBITRUM FOUNDATION GRANT
+
+Governance Fund
+
+500000
+
+ARB
+
+INTERCHAIN FOUNDATION GRANT
+
+Governance Fund
+
+130000
+
+ATOM

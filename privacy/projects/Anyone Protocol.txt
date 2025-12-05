@@ -1,0 +1,33 @@
+### Anyone Protocol
+
+Infrastructure
+
+[0xc29b8A...433eb0B7](https://arbiscan.io/address/0xc29b8Ab20f59623fa15564470eB22F16433eb0B7)
+
+[anyonefdn](https://x.com/anyonefdn)
+
+[https://anyone.io](https://anyone.io/)
+
+[anyone-protocol](https://github.com/anyone-protocol)
+
+Anyone ProtocolAnyone is a decentralized global infrastructure for privacy. By integrating with their onion routing network, apps can provide trustless privacy and secure their network traffic without altering the user experience. The network consists of thousands of nodes that contribute their bandwidth and help obscure user data.The protocol aims to address to critical shortfalls with the traditional internet privacy solution offered VPNs. First is that VPNs inevitably track and log user activity, becoming a risk vector in their own right. Secondly, developers have no straightforward way to build VPN-level privacy into their applications. We believe privacy should be readily accessible to all apps, able to be toggled on or provided by default, particularly within the web3 and AI space.The Anyone NetworkThe Anyone Network is a free-to-use onion routing network supported by relay operators, who are partially incentivized in the form of an ERC20 token $ANYONE. The network addresses performance shortfalls in existing onion routing networks and opens up greater customizability for clients that route their traffic through it.The Anyone SDKA Free-and-Open-Source project, and the focus of this proposal. The SDK consists of a number of platform-specific wrappers built around the Anyone client, including an SDK for NPM, Android, iOS and Python (upcoming). The SDK enables developers to easily setup a local onion routing client, and route traffic via SOCKs through the network, with little to no impact on the user experience. This can be done in just a few lines of code, replacing get, post and other requests with proxy alternatives that only need to be configured once, allowing outbound requests in apps to be anonymized with minimal effort and no cost.
+
+### IMPACT STATEMENTS
+
+The Anyone Network and SDK addresses the missing piece of Ethereum's privacy stack, one that has gotten increased focus from the PSE, which is IP address and metadata exposure. The SDK empowers developers to protect the full stack of user transaction activity with anonymous routing, without compromising on the UX. This has major implications for wallets, dApps, and privacy-preserving AI or agentic systems.The Anyone SDK has already seen real-world adoption across privacy-focused applications and developer ecosystems. It is actively integrated into projects such as Carbon Browser and elizaOS.It has also been leveraged within our community to privatize instances of Railgun, create local programs to access sensitive APIs, and used within a custom hidden RPC.The Anyone Network is also a public force for good, supporting a peak 30,000 daily active clients. It is the basis of numerous community apps, some of which are listed on the iOS App Store. Our adoption is growing organically, and we believe it can be a key part of future privacy-preserving applications.
+
+### CONTRIBUTIONS
+
+We have built and maintained a fully open-source onion routing SDK that allows developers to integrate private routing directly into their applications, and created documentation and tutorials alongside them. The NPM SDK enables users to start an onion routing client, provides functions for calling APIs, and contains a detailed set of helper functions and examples.These ancillary functions creates a new optionality for onion routing. They enable developers to see the list of nodes within the network and form a custom circuit within them that suits their applications' needs. There is also tooling to assign specific streams to specific circuits, useful for more complex apps such as home-proxies or AI agent libraries.In addition, we have created libraries for both iOS and Android which already form the backbone of free privacy apps, such as a browser app.The SDK is supported by a global privacy network - the Anyone Network - made up of over 7000 nodes worldwide. Our infrastructure is made up of thousands of volunteers incentivized by a novel relay reward protocol that we have also developed, open source.
+
+CONTRIBUTIONS LINKS[Overall GitHub organization for Anyone Protocol](https://github.com/anyone-protocol)[NPM anonymity SDK source ](https://github.com/anyone-protocol/anon-protocol-npm)[SDK documentation](https://docs.anyone.io/sdk-integrations)[Example application built on our iOS SDK](https://apps.apple.com/gb/app/anyone-browser/id6741429520)[Cocoapods iOS anonymity SDK source](https://github.com/anyone-protocol/AnyoneKit)[Maven Android anonymity SDK source](https://github.com/anyone-protocol/anon-android)[(In progress) Python anonymity SDK source](https://github.com/anyone-protocol/python-sdk)
+
+### PAST GRANTS AND FUNDING
+
+ARWEAVE GRANT
+
+Governance Fund
+
+5000
+
+USD

@@ -1,0 +1,33 @@
+### Aztec Anonymous Messenger (AAM)
+
+DApps
+
+[0x1A9867...8Bf555b8](https://arbiscan.io/address/0x1A9867411eEda4Af37a4E19f02760e7C8Bf555b8)
+
+[@AztecMessenger](https://x.com/@AztecMessenger)
+
+<https://www.aztecanonymousmessenger.com/>
+
+[PQEST01](https://github.com/PQEST01)
+
+Aztec Anonymous Messenger (AAM) makes private communication a default feature of on-chain life. Today, most "web3 chat" tools either leak metadata on public chains or push everything to a trusted server. AAM takes a different path: messages are written to Aztec L2 as private notes and can only be opened by the intended recipient in their wallet. There's no public read function and no central server to trust or breach.What this means for users?-True privacy: Only the recipient can read your message. Outsiders see nothing useful.-Pseudonymous by design: You choose which address you reveal no forced social graph or doxxing.-Wallet-native UX: You read messages locally in your wallet; your data never leaves your device unencrypted.-Open & composable: Any Aztec dApp can use the same inbox format to build private notifications, support chats, trading messages, and more.Why it matters?Private communication is a basic right and a practical need:-Safety & dignity for activists, researchers, and everyday users.-Fairness for traders who don't want to leak strategies.-Usability for onboarding: if chat isn't private, most people won't use it.-AAM shows that useful privacy onchain is possible today fast, cheap, and credibly neutral.How privacy works? (simple)When you send a message, AAM stores an encrypted note addressed to the recipient on Aztec L2. Only recipients with the view key can find and decrypt their notes locally.There's no public endpoint to "read" messages, so content and metadata stay hidden.Success we're aiming for; Active users who rely on AAM for everyday coordination, Multiple third-party dApps integrating the AAM inbox, Reliable, low-cost messaging that feels instant and private.Help us make private-by-default communication a standard primitive for Aztec and the broader web3 ecosystem.
+
+### IMPACT STATEMENTS
+
+Surveillance is the default on public blockchains: messages leak metadata, and "private chat" usually means trusting a server. AAM proves a different pattern end-to-end encrypted, pseudonymous messaging with wallet side reading on Aztec L2. Messages are written as private notes to a recipient's inbox; there is no public read path, so content and social graph remain opaque.The impact we are driving is adoption beyond crypto natives: DAOs, researchers, communities, and ordinary users can coordinate without exposing identity or intent. By turning private state into a simple, reusable inbox primitive, AAM makes privacy approachable for other builders, not just cryptographers. Each integration notifications, support, governance coordination replaces surveillance style messaging with verifiable privacy that anyone can audit and no one can mine.
+
+### CONTRIBUTIONS
+
+People deserve private by default communication. AAM turns Aztec's privacy tech into something people can actually use: a simple, standard private inbox you control from your wallet. When you message, only the recipient can decrypt; your identity and relationships stay opaque. Anyone can coordinate safely without Web2 accounts, phone numbers, or data brokers.*Privacy first messaging on Aztec L2. Messages are written as encrypted notes into the recipient's private inbox; there is no on-chain read path, so content and social graph remain opaque.*Reading and decryption happen in your wallet (client-side), not on a server. No phone number or email, no KYC, no custodial accounts. You stay pseudonymous, reveal only what you choose, and leak minimal metadata.*Safer coordination for everyone. Activists, DAO voters, traders, friends and families can talk 1:1 today without exposing identity or intent. Privacy becomes ordinary, composable, and hard to censor.
+
+CONTRIBUTIONS LINKS[GitHub Repository (main)](https://github.com/PQEST01/aztec-anonymous-messenger.git)[Github Repository (pre-test)](https://github.com/PQEST01/aztec-anonymous-messenger/tree/pre-mini-testnet)[AAM - Contract detail](https://aztecscan.xyz/contracts/instances/0x270f4eccd3e6a4082d51a2010c7adde967df0dc89b480bfbe65ed01ec6f2e921)
+
+### PAST GRANTS AND FUNDING
+
+SELF-FUNDED; NO PRIOR GRANTS OR EXTERNAL FUNDING.
+
+Other
+
+0
+
+USD

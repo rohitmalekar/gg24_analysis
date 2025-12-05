@@ -1,0 +1,28 @@
+### Obscura
+
+DApps
+
+[0x3B465D...8f2046d6](https://arbiscan.io/address/0x3B465D0695621f330a45BCc15fcF6B2d8f2046d6)
+
+[truthixifi](https://x.com/truthixifi)
+
+[https://truthixify.vercel.app](https://truthixify.vercel.app/)
+
+[truthixify](https://github.com/truthixify)
+
+Obscura enhances the Starknet ecosystem by introducing native, zero-knowledge--powered privacy.\
+It enables developers and users to perform private deposits, transfers, and withdrawals using a UTXO-based model verified on-chain.By providing a fully open-source shielded pool, Noir circuits, and audited Cairo contracts, Obscura helps other projects integrate privacy as a composable layer --- empowering confidential DeFi, DAOs, and identity use cases on Starknet.
+
+### IMPACT STATEMENTS
+
+Obscura advances privacy on Starknet by making confidential transactions accessible to everyone.\
+Its shielded pool and zero-knowledge proof system allow users to transact privately without sacrificing security or decentralization.By enabling developers to integrate privacy as a standard feature, Obscura strengthens Starknet's ecosystem with new use cases --- such as private DAOs, confidential DeFi protocols, and secure identity systems.\
+The project promotes open-source innovation, user sovereignty, and a more privacy-respecting Web3.
+
+### CONTRIBUTIONS
+
+Obscura brings privacy to Starknet by enabling shielded transactions verified with zero-knowledge proofs.\
+It provides open-source Cairo contracts, Noir circuits, and a frontend for private deposits, transfers, and withdrawals.\
+By making privacy composable and developer-friendly, Obscura empowers builders to create confidential DeFi, DAO, and identity applications.
+
+CONTRIBUTIONS LINKS[GitHub repo](https://github.com/truthixify/obscura)[DApp](https://obscura-app.vercel.app/)[Verified contract](https://sepolia.starkscan.co/contract/0x61885a42757860cc90d19dc36788ba63f41133f56102b0a003e73eb892b6784)

@@ -1,0 +1,18 @@
+Swiss-Knife aggregates all the useful EVM tools in one place to ease developer experience while they are debugging or building new stuff.
+
+List of Tools
+
+- Calldata: Decode any calldata, and view the parameters in a human-readable format, even without having the contract ABI.
+- Explorer: Quickly view any address/ens or transaction across a variety explorers, in just a click!
+- Transact: Send custom bytes calldata to transact with any contract, or leave the address blank to deploy a new contract.
+- Converter: All the essential unit converters on one-page. Convert between:
+- i. Ether, wei & gwei
+- ii. Hexadecimal, decimal & binary
+- iii. String or hex to keccack256 hash & 4 bytes selector
+- iv. Hex to 32 bytes left-padded & right-padded values
+- Constants: Have frequently used constants at your fingertips, like Zero Address, Max Uint256, etc.
+- Epoch-Converter: Grab unix timestamp, get timestamp x minutes/hours/days in the future, or convert timestamp to human-readable format.
+- Storage-Slots: Query EIP-1967 slots or custom storage slot value of any contract.
+- Uniswap: Calculator to convert UniswapV3 tick to price for any token pair addresses.
+- Character Counter: Count the length of the input string. Also allows to select on the input text to only get the character count for the selection.
+- Contract Address: Determine the contract address which will get deployed by an address at a particular nonce

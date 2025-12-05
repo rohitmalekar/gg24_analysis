@@ -1,0 +1,154 @@
+{
+    "problems": [
+      {
+        "problem_id": "interop_01",
+        "domain": "Interop Standards, Infrastructure & Analytics",
+        "name": "Fragmented Multi-Chain Visibility",
+        "level": "problem_type",
+        "problem_statement": "Ethereum’s growth across L1, L2s, rollups, and app-specific chains has created silos of data, liquidity, and activity. Core ecosystem metrics and behaviors remain scattered, inconsistent, or locked behind proprietary interfaces. This fragmentation reduces the ability of builders, funders, and policymakers to assess ecosystem health reliably.",
+        "why_it_matters": "Without unified visibility, the network becomes opaque, undermining credible neutrality and weakening coordination. Funders cannot allocate capital effectively, builders duplicate efforts, and systemic risks remain hidden. A fragmented view reduces Ethereum’s institutional legitimacy as an analyzable, transparent ecosystem. :contentReference[oaicite:0]{index=0}",
+        "solution_shape": "Open data standards, shared schemas, cross-chain explorers, analytics layers, and unified measurement systems that consolidate multi-chain activity into coherent, verifiable formats.",
+        "positive_signals": [
+          "cross-chain analytics",
+          "open data standardization",
+          "multi-chain dashboards",
+          "unified schema design",
+          "visibility into L1 and L2",
+          "transparent ecosystem metrics"
+        ],
+        "measurement_rubric": {
+          "1": "Tangential mention of data or dashboards with no direct aim to reduce fragmentation.",
+          "2": "Addresses a single chain or narrow dataset with limited relevance to multi-chain visibility.",
+          "3": "Provides meaningful analytics or data models that improve visibility across multiple chains.",
+          "4": "Delivers shared standards, infrastructure, or tooling that significantly reduces fragmentation.",
+          "5": "Creates foundational open data infrastructure enabling unified and verifiable multi-chain ecosystem visibility."
+        }
+      },
+  
+      {
+        "problem_id": "interop_02",
+        "domain": "Interop Standards, Infrastructure & Analytics",
+        "name": "Lack of Shared Interop Standards",
+        "level": "problem_type",
+        "problem_statement": "Ethereum’s rollups and applications lack consistent, widely adopted interoperability standards for messaging, execution, and intent schemas. This forces each project to create custom integrations and adapters, increasing operational complexity and reducing cross-chain reliability.",
+        "why_it_matters": "When standards remain fragmented, interoperability becomes costly and brittle. Builders reinvent the same components, ecosystems drift apart, and cross-chain interactions become error-prone. Ethereum loses scalability advantages and the network becomes harder to coordinate as it grows. :contentReference[oaicite:1]{index=1}",
+        "solution_shape": "Development, refinement, and adoption of shared protocols such as messaging standards, intent schemas, execution frameworks, and reference implementations that reduce friction between chains and applications.",
+        "positive_signals": [
+          "ERC/EIP standard work",
+          "intent schema design",
+          "cross-chain messaging protocols",
+          "reference implementations",
+          "interoperability specifications",
+          "standards adoption tooling"
+        ],
+        "measurement_rubric": {
+          "1": "Minimal or indirect relevance to interoperability standards.",
+          "2": "Touches on protocol design but does not meaningfully support cross-chain standardization.",
+          "3": "Contributes components or research that improve consistency across chains.",
+          "4": "Develops or advances widely applicable interop standards with clear adoption pathways.",
+          "5": "Delivers foundational interoperability standards that reduce systemic coordination friction across the Ethereum ecosystem."
+        }
+      },
+  
+      {
+        "problem_id": "interop_03",
+        "domain": "Interop Standards, Infrastructure & Analytics",
+        "name": "Underdeveloped Multi-Chain Coordination Infrastructure",
+        "level": "problem_type",
+        "problem_statement": "APIs, SDKs, solver frameworks, and execution environments needed for seamless cross-chain interaction are still early-stage or missing. Builders must work around inconsistent interfaces across L1s, L2s, and application chains, raising integration costs and slowing innovation.",
+        "why_it_matters": "Without robust coordination infrastructure, applications cannot reliably operate across rollups. This limits user mobility, stalls adoption of advanced architectures, and restricts the emergence of agent-based and intent-based systems. Fragmented infra erodes developer experience and increases systemic duplication. :contentReference[oaicite:2]{index=2}",
+        "solution_shape": "Shared SDKs, solver frameworks, routing infrastructure, execution environments, and open APIs that make cross-chain coordination accessible and reliable for developers.",
+        "positive_signals": [
+          "multi-chain SDKs",
+          "solver frameworks",
+          "cross-chain APIs",
+          "execution middleware",
+          "agent coordination tools",
+          "reference infra for builders"
+        ],
+        "measurement_rubric": {
+          "1": "Project is unrelated to multi-chain infrastructure.",
+          "2": "Provides localized tooling with limited cross-chain applicability.",
+          "3": "Improves infrastructure that supports interactions across multiple chains.",
+          "4": "Delivers key infrastructure used by developers to coordinate applications across the ecosystem.",
+          "5": "Creates core multi-chain coordination infrastructure that materially lowers integration barriers and enables new classes of interoperable applications."
+        }
+      },
+  
+      {
+        "problem_id": "interop_04",
+        "domain": "Interop Standards, Infrastructure & Analytics",
+        "name": "Low Adoption of Intent-Based Architectures",
+        "level": "problem_type",
+        "problem_statement": "The Open Intents Framework (OIF) remains early in adoption, with limited analytics, tooling, solver coverage, and production pilots. Without measurement systems and usable infrastructure, intent-based execution cannot become a network-wide standard.",
+        "why_it_matters": "OIF has been identified as a top priority for Ethereum’s interoperability roadmap. Slow adoption limits the shift toward agent-based systems and more efficient cross-chain coordination. Without evidence-driven traction, the ecosystem risks fragmented intent implementations. :contentReference[oaicite:3]{index=3}",
+        "solution_shape": "Measurement systems, analytics, solver frameworks, SDKs, adoption pilots, and open tooling that demonstrate feasibility and track OIF performance across chains.",
+        "positive_signals": [
+          "intent execution analytics",
+          "solver performance metrics",
+          "OIF SDKs or tooling",
+          "intent adoption pilots",
+          "coverage measurement",
+          "intent routing research"
+        ],
+        "measurement_rubric": {
+          "1": "Bare mention of intents with no real connection to OIF adoption.",
+          "2": "Early exploratory work that does not concretely support OIF usage.",
+          "3": "Meaningful tools or research that help measure or prototype intent-based systems.",
+          "4": "Production-grade tooling, analytics, or pilots that grow OIF adoption.",
+          "5": "Core infrastructure and measurement frameworks that significantly accelerate ecosystem-wide adoption of intent-based architectures."
+        }
+      },
+  
+      {
+        "problem_id": "interop_05",
+        "domain": "Interop Standards, Infrastructure & Analytics",
+        "name": "Opaque and Unverifiable Ecosystem Metrics",
+        "level": "problem_type",
+        "problem_statement": "Critical data about usage, risk, governance, and cross-chain flows remains locked behind proprietary platforms or inconsistent methodologies. Without open, verifiable metrics, builders and funders cannot make evidence-based decisions, and the ecosystem loses transparency.",
+        "why_it_matters": "Lack of open analytics undermines Ethereum’s credible neutrality and limits its ability to serve as an analyzable global financial system. Reduced transparency weakens policy discussions, risk management, and allocation decisions. :contentReference[oaicite:4]{index=4}",
+        "solution_shape": "Open analytics platforms, public methodologies, transparent measurement systems, and reproducible datasets that enable evidence-based decision making.",
+        "positive_signals": [
+          "open analytics dashboards",
+          "transparent methodologies",
+          "reproducible datasets",
+          "risk and usage metrics",
+          "cross-chain measurement",
+          "evidence-based reporting"
+        ],
+        "measurement_rubric": {
+          "1": "Indirect or weak connection to open analytics or verifiable data.",
+          "2": "Provides limited or narrowly scoped metrics.",
+          "3": "Produces useful open analytics or shared datasets.",
+          "4": "Delivers robust, transparent measurement systems used by the community.",
+          "5": "Creates foundational, verifiable analytics infrastructure enabling ecosystem-wide transparency."
+        }
+      },
+  
+      {
+        "problem_id": "interop_06",
+        "domain": "Interop Standards, Infrastructure & Analytics",
+        "name": "Coordination Barriers for Builders and Funders",
+        "level": "problem_type",
+        "problem_statement": "Builders, researchers, DAOs, and funders lack shared interfaces and evaluation frameworks for understanding interoperability needs, duplications, and system-level priorities. This leads to misaligned funding, reinvented tooling, and slow consensus on where ecosystem investment is most impactful.",
+        "why_it_matters": "Poor coordination reduces capital efficiency and slows the maturation of Ethereum’s multi-chain stack. When gaps are poorly understood, important components remain unfunded or duplicated, delaying progress and wasting ecosystem resources.",
+        "solution_shape": "Shared evaluation frameworks, open coordination tools, common taxonomies, and community-driven platforms that surface gaps, align incentives, and improve ecosystem-wide decision making.",
+        "positive_signals": [
+          "ecosystem gap mapping",
+          "shared evaluation frameworks",
+          "coordination tools",
+          "research synthesis",
+          "public roadmaps",
+          "funding strategy alignment"
+        ],
+        "measurement_rubric": {
+          "1": "No meaningful support for ecosystem coordination.",
+          "2": "Limited research or commentary with narrow scope.",
+          "3": "Useful frameworks or tools that improve coordination among some stakeholders.",
+          "4": "Widely relevant coordination infrastructure or methodologies.",
+          "5": "Ecosystem-grade frameworks that materially improve strategic alignment across builders and funders."
+        }
+      }
+    ]
+  }
+  

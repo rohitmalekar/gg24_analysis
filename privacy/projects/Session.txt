@@ -1,0 +1,49 @@
+### Session
+
+DApps
+
+[0xdDC0bA...fBE27a69](https://arbiscan.io/address/0xdDC0bA8A8888F55b6Ae27b4dbA62D838fBE27a69)
+
+[session_app](https://x.com/session_app)
+
+<https://getsession.org/>
+
+[session-foundation](https://github.com/session-foundation)
+
+Session is an end-to-end encrypted messaging app that provides secure, private, and anonymous communication with over 1.4 million monthly active users.Session emphasizes user confidentiality and safety by eliminating the need for personal information during account creation and minimizing metadata during app usage.Built on the blockchain-powered Session Network with over 1,500 nodes around the world, Session's protocol offers advanced privacy features, such as onion-routing by default (protecting IP information), randomized alphanumeric IDs (instead of insecure phone numbers), and decentralized message storage (hardening against data leaks and censorship).Session Token is an EVM-compatible token utilized in the Session ecosystem to unlock premium features in Session messenger and as a security and incentivization layer for Session Nodes. Session Token offers a new, decentralized model for bootstrapping and growing a communications overlay network which prioritizes user privacy while remaining sustainable.
+
+### IMPACT STATEMENTS
+
+With 1.4 million monthly active users and over 3 million installed devices worldwide, Session's technical, social and policy impact have been significant.From a technical perspective, Session's open-source design has set new standards for privacy-preserving communication systems and demonstrated that secure, anonymous messaging at scale is practically achievable through decentralization. The emergence of numerous decentralized messaging applications in the web3 space reflects Session's influence in this regard.In terms of social impact, Session is highly regarded by civil society organizations for its important contributions to grassroots movements around the world. Most notably, Session played a key role in 2022 protests in Iran, as a safe channel of communication for activists and organizers.Session's impact on digital privacy policy was seen in the global discussion sparked by contributors' decision to transition away from the Australia-based foundation as the original steward of the decentralized project, to a new Swiss-based foundation (the Session Technology Foundation), due to increasingly hostile stances by the Australian government towards privacy technology, as covered in The Guardian: https://www.theguardian.com/australia-news/2024/nov/05/session-encrypted-messaging-app-developer-moves-out-of-australia-police-visit-switzerland
+
+### CONTRIBUTIONS
+
+Session has made landmark contributions to digital privacy from a technological, social and policy perspective.On a technical level, Session pioneered a truly decentralized messaging architecture that operates without centralized servers. The platform requires no phone numbers, email addresses, or personally identifiable information for account creation, instead relying solely on cryptographic key pairs for user identification. Session also significantly limits metadata leakage to further protect user privacy. Learn more in the whitepaper here: https://getsession.org/whitepaperTo launch Session Token, Session contributors designed and built the largest BLS-based threshold signature protocol on Arbitrum, now with over 1,500 Nodes. BLS digital signatures support extremely efficient aggregation, allowing Session Nodes to communicate securely to determine rewards, penalties and regular decentralised testing of other nodes.With the upcoming integration of Session Router, a new onion routing network optimized for low latency, Session aims to launch onion-routed voice and video calls in the future, a potential world first.From a social perspective, Session has enabled freedom of communication for users around the world who need it most, from people living under high surveillance dictatorships relying on Session to connect with friends and loved ones, to journalists and whistleblowers leveraging Session to protect source anonymity and coordinate sensitive reporting. Session has also provided secure communication channels for civil society activists and human rights defenders operating in environments where surveillance poses genuine risks to personal safety.From a policy perspective, Session's contributors play an active role in international policy debates relating to encryption, surveillance and privacy, such as the EU's Chat Control proposals most recently, championing the importance of truly private communication systems that cannot implement surveillance backdoors.
+
+CONTRIBUTIONS LINKS[Session Foundation Github repo: Building Session](https://github.com/session-foundation)[Download link for Session messenger](https://getsession.org/download)[Whitepaper](https://getsession.org/whitepaper)[Session Token](https://token.getsession.org/)[Staking/ Nodes](https://stake.getsession.org/)[Session Docs](https://docs.getsession.org/)
+
+### PAST GRANTS AND FUNDING
+
+SEED FUNDING 2023
+
+Revenue
+
+2400000
+
+USD
+
+EMDG GRANT 2024/2025
+
+Other
+
+40000
+
+USD
+
+OTF GRANT 2023-2025
+
+Other
+
+180000
+
+USD

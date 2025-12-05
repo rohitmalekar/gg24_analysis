@@ -1,0 +1,33 @@
+Scaffold-ETH 2 is an open-source toolkit for building decentralized applications on any EVM chain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
+
+It's a new version of Scaffold-ETH with its core functionality.
+
+- ⚙️ Built using NextJS, RainbowKit, Hardhat, Foundry, Wagmi, Viem, and Typescript.
+
+- ✅ Contract Hot Reload: Your frontend auto-adapts to your smart contract as you edit it.
+
+- 🪝 Custom hooks: Collection of React hooks wrapper around wagmi to simplify interactions with smart contracts with typescript autocompletion.
+
+- 🧱 Components: Collection of common web3 components to quickly build your frontend.
+
+- 🔥 Burner Wallet & Local Faucet: Quickly test your application with a burner wallet and local faucet.
+
+- 🔐 Integration with Wallet Providers: Connect to different wallet providers and interact with the Ethereum network.
+
+- 🔌 Extensions: Modular add-ons that provide additional functionality or serve as starter-kits for specific features.
+
+Some Scaffold-ETH stats
+
+- Scaffold-ETH 2 has over 1800 GitHub stars and 1200 forks
+- Original Scaffold-ETH had 9100 stars and 3400 forks
+- Over 4500 repos built with Scaffold-ETH 2
+
+Scaffold-ETH 2 allows for rapid prototyping and full dApp development easily and quickly. Here is an example of a quick prototype: (< https://www.youtube.com/watch?v=5vuyKmYQVls>).
+
+It’s one of the favorite tools of Hackathon builders, and projects built with Scaffold-ETH2 have gotten prizes in some of the biggest Hackathons.
+
+- Example from ETH London 2024: [link]( https://ethglobal.com/showcase/dynos-95-9n57a)
+
+- Example from ETH Brussels 2024: [link]( https://ethglobal.com/showcase/oh-snap-4u2kv)
+
+- Almost 200 projects using Scaffold-ETH 2 in ETH Global hackathons in 2024. [Full list link]( https://docs.google.com/spreadsheets/d/1-IQfzQVod8QiFAQiiHEIXhlDWuPmdp04viS2pT0r-04/edit?gid=0#gid=0)

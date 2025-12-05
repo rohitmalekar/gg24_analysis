@@ -1,0 +1,143 @@
+{
+    "problems": [
+      {
+        "problem_id": "devtool_01",
+        "domain": "Developer Tooling & Core Infrastructure",
+        "name": "Underfunded Core Infrastructure",
+        "level": "problem_type",
+        "problem_statement": "Critical Ethereum clients, compilers, libraries, and shared infrastructure remain structurally underfunded despite securing and enabling applications worth billions. Maintainers face unstable resource availability and lack predictable support, forcing tradeoffs between commercial work and sustaining essential public goods.",
+        "why_it_matters": "If core infrastructure remains fragile or under-resourced, developer confidence declines, security incidents rise, and the entire stack becomes less resilient. Long-term ecosystem growth slows as foundational components struggle for maintenance and innovation.",
+        "solution_shape": "Sustained funding for clients, compilers, languages, critical libraries, and protocol-aligned infrastructure. Support for long-term maintainers, modernization efforts, and improved reliability of ecosystem-wide dependencies.",
+        "positive_signals": [
+          "long-term maintenance of critical infra",
+          "core client or compiler improvements",
+          "high dependency usage across the ecosystem",
+          "sustainability roadmap for public goods",
+          "active contributors maintaining essential libraries"
+        ],
+        "measurement_rubric": {
+          "1": "Tangential reference to infrastructure work with no clear relation to core dependencies.",
+          "2": "Touches infrastructure concerns but work focuses mainly on peripheral components.",
+          "3": "Provides meaningful improvements to ecosystem libraries or tooling with moderate dependency relevance.",
+          "4": "Directly strengthens widely used infrastructure with clear maintenance or innovation value.",
+          "5": "Essential, ecosystem-critical infrastructure work with high dependency impact and long-term sustainability benefits."
+        }
+      },
+      {
+        "problem_id": "devtool_02",
+        "domain": "Developer Tooling & Core Infrastructure",
+        "name": "Fragmented Developer Experience",
+        "level": "problem_type",
+        "problem_statement": "Developers face complex, fragmented workflows across languages, frameworks, debugging tools, and testing environments. Tooling is inconsistent, lacks standardization, and often depends on volunteer-maintained components that evolve slowly or lack coordination.",
+        "why_it_matters": "Fragmentation slows developer onboarding, increases errors, and restricts the growth of Ethereum’s builder base. A poor developer experience pushes teams toward centralized or permissioned solutions that compromise decentralization.",
+        "solution_shape": "Unified development environments, integrated toolchains, testing frameworks, debugging utilities, and language/tooling improvements that simplify and accelerate Ethereum development.",
+        "positive_signals": [
+          "workflow simplification",
+          "unified toolchain or framework",
+          "debugging or testing improvements",
+          "usability enhancements for developers",
+          "language or compiler UX upgrades"
+        ],
+        "measurement_rubric": {
+          "1": "Minimal connection to improving developer workflows or usability.",
+          "2": "Single-purpose tooling with limited scope or unclear impact on developer experience.",
+          "3": "Improves part of the development lifecycle with moderate usability benefits.",
+          "4": "Significantly improves developer workflows with integrated or widely applicable tooling.",
+          "5": "Transforms the end-to-end developer experience with cohesive, high-impact tooling used across the ecosystem."
+        }
+      },
+      {
+        "problem_id": "devtool_03",
+        "domain": "Developer Tooling & Core Infrastructure",
+        "name": "Security Gaps and Safety Risks",
+        "level": "problem_type",
+        "problem_statement": "Developers lack accessible, effective tools to prevent vulnerabilities, validate assumptions, and detect security issues early. Security-critical tooling is underfunded, leaving gaps in auditing, verification, fuzzing, and safe development practices.",
+        "why_it_matters": "Security failures cause loss of funds, erode trust, and slow Ethereum adoption. Without strong security tooling, developers rely on permissioned stopgaps that weaken decentralization and increase systemic risk.",
+        "solution_shape": "Static analysis tools, fuzzers, formal verification utilities, secure-by-default frameworks, wallet safety tools, and developer-focused security automation.",
+        "positive_signals": [
+          "prevention of common vulnerabilities",
+          "security automation",
+          "analysis or verification tooling",
+          "wallet or key management safety improvements",
+          "protocol-level security enhancements"
+        ],
+        "measurement_rubric": {
+          "1": "Security impact is unclear or incidental.",
+          "2": "Security benefits exist but are narrow or secondary to other goals.",
+          "3": "Provides meaningful security improvements for a specific tool or workflow.",
+          "4": "Widely applicable security tooling that materially reduces developer or user risk.",
+          "5": "Core security infrastructure or tooling that significantly strengthens safety across the entire ecosystem."
+        }
+      },
+      {
+        "problem_id": "devtool_04",
+        "domain": "Developer Tooling & Core Infrastructure",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "level": "problem_type",
+        "problem_statement": "Ethereum’s scaling roadmap requires constant advancement in clients, languages, rollup tooling, data availability systems, statelessness, account abstraction, and protocol readiness. Many of these areas lack the necessary research-to-implementation tooling bridge.",
+        "why_it_matters": "Without strong tooling and infrastructure aligned to the protocol roadmap, scaling improvements stall, developers cannot adopt new capabilities, and fragmentation across L2s increases.",
+        "solution_shape": "Tooling that supports rollups, sharding, EIPs, execution environments, AA flows, and roadmap-aligned improvements. Research-to-production toolchains that enable adoption of new protocol features.",
+        "positive_signals": [
+          "roadmap-aligned tooling",
+          "support for rollups or sharding",
+          "EIP implementation readiness",
+          "account abstraction utilities",
+          "statelessness or data-availability tooling"
+        ],
+        "measurement_rubric": {
+          "1": "Unclear relevance to scalability or protocol evolution.",
+          "2": "Minor or indirect benefits to roadmap-aligned work.",
+          "3": "Provides useful tooling for a scaling component or future protocol feature.",
+          "4": "Directly enables adoption of key roadmap features across the ecosystem.",
+          "5": "Critical enabler of protocol evolution or scaling, with ecosystem-wide utility."
+        }
+      },
+      {
+        "problem_id": "devtool_05",
+        "domain": "Developer Tooling & Core Infrastructure",
+        "name": "Ecosystem Data and Observability Gaps",
+        "level": "problem_type",
+        "problem_statement": "Developers lack accessible, reliable, open-source data analytics, indexing, observability tooling, and onchain insights. Existing data systems are fragmented or proprietary, limiting visibility into application behavior, network performance, and developer productivity.",
+        "why_it_matters": "Poor observability slows debugging, increases operational risks, and reduces developers’ ability to build reliable and scalable applications. A lack of open analytics tools also restricts research and transparency across the ecosystem.",
+        "solution_shape": "Open data platforms, indexing systems, analytics APIs, monitoring tools, and observability infrastructure that help developers understand onchain behavior and system performance.",
+        "positive_signals": [
+          "onchain analytics tooling",
+          "indexing or data APIs",
+          "observability improvements",
+          "performance monitoring",
+          "developer insights dashboards"
+        ],
+        "measurement_rubric": {
+          "1": "Minimal or unclear contribution to data or observability.",
+          "2": "Narrow data features with limited developer relevance.",
+          "3": "Useful analytics or observability tooling addressing specific developer needs.",
+          "4": "Broadly applicable data or monitoring infrastructure that improves reliability and insight.",
+          "5": "Ecosystem-wide observability or data infrastructure that materially enhances transparency and developer capability."
+        }
+      },
+      {
+        "problem_id": "devtool_06",
+        "domain": "Developer Tooling & Core Infrastructure",
+        "name": "Sustainability and Talent Drain",
+        "level": "problem_type",
+        "problem_statement": "Critical maintainers lack stable resources and must balance public goods work with commercial activity. Many teams lack fundraising support or business development capabilities. This results in unstable roadmaps, burnout, and a persistent risk of maintainers abandoning essential public goods.",
+        "why_it_matters": "If key maintainers leave or reduce involvement, the entire ecosystem becomes brittle. Innovation slows, technical debt accumulates, and fragmentation increases as teams rebuild tools independently.",
+        "solution_shape": "Funding models, toolkits, and support structures that strengthen long-term project health. Systems that help maintainers focus on technical work rather than survival, including sustainable pathways for OSS teams.",
+        "positive_signals": [
+          "maintainer support model",
+          "sustainability roadmap",
+          "long-term OSS commitments",
+          "contributor growth",
+          "community governance improvements"
+        ],
+        "measurement_rubric": {
+          "1": "No clear relevance to maintainer sustainability or talent retention.",
+          "2": "Minor contribution to team longevity or contributor support.",
+          "3": "Provides moderate support for ongoing development or maintainer health.",
+          "4": "Creates strong and durable sustainability mechanisms for teams.",
+          "5": "Directly prevents talent drain and meaningfully strengthens long-term viability of core infrastructure."
+        }
+      }
+    ]
+  }
+  

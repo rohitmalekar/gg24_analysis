@@ -1,0 +1,54 @@
+### Bhutan National Digital Identity
+
+DApps
+
+Infrastructure
+
+Education
+
+[0xa82868...2A6ACdDd](https://arbiscan.io/address/0xa82868B656Ce25571A0313661AEC42892A6ACdDd)
+
+[returntodustyou](https://x.com/returntodustyou)
+
+[https://www.bhutanndi.com](https://www.bhutanndi.com/)
+
+[Bhutan-NDI](https://github.com/Bhutan-NDI)
+
+The Bhutan National Digital Identity (NDI) system is a pioneering decentralized digital identity solution created for every Bhutanese citizen to access government and private services safely & seamlessly.It replaces a legacy system relying on a centralized government authority to manage citizen ID data, with one that enables digital sovereignty for every citizen & access to a global community.The NDI platform went live for the public on October 13, 2023. Built on the principles of Self-Sovereign Identity (SSI), it was launched with key unique features like decentralized wallet with verifiable credential issuance and verification, consent based data sharing and Blockchain based verifiable data registry.In a watershed moment, earlier this month, Bhutan NDI successfully launched the integration with the Ethereum blockchain. This grant therefore comes at a critical juncture in evolving our identity network on Ethereum in a resilient, transparent & privacy-preserving way:
+
+-   Strengthening the trust and verification securely without exposing user personal information on the Blockchain.
+-   Integrating with Ethereum Blockchain and the support for delegation keys on chain unlocks many more new use cases like guardianship and controllership wallets along with consent mechanism
+-   Decentralized Identifiers (DIDs) to Ethereum's global network of validators is an opportunity to strengthen our privacy infrastructure such as by introducing Zero-Knowledge Proofs (ZKPs) for attribute verification.
+
+The Bhutan National Digital Identity (NDI) provides every citizen with a secure, decentralized, and highly private digital identity solution based on the Self-Sovereign Identity (SSI) model. Marking a historic national adoption of decentralized public infrastructure, the NDI has successfully integrated with the Ethereum blockchain to enhance its security, transparency, and resilience. By anchoring Decentralized Identifiers (DIDs) and enabling the issuance of Verifiable Credentials (VCs) directly, NDI reinforces its adherence to SSI principles, ---a move lauded by Ethereum's leadership.Ethereum Co-Founder Vitalik Buterin and Ethereum Foundation President Aya Miyaguchi attended the official launch ceremony, affirming that the project is a global benchmark for using open-source technology for public good. This architecture is crucial because it eliminates centralized honey-pots of personal data, giving citizens full control over their information, and enables Zero-Knowledge Proofs (ZKPs) for attribute verification, making NDI a pioneering Privacy Infrastructure aligned with the core mission of the GG24 Privacy Round.
+
+### IMPACT STATEMENTS
+
+Transforming Bhutan's Digital EcosystemBhutan NDI has had a transformative impact on how citizens and organizations interact in Bhutan's digital ecosystem. Its integration with multiple clients across both public and private sectors has made secure, seamless access to online services a reality.Simplifying Access Through Passwordless LoginMany citizen service platforms now feature passwordless login through Bhutan NDI, eliminating the need for multiple usernames and passwords while enhancing convenience and security.Enabling Secure eKYC and Digital OnboardingIn the banking sector, Bhutan NDI has enabled eKYC-based digital onboarding, allowing users to open bank accounts online securely and without paperwork, significantly improving efficiency and accessibility. Similarly, in the telecom sector, citizens can now obtain SIM cards online through eKYC using Bhutan NDI, streamlining the process and reducing the need for in-person verification.Supporting Large-Scale Digital InteractionsA major milestone in Bhutan NDI's impact was its integration into the Gelephu Mindfulness City bond sale platform. Citizens were able to participate in the online bond sale effortlessly---without creating separate accounts or managing passwords---demonstrating the system's ability to facilitate large-scale, trusted digital interactions.Issuance of Trusted Verifiable CredentialsBhutan NDI also enables the issuance of trusted verifiable credentials, such as digital driving licenses, which can be securely stored, verified, and shared by the user when needed. These credentials enhance trust between individuals and service providers while ensuring that personal information remains under the user's control.Blockchain-Based Digital Signature SystemFurthermore, Bhutan NDI has introduced a digital signature system built on blockchain technology (Ethereum blockchain), allowing clients to digitally sign documents with confidence and integrity. The authenticity of these documents can be verified at any time, ensuring tamper detection and reinforcing trust in digital interactions.Driving a Sustainable Digital FutureThrough these innovations, Bhutan NDI continues to shape Bhutan's digital transformation journey---empowering citizens with control over their data, enhancing service delivery efficiency, and supporting the nation's transition toward a sustainable, inclusive, and carbon-neutral digital future.
+
+### CONTRIBUTIONS
+
+Foundation for Bhutan's Digital EconomyBhutan National Digital Identity (Bhutan NDI) has laid the foundation for Bhutan's digital economy by enabling trusted and secure interactions between individuals and organizations. Built on self-sovereign identity (SSI) principles and blockchain technology (Ethereum Blockchain), it empowers citizens to take full control of their personal data---sharing only what is necessary for specific services or interactions on consents.Contributions to Open SourceBhutan NDI has used and actively contributed to the decentralized identity platform called CREDEBL and recently added support for Ethereum Blockchain:
+
+-   did:ethr Plugin for Credo -- Developed a plugin for Credo-ts used by CREDEBL platform that enables seamless support for did:ethr DIDs, allowing issuers, holders, and verifiers to leverage Ethereum-based decentralized identifiers for verifiable credential issuance, verification, and trust management.
+-   Ethereum Schema Library -- Created a library to create schema on Ethereum, enabling issuers to define credential schemas in a secure and standardized way.
+
+Seamless Digital Service IntegrationThrough seamless integration with client platforms, Bhutan NDI has revolutionized access to digital services across multiple sectors. It enables:
+
+-   Passwordless logins for secure and convenient access
+-   eKYC (electronic Know Your Customer) verification for identity validation
+-   Issuance of trusted verifiable credentials for services such as banking, passport applications, and internal government systems
+
+This integration enhances user experience while ensuring privacy, transparency, and data security across all connected platforms.Blockchain-Powered Digital SignaturesBhutan NDI has introduced a digital signature system powered by the Ethereum blockchain, allowing users to securely sign documents and verify their authenticity at any time. This ensures tamper-proof validation, promotes trust in digital exchanges, and increases operational efficiency for both citizens and institutions.Towards a Sustainable Digital FutureBy reducing reliance on physical paperwork, in-person verification, and traditional login methods, Bhutan NDI is driving Bhutan's transition toward a sustainable, inclusive, and carbon-neutral digital future---empowering citizens and strengthening national digital resilience.
+
+CONTRIBUTIONS LINKS[The ethr-credo-module plugin extends Credo.ts to support Ethereum-based decentralized identifiers (DIDs)](https://github.com/Bhutan-NDI/ethr-credo-module)[The ethereum-schema-manager enables issuer to define JSON schema on the Ethereum blockchain](https://github.com/Bhutan-NDI/ethereum-schema-manager)[Bhutan NDI enabled Passwordless Login for Government to Citizen Service](https://www.citizenservices.gov.bt/g2cportal/ListOfLifeEventComponent)[Bhutan NDI enabled eKYC for Bank of Bhutan](https://account.bob.bt/)[Bhutan NDI enabled eKYC for Telecommunication Service Provider](https://www.tashicell.com/online-services/sim-booking-bhutanese)[Bhutan NDI enabled Employment Verifiable Credentials](https://digitrust.thegateway.bt/)
+
+### PAST GRANTS AND FUNDING
+
+GOVTECH AGENCY OF BHUTAN
+
+Partner Fund
+
+3000000
+
+USD

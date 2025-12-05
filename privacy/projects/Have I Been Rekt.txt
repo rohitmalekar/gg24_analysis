@@ -1,0 +1,272 @@
+### Have I Been Rekt - Onchain + Offchain OSINT Automation 
+
+Research
+
+DApps
+
+Infrastructure
+
+Education
+
+[0x78459f...b20b59FC](https://arbiscan.io/address/0x78459f5964779359B0452B44aa68831db20b59FC)
+
+[climaterace](https://x.com/climaterace)
+
+[https://BeenRekt.com](https://beenrekt.com/)
+
+[Pretty-Good-OSINT-Protocol](https://github.com/Pretty-Good-OSINT-Protocol)
+
+Have I Been Rekt (HIBR)
+=======================
+
+Have I Been Rekt is a public-interest, open-source crypto incident response tool that helps users assess whether their wallet has been compromised using open-source intelligence and self-hosted AI. Built on PGOP.After years in the industry including a couple years as a Grant Program Lead at Gitcoin and running a wide range of community building projects around the world we saw so many people get scammed and go looking for help. There are some fabulous security professionals who are often very generous with their time and support, but it occured to me that there are ways we can put allot of the key tools used for onchain investigations as well as more traditional scam detection and investigations. After a lot of time testing different data sets and training an AI model with the help of a public goods oriented server to facilitate the training as well as to help run swarms of agents building this tool.Fun fact: I used Spec Kit Assistant, an optimized version of Githubs Spec Kit with onchain building tools integrated.
+
+* * * * *
+
+Pretty Good OSINT Protocol (PGOP)
+---------------------------------
+
+> "Now not only the bad guys have these tools."
+
+PGOP is a modular, open-source intelligence platform designed to democratize access to advanced investigative tools for journalists, researchers, activists, and public-interest technologists. It combines OSINT, blockchain forensics, and AI-powered automation into one privacy-first, accessible toolkit.
+
+* * * * *
+
+🎯 Current Status: AI-Powered MVP
+---------------------------------
+
+HIBR now features a production-ready deep learning model trained on massive cryptocurrency threat intelligence datasets:
+
+-   96.27% AUC Performance - Custom threat detection model with high level of accuracy in current testing
+-   11MB PyTorch Model - Deep neural network with 6 hidden layers (2048→1024→512→256→128→64 neurons)
+-   12-Feature Analysis - Multi-dimensional risk assessment of addresses, domains, and URLs
+-   Real-Time Classification - Easy to access threat scoring with confidence levels
+-   10+ Intelligence Sources - Trained on Elliptic, Ethereum fraud datasets, OFAC sanctions, and more
+
+* * * * *
+
+✅ Completed Features
+--------------------
+
+### AI Threat Detection System
+
+-   ✅ Deep Neural Network - 6-layer architecture trained on 945k+ Ethereum addresses
+-   ✅ Multi-Source Intelligence - Elliptic datasets, OFAC sanctions, DeFi fraud patterns
+-   ✅ Risk Classification - LOW/MEDIUM/HIGH/VERY HIGH with confidence scoring
+-   ✅ Feature Extraction - 12-dimensional analysis of crypto indicators
+-   ✅ Batch Processing - Efficient analysis of multiple addresses
+
+### OSINT Research Platform
+
+-   ✅ Comprehensive Data Collection - 10+ threat intelligence sources integrated
+-   ✅ Large Dataset Management - Cloud storage & streaming for unlimited data sizes
+-   ✅ Investigation Report Templates - Attack-specific recommendations
+-   ✅ UX Flow Design - Complete user journey from form to actionable report
+
+### Development Infrastructure
+
+-   ✅ Training Pipeline - Automated model training with performance monitoring
+-   ✅ API Service - FastAPI backend with AI model integration
+-   ✅ Docker Support - Containerized deployment ready
+-   ✅ Documentation - Comprehensive guides for contributors
+
+* * * * *
+
+Roadmap & Project Management
+----------------------------
+
+All planning and development is tracked transparently:[GitHub Issues](https://github.com/yourusername/hibr/issues) *(replace with actual link)*
+
+* * * * *
+
+Tech Stack
+----------
+
+### Current Production Stack
+
+-   AI/ML: PyTorch deep learning model (96.27% AUC), Python 3.12
+-   Backend: FastAPI with async processing, `hibr_ai_service.py`
+-   Data Pipeline: Pandas, NumPy, scikit-learn for feature engineering
+-   Intelligence Sources: Elliptic++, Ethereum fraud datasets, OFAC sanctions, [HIBP](https://haveibeenpwned.com/), [Shodan](https://www.shodan.io/)
+-   Storage: Cloud-native with S3/GCS support, Parquet optimization
+-   Deployment: Docker-ready, Python virtual environment
+
+* * * * *
+
+Deployment & Infrastructure (Months 4-6)
+----------------------------------------
+
+### 3.1 Production Hosting
+
+#### Privacy-First Hosting Strategy
+
+-   [CanHost co-op](https://canhost.coop/) (Canada) - Privacy-focused hosting
+-   [Futo Technologies](https://futo.org/) (US) - Open-source aligned
+-   [Hetzner](https://www.hetzner.com/) (EU) - Fallback option
+-   No AWS/Google/Microsoft due to surveillance concerns
+
+#### Infrastructure Setup
+
+-   Kubernetes cluster or Docker Swarm
+-   Load balancing and auto-scaling
+-   SSL/TLS certificates ([Let's Encrypt](https://letsencrypt.org/))
+-   CDN for static assets
+-   DDoS protection
+
+#### Deliverables:
+
+-   Production-ready infrastructure
+-   CI/CD pipeline ([GitHub Actions](https://github.com/features/actions))
+-   Monitoring and alerting ([Prometheus](https://prometheus.io/)/[Grafana](https://grafana.com/))
+-   Incident response playbook
+
+* * * * *
+
+### 3.2 Security Hardening
+
+#### Application Security
+
+-   Penetration testing
+-   Dependency vulnerability scanning
+-   Web application firewall (WAF)
+-   Input validation and sanitization
+
+#### API Security
+
+-   OAuth 2.0 authentication
+-   API key rotation
+-   Request signing
+-   SQL injection prevention
+
+#### Privacy Protection
+
+-   End-to-end encryption for sensitive data
+-   No-log policy implementation
+-   User data anonymization
+-   GDPR-compliant data handling
+
+#### Deliverables:
+
+-   Security audit report
+-   Penetration test results
+-   Privacy policy and terms of service
+-   Data protection compliance documentation
+
+### IMPACT STATEMENTS
+
+Impact Description
+------------------
+
+Have I Been Rekt (HIBR) is already delivering measurable impact across multiple real-world use cases, demonstrating its value as a public-interest security tool.
+
+### Active Deployments & Testing
+
+#### Web3 Privacy Now Repository Audits
+
+HIBR has been deployed to conduct comprehensive opsec tests for all projects in the [Web3 Privacy Now repository](https://github.com/M0nkeyFl0wer/ethereum-cypherpunk-research) as part of a major update focused on Ethereum privacy projects.Key findings have already identified:
+
+-   Code Security Vulnerabilities - Risks in project repositories and dependencies
+-   Website Security Posture - Weak configurations, exposed endpoints, and attack surfaces
+-   Founder & Team OPSEC - Personal security gaps that could compromise project integrity
+-   Infrastructure Weaknesses - Hosting configurations and domain security issues
+
+This proactive security assessment protects both project teams and their users by identifying vulnerabilities before they can be exploited. By systematically auditing privacy-focused projects, HIBR ensures that tools designed to protect users don't inadvertently expose them to risk.
+
+#### Real-World Scam Investigation: Gitcoin GitHub Attack
+
+HIBR's investigative capabilities were recently deployed to research the Gitcoin GitHub scam email attack---a sophisticated phishing campaign targeting community members through a novel attack vector.Investigation outcomes:
+
+-   Attack Vector Analysis - Mapped how attackers compromised GitHub notification systems to send fraudulent emails
+-   Threat Intelligence Correlation - Cross-referenced addresses and domains against our 10+ intelligence sources
+-   Pattern Recognition - AI model identified similar attack signatures across datasets
+-   Community Protection - Findings shared to help community members recognize and avoid the scam
+
+This rapid-response capability demonstrates how HIBR serves as critical infrastructure for the crypto ecosystem, enabling community-led security research without requiring expensive consulting or specialized technical skills.
+
+### Measurable Impact
+
+For Privacy Projects:
+
+-   Systematic security auditing of 20+ Ethereum privacy tools
+-   Early detection of vulnerabilities before public exploits
+-   Enhanced security posture for projects protecting user privacy
+
+For Community Protection:
+
+-   Real-time threat intelligence during active scam campaigns
+-   Democratized access to forensic tools previously limited to security firms
+-   Transparent, open-source investigation methods that build community trust
+
+For Ecosystem Resilience:
+
+-   Public documentation of attack patterns and mitigation strategies
+-   Training data contributions improving AI model accuracy (945k+ addresses analyzed)
+-   Reproducible security research methodology available to all
+
+### Scaling Impact
+
+As HIBR moves toward production deployment with privacy-first hosting and hardened security infrastructure, its impact will scale through:
+
+-   Self-Service Security Audits - Any user can assess wallet compromise without technical expertise
+-   Automated Threat Detection - Real-time classification of HIGH/VERY HIGH risk addresses
+-   Open Research Datasets - Contributing findings back to public threat intelligence
+-   Educational Resources - Teaching opsec best practices through practical tooling
+
+### Long-Term Vision
+
+By making advanced opsec testing and onchain investigation accessible to journalists, researchers, activists, and everyday users, HIBR strengthens the entire crypto ecosystem's defensive capabilities. Our work on Web3 Privacy Now and the Gitcoin scam investigation represents just the beginning of what's possible when security tools are treated as public infrastructure rather than proprietary assets.The goal: Ensure that everyone---not just well-resourced actors---has the tools to protect themselves and investigate threats in the Web3 ecosystem.
+
+### CONTRIBUTIONS
+
+Contribution Description
+------------------------
+
+Good opsec is a critical part of preserving your privacy as well as your security. This tool has been designed to make opsec testing as well as more advanced open source intelligence tools more easily available to all users and to streamline the process of doing onchain investigation and opsec testing of new applications more convenient and effective.
+
+### The Problem
+
+After years in the crypto industry, including serving as a Grant Program Lead at Gitcoin and running community building projects worldwide, we witnessed countless users fall victim to scams with limited resources for help. While generous security professionals often volunteer their time, there's a massive gap between expensive security consulting and the tools everyday users need to protect themselves.The reality: Advanced OSINT and blockchain forensics tools have primarily been accessible only to well-resourced actors---security firms, law enforcement, and malicious actors. Regular users, journalists, researchers, and activists lack access to these critical investigative capabilities.
+
+### Our Solution
+
+Have I Been Rekt (HIBR) democratizes crypto security by combining:
+
+-   AI-Powered Threat Detection - A 96.27% AUC deep learning model trained on 945k+ addresses from authoritative datasets (Elliptic, OFAC sanctions, Ethereum fraud patterns)
+-   Real-Time Risk Assessment - 12-dimensional analysis providing LOW/MEDIUM/HIGH/VERY HIGH confidence scoring
+-   Privacy-First Architecture - Self-hosted AI and no-log policies ensure user data never enters surveillance ecosystems
+-   Open-Source Intelligence Integration - 10+ threat intelligence sources consolidated into one accessible platform
+
+Built on Pretty Good OSINT Protocol (PGOP), HIBR makes advanced investigative tools available to:
+
+-   Users checking if their wallets have been compromised
+-   Researchers investigating DeFi exploits and fraud patterns
+-   Journalists tracking crypto-related crimes
+-   Activists protecting themselves from sophisticated threats
+-   Developers testing application security before deployment
+
+### Key Contributions
+
+Democratizing Security Tools: PGOP's modular, open-source design ensures that "now not only the bad guys have these tools." By combining OSINT, blockchain forensics, and AI automation into one privacy-first toolkit, we're leveling the playing field.Streamlined Onchain Investigation: Our FastAPI backend with async processing enables efficient batch analysis of multiple addresses, complete investigation report templates, and a user-friendly journey from initial form submission to actionable security recommendations.Privacy & Sovereignty: Unlike commercial alternatives, HIBR uses privacy-focused hosting (CanHost co-op, Futo Technologies, Hetzner) with end-to-end encryption, GDPR compliance, and explicit rejection of surveillance-aligned cloud providers (no AWS/Google/Microsoft).Community-Driven Development: All planning and development is tracked transparently on [GitHub Issues](https://gitcoin.privote.live/#), with comprehensive documentation for contributors. We're building public infrastructure, not proprietary software.
+
+### Impact
+
+By making advanced opsec testing and onchain investigation tools accessible, affordable, and privacy-preserving, HIBR empowers individuals and organizations to:
+
+-   Proactively assess wallet security before engaging with new protocols
+-   Investigate suspicious addresses and transactions without technical expertise
+-   Protect themselves from increasingly sophisticated crypto scams
+-   Conduct security research without compromising their own privacy
+
+This contribution strengthens the entire crypto ecosystem by putting defensive tools in the hands of those who need them most.
+
+CONTRIBUTIONS LINKS[Web3 Privacy - Ethereum Cypherpunks Report (draft)](https://github.com/M0nkeyFl0wer/ethereum-cypherpunk-research)
+
+### PAST GRANTS AND FUNDING
+
+GITCON GG23
+
+Other
+
+7420
+
+USD

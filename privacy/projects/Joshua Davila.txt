@@ -1,0 +1,39 @@
+### Joshua Davila
+
+Education
+
+[0xc2fB4B...7aEC902e](https://arbiscan.io/address/0xc2fB4B3EA53E10c88D193E709A81C4dc7aEC902e)
+
+[tbsocialist](https://x.com/tbsocialist)
+
+<https://theblockchainsocialist.com/>
+
+The Blockchain Socialist is a media platform founded by Joshua Dávila that explores the intersection of blockchain technology, digital privacy, and progressive politics. Dávila has produced hundreds of pieces of content through various mediums including writing, podcasts, video and in person presentation that have centered around privacy while nurturing an online community with thousands of members. The platform challenges the dominant libertarian narrative in cryptocurrency spaces by demonstrating how decentralized technologies can serve collective liberation, economic justice, and privacy protection from a left-wing perspective. He is also the author of "Blockchain Radicals: How Capitalism Ruined Crypto and How to Fix It" (2023) published by Repeater Books."An important complement to existing narratives about the technology." - Vitalik Buterin on Blockchain RadicalsMission & ImpactThe platform addresses a critical gap in cryptocurrency discourse by providing accessible, rigorous analysis that connects blockchain technology to broader social and political concerns. Through podcasts, written analysis, video essays, and conference presentations, The Blockchain Socialist has become a key voice for understanding how privacy-preserving technologies can resist surveillance capitalism and support democratic, cooperative economic models in a way that is understandable to non-technical audiences.The platform has established itself as a leading voice on privacy from a progressive perspective, reframing privacy not as an individualist concern but as essential infrastructure for social movements and collective action.
+
+### IMPACT STATEMENTS
+
+Joshua Dávila has established The Blockchain Socialist as a bridge between privacy-preserving technologies and the communities that need them most. By reframing privacy from a progressive perspective, he has expanded the Ethereum privacy ecosystem beyond its traditional libertarian base, demonstrating how these tools serve collective liberation, democratic organizing, and resistance to surveillance capitalism.Here are some of the points that summarise the impact of the platform:Reach: Established podcast with regular episodes reaching thousands of listeners interested in progressive tech politics and over 200k listens across platforms.Education & Adoption: Making privacy technologies accessible to non-technical audiences with over 200 pieces of content across writing, audio and video, much of it related to privacy.Critical Evaluation: Providing rigorous analysis that helps users distinguish between privacy tools that serve different political and social ends.Network Building: Creating bridges between the technical teams building privacy infrastructure and the social movements that need it the most.Cultural Shift: Challenging the libertarian monopoly on privacy discourse, expanding the constituency for privacy technologies.Conference Speaking: Regular presentations at major Ethereum events (Web3Privacy Now, Devcon, Dappcon, Funding the Commons) bringing privacy discourse to mainstream blockchain audiences.Book Publication: Author of "Blockchain Radicals: How Capitalism Ruined Crypto and How to Fix It" with reviews from privacy pioneers like Harry Halpin and Amir Taaki.The Blockchain Socialist demonstrates that privacy is not just a technical feature but a political necessity and that Ethereum's privacy infrastructure can serve the social movements of the future.
+
+### CONTRIBUTIONS
+
+Joshua Dávila has made substantial contributions to privacy advocacy and education in the blockchain space and elsewhere. His work spans multiple formats and audiences, consistently exploring how privacy-preserving technologies can serve a progressive politics.Through his podcast, Dávila has produced extensive content covering critical privacy infrastructure including mixnets (Nym), anonymous DeFi networks (DarkFi), decentralized identity systems that avoid biometric surveillance (Holonym, Idena), privacy preservation mechanisms (Privacy Pools), censorship-resistant voting protocols (Vocdoni, Aragon), and decentralized alternatives to surveillance platforms (Fileverse). His conversations with figures like Amir Taaki and Harry Halpin have explored why anonymity and privacy are fundamental to democratic organizing.He has given conference presentations that directly address the relationship between privacy and solidarity. At the Web3Privacy Now Berlin Meetup in 2024, he explored "The tension between privacy and solidarity," and presented at the Web3Privacy Now track at Dappcon 2025 outlining a framework for solidarity primitives. He led the panel for "Turning Degens Into Cypherpunks" panel at the Ethereum Cypherpunk Congress in Bangkok demonstrating his commitment to shifting crypto culture toward privacy consciousness.Through his book "Blockchain Radicals: How Capitalism Ruined Crypto and How to Fix It," Dávila provides a comprehensive critique and vision for how privacy and decentralization can serve progressive political goals, expanding the discourse beyond typical libertarian framings to demonstrate privacy's essential role in resisting surveillance capitalism and enabling grassroots organizing.
+
+CONTRIBUTIONS LINKS[Mix Nets and Crypto: Privacy on the Internet Beyond Tor with Nym](https://theblockchainsocialist.com/mix-nets-and-crypto-privacy-on-the-internet-beyond-tor-with-nym/)[Holonym: Digital Identity without Scanning your Eyeballs](https://theblockchainsocialist.com/holonym-digital-identity-without-scanning-your-eyeballs/)["OTNS: DAOs and Decentralized Mafias" (includes discussion of Privacy Pools)](https://theblockchainsocialist.com/otns-daos-and-decentralized-mafias/)[Idena: Digital Democracy without a Centralized Entity](https://theblockchainsocialist.com/idena-digital-democracy-without-a-centralized-entity/)[Lunarpunk, Black Markets, and Agorism in the 21st Century](https://theblockchainsocialist.com/lunarpunk-black-markets-and-agorism-in-the-21st-century/)[Let there be DarkFi and Anonymity (Interview with Amir Taaki)](https://theblockchainsocialist.com/let-there-be-darkfi-interview-with-amir-taaki/)[All my friends hate Google Docs with Andreas Tsamados](https://theblockchainsocialist.com/all-my-friends-hate-google-docs-with-andreas-tsamados/)[Nepal, DAOs and Secret Voting with Aragon CEO Leuts.eth](https://theblockchainsocialist.com/nepal-daos-and-secret-voting-with-aragon-ceo-leuts-eth/)[How to Run an Election without the State with Vocdoni](https://theblockchainsocialist.com/how-to-run-an-election-without-the-state-with-vocdoni/)[Blockchain Governance: North Korea, Tornado Cash, and Trust](https://theblockchainsocialist.com/blockchain-governance-north-korea-tornado-cash-and-trust/)["The tension between privacy and solidarity" (Web3Privacy Now Berlin Meetup 2024)](https://www.youtube.com/watch?v=j2rD1DCuznI)["Solidarity Primitives" (Dappcon / Web3Privacy Now 2025)](https://www.youtube.com/watch?v=woRkyy9ougs)["Turning Degens Into Cypherpunks" panel (Ethereum Cypherpunk Congress)](https://www.youtube.com/watch?v=wzGhjGHHgWE)["Blockchain Radicals: How Capitalism Ruined Crypto and How to Fix It" (Repeater Books)](https://repeaterbooks.com/product/blockchain-radicals-how-capitalism-ruined-crypto-and-how-to-fix-it/)
+
+### PAST GRANTS AND FUNDING
+
+PATREON DONATIONS
+
+Other
+
+15000
+
+USD
+
+OPTIMISM RETRO FUNDING
+
+Other
+
+50000
+
+USD

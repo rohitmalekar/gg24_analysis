@@ -1,0 +1,108 @@
+### Eppie: p2p email that connects Ethereum, Gmail and more 🦄
+
+DApps
+
+Infrastructure
+
+[0x26938B...3E4D1fE3](https://arbiscan.io/address/0x26938B1A8f0B70e78a9FE03810eddeb03E4D1fE3)
+
+[eppieapp](https://x.com/eppieapp)
+
+[https://eppie.io](https://eppie.io/)
+
+[Eppie-io](https://github.com/Eppie-io)
+
+Eppie --- a privacy-first P2P email that works with Gmail, Proton, Ethereum, and more🦄
+=====================================================================================
+
+Eppie is an encrypted peer-to-peer email where privacy is not an option but the foundation. Eppie supports both traditional email (Gmail, Outlook, Proton, etc.) and crypto addresses. You can turn your Ethereum address into a private inbox and receive secure messages from Gmail! No private data ever lands on any server. And we're getting ready to launch public Testnet!Support development with Gitcoin Grants 24!🚀
+
+Designed differently⚙️
+----------------------
+
+We're shifting email from provider-centric approach to a user-owned one, offering state-of-the-art privacy and control over communication. Messages are end-to-end encrypted using ECIES (secp256k1), fragmented, and distributed across the network. No one -- not even us, Eppie's developers -- can access user data or trace communications. Here's how Eppie works compared to traditional centralized mail system:
+
+-   Provider-rented address → User-owned crypto-like address;
+-   Emails routed through a provider → Emails transmitted peer-to-peer;
+-   Data stored on provider's server → Local and decentralized storage;
+
+📢 See what people are saying about us: [[Email is Silly --- Owning Your Own Email Address | by Prof Bill Buchanan OBE FRSE | Medium]](https://billatnapier.medium.com/email-is-silly-owning-your-own-email-address-23e0cebda9d7)
+
+Key Features
+------------
+
+-   🔒 Privacy-first: everything is encrypted by default using elliptic curve and AES-256 encryption.
+-   ✨ Web3 Interoperability: communicate easily with Ethereum and Bitcoin networks (live on Testnet). Other networks are coming soon.
+-   📬 IMAP/SMTP compatible: works seamlessly with Gmail, Microsoft Outlook, etc.
+-   🔑 Proton Mail Support: Eppie is the first native desktop client to support Proton Mail.
+-   🌎 Works on all major platforms: Windows, macOS, Linux. iOS and Android coming soon.
+-   🤖 Local AI agents: they run locally, no data ever leaves your device.
+-   💎Claim short unique aliases for your addresses.
+-   ❤️ User-friendly and thoughtfully designed.
+
+What's new⚡
+-----------
+
+Eppie is an ambitious project, much is still ahead. But we're moving fast. Here's what's new from the last Gitcoin round:
+
+-   Local AI Agents (live & public): make email smarter with semantic search, spam protection, and translation --- all while keeping your data private. [Read more](https://medium.com/@eppie.app/local-ai-assistant-in-email-how-to-use-5e10e1e219fe)
+-   Decentralized Addresses (live on Testnet): use hybrid addresses to exchange messages between Eppie and regular email. [Read more](https://hackernoon.com/a-letter-to-a-public-key-rethinking-email-address-ownership)
+-   Ethereum Addresses (live on Testnet): create or use your Ethereum addresses to send and receive emails seamlessly.
+-   Bitcoin Addresses (live on Testnet): use your existing Bitcoin addresses for messaging, or generate a new one. [Read more](https://medium.com/@eppie.app/sending-emails-from-gmail-to-bitcoin-194106707321)
+-   Aliases (live on Testnet): give your decentralized and crypto addresses short, easy-to-read names without central registry.
+
+Sending email from Gmail to Ethereum address: [Video](https://youtu.be/0y95McOB9sw) <https://youtu.be/0y95McOB9sw>
+
+Exciting Future Possibilities🔥
+-------------------------------
+
+-   Connect and communicate using your ENS name.
+-   Attach crypto payments directly to emails.
+-   Use local AI agents to help with negotiations, inbox organization, translation, and more.
+
+The Team👨‍💻🐈
+---------------
+
+We are 10 nerds with a passion for decentralized web. We have over 10 years of experience building multi-platform applications and expertise in crypto technologies.
+
+Open Beta Roadmap📍📍📍
+-----------------------
+
+-   Decentralized account creation ✅
+-   Decentralized address system ✅
+-   E2E encryption ✅
+-   Traditional email support ✅
+-   Ethereum address support ✅
+-   Bitcoin address support ✅
+-   [Windows app on Microsoft Store](https://apps.microsoft.com/detail/9n90htgx54z0?hl=en-GB&gl=EN) ✅
+-   [Linux app on Snap Store](https://snapcraft.io/eppie) ✅
+-   MacOS app on AppStore 🏗️
+-   Closed Testnet (subscribers only)🏗️
+-   Public Testnet🏗️
+-   Decentralized messaging 🏗️
+-   Decentralized backup support 🏗️
+
+Join us 🤝
+----------
+
+Access our source code on GitHub and help us build a truly revolutionary email experience! Latest builds for Linux and macOS are already out. We welcome your feedback and contributions! And we'd love to see your stars on GitHub! ⭐⭐⭐[GitHub](https://github.com/Eppie-io/Eppie-App) | [Subscribe](https://eppie.io/)
+
+### IMPACT STATEMENTS
+
+Eppie is still in the prototype stage, but we've already demonstrated tangible progress and early adoption. Our preview desktop app for Windows, Linux, and macOS has attracted over 1,500 active users who test encryption, Proton Mail integration, and early decentralized messaging features. This growing community provides valuable feedback that helps us refine the app before public Testnet launch.
+
+### CONTRIBUTIONS
+
+Eppie contributes to the Ethereum ecosystem by developing open, privacy-preserving communication infrastructure. It introduces a decentralized messaging protocol that connects Ethereum addresses, wallets, and users through encrypted peer-to-peer channels. By enabling wallets to act as secure mailboxes, Eppie expands Ethereum's utility beyond transactions -- into private human-to-human and dApp-to-user communication. Also, Eppie lowers the entry barrier to Web3 by letting anyone create and use an Ethereum address directly from their email app --- bringing new users into the Ethereum ecosystem through everyday communication. All code and specifications are open source and can be reused by other developers to build privacy tools or integrate secure messaging into their apps.
+
+CONTRIBUTIONS LINKS[Open-source p2p email.](https://github.com/Eppie-io/Eppie-App)[Sending email from Gmail to Ethereum address](https://youtu.be/0y95McOB9sw)
+
+### PAST GRANTS AND FUNDING
+
+GITCOIN GRANTS
+
+Other
+
+10000
+
+USD

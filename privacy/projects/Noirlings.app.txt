@@ -1,0 +1,33 @@
+### Noirlings.app
+
+Education
+
+[0xAdea33...57cd0D4d](https://arbiscan.io/address/0xAdea33469fCa95164Be08aaD4DfF7FD457cd0D4d)
+
+[andeebtceth](https://x.com/andeebtceth)
+
+<https://www.noirlings.app/>
+
+[0xandee](https://github.com/0xandee)
+
+Noirlings.app is an open-source, web-based interactive tutorial platform for the Noir programming language.Built on the existing Noirlings CLI inspired by Rust's Rustlings and Starknet's Starklings App, it enables developers to complete interactive Noir coding exercises directly in the browser, with instant feedback, automated verification, and helpful hints - all without any local setup.The goal of Noirlings.app is to accelerate Noir developer onboarding by making the learning process engaging, hands-on, and frictionless. It targets both newcomers and experienced developers seeking to strengthen their Noir skills through structured practice. The platform will include comprehensive documentation, automated testing for each exercise, and be released under a permissive MIT license.By lowering the entry barrier and improving the overall Noir developer experience, Noirlings.app contributes to the open-source privacy ecosystem, helping more developers build ZK-powered applications. This aligns with Gitcoin's mission of supporting public goods and strengthening the privacy and developer tooling ecosystem.![screenshot](https://github.com/user-attachments/assets/84ce4f10-cfdf-4766-9ddf-df9ba7837b23)
+
+### IMPACT STATEMENTS
+
+Noirlings.app directly addresses a critical gap in Noir's developer ecosystem: the lack of an interactive, beginner-friendly learning platform.Since its launch at NoirHack 2025, Noirlings.app demonstrated strong initial traction:
+
+-   200 early sign-ups within the first week.
+-   10+ daily active users (DAU) sustained post-hackathon.
+
+![statistics](https://github.com/user-attachments/assets/86d907f9-3dfc-4f37-96c2-8e26ff2507c1)Shared and recognized across the Noir, Aztec, and ZK developer communities.![testimonials](https://github.com/user-attachments/assets/667c1648-2628-438f-9654-28361f643652)Noirlings also earned the Developer Onboarding Excellence Award and Technical Excellence Award at NoirHack 2025, judged by Worldcoin, StarkWare, and Paradigm. This recognition underscores how major infrastructure and research teams view Noirlings as critical developer onboarding tool for ecosystem growth --- reducing the average onboarding time from 30 minutes to just 1 minute.![proof-of-winning](https://github.com/user-attachments/assets/704a668c-e06e-4b81-acfe-fa22db5412dd)
+
+### CONTRIBUTIONS
+
+-   Remove environment setup friction, enabling instant, browser-based learning.
+-   Reinforce core Noir concepts through interactive practice, complementing official documentation.
+-   Expanded the Noir developer base by attracting hands-on learners.
+-   Integrated live Noir compiler & proof verification directly in the browser.
+-   Provided a structured curriculum for learning Noir, currently have 35 basic modules and 35 advanced modules.
+-   Added automatic exercise validation + progress tracking via Github.
+
+CONTRIBUTIONS LINKS[Github repo](https://github.com/0xandee/noirlings-app)[Application link](https://www.noirlings.app/)

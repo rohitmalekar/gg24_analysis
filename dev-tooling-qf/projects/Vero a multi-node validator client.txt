@@ -1,0 +1,21 @@
+Vero is a multi-node validator client designed to protect validators from client bugs. It does this by cross-checking the blockchain state across multiple client implementations before submitting attestations.
+
+How does Vero help Ethereum?
+
+Voting for an incorrect chain can have disastrous for Ethereum validators – in the worst case, all of their locked up ETH can get slashed. By using Vero, Ethereum validators can avoid voting for an incorrect chain by getting a sort of "second opinion" before they attest.
+
+Is Vero production-ready?
+
+Yes, Vero is production-ready! Vero is already making over thirty thousand validators more resilient to client bugs, across both Ethereum and Gnosis Chain.
+
+What is coming up for Vero?
+
+As a validator client, Vero needs to stay up-to-date with the latest network upgrades. We have recently added support for the upcoming Fusaka network upgrade, and will start working on the Glamsterdam network upgrade soon.
+
+Where can I find out more?
+
+Check out the talks on Vero from EthCC 2025, Lido's Node Operator Community Call or EthStaker's Community Call.
+
+For a more hands-on session you can check out the Vero workshop from Dappcon 2025.
+
+Learn more about Vero in the introductory blog article or in the official docs!

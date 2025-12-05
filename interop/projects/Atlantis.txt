@@ -1,0 +1,72 @@
+A Home for Changemakers 🔱🌏
+
+
+
+Building coordination tech accelerating social and climate action 🤝
+
+
+
+Introduction to Atlantis
+Atlantis is a borderless peer to peer impact network.
+
+
+
+We build a range of tools for initiating, implementing, measuring, reporting, validating and funding the impact of climate and social projects. Our aim is to make it easier for NGOs, Social Enterprises, Impact DAOs to digitise their impact creation, ops, fundraising & team management.
+
+
+
+Our products and services are geared to make existing organizations effective while making it easier for new organizations to bloom.
+
+
+
+Mission
+Accelerating Resilience and Regeneration
+Our mission is two fold, on one side Resilience, with rising climate shocks we will need to defend our water, food, energy supply lines. Defend them from floods, droughts, wildfires and other climate events.
+
+
+
+On the other side is Regeneration. While we build resilience to mitigate climate change and adapt to it, we also need to actively accelerate removal and reduction of GHG by making regenerative life support systems more accessible.
+
+
+
+
+
+
+Vision
+
+
+We dream of a future where humans finally decouple progress from the current degenerative systems to more regenerative systems. A future where we realize there is no economic wellness without ecological wellness. Like Buckminster Fuller says, what we need is a design revolution, one which will make it possible for Spaceship Earth to work for ALL.
+
+
+
+Accelerating the coordination and creation of credible impact. End to end impact workflow on-chain.
+
+
+
+
+
+
+
+Current Status:
+Open Sources Modules: Atlantis is expanding its open-source impact infrastructure with the Impact Certificate Miner (ICM), a protocol for minting verifiable proof-of-impact certificates across Ethereum and its L2s. Explore the docs → icm-docs.atlantisp2p.com Code → github.com/AtlantisDAO1/project-impact-certificate-mint-api
+Launched 'Impact Foundry' with support for GP dNFT campaign.
+Working on the design of Impact Miner 2.0.
+Alfred v2.0 is in-progress. Alfred is an AI-powered assistant designed to create impactful, measurable, and actionable bounties for climate and sustainability initiatives, and help in validation of bounty submissions.
+Launched Impact Landscapes, one of Atlantis' product that helps fund outcomes in different parts of the world.
+Presented an in-depth report in multiple forums. The report was prepared in collaboration with CCI (Crypto Council for Innovation) and MCV (Mercy Corps Ventures) of the Pilot in Rural India that proves how Atlantis' coordination tech can be used for developing peer to peer resource management networks.
+
+
+Team
+
+
+
+
+Milestones (4-6 months)
+
+"""Extend schema with SDG sub-targets, deploy oracle-backed validation, upgrade cross-chain contracts, and release SDKs and dashboards. Launch public explorer for browsing and analyzing certificates.
+
+Atlantis Impact Certificate Minter (ICM) extends the Open Intents vision into verifiable climate and social impact. By defining ERC-7683-compatible “ImpactIntent” schemas and integrating with intent routers for multi-chain settlement, we aim to make impact coordination composable across the Ethereum interoperability stack. Certificates, attestations, and oracle proofs will become interoperable outcomes of onchain intents. For example, certificates be minted after successful intent fulfillment like “Fund tree-planting in Rajasthan verified by oracle X and certified under SDG 13.”"""
+
+Please example how your project meets the round-specific eligibility criteria.
+
+ICM defines open metadata standards for verifiable impact, runs on Ethereum L2s, and provides APIs, SDKs, and templates for developers. It promotes transparency, replicability, and open participation, core goals of the round.

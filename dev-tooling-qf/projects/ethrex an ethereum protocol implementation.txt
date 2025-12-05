@@ -1,0 +1,161 @@
+What is Ethrex?
+
+Ethrex is a minimalist, stable, modular and fast implementation of the Ethereum protocol in Rust. No complex integrations. No steep learning curves. Just a fast, secure path to deploying crypto infrastructure with confidence and control.
+
+The client supports running in two different modes:
+
+Ethrex L1 - As a regular Ethereum execution client
+
+Ethrex L2 - As a multi-prover ZK-Rollup (supporting SP1, RISC Zero and TEEs), where block execution is proven and the proof sent to an L1 network for verification, thus inheriting the L1's security. Offering a one-click, production-ready blockchain stack designed for real-world scale, fully customizable, stablecoin-ready. This includes support for based rollups.
+
+What makes Ethrex different from other Ethereum execution clients?
+
+Ethrex, developed by LambdaClass, lowers the barrier to entry. It offers a one-click, production-ready blockchain stack designed for real-world scale—fully customizable, stablecoin-ready.
+
+The more we got involved in the crypto space and used its tools and codebases, the more we realized that most of them had more complexity than we were comfortable with; sometimes even actively seeking it as part of their development process. Libraries with dozens of modules to modularize even the slightest things, APIs with tons of traits and generics looking to abstract every contingency, macros used to (debatably) save lines of code at the cost of readability, these are all inconveniences we and others have to constantly deal with when integrating with crypto repositories.
+
+Ethrex is our attempt at solving this.
+
+Minimalist by Design
+
+~62k lines of Rust code with low abstraction compared to other clients being around 200k, easy to maintain and audit. Our approach heavily leans into vertical integration and minimalism, ensuring we have control over the whole stack while keeping it as simple as possible. While others are trying to add more lines of code and more dependencies we are always looking to reduce these.
+
+- Minimal dependencies and modular design keeps the code lightweight and easy to extend.
+- Avoid unnecessary abstractions and generics. Code is repeated when it improves clarity. Readability and reliability take priority.
+- Concurrency is only used when absolutely needed—reducing complexity and risk in production systems.
+
+Rust based
+
+We use Rust as the programming language due to its high performance, security guarantees and availability of zero knowledge libraries and tools that allow us to generate proofs of its execution smoothly.
+
+Ethrex L1
+
+Why use Ethrex as an L1 Ethereum Operator?
+
+- Active development by a fast paced team
+- Lean codebase, easy to maintain and audit
+- Adds diversity to the Ethereum execution layer
+- Optimized for performance, simplicity, and extensibility
+
+A project’s speed of execution, resilience to errors, and security risks strongly depend on the simplicity of the underlying technology. This simplicity as a software requirement must not only be present in the source code but also enforced by the development processes that produce it. Ethrex’s codebase is designed to be minimalistic, choosing the simpler and absolutely necessary abstractions, and keeping track of the size of the codebase. We also keep dependencies to the minimum necessary. These characteristics ensure that the codebase is simpler to understand, easier to maintain and audit, and reduces bugs and the attack surface.
+
+However, simplicity and minimalism is not just about making developer experience easier. The fewer the lines of code, the easier it is to maintain the code, to find bugs or vulnerabilities, and to spot possible performance bottlenecks and improvements. It also reduces the attack surface for security vulnerabilities to be there in the first place.
+
+Ethrex L2
+
+Why use Ethrex for your Ethereum L2 Rollup?
+
+From the beginning, Ethrex was conceived not just as an Ethereum L1 client, but also as an L2 (ZK-Rollup) client. This means anyone can use Ethrex to deploy an EVM equivalent, multi-prover (supporting SP1, RISC Zero and TEEs) based rollup with just one command.
+
+- ZK & TEE Ready - Native support for secure scaling via Zero-Knowledge Proofs and Trusted Execution Environments.
+- Support for Based Rollups - Enables alignment with L1 Ethereum proposers, minimizing MEV and enhancing security.
+- Community Driven - Fully open-source, with an active dev team.
+- Easy Deployments - One-click deployments with support for ZKP and TEEs
+
+L2 rollups usually depend on the company that develops it, causing technological lock-in and difficulty in updating and maintaining features. Since an L2 is just a blockchain that is connected to another via a secure bridge, it would be desirable to reuse most of the code and functionality from the L1 client, avoiding code repetition and making updates simpler.
+
+In addition, with the rise of general-purpose ZK virtual machines, it is easier to deploy a zk-rollup, since the cryptography is handled by teams of experts in the field, exposing easy-to-use libraries and tools so we can focus on the rest of the infrastructure.
+
+Anyone can use Ethrex to deploy an EVM equivalent, multi-prover (supporting SP1, RISC Zero and TEEs) based rollup with just one command. They can also use it to deploy their own L2, with the choice of deploying it as a Validium, a based Rollup or a regular ZK Rollup.
+
+We also made sure that the L2 stack retains the exact same interface as regular Ethereum. For this, we reused most of the code from our Ethereum L1 client to build the L2, and in the few cases where we had to add new features or deviate from the standard, we took extra care not to break user interfaces. Tools for writing and deploying contracts, front end tools and applications for observability, common L1 protocols, all work out of the box on the L2 stack. Additionally, if you need to run an L1 client alongside your L2 (for example, in some based rollup designs) you gain the simplicity of running Ethrex as both, the same codebase, even the same binary.
+
+Why use Ethereum?
+
+Ethereum, launched in 2015, extended blockchain capabilities by introducing smart contracts, allowing developers to build decentralized applications (dApps) with the full expressive power of mainstream programming languages. Originally based on proof-of-work, Ethereum has since transitioned to proof-of-stake for greater energy efficiency. Its primary goal is to be a general-purpose execution layer for decentralized computation, with security and decentralization as top priorities—sometimes at the expense of scalability
+
+Instead of scaling the base layer directly, Ethereum offloads execution to independent L2 solutions that process transactions off-chain and settle on Ethereum’s secure, decentralized L1.
+
+This modularity allows Ethereum to scale horizontally, with each rollup free to specialize—optimizing for cost, speed, privacy, or programmability—while still inheriting Ethereum’s strong security guarantees through its proof-of-stake consensus. As the infrastructure for L2s matures, Ethereum’s design enables it to rival or even surpass monolithic chains in throughput, without compromising on decentralization.
+
+Key Ethereum features:
+
+- censorship resistant: Anyone can participate; no central party can block valid transactions.
+- credibly neutral: The protocol treats all users and applications equally, ensuring a level playing field even in times of high uncertainty and rapidly changing international orders.
+- maximum liquidity: The largest on-chain liquidity across stablecoins, lending, and DEXs enables deep financial interoperability.
+- mature developer tooling: Rich ecosystem of tools, infra providers, and open-source libraries.
+- long-term planning: Ethereum offers a long-term roadmap with scalability and security in mind.
+- high availability: 100% uptime since the beginning —even during upgrades and high-load events.
+
+Ethereum’s Economy
+
+Today, Ethereum has the biggest economy in the blockchain ecosystem as it’s shown by different metrics of adoption from the issuance of assets, like stablecoins and real-world assets, and also by the maturity of different financial services built on Ethereum like decentralized exchanges and money markets.
+
+This maturity is reflected in the following numbers:
+
+- $9B+ Real World Assets have been minted on Ethereum. Representing more than 65% of the RWA market share.
+- $122B+ Stablecoins have been issued on Ethereum. Representing almost 50% of the entire Stablecoin market share.
+- Ethereum’s DeFi ecosystem has more than $74B in TVL
+
+Why build an Ethereum L2 Rollup?
+
+While any user can submit transactions to Ethereum (or any L1), this is not convenient for every transaction, since:
+
+- The throughput of the L1 depends on the weakest nodes
+- The transaction costs can be quite high due to network congestion and operation costs, limiting application to transactions with acceptable value/fee ratios.
+
+One way to increase the throughput and reduce transaction costs is by running a rollup: a blockchain that is connected to another blockchain via a secure bridge. This sidechain keeps track of its own state and submits batches of transactions to the L1. Users send transactions to a sequencer, who organizes them in blocks and executes them. Periodically, the sequencer submits a batch of transactions from the L2 to the L1 for confirmation and to update its state in the L1. Once the L1 accepts and confirms the batch, the state is updated, and the transactions are finalized.
+
+These rollups can run on more powerful hardware and do not need the same degree of decentralization as the L1. This allows you to scale the throughput significantly. Moreover, costs are significantly lower, since the cost of running the L2 and settling in the L1 is split among the transactions contained in a batch (that can contain several hundred transactions).
+
+ZK Rollups
+
+Several solutions to these trust and scaling issues have been explored, but Zero-Knowledge Proofs (ZKP) are emerging as the most promising. ZKPs are cryptographic primitives that allow one party, the prover, to convince another party, the verifier, that a given statement is true without revealing anything other than the validity of the statement.
+
+In the context of blockchain rollups, ZKPs can be applied to scale the network but still retain the trust in the results by recording the transaction data and associated proof on the main network. The validity of the transactions is enforced by the cryptographic properties of the zero-knowledge proofs and the protocol between sequencers, provers, and verifiers; in particular the proof can be verified much faster than transaction re-execution, allowing the blockchain to process multiple transactions without having each node to re-run them. As the ZK technology stack has matured, proving and verifying costs have decreased, enabling more use cases and application opportunities within the digital finance system and moving it towards higher trust, throughput, and lower latency, making it a guaranteed core component of future financial systems.
+
+Why build a Based Rollup?
+
+The issue with Centralized Rollups
+
+The straightforward way to create a ZK-rollup is to have a centralized sequencer node that orders user transactions and updates the state of the blockchain. At some point, another process can generate a zk-proof that will be sent to Ethereum to show that the state has been updated correctly. This constitutes a centralized rollup, in which we can consider transactions to be finalized when the proof arrives on Ethereum.
+
+While this approach is secure and widely used, this network does not provide the same strong guarantees of censorship-resistance and liveness as Ethereum.
+
+Censorship-resistance means that even though the rollup cannot lie, it may decide not to include a transaction. While mechanisms can be added for users to force the withdrawal of their funds, it's harder to guarantee that more complex operations will never be censored.
+
+Liveness means that the service may halt if a centralized entity, the one that is running the rollup, encounters an operation problem, comes under attack, or decides that it no longer cares about the product
+
+Based Rollups as a solution
+
+To address the aforementioned issues, based rollups were proposed. This new rollup architecture decentralizes the sequencer such that multiple entities can run the L2 network together. Through economic mechanisms, the chain can decide who updates the chain for a designated amount of time. When the time is up, another entity can take the next time slot.
+
+This makes censorship harder, since as long as one entity is willing to include a user’s transaction, it will at some point be included in the chain. Liveness is improved as well, since as long as one entity is willing to process transactions, the chain will be kept alive.
+
+For all of this to work, it's important to note that the decision of who is sequencing, i.e. which is the next state of the network, is made in Ethereum. This is how the rollup inherits Ethereum’s liveness guarantees.
+
+Based Rollups solve additional problems
+
+Additionally, based rollups help to solve a problem we call liquidity fragmentation. This is when user assets are distributed between many L2s that are not easily connected to each other, hurting interoperability and usability.
+
+By designing the system to be sequenced on Ethereum, all networks now have a fast way to check the status of any other networks through it, without waiting for the proofs.
+
+Furthermore, these systems can help create what we call pre-confirmations. We can think of them as a promise from the current sequencer that they will perform certain actions, like including a transaction. When this promise is backed by economic incentives, other systems can optimistically consider them to be done, and user experience is greatly improved.
+
+LambdaClass, developers of Ethrex
+
+LambdaClass is a technology venture studio with over a decade of experience building distributed systems, compilers, machine learning, and applied cryptography. We are a results-oriented engineering group that enjoys choosing technical challenges with practical applications for the real world over projects with a focus on short-term profitability. Our recent project launches show that our collaborative approach to partnerships net consistent and lasting results for our partners.
+
+We believe crypto has been incredibly successful at providing a trustless financial layer for the 21st century. That is one of the reasons why, over the last few years, we have been committed not only to building a variety of solutions that scale Ethereum and other blockchains but also to promoting its long-term viability.
+
+We have successfully executed and deployed code into production, securing billions of dollars across major blockchain ecosystems, including Ethereum, Polygon, Miden, Starknet, zkSync, Mina Bridge, EigenLayer, and Aligned Layer. In parallel, we’ve advanced cutting-edge research at the intersection of AI and blockchain through our collaboration with Nous Research on Solana—while continuing to focus on Ethereum as the primary platform for scaling secure, decentralized infrastructure.
+
+Learn More
+
+Ethrex
+
+Web Page - https://ethrex.xyz/
+
+Docs - https://docs.ethrex.xyz/
+
+Github Repo - https://github.com/lambdaclass/ethrex/
+
+LambdaClass
+
+https://blog.lambdaclass.com/lambdas-engineering-philosophy/
+
+Contact Us
+
+E-mail - ethrex@lambdaclass.com
+
+Telegram - https://t.me/ethrex_client

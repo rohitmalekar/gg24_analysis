@@ -1,0 +1,10 @@
+{
+    "round_name": "Interop Standards, Infra and Analytics",
+    "description": "The Interop Standards, Infra & Analytics Domain exists to strengthen Ethereum’s multi-chain future by funding the open standards, infrastructure, analytics, and pilots that make interoperability possible.",
+    "fields": {
+      "mechanism": "Quadratic Funding",
+      "funding_pool": "$100,000",
+      "number_of_grantees": 22
+    }
+  }
+  

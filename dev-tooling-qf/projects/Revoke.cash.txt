@@ -1,0 +1,11 @@
+Hey all, we're building free and open source tools to help you stay safe in web3! 👋
+
+To use tokens in decentralised applications such as Uniswap you have to grant the application permission to spend tokens on your behalf - known as a token approval. Token approvals are an important part of using these apps, but can be dangerous if left unchecked.
+
+Bugs can exists and exploits can happen even in established projects, and by granting token approvals you are potentially exposing your wallet to these exploits. To keep yourself safe from exploits it is a good practice to regularly inspect and revoke your approvals.
+
+Revoke.cash comes in as a preventative tool to manage your token approvals and practice proper wallet hygiene. By regularly revoking active approvals you reduce the chances of becoming the victim of exploits.
+
+In many cases, phishing websites try to make you sign an approval while they pretend to be an NFT mint or other legitimate use cases. When these phishing scams happen, it is recommended to use Revoke.cash to mitigate the damage, but it is even better to prevent the scam in the first place.
+
+This is where the Revoke.cash Browser Extension comes in. The extension pops up whenever you are about to sign an approval and will inform you of the approval's details. This can help you prevent signing malicious approvals.

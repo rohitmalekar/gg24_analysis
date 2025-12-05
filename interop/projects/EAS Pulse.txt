@@ -1,0 +1,81 @@
+EAS Pulse is a free, and open-source analytics platform that makes Ethereum Attestation Service (EAS) data comprehensible, transparent, and actionable for everyone – from developers building the next generation of trust infrastructure to analysts tracking ecosystem growth. 
+
+ 
+
+🌟 What Makes Us Different  
+Born from a hackathon project at ETHGlobal’s SuperHack 2024, EAS Pulse has evolved into the analytics backbone for one of Ethereum’s most promising primitives. We are building the data infrastructure that helps the entire EAS ecosystem understand adoption patterns, identify opportunities, and make informed decisions. 
+
+ 
+
+📊 Why EAS Pulse Matters 
+Ethereum Attestation Service represents a paradigm shift in how we establish trust and verify claims. Yet without clear visibility into how attestations are being used across chains and applications, the ecosystem operates in the dark. 
+
+
+
+EAS Pulse solves this by:
+
+Visualizing adoption trends across networks and attestors 
+Revealing opportunities 
+Enabling open data reuse, with every query publicly forkable on GitHub and Dune 
+Promoting transparency in projects using EAS (e.g., Coinbase Verifications, Human Passport, and others) 
+Supporting innovation by helping projects understand what’s working and where gaps exist 
+
+
+
+
+
+
+ 
+
+🚀 Impact & Traction 
+Since launching, we’ve become a trusted resource for the EAS community:  
+
+10k+ monthly API calls from developers and analysts 
+220+ followers on X engaging with our insights 
+160+ stars on Dune Analytics, demonstrating data analysts' adoption 
+Participated in Gitcoin GG22 Hackathon Alumni and GG23 Developer Tooling rounds 
+ 
+
+🛠️ What We Offer 
+Current Features: 
+
+Multi-Chain Coverage: Analytics across Arbitrum, Base, Celo, Ethereum, Linea, Nova, Optimism, Polygon, Scroll, and zkSync Era
+Temporal Analysis: Daily, weekly, monthly, and quarterly performance tracking 
+Economic Insights: Revenue generation and viability metrics for major attestation projects 
+Flagship Integrations: Deep-dive analytics for Coinbase Verifications, Human Passport, Gitcoin, and more
+Community-Driven: Open-source Next.js platform with forkable DuneSQL queries 
+
+
+Coming Soon: 
+
+Support for Shape and Ink networks 
+Additional featured attestors and use cases 
+Enhanced filtering and smarter analytics 
+Expanded chart library and optimized queries 
+ 
+
+🌐 Why You Should Support EAS Pulse 
+As a public good, we rely entirely on community support.
+
+Your donation directly enables: 
+
+Covering infrastructure costs for robust data access, ensuring platform reliability and data accuracy 
+Building new features, network integrations, and attestation projects requested by the community 
+Improving query performance and user experience
+
+
+ By donating to EAS Pulse, you are also investing in ecosystem growth, open-source values, community empowerment, innovation, and transparency. 
+
+
+
+EAS Pulse is a community-funded, open-source public good. We don't charge fees, we don't gate data, and we remain committed to serving the entire ecosystem transparently and equitably. Thank you for taking part in this journey! 
+
+Milestones (4-6 months)
+
+"""Our roadmap focuses on deepening EAS Pulse’s role as the analytics layer for the Ethereum Attestation ecosystem.
+Q4 2025: Add support for Shape and Ink networks, expanding multichain visibility and ensuring full coverage of new EAS deployments.  And introduce additional featured attestors and use cases to highlight ecosystem adoption and real-world examples of attestations in action.
+Q1 2026: Deliver enhanced filtering and smarter analytics, allowing users to combine dimensions like schema, chain, and attestor for richer insights. And launch an expanded chart library and optimized queries to improve performance and visualization depth."""
+
+Please example how your project meets the round-specific eligibility criteria.
+
+EAS Pulse meets the GG24: Interop Standards, Infra & Analytics round eligibility criteria by advancing open data and analytics infrastructure that strengthens Ethereum’s multi-chain ecosystem. The project is fully open-source and operates as a public good, with its code, dashboards, and methodology published openly for community use. It directly contributes to open data initiatives by aggregating, standardizing, and visualizing attestation data from the Ethereum Attestation Service (EAS) across multiple chains—ensuring transparency and accessibility. As a shared analytics and interoperability layer, EAS Pulse aligns with the round’s mission to make Ethereum more connected and verifiable, enabling evidence-based measurement of attestation adoption and reputation systems. The project has a proven working implementation, regularly updates public dashboards, and adheres to transparent reporting and ethical standards—demonstrating its clear alignment with all round-specific eligibility requirements.

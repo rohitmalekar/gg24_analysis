@@ -1,0 +1,151 @@
+growthepie.com 🥧﻿📏﻿ is a data platform designed specifically for Ethereum and its scaling solutions to analyze fundamentals, more detailed blockspace usage and application metrics with a curated set of categories.
+
+
+
+Our goal is to empower developers and users alike by providing them with a comprehensive overview of fundamental metrics, onchain data, and educational resources, to help them make informed decisions when selecting their chain to build and interact on in the entire Ethereum ecosystem. We believe that real-world impact can only be achieved when people can select and use projects that fulfill their actual needs and when they know what’s out there. We achieve this through better transparency and overview of what’s happening in the Ethereum ecosystem.
+
+
+
+The platform is and will stay free to use forever, striving to improve everyday through better UX and meaningful data. We do not have any VC funding or angel investment, nor do we have any subscription fee to access more data by individual users. All data can be seen and used (also via our API) free of charge. We are also completely open-source.
+
+
+
+In short
+Platform Capabilities:
+
+Ecosystem metrics, with real-time TPS and fees tracking, including Ethereum L1 and 30+ of its Layer 2s.
+Metrics and Chain Comparisons: We provide key metrics categorized into Activity, Value Locked, Economics, and Convenience.
+Blockspace Explorer: This tool offers a detailed overview of blockspace usage across different Layer 2 chains showing how each chain is being used.
+Single Chain Metrics: Comprehensive, chain-specific pages that showcase all metrics for a particular chain.
+Public Goods Trackers: We develop and maintain several public goods trackers, like Octant Epochs, and Glo Dollar holdings.
+
+
+Our goals and usage of funds 🚀
+Showing with much more convenience that the Ethereum ecosystem is one, interoperable space where users can have the freedom to use and build whatever is needed and finds real-world use cases.
+Building out more Application-specific analytics: We want to go one level deeper and enable users to analyze individual projects in much more detail than currently, for example their traction on Ethereum and different Layer 2s, fees of using them on either, etc.
+More convenient analytics and sharing features: We continue to improve the UX to enable better analytics of metrics and chains, comparisons and also sharing of charts and tables for your own usage
+Addition of more current and upcoming chains in the Ethereum ecosystem
+
+
+
+
+What can you do on our platform currently? 🧐
+Currently, we provide a curated and easy-to-understand set of metrics for Ethereum L1, and its Layer 2s, with more than 30+ chains: Arbitrum One, Base Chain, OP Mainnet, Soneium, World Chain, Immutable X, Linea, Manta Pacific, Mantle, Metis, Polygon zkEVM, Scroll, Starknet, Taiko Alethia, zkSync Era, Zora and many more. All data has been pulled via RPC, some has been received from data providers or is linked to other sources. However, we are changing more and more to connecting our own RPC for better data quality and reliability.
+
+
+
+Fundamental metrics Analysis
+
+
+
+Activity
+
+Active Addresses: The number of unique daily addresses that interacted with a chain.
+Transaction Count: The number of daily transactions. We try to only count transactions that are executed by users/smart contracts, excluding system transactions.
+Throughput: A chain's throughput measured in gas per second. We only include EVM equivalent Layer 2 gas usage.
+
+
+Value Locked
+
+Stablecoin Supply: The sum of stablecoins that are locked on the chain.
+Total Value Locked: The sum of all funds locked on the chain.
+
+
+Economics
+
+Application Revenue: The total amount of fees that applications charge their users per chain (this does not include gas fees). This metric shows how much value applications capture from users. 
+Chain Revenue: The sum of fees that were paid by users of the chain in gas fees or, in the case of chains like Immutable X, the amount of fees that were paid to the protocol wallet.
+Rent Paid to L1: The gas fees paid by L2s to post transaction data & verification states onto Ethereum.
+Onchain Profit: The net profit of L2s, accounting for revenues as L2 gas fees collected and expenses as posting transaction data & verification states onto Ethereum.
+Fully Diluted Valuation: The theoretical market cap of a token if all its planned tokens (total supply) were issued at the current price.
+Market Cap: The total value of all circulating tokens, calculated by multiplying the current price of a single token by the total number of tokens in circulation.
+
+
+Convenience
+
+Transaction Costs: The median amount that is paid per transaction.
+
+
+
+
+fees.growthepie.com
+We developed a dedicated Layer 2 fees page to provide up-to-date data on what users pay on Layer 2s for specific interactions.
+
+
+
+
+
+
+
+Blockspace Explorer
+
+
+
+
+
+
+With one rollup launching after the other, it is hard for users to understand what’s going on in the Ethereum ecosystem. Helping to analyze blockspace changes this trajectory.
+
+
+
+Our platform offers the following to Ethereum’s ecosystem:
+
+An overview of chains’ high-level blockspace usage. All expressed in shares of a chain’s total blockspace. In simple words: For which purpose are these Layers 2s built and what do people do with them?
+A comparison for available Layer 2s for their usage in specific categories, ranging from NFT, Token Transfers to Socials applications. For each of these and more categories, we have a set of subcategories that allow you to filter in more detail and compare which category is more used on which chain.
+For each category/subcategory, users can see the most-used smart contracts ranked in a table and make sense of how the chain is being used
+
+
+
+
+
+
+
+
+Single Chain Metrics All-in-One
+
+
+
+
+
+
+
+You can compare chains amongst each other with all the metrics mentioned. Additionally, you have chain-specific pages that allow you to have a glance at all metrics for a chain at once.
+
+
+
+The team (brief intro of each member) 👥
+Matthias: Started to work in the blockchain/EVM space 5 years ago with his master thesis on the “Implementation of blockchain-based local energy markets”. He worked on grants for projects like Uniswap, starting growthepie.xyz as an Ethereum Foundation grant, and now also working for a crypto fund - supporting on the data due dilligence side of things.
+Manish: With a solid background in software engineering, Manish has hands-on experience in developing user-friendly applications and working with blockchain technologies, as evidenced by his work on DogeAPI, a cryptocurrency payment platform.
+Tobias: Background in product design as well as education & training for innovation and Design Thinking, for example designing and delivering educational courses for founders for Tech Open Air Berlin.
+Mike: Recent graduate and very skilled full-stack developer, currently mostly working on frontend related tasks.
+Lorenz: Student at RWTH Aachen University and founder of the Aachen Blockchain Club. His extensive knowledge about blockchain technology is of great value and he supports us with research and data related tasks.
+Ahoura: Another FH Aachen student and member of the blockchain club there. He was previously active in the Cosmos ecosystem but he’s learning more and more about Ethereum’s scaling solutions. He supports mainly with regards to social media and content creation.
+ETH Wave: Strong background and Ethereum OG, taking care of communications, social media, data curation and frontend implementation.
+
+
+More about the team on our Contributors Page.
+
+
+
+How do I reach growthepie.com? 🌐
+Visit our platform to enjoy our current set of metrics and single chain analysis. 📈
+
+Follow us on Twitter 🐦, Farcaster and/or Lens. Please also join our Discord 💬 and engage in conversations or ask us any question you might have.
+
+We are fully open source, so also check out our Github page. 💻
+
+Milestones (4-6 months)
+
+"""- more cross-chain application metrics: we are doubling down on showing apps and how they interoperate across the Ethereum ecosystem, enabling builders to prove traction across the ecosystem and with different Layer 2s
+- better exploration of trending apps: allows faster adoption and proof that the Ethereum ecosystem is catering towards many different needs and is permissionless and diverse
+- more real-time data for all different chains and their applications
+- showing how users/wallets interact across different chains in a seamless way 
+- more interoperability data, showing the adoption of standards across the ecosystem
+- another report similar to our report """"Ethereum - The World Ledger"""" with a different topic area 
+- better explorability of the Ethereum ecosystem using AI, most likely upgrading our existing search capabilities to explore all different chains much faster 
+- new single chain page to make data more accessible, especially for Layer 2 teams"""
+
+
+Please example how your project meets the round-specific eligibility criteria.
+
+Since May 2023, we have been tracking Layer 2s building on Ethereum, now having Ethereum L1 and L2 data on 30+ different chains, including fundamental metrics, economics, blockspace usage, data availability metrics, and application metric data. All data is pulled by us using RPCs, indexed, cleaned and visualized on our platform. Furthermore, all data is free to access through our API (for example, ethereum.org is using our API for their Layer 2 data). For blockspace usage, we label smart contracts that are deployed on the different chains we are tracking, in order to better track different smart contracts by different projects on different chains in the Ethereum ecosystem. This allows for better traceability and understanding where usage lies and how different projects are performing on different chains. This also allows end users and researchers to see what is happening in the entire Ethereum ecosystem, and builders can prove their traction across different chains. For smart contract labelling, we adhere to the Open Labels Initiative standard, again allowing everyone to use this data and use this open dataset. Our aim has always been to unify Ethereum and its chains, showing transparently what is going on and how these different chains are not parasitic to each other, but grow the Ethereum pie as a whole.

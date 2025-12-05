@@ -1,0 +1,42 @@
+### LibertAI
+
+Infrastructure
+
+DApps
+
+Research
+
+[0xdeA74E...bD446d2d](https://arbiscan.io/address/0xdeA74EFCF345893FE1578589218E9cb6bD446d2d)
+
+[Libertai_DAI](https://x.com/Libertai_DAI)
+
+[https://libertai.io](https://libertai.io/)
+
+[libertai](https://github.com/libertai)
+
+LibertAI is a private decentralized AI platform designed to be more secure, accessible, resilient, and efficient than traditional centralized alternatives, while reducing bias and protecting user privacy. Its open source large language models and confidential AI platform run on a stack of technologies including IPFS and TEEs (Trusted Execution Environment) in Aleph Cloud, a cross-chain decentralized infrastructure for storage, compute, and AI. This foundation enables LibertAI to operate on a fully decentralized, uncensorable, secure, and resilient network that is practically unstoppable.
+
+### IMPACT STATEMENTS
+
+At LibertAI, we believe privacy is a human right and a public good. Today, most onchain data and interactions are public, exposing users to surveillance and limiting autonomy. Our mission is to change this by creating user-owned, confidential, and verifiable AI infrastructure rooted in Ethereum's decentralized ethos.Strengthening Privacy Infrastructure/Confidential Compute (Aleph VM): Our TEE contributions enable secure, verifiable execution across blockchains. These confidential computing primitives allow AI agents and smart contracts to process sensitive data without revealing it onchain. We've also implemented onchain proofs of execution, enabling verifiability without data exposure, a critical milestone for privacy preserving smart contracts and AI inference on Ethereum.Private Messaging Infrastructure: We enable end-to-end encrypted, decentralized communication, forming the foundation for private AI chats, coordination between agents, and confidential collaboration.Private Identity: We are developing wallet based, self-sovereign identities where users fully own their AI instances, accounts, and agents, with no central authority or third-party tracking.Private Data Storage: Our research in decentralized, encrypted storage ensures that user data remains persistent, secure, and entirely under user control.Cross-Ecosystem Open Source Contributions:HuggingFace Transformers & Llama.cpp: Improving local and privacy-preserving AI capabilities, enabling decentralized apps to use intelligent agents securely without reliance on centralized servers.Coinbase OnchainKit, GOAT, Wagmi, Thirdweb: Strengthening developer tooling and interoperability, making privacy friendly dApps and wallets more accessible and production-ready.NEAR Protocol: Promoting privacy and decentralization education through open documentation and community contributions.Research & Broader Impact:Beyond direct code contributions, we conduct ongoing research into confidential AI architectures and privacy-preserving computation, with two main objectives:
+
+-   Developing LibertAI's provable confidential AI architecture, where computation, storage, and hosting are entirely private and user-owned.
+-   Advancing open research in confidential computing, zero-knowledge proofs, and verifiable AI, empowering other projects to explore and build upon these ideas.
+
+Every component of LibertAI, from chats to accounts to AI agents, is owned and controlled by the user. Wallet-based identities ensure sovereignty, while storage, hosting, and communication are secured by onchain privacy. This creates a foundation for a sovereign, decentralized, and censorship resistant AI ecosystem.By contributing to open infrastructure and championing privacy first design, LibertAI bridges a critical gap in the Ethereum ecosystem, transforming privacy from a missing feature into a default standard for the next generation of human centered technology free from Big Tech surveillance.
+
+### CONTRIBUTIONS
+
+LibertAI is a Privacy dApp built on a foundation of privacy infrastructure, ensuring that compute, messaging, storage, identity, and AI are all private, user-owned, and verifiable.Everything we do is open-source (GitHub), reflecting our belief that privacy-preserving and decentralized AI should belong to everyone.Key Contributions:Aleph.Cloud (Aleph VM): Contributed to the Trusted Execution Environment (TEE) components of Aleph VM, a decentralized, cross-chain cloud platform offering secure computing, storage, databases, and AI services across major blockchains including Ethereum, Arbitrum, Base, Solana, Avalanche, Polkadot, Cosmos, Polygon, and BNB Chain.HuggingFace Transformers: Merged contributions to one of the world's leading open-source AI frameworks, improving accessibility, documentation, and functionality for developers and researchers.Coinbase OnchainKit: Enhanced onboarding and developer experience for Web3 applications.GOAT SDK: Improved open-source infrastructure for building and managing onchain applications.Llama.cpp: Enhanced local AI inference performance and documentation to support private and decentralized AI workloads.Wagmi: Strengthened Ethereum developer tooling and ecosystem reliability.Thirdweb: Improved documentation and usability for Web3 developers.NEAR Protocol: Authored educational and documentation contributions following hackathon wins, supporting broader developer adoption and ecosystem growth.
+
+CONTRIBUTIONS LINKS[TEE (Trusted Execution Environment) components of Aleph VM](https://github.com/aleph-im/aleph-vm)[The world's leading open-source AI frameworks](https://github.com/huggingface/transformers/pulls?q=author%3ARezaRahemtola+is%3Amerged+)[Enhancing Web3 onboarding tools and developer experience.](https://github.com/coinbase/onchainkit/pull/2057)[Improving open-source infrastructure for onchain applications.](https://github.com/goat-sdk/goat/pull/272)[Improving local AI inference performance and documentation.](https://github.com/ggml-org/llama.cpp/pull/11809)[Strengthening Ethereum developer tools.](https://github.com/wevm/wagmi/pull/4056)[Improving usability and clarity for Web3 builders.](https://github.com/thirdweb-dev/js/pulls?q=author%3ARezaRahemtola+is%3Amerged+)[https://github.com/near/docs/pulls?q=author%3ARezaRahemtola+is%3Amerged+](https://Educational and documentation contributions  following hackathon wins, supporting developer adoption.)
+
+### PAST GRANTS AND FUNDING
+
+PRE-SEED WITH ANGELS
+
+Other
+
+250000
+
+EUR

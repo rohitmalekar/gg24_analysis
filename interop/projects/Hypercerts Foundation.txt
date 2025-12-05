@@ -1,0 +1,65 @@
+The Hypercerts Foundation pioneers open-source protocols to transparently fund and reward positive impact. Hypercerts are a general purpose tool that track impactful work, assess its value, and enable the sale of its impact.
+
+
+📣 Update 1: The Next Version of Hypercerts
+We’re preparing to launch hypercerts v0.2, an upgrade that connects the AT Protocol (developed by Bluesky) with Ethereum-based funding mechanisms.
+
+
+
+This release will introduce the hypercerts data layer for impact assets on the AT Protocol — linking decentralized identity (did:plc) with onchain settlement. It will allow projects to publish, verify, and fund impact through open, interoperable records that bridge offchain collaboration and onchain finance.
+
+
+
+We’re now finalizing the protocol, developer tools, and a template app for funding platforms. Early adopters such as GainForest and Ma Earth are already testing integrations and helping shape the release.
+
+📣 Update 2: Ecocerts 🍃
+We're embarking on a collaborative journey to introduce hypercerts for ecological impact: Ecocerts 🍃
+
+Through extensive conversations with partners like Ma Earth and GainForest, we’ve laid the foundation for this initiative. Together, we’ll define templates for Ecocerts, establish evaluation methods, and explore innovative ways to finance projects that steward our planet.
+
+This is an open initiative without organizational boundaries—if you’re interested in using Ecocerts, we’d love to hear from you!
+
+1️⃣ Introduction: Where are we headed
+Imagine a world where positive impact was one of the most highly valued creations in our society; where entrepreneurs who pursued high-uncertainty, high-upside moonshots to radically improve society were rewarded directly for that impact; where becoming a patron of impactful causes was something people aspired to and displayed proudly; and where the methods used to evaluate impact were credible, transparent, and independently verifiable. 
+
+That world might seem a distance away, but it’s one we can build towards. Specifically we’d like to see more impact markets, retroactive funding and innovation in the way we fund public goods. In order for this to occur, we need protocols to track and fund impact.
+
+2️⃣ Hypercerts Represent the Impact of Work
+Every hypercert accounts for a discrete piece of work and represents the impact resulting from that work. Projects create hypercerts for their work. Evaluators assess the outputs, outcomes and impact of projects' work. Funders buy hypercert fractions and receive the rights to claim the represented impact.
+
+Example: A hypercert for IPFS
+
+
+
+3️⃣ Why we are building hypercerts
+﻿Avoiding silos – interconnected funding system: As an extension of ERC 1155 semi-fungible tokens, hypercerts create a single, open, shared, and decentralized database for funding mechanisms. This database avoids the creation of new funding silos, as hypercerts can be integrated into any existing funding platform, thereby creating an interconnected funding ecosystem.
+Selling impact – moving beyond donation: While hypercerts may be useful for any funding mechanism, they’re particularly valuable for retroactive funding as they provide baseline invariant guarantees that impact claims will not be forgotten. Projects create and sell impact, building financially sustainable and scalable revenue models. With hypercerts, we move beyond donations.
+Certifying impact – open evaluation system: Certifying impact is a process, and it should be an open and dynamic one. Hence, with hypercerts we create the foundation for an open evaluation system for credible and transparent impact assessment. Every hypercert can receive multiple evaluations from different evaluators using a variety of methodologies. This creates incentives to innovate evaluation methodologies and builds trust.
+4️⃣ Where do we go from here
+We are entering a world with multiple hypercerts platforms. Pioneers like VoiceDeck and GainForest, developing ecocertain.xyz, are leading the way by building on the hypercerts protocol. Our primary goal for the next phase of hypercerts is to empower and support platforms like these.
+
+5️⃣ Testimonials
+Juan Benet (Founder and CEO of Protocol Labs):
+
+We are proud to be an early supporter of the Hypercerts Foundation, which will bring even greater focus and resources to this important area of innovation. The Hypercerts Foundation is helping build a more transparent and interoperable environment for funding public goods. We are excited to contribute to its mission in any way we can.
+
+
+Kevin Owocki (Founder of Gitcoin):
+
+This is an exciting moment for the Hypercerts Foundation and for the future of impact funding. We are committed to advancing the development of decentralized protocols and novel coordination mechanisms.
+
+Milestones (4-6 months)
+
+"""- In the coming months, we will deploy hypercerts v0.2, built on the AT Protocol, enabling seamless integration with onchain funding streams and interoperable data flows. This release marks a major step toward unifying impact records and funding mechanisms. 
+- We are supporting ecocertain.xyz and Ma Earth as the first partners to launch their funding platforms on top of the new protocol, demonstrating real-world use cases of verifiable, composable impact assets. 
+- Alongside the deployment, we will publish a new infrastructure paper outlining the architecture, standards, and interoperability principles behind hypercerts v0.2. 
+- To accelerate adoption, we will release a template app that allows teams to rapidly build customized funding platforms leveraging the protocol’s open APIs and data schemas. 
+- Finally, we are expanding our network of builders and projects, creating a growing ecosystem of applications and communities advancing transparent, onchain impact funding."""
+
+Please example how your project meets the round-specific eligibility criteria.
+
+"""Open source & public good: Everything we do is open-source. We are grant funded and committed to providing the hypercerts protocol as a public good to funding platforms.
+
+Domain alignment: We are building open data schemas for projects and evaluations on AT Protocol and connecting these with onchain activities. This way the data will be available cross-chain as shared data models. Tokenization can happen on Ethereum or any L2 (or even beyond, but our focus is on the Ethereum ecosystem). Ultimately, we will enable a decentralized funding network with many funding platforms, where projects and evaluators are controlling their data independent of these platforms.
+
+Proven activity & impact: We have over 50K hypercerts from over 28K users on Optimism (see https://dune.com/hypercerts/op-hypercerts). As we are currently developing the next version of hypercerts, the activities have slowed down on the initial hypercerts deployment on Optimism. Currently most activity is on Celo due to the https://ecocertain.xyz  implementation."""

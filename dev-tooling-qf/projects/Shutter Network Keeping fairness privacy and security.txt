@@ -1,0 +1,41 @@
+TL;DR(s)
+
+- Shutter has cryptographic products to solve structural problems from blockchains favoring wealthy and sophisticated actors.
+
+- Shielded Voting enhances the voting experience, ensuring privacy, fairness, and resistance to manipulation. We integrated Shielded Voting on Snapshot, which has become the preferred voting setup for many DAOs, including Arbitrum and Giveth.
+
+- Shielded Trading is now live on Gnosis, preventing malicious MEV, Sandwich attacks and Censorship. We are also working with Optimism and other networks to explore partnerships.
+
+- We submitted a roadmap towards a Distributed Encrypted Mempool on Ethereum.
+
+- Shutter will soon release an API that will make it effortless for all dApps to integrate the highest level of privacy and fairness.
+
+Problem Statement
+
+Crypto is rigged—MEV attacks, front running, and censorship distort markets, siphoning millions and tilting the scales for insiders and bots at the expense of everyday users. Those profiting call it inevitable. We know it’s not.
+
+Shutter is the solution. Since 2021, the privacy solution has fought transaction manipulation by ensuring simultaneous access to information for all participants, keeping both chains and dApps truly fair.
+
+Solution.
+
+Shutter is keeping crypto true to its roots—neutral, unstoppable, and open to all. Its encrypted mempool is already proven on Gnosis Chain, and a published white paper has charted its path to Ethereum integration. Shielded Voting secures thousands of DAO votes. And with its Shutter API launching soon, dApps can finally tap its protection—bringing fairness to every layer of crypto.
+
+Shutter enables fairness in blockchains through threshold encryption and Distributed Key Generation (DKG). In a Shutterized system, users encrypt their actions until they are securely finalized, ensuring equal access to information simultaneously, thereby maintaining fairness.
+
+Impact and KPIs.
+
+Shutter Network contributes to a healthier and more trustworthy blockchain environment by enhancing transactional fairness and reducing manipulative practices.
+
+Through its implementation on Gnosis Chain, Shielded Trading has encrypted over 4,000 transactions, protecting users from harmful front-running attacks. This protection boosts market efficiency and fosters a more inclusive trading environment.
+
+Integrated with Snapshot, Shutter's Shielded Voting solution has gained widespread adoption, protecting over 298,000 votes across more than 620 DAOs. Prominent DAOs like Arbitrum and Giveth have set this mechanism as their default voting setup.
+
+Use of Funds.
+
+The funds collected will help maintain and develop new products. As well as advance the adoption of current ones.
+
+Additional links:
+
+Twitter: https://x.com/ShutterNetwork
+
+Linktr.ee: https://linktr.ee/ShutterNetwork

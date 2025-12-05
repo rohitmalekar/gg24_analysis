@@ -1,0 +1,97 @@
+Gitcoin OSS Domain: Developer Tooling & Core Infrastructure - GG24 Sensemaking Report
+=====================================================================================
+
+[](https://gov.gitcoin.co/t/gitcoin-oss-domain-developer-tooling-core-infrastructure-gg24-sensemaking-report/23022/4#h-1-problem-impact-2)1\. Problem & Impact
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ethereum's developer infrastructure is underfunded. The tools that secure billions in value receive minimal funding while user-facing applications attract most investment.
+
+Our interviews with ecosystem stakeholders showed that better tooling could prevent many hacks and vulnerabilities, yet these tools remain underfunded. Security incidents result in lost funds and erode trust, discouraging developers and enterprises from building on Ethereum.
+
+Nine of twelve stakeholders in our sensemaking interviews identified infrastructure as the most underfunded area. Teams maintaining libraries receive sporadic funding despite widespread usage. Development frameworks rely on GitHub sponsorships and occasional grants. Most infrastructure teams lack even these limited options. Multiple stakeholders emphasized that new teams entering the space require ongoing support, yet they lack a clear path to access it.
+
+Teams could earn more through auditing and consulting services, but commercial work takes time away from improving core infrastructure. They choose between abandoning their public goods mission or struggling with inadequate resources. Project maintainers we interviewed explained that technical teams lack time and skills for fundraising, which requires business development capabilities that technical builders don't have.
+
+Without tooling support, developers resort to more permissioned solutions to prevent hacks, which in turn sacrifices Ethereum's decentralization. The ecosystem loses millions to duplicated efforts as teams rebuild similar tooling independently. A new AI model saw millions of developers adopt it quickly, while Ethereum's developer base remains orders of magnitude smaller. Better tooling could help close this gap.
+
+[](https://gov.gitcoin.co/t/gitcoin-oss-domain-developer-tooling-core-infrastructure-gg24-sensemaking-report/23022/4#h-2-sensemaking-analysis-3)2\. Sensemaking Analysis
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We conducted structured interviews with stakeholders across the Ethereum ecosystem, including Ethereum Foundation representatives, infrastructure project maintainers, and ecosystem builders. These conversations explored underfunded areas, hidden opportunities, funding criteria, and coordination failures. [See the detailed sensemaking report here. 9](https://gov.gitcoin.co/t/gg24-from-ecosystem-sensemaking-to-domain-proposals/23021)
+
+Community proposals submitted for GG24 domains provided validation. The community-submitted "[Case for Dev Tooling 6](https://gov.gitcoin.co/t/gg24-case-for-dev-tooling/22944)" proposal aligned with our interview findings, demonstrating grassroots recognition of this problem.
+
+We aggregated findings through thematic analysis, identifying patterns across stakeholder responses. The infrastructure invisibility theme emerged consistently across diverse perspectives. Foundation representatives, project maintainers, and ecosystem builders independently identified the same issues: small teams maintaining dependencies, limited monetization options for libraries and languages, and talent drain from infrastructure to commercial work.
+
+The evidence from interviews, community proposals, and ecosystem data creates a clear mandate. Infrastructure is the foundation everything else is built on. The ecosystem recognizes this, but hasn't translated that understanding into sustainable funding mechanisms.
+
+[](https://gov.gitcoin.co/t/gitcoin-oss-domain-developer-tooling-core-infrastructure-gg24-sensemaking-report/23022/4#h-3-gitcoins-unique-role-fundraising-4)3\. Gitcoin's Unique Role & Fundraising
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Gitcoin has run developer tooling and infrastructure rounds for years, establishing deep knowledge of what works and what doesn't. Our experience shows that infrastructure needs different support models than consumer applications.
+
+Our network enables coordination across fragmented efforts. We can aggregate contributions from multiple L2s and protocols into meaningful support for core tools. We have established relationships across the ecosystem. Infrastructure teams know Gitcoin and trust our processes. Teams maintaining language infrastructure seek the coordinated funding Gitcoin provides.
+
+The fundraising outlook is positive. Infrastructure benefits every L2 and major protocol. L2s spending millions on ecosystem growth recognize that better tooling multiplies their investments' impact.
+
+Every dollar invested in tooling multiplies through improved developer productivity and reduced security incidents. This is a strategic investment in shared infrastructure that benefits all participants.
+
+Our [track record speaks for itself 2](https://docs.opensource.observer/blog/gitcoin-grants-impact/). We've distributed millions to infrastructure projects over the years and understand the unique challenges these teams face. We know how to evaluate technical merit beyond surface metrics and have processes to ensure funding reaches projects that need it most.
+
+[![Screenshot 2025-08-15 at 21.28.51](https://gov.gitcoin.co/uploads/db4391/optimized/3X/f/8/f8d2dde8c46ece8d65c53e8b81ef3ffdc211ca39_2_690x256.png)
+
+Screenshot 2025-08-15 at 21.28.511506×560 49.2 KB
+
+](https://gov.gitcoin.co/uploads/db4391/original/3X/f/8/f8d2dde8c46ece8d65c53e8b81ef3ffdc211ca39.png "Screenshot 2025-08-15 at 21.28.51")\
+*Source: [A longitudinal assessment of Gitcoin Grants impact on open source developer activity | Open Source Observer 2](https://docs.opensource.observer/blog/gitcoin-grants-impact/)*
+
+[](https://gov.gitcoin.co/t/gitcoin-oss-domain-developer-tooling-core-infrastructure-gg24-sensemaking-report/23022/4#h-4-success-measurement-reflection-5)4\. Success Measurement & Reflection
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success in six months means improvements in infrastructure sustainability and developer experience. We'll measure projects, focusing on predictable funding for twelve months forward, increased library downloads and tool adoption, and documented security improvements resulting from enhanced tooling support.
+
+Impact appears in developer testimonials and ecosystem behavior changes. Success means infrastructure maintainers no longer consider abandoning projects for commercial work. It means new experimental languages and tools are emerging because creators see support pathways. It means preventing security incidents and developer frustration.
+
+We'll collaborate with OSO (Open Source Observer) on impact reporting to track quantitative and qualitative indicators. Download statistics and GitHub activity provide baseline metrics. Developer surveys will measure confidence in infrastructure stability. OSO's metrics framework will help us move beyond vanity metrics to measure actual ecosystem impact.
+
+The satisfaction test: in twelve months, will the Ethereum community view infrastructure funding as solved or an ongoing crisis? Success means infrastructure teams focusing on innovation rather than survival. It means developers choosing Ethereum because of the tooling, not despite it.
+
+In GG20, we renewed our focus back to OSS, and because of this and launching four specific rounds, we were able to double the number of projects participating compared to Round 19.
+
+[![Screenshot 2025-08-15 at 21.34.13](https://gov.gitcoin.co/uploads/db4391/optimized/3X/b/3/b3c1858753827c1a929ea6b2084c30a1d9a75eaa_2_687x500.jpeg)
+
+Screenshot 2025-08-15 at 21.34.131400×1018 84.5 KB
+
+](https://gov.gitcoin.co/uploads/db4391/original/3X/b/3/b3c1858753827c1a929ea6b2084c30a1d9a75eaa.jpeg "Screenshot 2025-08-15 at 21.34.13")\
+*Source: [https://gitcoin.mirror.xyz/GyT9ZE_PuopPVwSlgRIF-o7cm_ZTCqcXBKXMCNkc1Sk 2](https://gitcoin.mirror.xyz/GyT9ZE_PuopPVwSlgRIF-o7cm_ZTCqcXBKXMCNkc1Sk)*
+
+Gitcoin's history of running these rounds provides baseline data for comparison. We can show year-over-year improvements in project sustainability, developer satisfaction, and ecosystem capabilities. We have equally increased our community participation within the rounds, by focusing on a community-operated onboarding program model, supporting grantees with 1:1 guidance and education. It ensured smaller teams could meaningfully participate and minimized drop-off among less-experienced applicants.
+
+[![Screenshot 2025-08-15 at 21.37.11](https://gov.gitcoin.co/uploads/db4391/optimized/3X/c/7/c70e9155bb6ae25a216ffd85107c70436abe4dc2_2_690x297.jpeg)
+
+Screenshot 2025-08-15 at 21.37.111862×804 98 KB
+
+](https://gov.gitcoin.co/uploads/db4391/original/3X/c/7/c70e9155bb6ae25a216ffd85107c70436abe4dc2.jpeg "Screenshot 2025-08-15 at 21.37.11")\
+*Source: [Gitcoin Grants 23: A Milestone Round for Public Goods Funding | Gitcoin Blog 1](https://www.gitcoin.co/blog/gitcoin-grants-23-retro)*
+
+This isn't our first infrastructure round; it's the evolution of a proven model. We will continue working with partners such as Open Source Observer to learn and iterate moving forward. See the [GG23 Retrospective 1](https://www.gitcoin.co/blog/gitcoin-grants-23-retro) for a recap on the first multi-mechanism OSS program we ran.
+
+[](https://gov.gitcoin.co/t/gitcoin-oss-domain-developer-tooling-core-infrastructure-gg24-sensemaking-report/23022/4#h-5-domain-information-6)5\. Domain Information
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Are you proposing a domain for GG24? Yes, we propose Developer Tooling & Core Infrastructure as a domain for GG24.
+
+Who will be the domain experts? We are in discussions with technical experts from the ecosystem who understand infrastructure dependencies and can evaluate technical merit. Final domain expert selection is in progress, but these domains will be largely managed and run by Gitcoin core & Team Tiger, designing the domains alongside OSO and Deep Funding teams.
+
+Which mechanism(s) will you be pitching to run the domain on? We will use Quadratic Funding for early-stage projects and Deep Funding for mature builders. We intend to work with OSO (Open Source Observer) on scoping eligibility criteria and segmenting projects between these two mechanisms based on maturity and track record.
+
+Do you foresee the domain including multiple sub-rounds? Yes, we propose four sub-rounds:
+
+-   Core Infrastructure (compilers, languages, critical libraries)
+    -   Early Stage Builders through Quadratic Funding
+    -   Mature Builders through Deep Funding
+-   Developer Experience Tools (SDKs, frameworks, debugging tools)
+    -   Early Stage Builders through Quadratic Funding
+    -   Mature Builders through Deep Funding
+
+We are open to collaborating on other domains as operators, depending on voting results.

@@ -1,0 +1,48 @@
+### Canary
+
+DApps
+
+[0x22313F...A44ade62](https://arbiscan.io/address/0x22313FBC6E7230962A939205c37154CEA44ade62)
+
+[Canarysafe](https://x.com/Canarysafe)
+
+[https://canaryapp.io](https://canaryapp.io/)
+
+[BlackLatch](https://github.com/BlackLatch)
+
+It allows activists, journalists, and whistleblowers to store critical information, stories, or messages that will automatically release if they fail to check in, providing a failsafe mechanism for truth under conditions of censorship, arrest, or disappearance. Built on decentralized infrastructure and cryptographic trust (Logos, Codex, TACo, IPFS, Status), Canary is designed for resilience, privacy, and usability in adversarial environments.
+
+### IMPACT STATEMENTS
+
+Canary is built for individuals and movements operating in high-risk or repressive contexts, where the free flow of information is threatened. Canary transforms *absence (failure to check in)* into a *signal (the message that goes out)*. The heartbeats feature gives cryptographic proofs of presence that verifies a user's ongoing control over their data. Each heartbeat renews trust in their activity without revealing identity or content.Examples include:
+
+-   Journalists safeguarding sensitive footage or evidence
+-   Activists under surveillance or threat of detention
+-   Whistleblowers who have knowledge they need to protect until the right moment, but such knowledge poses a risk to them.
+-   Human rights defenders needing a guarantee that their message will be heard if they are silenced
+
+Canary is positioned to become the de facto privacy dApp for individuals working in high-risk environments, ensuring their data and stories remain protected.
+
+### CONTRIBUTIONS
+
+Canary contributes a real-world implementation of the Web3 privacy stack. It combines threshold cryptography, decentralized storage, and peer-to-peer messaging to ensure that sensitive information can only be released under verifiable conditions. While still early in development, Canary demonstrates how privacy infrastructure can serve a concrete civic function guaranteeing continuity of truth and communication without relying on centralized trust.
+
+CONTRIBUTIONS LINKS[Core contracts for tracking proof of life (Status)](https://sepoliascan.status.network/address/0x671f15e4bAF8aB59FA4439b5866E1Ed048ca79e0?tab=txs)[Open Source Github Repo (Source Code)](https://github.com/BlackLatch/canary-app)[Newsletters (Awareness)](https://substack.com/@canaryapp)[Launchpad Induction Publication](https://x.com/web3privacy/status/1943662135369761035)[Core Contract for tracking proof of life and storage pointers (Polygon)](https://amoy.polygonscan.com/address/0x7616ed018d9eF80487fa50A2736E1081BDB7cE8c#code)[Demo Application Deployment](https://demo.canaryapp.io/)
+
+### PAST GRANTS AND FUNDING
+
+WEB3PRIVACYNOW LAUNCHPAD
+
+Other
+
+5000
+
+USD
+
+W3PN HACKS BERLIN
+
+Other
+
+5000
+
+USD

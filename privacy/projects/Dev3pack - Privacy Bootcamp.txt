@@ -1,0 +1,62 @@
+### Dev3pack - Privacy Bootcamp
+
+Education
+
+[0xA904a8...871FE48A](https://arbiscan.io/address/0xA904a88Ac3F7f202Fe444303ec93F57d871FE48A)
+
+[dev3pack](https://x.com/dev3pack)
+
+<https://dev3pack.xyz/>
+
+About Dev3packDev3pack is a global fellowship program leading online technical education for women+ and student developers, especially in the Ethereum ecosystem.
+
+-   1,200 applicants to join the fellowship from 70+ countries and 400+ universities
+-   Over 90% of women represented in the fellowship
+-   A strong involved community - who want to learn, build real projects, and contribute to OSS
+-   Teaching available in English and Spanish (soon in French)
+
+![Dev3pack Global](https://raw.githubusercontent.com/sdaav/zk-privacy/main/de3pack-global.png)About ZK & Privacy BootcampWe launched a 7-week online bootcamp about ZK & privacy for women and student developers, including teachers from PSE, Aztec, zkVerify, Nillion, Starknet and Mina. All the content is open-source, available on Youtube, and can be re-used for creating your own cohort. All sessions are designed with some hands-on practices.![Cover](https://raw.githubusercontent.com/sdaav/zk-privacy/main/Cover%20(1).png)
+
+-   Session 1 - Foundations of Cryptography
+-   Session 2 - Essential Tools of Modern Cryptography
+-   Session 3 - ZKP Basics
+-   Session 4 - Advanced ZKP Systems
+-   Session 5 - Introduction to Circom and ZK application architecture
+-   Session 6 - Introduction to Semaphore Protocol
+-   Session 7 - Introduction to Aztec
+-   Session 8 - Introduction to Noir
+-   Session 9 - Introduction to zkVerify
+-   Session 10 - Use Cases and Implementation of zkVerify
+-   Session 11 - User Owned Private Data
+-   Session 12 - Private AI
+
+For 2026, will create another cohort where teachers will come entirely from the dev3pack community. We got a lot of interest for this first cohort, and wanted to select a small group of people (50 developers) to ensure program quality.After this bootcamp, these developers will get access to the dev3pack ZK & privacy builder club to collaborate on open-source projects related to privacy.
+
+### IMPACT STATEMENTS
+
+-   180+ applicants for the bootcamp (we had to close applications one week before official deadline, because so many great applicants)
+-   Selected 50 developers curious about privacy (many already contributed to open-source projects from Ethereum, AAVE, Nethermind, and other projects in the space)
+-   90% minimum of women represented, to provide a safe space to learn
+-   Participants are giving many great feedback after each session - leading us to 70K+ views about the bootcamp
+
+![ZK & Privacy Bootcamp 2](https://raw.githubusercontent.com/sdaav/zk-privacy/main/ZK%20%26%20Privacy%20Bootcamp-2.png)![ZK & Privacy Bootcamp 1](https://raw.githubusercontent.com/sdaav/zk-privacy/main/ZK%20%26%20Privacy%20Bootcamp-1.png)![Stats](https://raw.githubusercontent.com/sdaav/zk-privacy/main/stats.png)
+
+### CONTRIBUTIONS
+
+-   Providing a comprehensive curriculum (from 0 to 1 in ZK & privacy)
+-   Bringing women developers into the space
+-   Creating a safe space to learn for free and online from everywhere
+-   Entering universities, with women teachers
+-   Participating actively in open-source projects in privacy (especially PSE)
+
+CONTRIBUTIONS LINKS[ZK & Privacy Bootcamp - Youtube Playlist](https://www.youtube.com/playlist?list=PLvimYWRMGIoW0tdmTO9R7oH0WZAedeQ1i)[Official Telegram Group (ZK & Privacy)](https://t.me/+QAdPDyQCimpiNTc0)
+
+### PAST GRANTS AND FUNDING
+
+ZK & PRIVACY BOOTCAMP
+
+Partner Fund
+
+10500
+
+USD

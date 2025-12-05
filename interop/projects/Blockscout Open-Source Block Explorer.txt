@@ -1,0 +1,57 @@
+Open-source block explorers are a vital public good
+Just like we need multiple clients for Ethereum, we need multiple explorers and tooling diversity for the Ethereum ecosystem. If one goes down, the others are there to step in and support.
+
+
+
+This redundancy is vital, but it is not Blockscout's mission. Our mission is to provide a first-class, open-source, decentralized explorer for all users. An explorer built by and for the community that can provide everything users, developers, and projects need to successfully explore and develop on a chain.
+
+
+
+Every chain needs an explorer, and Blockscout is the easiest and most versatile explorer available today. Chains can easily setup the OSS version themselves, setup via a RaaS provider, or host directly with Blockscout EaaS. A growing list of chains using Blockscout are available here: https://eaas.blockscout.com/chains-and-projects
+
+
+
+
+
+
+
+Over the past year we've been working hard to improve the Blockscout experience for developers and users. Thanks to community contributions, we've had the ability to optimize Blockscout for speed while overhauling the frontend for ease of use. We've introduced tools to make smart contract verification much easier, and added tagging, account functionality, marketplace features and more.
+
+
+
+With your help, we will continue adding tools and features to support Ethereum and the network of L2s and L3s building on top.
+
+
+
+Open-source explorers support the entire ecosystem
+Ethereum Virtual Machine (EVM) blockchains and Layer 2 solutions, including zk rollups and optimistic rollups, require open-source explorers and tools to provide:
+
+Free access to data.
+Checks for data accuracy.
+Redundancy and resilience.
+Community-driven features, customizations, and innovations.
+Transparency.
+Quick and cost-effective implementation, particularly for testnets.
+Support for small and niche chains.
+Consistent multi-chain experience.
+Ongoing, rapid feature development.
+Trustlessness and auditability.
+
+
+
+
+
+
+As we continue to decentralize the future, the tools and infrastructure supporting decentralization must also follow this pattern. We appreciate your help to support an open-source, premium block explorer - by and for the community!
+
+
+
+Thank You!
+
+Milestones (4-6 months)
+
+Universal Bridge Indexer, Interop explorer for the L2 ecosystem (plan to rollout in phases, so will be case by case), Pro API with higher limits and additional useful endpoints, AI integrations to help users find blockchain data much more easily, more analytics and statistics as well as data services to make data more usable for everyone.
+
+Please example how your project meets the round-specific eligibility criteria.
+
+We are committed to providing transparent & decentralized data access as well as an available explorer for any EVM based chain. We are also building  interoperability features including a universal bridge indexer and CCTX capabilities to provide more insights as tokens and data move between chains.

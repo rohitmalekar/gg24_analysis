@@ -1,0 +1,72 @@
+### BackupBuddy
+
+Research
+
+DApps
+
+Infrastructure
+
+[0x64Ccd1...aD668Fd0](https://arbiscan.io/address/0x64Ccd150998baBa36985726e7DD83871aD668Fd0)
+
+[backupbuddy_io](https://x.com/backupbuddy_io)
+
+<https://backupbuddy.io/en>
+
+One of the great achievements of digital assets is that they enable true self-custodial ownership. But with that freedom comes the responsibility of not losing access.BackupBuddy makes this simple and accessible. It's the first identity-based wallet recovery solution designed for everyone --- whether you're a crypto pro or a complete beginner.\
+Backup and restore your wallets in just a few clicks with the help of your friends and family --- crypto-native or not, technical or not (yes, even your grandma!).All it takes is verifying your identity, sending a secure link through your preferred messenger, and having your trusted contacts click to confirm. With BackupBuddy, you'll never lose access to your digital assets again.You can always have peace of mind knowing that you --- and only you --- can regain access to your assets whenever needed.\
+It's fully self-custodial: no passwords to remember, no complicated on-chain procedures to learn.\
+Your guardians don't need to download any app, manage passwords, or even know what they're backing up --- they never see your wallet address or sensitive data.\
+And for identity verification, we offer privacy-preserving zero-knowledge (ZK) options.We believe everyone deserves a simple, secure, and truly self-sovereign backup solution for their digital assets.->Why It Matters <-What if your seed phrase ends up in your washing machine? Or accidentally thrown away by your cleaning-obsessed roommate?\
+Or your phone got stolen and therefore your access to your smart account wallet?Most of the time, you only realize you need your seed phrase --- or any recovery option --- when it's already too late: switching devices, upgrading your Ledger, or trying to recover a lost or stolen phone.Losing access to your crypto wallet is one of the most distressing experiences imaginable.\
+Today's so-called "solutions" force you into an impossible choice:
+
+-   Write your seed phrase on a piece of paper --- something that can easily be lost, damaged, or stolen.
+-   Or hand over your keys to a centralized service like an exchange, Google, or Apple.
+
+In doing so, you effectively surrender your self-custody and make them the new custodians of your assets.\
+In the end, this doesn't solve the problem --- it merely shifts it from a seed phrase on paper to a password on paper, where a company can still deny you access.As Vitalik Buterin has noted, social recovery --- where a circle of trusted contacts helps you regain access --- is a far superior model.\
+But existing implementations are often too technical, require specialized "guardian" software, or only work with EVM-style wallets.To draw a picture in the real world: you'd leave your spare house key with family or close friends --- so why can't those same people help you recover your digital keys?BackupBuddy changes the game by making social recovery intuitive, universal, and secure --- so even your grandma can be one of your guardians.With BackupBuddy, backing up your wallets --- and recovering them when necessary --- has never been easier.
+
+### IMPACT STATEMENTS
+
+### Impact and Vision
+
+-   Makes self-custody truly accessible to mainstream users by removing the fear of asset loss through easy, identity-based social recovery.
+-   Reduces onboarding friction for new Web3 users by eliminating the complexity and anxiety of managing seed phrases.
+-   Raises awareness that entrusting recovery to centralized custodians (like Google or Apple) undermines true digital sovereignty --- and that user-owned, privacy-first alternatives are both possible and practical.
+-   Demonstrates a privacy-first identity verification model through @SelfProtocol.
+-   Establishes a standardized, interoperable framework for social recovery --- applicable across wallets, identity systems, and any digital secret.
+-   Empowers communities by leveraging trusted social networks as a recovery layer, increasing overall resilience, inclusivity, and trust in self-custodial systems.
+
+### CONTRIBUTIONS
+
+### Key Contributions and Achievements
+
+-   Researched existing wallet recovery solutions and social recovery solutions and identified a critical gap:\
+    Non-technical users --- and their equally non-technical family members or friends --- are effectively excluded from social recovery.\
+    Even technical users cannot back up their wallets with their most trusted people (like close friends or family) without forcing them to download a wallet app or manage a password.
+-   Conceptualized and developed BackupBuddy, the first identity-based, universal social recovery system for digital wallets that is accessible to everyone --- not just crypto-natives.
+-   Designed a frictionless user flow that enables non-technical users to back up and recover wallets through their existing social contacts --- no app required for guardians and no crypto knowledge needed.
+-   Implemented privacy-preserving identity verification using zero-knowledge proofs (ZK) via @SelfProtocol, ensuring user privacy and data sovereignty.
+-   Engineered a universal recovery layer supporting multiple wallets and chains, allowing one simple backup for all.
+-   Developed a trustless social recovery protocol, ensuring guardians can assist recovery without ever accessing private keys, wallet details, or even knowing they are backing up digital assets.
+
+CONTRIBUTIONS LINKS[ETH -Global Cannes Hackathon Submission](https://ethglobal.com/showcase/backupbuddy-atchp)[ETH-Global Github Repo](https://github.com/yssf-io/backupbuddy)[ETH-Global Spotlight NYC + Extended Demo](https://www.backupbuddy.io/eth-global-spotlight)[Demo - Smart account wallet integration](https://m.youtube.com/watch?v=Im897bh3mFQ&feature=youtu.be)[Whitepaper for V2](https://backupbuddy.io/whitepaper)
+
+### PAST GRANTS AND FUNDING
+
+1ST PLACE ETH GLOBAL CANNES @SELFPROTOCOL
+
+Other
+
+5000
+
+usd
+
+BOOTSTRAPPED: POWERED BY PASSION, COFFEE, AND STRONG VALUES.
+
+Other
+
+1
+
+usd

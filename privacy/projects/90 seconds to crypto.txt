@@ -1,0 +1,33 @@
+### 90 seconds to crypto
+
+Education
+
+[0x883660...F6193dEF](https://arbiscan.io/address/0x883660510c0b25862c67784FE2963860F6193dEF)
+
+[haochizzle](https://x.com/haochizzle)
+
+<https://youtube.com/@90secondscrypto>
+
+[haochizzle](https://github.com/haochizzle)
+
+become sovereign in the digital age.on my youtube channel, i cover the tools, methods, and mindsets that help people go from offchain luddite to onchain sovereign. i provide weekly walkthroughs of the best crypto-native tools for self-custody, privacy, and digital freedom.noise, trading strategies, the focus on just the money --- we don't like that here. 🚮
+
+### IMPACT STATEMENTS
+
+My work is 100% public, educational, and open. It is aimed at helping people understand and adopt self-custodial crypto tools. All content is free on YouTube, remixable, and focused on privacy and sovereignty rather than speculation.Over the past 12 months, I've produced 51 videos and 54 shorts. My content initially focused on short-form explainers that has since expanded to long-form explainer and interviews. I have covered public good protocols such as Railgun, Fluidkey, Fileverse, and Zora. Some lifetime numbers from my YouTube:- 190k+ views - 400k+ impressions - 2600+ watch hours - 18000+ subscribersMy content has introduced thousands of viewers to the value of open, privacy-preserving self-custodial tech. I try to spotlight open source builders that rarely receive mainstream visibility; educate new users on how to go about self-custody safely; and reduce misinformation by focusing on legitimate onchain projects. I believe that my content can create a "rising tide lifts all boats" effect, because the more people understand and trust in self-custody/privacy tech, the more it benefits the open source ecosystem by bringing in more users, legitimacy, and funding.Gitcoin/MACI/Privote support would allow me to: - Continue building and expanding my reach in educating the masses on sovereignty and self-custody tech - Produce more privacy-focused content, such as ZKPassport, EF's institutional privacy work, Kohaku, and so much more - Create downloadable educational resources for builders and educatorsMy north star metric: I will produce 100 more videos+shorts for 2026. I want to use these videos to funnel people into resources like a complete self-custodial getting started guide and a privacy handbook I plan to write. I expect to drive around 10k people into these resources that will help them understand, use, and trust self-custodial crypto tools by the end of 2026.I also have a repository of pictures I have saved over the past 12 months (since I've started this project) with encouraging comments and praise from colleagues and strangers across YouTube, Twitter, Reddit, etc. Happy to share these too if it helps! :)
+
+### CONTRIBUTIONS
+
+I created `90 seconds to crypto` originally because I felt there was a dearth of good privacy content for crypto YouTube. So I began my journey, in earnest, by creating simple 90 second explainers on privacy protocols like Railgun, Fluidkey, and other educational initiatives. My original tagline, "spreading the good word on good work in crypto" was truly something I felt passionate about and connected to as a vision. There are SO many amazing builders in our space and what they build deserve to be spotlighted.That vision has since expanded to create values-driven, principles-first crypto content. I focus *exclusively* on self-custodial tech, including non-financial privacy tools like Fileverse and SimpleLogin. I also regularly do interviews with interesting folks that work in the crypto industry.The main aim is to do whatever I can, however small I am, to clean the cesspool that is crypto YouTube. I find it heartbreaking that there's so much content focused on trading and money go up-or-down and not enough honest video work on the technology itself. So that is why my mission now is to help offchain luddites become onchain sovereigns. I want to enable people, whom might otherwise have never had an idea, that they too can take their first steps towards full digital sovereignty.
+
+CONTRIBUTIONS LINKS[Fileverse explainer](https://youtu.be/Gu4y0SZNmoU)[Railgun interview ft. Alan Scott](https://youtu.be/nWM8hXRJylg)[zkp2p explainer](https://youtu.be/fgf3rxteiBA)[SimpleLogin email aliasing explainer](https://youtu.be/T-w12UigSSM)[Tornado Cash sanctions overturned explainer + seeking justice for Roman Storm and Alexey Pertsev](https://youtu.be/bGxvCpiNdKo)[3 simple ways to protect onchain privacy in 90 seconds](https://youtube.com/shorts/VTu1RZziC3w?feature=share)[4 essential tips for using Railgun in 90 seconds](https://youtube.com/shorts/WxbSgcATo34?feature=share)[How to use Railgun in 90 seconds](https://youtube.com/shorts/55k8UtTVgqk?feature=share)[Fluidkey explainer in 90 seconds](https://youtube.com/shorts/ZakBeBAS_nc?feature=share)[Zero-knowledge proofs for identity explained in 90 seconds](https://youtube.com/shorts/UwDg-wIcX9A?feature=share)[Why people should be skeptical of KYC, especially from CEX's](https://youtu.be/kH269cYxYz4)
+
+### PAST GRANTS AND FUNDING
+
+SELF-FUNDED
+
+Other
+
+-2
+
+USD

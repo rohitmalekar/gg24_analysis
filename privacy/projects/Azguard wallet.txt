@@ -1,0 +1,54 @@
+### Azguard wallet
+
+DApps
+
+Infrastructure
+
+[0xfb91Da...6359B029](https://arbiscan.io/address/0xfb91Da2035723982a3B61279357c070F6359B029)
+
+[azguardwallet](https://x.com/azguardwallet)
+
+<https://azguardwallet.io/>
+
+[AzguardWallet](https://github.com/AzguardWallet)
+
+Azguard wallet --- your gateway to the Web3 privacy revolution!
+-------------------------------------------------------------
+
+Built for the Aztec network, the first true privacy-focused zk-rollup on Ethereum, Azguard wallet is your control center for a new era of private, scalable, and compliant Web3. Powered by Zero-Knowledge Proofs (ZKPs) and account abstraction, it gives you complete ownership, privacy, and security --- all in one elegant wallet.
+
+The Essence of Privacy
+----------------------
+
+Aztec isn't just about adding privacy --- it is privacy. Unlike L1 protocols that layer encryption on top, Aztec is built entirely around zero-knowledge cryptography. Every transaction and smart contract runs inside a privacy-native rollup, making your data invisible by design.
+
+The Aztec Advantage
+-------------------
+
+Combining Ethereum's security with ZK-powered privacy, Aztec network delivers scalability, EVM compatibility, and built-in compliance --- enabling fast, affordable, and fully confidential DeFi and dApps. Currently in active development and preparing for mainnet launch, Aztec is redefining private blockchain infrastructure.
+
+Powered by Noir
+---------------
+
+Integrated with Noir, Aztec's native language for private smart contracts, Azguard opens access to next-generation ZK applications where privacy and usability coexist seamlessly.Azguard wallet --- more than private.\
+It's your key to full control, private DeFi, and Web3 freedom.
+
+### IMPACT STATEMENTS
+
+The Azguard wallet promotes privacy in Web3, giving users complete control over their assets and transactions within a secure, scalable, and compliant environment. Built on the Aztec network, it facilitates the use of private DeFi and dApps with zero-knowledge proofs, ensuring that sensitive data never leaves the wallet in plain form.By providing seamless access to privacy-native applications built on Noir, Azguard shows that privacy and usability can coexist, helping to lay the groundwork for a more confidential, user-centric blockchain ecosystem.
+
+### CONTRIBUTIONS
+
+Azguard wallet actively contributes to the growth and success of the Aztec ecosystem. We are helping prepare the network for mainnet launch by designing the wallet interface for seamless interaction with dApps and assisting developers with integrating our RPC.Beyond that, we support the ecosystem by providing documentation, tutorials, and RPC examples to help dApp developers adopt privacy-native applications. We contribute user experience feedback and testing insights to improve wallet and dApp usability, and develop demo integrations to showcase the potential of private smart contracts.Through these efforts, Azguard wallet not only serves users but also strengthens the Aztec ecosystem, promoting adoption, usability, and the advancement of privacy-focused Web3 applications.
+
+CONTRIBUTIONS LINKS[The Azguard wallet Client is the RPC that powers full access to all Aztec network features, seamless dApp integration and a complete, privacy-first Web3 experience.](https://github.com/AzguardWallet/azguard-wallet-client)[Azguard wallet help is your go-to guide for easily mastering every feature of the wallet.](https://azguardwallet.io/help)
+
+### PAST GRANTS AND FUNDING
+
+GRANTS
+
+Other
+
+100000
+
+USD

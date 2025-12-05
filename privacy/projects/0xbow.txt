@@ -1,0 +1,33 @@
+### 0xbow
+
+DApps
+
+[0x4868c6...8331bdDb](https://arbiscan.io/address/0x4868c60e35373B8CAD0a26343d74b51E8331bdDb)
+
+[0xbowio](https://x.com/0xbowio)
+
+[https://0xbow.io](https://0xbow.io/)
+
+[0xbow-io](https://github.com/0xbow-io)
+
+0xbow is advancing privacy on Ethereum by building compliance-enabled infrastructure for the future of onchain finance.We developed Privacy Pools, a protocol for private transactions that allows users to prove association with legitimate funds, and thus disassociate from illicit activity, without revealing sensitive information. We also built the Tornado Cash Proof of Innocence (PoA), a cryptographic framework that enables Tornado Cash users to dissociate from illicit actors while preserving on-chain anonymity.Through the Association Set Provider (ASP), 0xbow prevents illicit actors from abusing & tainting protocols and enables a scalable ecosystem, of users, developers, and institutions to interact privately yet transparently within regulatory bounds.Our mission is to make privacy a foundational part of Ethereum's future.
+
+### IMPACT STATEMENTS
+
+Privacy Pools: over $10m in volume, 1800 unique deposits. Tornado Cash PoA: just launched!
+
+### CONTRIBUTIONS
+
+Privacy Pools: a compliant privacy protocol built for Ethereum that lets depositors preserve anonymity.Tornado Cash PoA: a cryptographic proof framework that allows users to dissociate from illicit Tornado Cash deposits without revealing private transaction history.Association Set Protocol (ASP): a powerful compliance tool designed to enhance the security and legitimacy of private blockchain transactions.
+
+CONTRIBUTIONS LINKS[0xbow Github](https://github.com/0xbow-io/privacy-pools-core)
+
+### PAST GRANTS AND FUNDING
+
+SEED FUNDING
+
+Other
+
+500000
+
+USD

@@ -1,0 +1,15 @@
+Dappnode is a free and open source platform that allows anyone to easily deploy and run decentralized applications (DApps) and validators. By donating to Dappnode, you are supporting the development of a better user experience for the web3 ecosystem and helping to decentralize networks.
+
+The dappnode software is completely free, and more than 4000 validators in Ethereum use it to maintain their nodes running and up-to-date. Dappnode doesn't, and can't, charge anything for it because it's built with self-sovereignty and privacy by design.
+
+Currently, our focus is in becoming a public good beyond web3, allowing activists, journalists, and of course regular citizens to host their own privacy-enhancing, self-sovereign infrastructure like local-AI models, VPNs and others.
+
+Your donations will directly impact the continued development and improvement of Dappnode, allowing us to create new features and enhancements that make it easier for users to access and use DApps. This in turn will help to further decentralize the Ethereum network and promote the use of decentralized technologies.
+
+Some of our latest work has been:
+
+- SmoothDAO: Allows solo stakers participating in Dappnode’s Smooth to take collective action through governance.
+- Hoodi Testnet Integration: After Ethpandaops’ announcement, we’re working to have Ethereum’s new testnet integration available for Dappnode users.
+- And of course, Dappnode is completely open source too! We offer a set of tutorial videos in our YouTube channel called “Dappnode Driving School” that will help you set up Dappnode and spin up your own nodes from home:
+
+And of course, Dappnode is completely open source too! Here's a demonstration of how easy it is to deploy all the software for running a validator:

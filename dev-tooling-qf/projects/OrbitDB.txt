@@ -1,0 +1,51 @@
+OrbitDB is a serverless, distributed, peer-to-peer database. OrbitDB uses IPFS as its data storage and Libp2p Pubsub to automatically sync databases with peers. It's an eventually consistent database that uses Merkle-CRDTs for conflict-free database writes and merges making OrbitDB an excellent choice for p2p and decentralized apps, blockchain applications and local-first web applications.
+
+OrbitDB features a modular architecture, allowing for extensibility of the existing functionality. Access controllers, identity providers and, now, encryption can easily be implemented, either using out-of-the-box modules or bring-your-own solutions.
+
+OrbitDB empowers developers to build applications which protect data ownership, ensure user privacy and resist censorship.
+
+(Black Hole, a browser-based peer-to-peer chat featuring shared key cryptography, powered by OrbitDB)
+
+History
+
+OrbitDB started as Orbit, a peer-to-peer chat solution in 2015. Built by IPFS developers, it was soon determined that a peer-to-peer chat required a peer-to-peer database. To meet this need, OrbitDB was spun out.
+
+In 2023, OrbitDB reached production-ready version 1. This culminated after 7 years of extensive development and a complete overhaul of the existing OrbitDB infrastructure.
+
+OrbitDB is now one of the leading peer-to-peer database solutions, downloaded over 2000 times a week and is being incorporated into a variety of projects including a browser-based blockchain and a decentralized social media platform.
+
+Projects
+
+The OrbitDB ecosystem includes a number of projects currently under development.
+
+Some of these projects include:
+
+Core
+
+@OrbitDB/Core is our flagship project and provides peer-to-peer database capabilities to Javascript developers.
+
+Voyager
+
+When data is stored with limited connectivity, there needs to be a way to provide access to distributed databases when computers go offline. Voyager, OrbitDB's pinner, provides always-up database replicas.
+
+Go implementation
+
+To expand the OrbitDB family, we are embarking on a port of OrbitDB to Golang. This will provide a wider array of developers to integrate OrbitDB in their decentralized systems.
+
+Roadmap
+
+Encryption
+
+We hope to add encryption to both entries and the payloads.
+
+Mission Control
+
+A new user control panel. Users will be able to manage their databases using a GUI/webUI.
+
+Sync protocol robustness
+
+We would like to improve OrbitDB's recovery abilities when peers drop out and reconnect. Helping the sync protocol more easily recover from these outages will make OrbitDB more robust.
+
+Infrastructure
+
+We would like to expand some of our infrastructure for better testing and demo-ing. This includes the deployment of more relays and Voyager peers. We currently use Bitlaunch to run this infrastructure.

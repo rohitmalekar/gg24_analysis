@@ -1,0 +1,49 @@
+L2BEAT is a public goods company dedicated to providing on-chain transparency.
+
+What sets L2BEAT apart is our unwavering commitment to delivering accurate and reliable information. We strive to be an impartial and independent watchdog that acts in the best interest of users and the broader ecosystem while always remaining credibly neutral and faithful to reality and facts. We deliver data and tools that allow our community to educate themselves, transact securely, and make well-informed decisions.
+
+This approach has earned us recognition and a solid reputation in the industry, garnering praise from the global Ethereum community and making our voice highly valued by numerous organizations and institutions. We are unafraid of being vocal and opinionated when our values are at stake.
+
+Our work spans a wide range of areas, including:
+
+- Research and analysis of public protocols, including L2s and bridges
+- Participation in protocol governance and security councils
+- Development of transparency solutions like explorers
+- Monitoring of smart contract upgrades
+- Operation of nodes, and validators
+- Publication of research reports
+- Organization of conferences
+
+We receive generous funding from various public goods organizations as well as from various private donors and investors. Additionally, we collaborate closely with leading companies in the space by accepting grants for specific projects.
+
+L2BEAT has a dedicated team of 19 professionals working on various aspects of Ethereum L2 research and analytics. Key public figures associated with the project include:
+
+Jacek Czarnecki - https://twitter.com/Jacek_Czarnecki
+
+Bartosz Kiepuszewski - https://twitter.com/bkiepuszewski
+
+Piotr Szlachciak - https://twitter.com/PiotrSzlachciak
+
+Krzysztof Urbański - https://twitter.com/kaereste
+
+Hubert Kotliński - https://twitter.com/hubkotl
+
+All of our work is publicly accessible on our GitHub Repo - https://github.com/l2beat/l2beat
+
+We announce all new features, events, and other endeavors on our Twitter account - https://twitter.com/l2beat
+
+Notable recent updates include:
+
+- The introduction of novel frameworks, such as ‘Risk Rosette’ and 'Stages'
+
+- The review and listing of new projects in the space, including Base, Mantle, and Kroma
+
+- The publication of our inaugural report, "Upgradeability of Ethereum L2s," which has been recognized as a must-read by industry leaders
+
+- Hosting and participating in major Ethereum-centric events, with details available on warsaw.l2beat.com and amsterdam.l2beat.com
+
+- Demonstrated proactivity in safeguarding the L2 space by identifying critical issues like the dYdX bug, the Rhino.fi timelock delay change, and the Aztec Connect proposer failure critical change
+
+Your donations are the fuel to our mission, bolstering our relentless endeavors to usher in education, clarity, and invaluable tools to the L2 universe.
+
+Your unwavering support means the world to us. Thank you! 💗

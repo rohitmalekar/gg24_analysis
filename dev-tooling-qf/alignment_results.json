@@ -1,0 +1,824 @@
+{
+  "summary": {
+    "total_projects": 48,
+    "folder": "dev-tooling-qf"
+  },
+  "results": [
+    {
+      "folder": "dev-tooling-qf",
+      "project": "rotki",
+      "project_file": "rotki.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 3
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_06",
+        "name": "Sustainability and Talent Drain",
+        "score": 4
+      },
+      "primary_score": 3,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "ethpillar-streamlining-ethereum-staking-for-everyone",
+      "project_file": "ethpillar-streamlining-ethereum-staking-for-everyone.txt",
+      "primary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "enscribe",
+      "project_file": "enscribe.txt",
+      "primary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "swiss-knifexyz",
+      "project_file": "swiss-knifexyz.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "dexappbuilder-the-no-codelow-code-toolkit-of-dexkit",
+      "project_file": "dexappbuilder-the-no-codelow-code-toolkit-of-dexkit.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 3
+      },
+      "primary_score": 4,
+      "secondary_score": 3
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "viem",
+      "project_file": "viem.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_04",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "ethrex-an-ethereum-protocol-implementation",
+      "project_file": "ethrex-an-ethereum-protocol-implementation.txt",
+      "primary_problem": {
+        "problem_id": "devtool_04",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "ethereum-attestation-service",
+      "project_file": "ethereum-attestation-service.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "eas-pulse",
+      "project_file": "eas-pulse.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "mevlog-rs-evm-transactions-querying-powered-by-revm",
+      "project_file": "mevlog-rs-evm-transactions-querying-powered-by-revm.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "dappnode",
+      "project_file": "dappnode.txt",
+      "primary_problem": {
+        "problem_id": "devtool_06",
+        "name": "Sustainability and Talent Drain",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_01",
+        "name": "Underfunded Core Infrastructure",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "zk-email",
+      "project_file": "zk-email.txt",
+      "primary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "astral",
+      "project_file": "astral.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "otterscan",
+      "project_file": "otterscan.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_04",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "score": 3
+      },
+      "primary_score": 4,
+      "secondary_score": 3
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "simple-optimism-node",
+      "project_file": "simple-optimism-node.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_04",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "greenpill-dev-guild",
+      "project_file": "greenpill-dev-guild.txt",
+      "primary_problem": {
+        "problem_id": "devtool_06",
+        "name": "Sustainability and Talent Drain",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_01",
+        "name": "Underfunded Core Infrastructure",
+        "score": 2
+      },
+      "primary_score": 4,
+      "secondary_score": 2
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "devouch_-decentralized-verification-and-reputation",
+      "project_file": "devouch_-decentralized-verification-and-reputation.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_06",
+        "name": "Sustainability and Talent Drain",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "argot-collective",
+      "project_file": "argot-collective.txt",
+      "primary_problem": {
+        "problem_id": "devtool_01",
+        "name": "Underfunded Core Infrastructure",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "protocol-guild",
+      "project_file": "protocol-guild.txt",
+      "primary_problem": {
+        "problem_id": "devtool_01",
+        "name": "Underfunded Core Infrastructure",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_06",
+        "name": "Sustainability and Talent Drain",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "ethstaker",
+      "project_file": "ethstaker.txt",
+      "primary_problem": {
+        "problem_id": "devtool_06",
+        "name": "Sustainability and Talent Drain",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_01",
+        "name": "Underfunded Core Infrastructure",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "blockscout-open-source-block-explorer",
+      "project_file": "blockscout-open-source-block-explorer.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "ethereum-on-arm",
+      "project_file": "ethereum-on-arm.txt",
+      "primary_problem": {
+        "problem_id": "devtool_01",
+        "name": "Underfunded Core Infrastructure",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_04",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "snekmate",
+      "project_file": "snekmate.txt",
+      "primary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "web3gpt",
+      "project_file": "web3gpt.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 3
+      },
+      "primary_score": 5,
+      "secondary_score": 3
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "orbitdb",
+      "project_file": "orbitdb.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "revokecash",
+      "project_file": "revokecash.txt",
+      "primary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 3
+      },
+      "primary_score": 4,
+      "secondary_score": 3
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "defiscan",
+      "project_file": "defiscan.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_06",
+        "name": "Sustainability and Talent Drain",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "colibri_-first-trustless-stateless-client",
+      "project_file": "colibri_-first-trustless-stateless-client.txt",
+      "primary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_04",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "migalabs",
+      "project_file": "migalabs.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_04",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "unlock-protocol",
+      "project_file": "unlock-protocol.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_06",
+        "name": "Sustainability and Talent Drain",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "shutter-network-keeping-fairness-privacy-and-security",
+      "project_file": "shutter-network-keeping-fairness-privacy-and-security.txt",
+      "primary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_04",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "score": 3
+      },
+      "primary_score": 4,
+      "secondary_score": 3
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "ethlimo",
+      "project_file": "ethlimo.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "dev-tools-guild",
+      "project_file": "dev-tools-guild.txt",
+      "primary_problem": {
+        "problem_id": "devtool_01",
+        "name": "Underfunded Core Infrastructure",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_06",
+        "name": "Sustainability and Talent Drain",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "vero-a-multi-node-validator-client",
+      "project_file": "vero-a-multi-node-validator-client.txt",
+      "primary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_04",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "ethui",
+      "project_file": "ethui.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "wighawag",
+      "project_file": "wighawag.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "iggy-web3-social-for-daos",
+      "project_file": "iggy-web3-social-for-daos.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 2
+      },
+      "primary_score": 4,
+      "secondary_score": 2
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "ethaccount",
+      "project_file": "ethaccount.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_04",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "open-labels-initiative",
+      "project_file": "open-labels-initiative.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "human-passport",
+      "project_file": "human-passport.txt",
+      "primary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "remix-project",
+      "project_file": "remix-project.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_06",
+        "name": "Sustainability and Talent Drain",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "scaffold-eth-2",
+      "project_file": "scaffold-eth-2.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 3
+      },
+      "primary_score": 4,
+      "secondary_score": 3
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "scaffold-eth-mobile",
+      "project_file": "scaffold-eth-mobile.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "beacon-labs",
+      "project_file": "beacon-labs.txt",
+      "primary_problem": {
+        "problem_id": "devtool_06",
+        "name": "Sustainability and Talent Drain",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_01",
+        "name": "Underfunded Core Infrastructure",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "l2beat",
+      "project_file": "l2beat.txt",
+      "primary_problem": {
+        "problem_id": "devtool_05",
+        "name": "Ecosystem Data and Observability Gaps",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "recon-invariant-testing-extension",
+      "project_file": "recon-invariant-testing-extension.txt",
+      "primary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "vyper",
+      "project_file": "vyper.txt",
+      "primary_problem": {
+        "problem_id": "devtool_02",
+        "name": "Fragmented Developer Experience",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "dev-tooling-qf",
+      "project": "brightid-proof-of-uniqueness",
+      "project_file": "brightid-proof-of-uniqueness.txt",
+      "primary_problem": {
+        "problem_id": "devtool_03",
+        "name": "Security Gaps and Safety Risks",
+        "score": 3
+      },
+      "secondary_problem": {
+        "problem_id": "devtool_04",
+        "name": "Scalability and Protocol Evolution Gaps",
+        "score": 2
+      },
+      "primary_score": 3,
+      "secondary_score": 2
+    }
+  ]
+}

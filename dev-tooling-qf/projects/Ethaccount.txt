@@ -1,0 +1,15 @@
+Ethaccount provides developer tooling solutions for building and integrating Ethereum wallets. It began as a wallet connecting library and has since evolved into an ecosystem for Account Abstraction through its two main projects:
+
+Vue Dapp
+
+A TypeScript library built on the Vue framework that simplifies EOA wallet integration in Dapps. It manages reactive wallet states and provides composables for quick setup to ensure users’ accounts and network data remain synchronized in real time.
+
+https://github.com/ethaccount/vue-dapp
+
+Smart Account Manager
+
+A web-based wallet designed for Account Abstraction interoperability and seamless Dapp integration. Developers can use the sendop.js library to unify fragmented smart account implementations or integrate the SAManager SDK to enable features such as batch transactions, gas sponsorship, and custom permissions. SAManager promotes a modular experience, allowing users to access accounts via EOAs or Passkeys while preserving full self-custody and flexibility across different interfaces.
+
+https://testnet.samanager.xyz
+
+These tools help developers bridge the gap between traditional EOAs and smart contract accounts, promoting interoperability and modular wallet design across the Ethereum ecosystem.

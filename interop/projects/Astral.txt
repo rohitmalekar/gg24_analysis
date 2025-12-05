@@ -1,0 +1,92 @@
+Location-Based Services for Ethereum
+The missing location layer for Web3 — making “where” a first-class primitive in decentralized systems.
+
+
+
+Astral provides open infrastructure that lets dApps represent and reason about where things happen, unlocking a new class of location-aware applications on Ethereum.
+
+
+
+Why It Matters
+Location shapes many of the world’s most engaging digital experiences—mobility, gaming, social coordination, and discovery—but remains inaccessible to Web3.
+
+
+
+Today, apps rely on inconsistent or easily spoofed signals, with no shared standard for expressing where something happened.
+
+
+
+Astral changes that.
+
+
+
+We’re developing a framework for location proofs—verifiable attestations that confirm location or region membership—and a network of interoperable location services that make it simple for developers to build spatially aware applications.
+
+
+
+What’s Live
+Astral SDK: Developer tools for creating verifiable location data attestations — onchain and offchain.
+Astral API: A geospatial indexer for reading and validating signed spatial data.
+
+
+What's Next
+Location Proof Plugins Library: Extensible library for collecting location evidence for believable location claims.
+Astral Location Services: A geofencing and verification layer for dApps, supported by GG24 funding.
+
+
+What You Can Build
+Social and cultural apps that activate based on verified presence
+Games and quests that reward real-world exploration
+Coordination and field tools for logistics, research, or response
+Agents and AI systems that adapt to real-world context
+Community or DAO applications that respond to place-based participation
+
+
+
+
+Why Now
+Ethereum’s stack — L2s, AVSs, zk systems — is mature enough to support verifiable real-world interaction.
+The network’s multi-chain architecture calls for shared context standards like Astral’s.
+Users and developers need interoperable ways to anchor digital activity in geography, without sacrificing control.
+Astral Location Services provide a common foundation for location-aware logic across chains and ecosystems.
+
+
+
+
+Start Building
+
+
+Build a spatially aware dApp.
+
+Develop a location proof plugin.
+
+Contribute to the open geospatial layer for Ethereum.
+
+
+
+Docs: docs.astral.global
+
+GitHub: github.com/DecentralizedGeo
+
+Telegram: https://t.me/+UkTOSXnDcDM5ZTBk
+
+Milestones (4-6 months)
+
+"""Over the next 4 to 6 months, Astral will deliver key open-source components and pilots that extend Ethereum’s interoperability and analytics capabilities.
+- Launch an open-source Location Proof Plugins Library, enabling multi-signal verification strategies for builders.
+- Deploy a public testnet endpoint supporting geofencing, location-based access control, and privacy-preserving verification.
+- Pilot a multifactor location proof system for validator node localization and network resilience research.
+- Validate compatibility with the Open Intents Framework to ensure cross-standard interoperability.
+- Release updated SDK and API documentation supporting permissionless plugin contributions and cross-chain integration.
+- Publish the Location Protocol v1.0 specification for ecosystem-wide use and alignment with geospatial standards.
+
+
+Together, these milestones will make location-based services a practical, interoperable layer for Ethereum developers and researchers."""
+
+Please example how your project meets the round-specific eligibility criteria.
+
+"""Astral meets the round’s eligibility criteria by developing open interoperability standards and infrastructure for verifiable, privacy-preserving geospatial data across Ethereum and L2 networks.
+
+Our open-source SDK, API, and schemas make spatial attestations portable across chains, enabling dApps and intent-based systems to verify real-world context—where and when events occur—in a consistent and trust-minimized way.
+
+Astral advances open data interoperability through standardized schemas grounded in Ethereum’s design principles and aligned with the Open Geospatial Consortium (OGC). These tools strengthen multi-chain coordination by allowing verifiable spatial proofs and analytics to move seamlessly between networks. While distinct from the Open Intents Framework, Astral provides complementary infrastructure that can extend OIF-enabled applications with verifiable real-world context."""

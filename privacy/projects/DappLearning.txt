@@ -1,0 +1,46 @@
+### DappLearning
+
+DApps
+
+Education
+
+[0xE9C265...25d7A76B](https://arbiscan.io/address/0xE9C265C726CeF84fF60c4A40e7D68ef425d7A76B)
+
+[Dapp_Learning](https://x.com/Dapp_Learning)
+
+<https://dapplearning.org/>
+
+[Dapp-Learning-DAO](https://github.com/Dapp-Learning-DAO)
+
+An online open-source developer community focusing on Ethereum & Layer2, integrating privacy education and practical use cases into our core initiatives.
+
+### IMPACT STATEMENTS
+
+Our fundamental impact lies in systematically "mainstreaming" privacy education within the Ethereum ecosystem. We move privacy from a niche specialty to a core competency for thousands of developers, thereby directly strengthening the talent pipeline and foundational knowledge necessary for a privacy-preserving web3 future.1/ Widespread Developer Adoption: Our GitHub repository has become a key public good, evidenced by over 5,700 stars and 1,500 forks. This indicates not just popularity, but active reuse and experimentation by thousands of developers.2/ Mass Reach with Privacy-Centric Curriculum: Our dedicated course series on the foundational pillars of privacy---FHE, the Basic Maths Behind ZK, and Cryptography Course---has achieved a cumulative over 74,000 views((26k+ from youtube and 48k+ from bilibili)). This massive viewership is a direct metric of success in addressing the high demand for accessible privacy education.3/ Real applied ZK case: ZK Redpacket have become a vital privacy infrastructure in our community ecosystem, and we use it to distribute and receive rewards on a basis.In summary, our impact is a multiplier effect: we use our broad reach as an Ethereum educational platform to identify and funnel thousands of developers into a deep, practical, and community-supported journey into privacy technologies.
+
+### CONTRIBUTIONS
+
+We have contributed by cultivating curiosity and fostering adoption.
+
+-   Cultivating curiosity
+
+Our early initiatives in ZK and cryptography education sparked a deep, community-driven exploration of the field's theoretical and practical sides. Our open-access, in-depth video series include:1/ [Basic Cryptography Course Series](https://www.youtube.com/watch?v=whdoh1RSh94&list=PLgPVMJY4tnFMynvSMXsSLcnBG0MRf-Iir); [Cryptography Course Series](https://www.youtube.com/playlist?list=PLgPVMJY4tnFNod3k-iMyO9X1TGQuWfoyO): A comprehensive two-part series covering essential cryptographic primitives, their mathematical basis, and their role in securing decentralized systems.2/ [Basic Maths Behind ZK](https://www.youtube.com/playlist?list=PLgPVMJY4tnFPkPBFeGHGsIbiL7iDsaRvG) : A dedicated playlist unpacking the fundamental mathematical concepts (such as finite fields and elliptic curves) that form the bedrock of Zero-Knowledge Proofs.3/ [Fully Homomorphic Encryption (FHE)](https://www.youtube.com/playlist?list=PLgPVMJY4tnFM1g6OTcHt_dNhzh9xzWVS2): A deep dive into the principles of FHE, explaining its unique properties and potential applications from the ground up.Also, We have come up with and compiled some [ZK learning materials](https://github.com/Dapp-Learning-DAO/ZKDapp-Learning).
+
+-   fostering adoption
+
+Furthermore, we actively foster ZK adoption by integrating it into community products and building practical case studies, guiding developers from theory to implementation.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1/ [ZK-Redpacket](https://dapplearning.org/reward): We developed and deployed a ZK-based Red packet feature on our official website. This is a functional product we use, not just a demo. It showcases how to use zk-proofs to handle secret claims on-chain without revealing the password. Our entire website is fully open-sourced, offering developers a complex, real-world codebase to study and learn from.2/ Hands-On Code Tutorials for learning, they are:(1) [Building proofs with zk-SNARKjs](https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic/22-zk-snarkjs): How to develop zk applications, including using tools such as circom, snarkjs, circomlib, circomlibjs, etc. to write circuits, test circuits, generate proofs, and verify proofs.(2) [How to build a zero-knowledge proof anonymous voting system](https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic/48-ZK-Voting)(3) [Introduction to the zkSync Layer 2 Scaling Solution](https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic/30-zksync-layer2):(4) [Introduction to the StarkNet Layer 2 Scaling Solution](https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic/31-starkNet-layer2)(5) [Introduction to zkVM, including the RISC Zero and SP1](https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic/81-zkVM)(6) [Implement the zkP2P protocol]: use zero-knowledge proof to achieve privacy-protected peer-to-peer transactions, and combine DKIM email verification and zero-knowledge proof circuits to achieve private transactions from off-chain payments to on-chain asset exchanges(https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic/82-zkP2P)By offering both deep theoretical knowledge and practical engineering blueprints, we provide a holistic, self-contained resource for developers at all stages---from those seeking foundational understanding to those ready to immediately start building and experimenting.
+
+CONTRIBUTIONS LINKS[Dapp learning project](https://github.com/Dapp-Learning-DAO/Dapp-Learning)[Also, our website](https://dapplearning.org/)[About zk Red packet](https://github.com/Dapp-Learning-DAO/Official-website-smart-contract/tree/main/zk-redpacket)
+
+### PAST GRANTS AND FUNDING
+
+ETHEREUM FOUNDATION
+
+Other
+
+20000
+
+USD

@@ -1,0 +1,69 @@
+MigaLabs: The Blockchain Ecosystem Observatory
+
+Empowering research and development across the Ethereum network
+
+About MigaLabs
+
+MigaLabs🐜 is a blockchain research and open-source development organization dedicated to strengthening Ethereum’s decentralization, reliability, and scalability. We provide data-driven insights and publicly accessible tools to help developers, node operators, researchers, and blockchain enthusiasts understand and improve Ethereum’s infrastructure.
+
+Our mission is simple, yet vital: to empower the community with transparent, real-time blockchain analytics. Through open research and high-quality data, we enable the ecosystem to make informed decisions about Ethereum’s performance, health, and sustainability.
+
+All of our work, from network crawlers to staking dashboards, is open source and free to visualize. We believe in transparency, collaboration, and accessibility for everyone.
+
+Our Platform
+
+The MigaLabs website is the gateway to our research, tools, and real-time data visualizations. It’s designed for everyone, whether you’re a developer analyzing validator performance, a researcher studying decentralization, or simply curious about Ethereum’s network activity.
+
+P2P Network
+
+A high-level view of Ethereum’s network health, including ISP data, geographical distribution, and client diversity.
+
+Staking Entities
+
+An in-depth analytics section covering entities, validators, participation rates, correctness rates, obtained rewards, slashed validators, withdrawals & deposits, and much more.
+
+Block Explorer
+
+A full-featured dashboard to visualize blocks, transactions, epochs, and slots, ideal for anyone monitoring Ethereum activity in real-time. You can even see which node operator published each block.
+
+MEV & Relays
+
+We also provide information on MEV and Relay's block distribution, as well as their historical evolution. This data is also available on the blocks and slot pages.
+
+Blob Data
+
+Blobs were designed to empower rollup scalability. In this dashboard, you can see blob per block distribution, network latency, correlations with missed blocks, and much more.
+
+Validator Consolidations
+
+A detailed dashboard showing daily validator consolidations, as well as per-entity consolidations. You can find the entire list with source, target, and slot.
+
+Blog Posts
+
+Our Blog provides short write-ups about event analyses and other updates on Ethereum’s evolution. They also include short, lighter versions of some of our research papers.
+
+Research Papers
+
+Our team of researchers continuously studies Ethereum’s behavior to provide the community with accurate, open data. These papers highlight how validator setup and client software influence Ethereum’s decentralization and efficiency, among many other topics.
+
+API
+
+Access our API documentation to integrate Ethereum data into your own research or applications. The API provides open, real-time access to the same datasets used across our dashboards, at no cost.
+
+Our Collaborators
+
+- “ MigaLabs’ analyses have influenced both stakers and core protocol decisions — a testament to their deep understanding of Ethereum. ” — Ethereum Foundation
+
+- “ MigaLabs are a team of exceptionally skilled researchers at the forefront of advancing blockchain robustness. They are thorough, collaborative, and community-driven. ” — Lido DAO
+
+- " Working with MigaLabs over the past few years has been an absolute pleasure – their dedication to excellence and their innovative approach has made it uniquely rewarding. " - Attestant
+
+- " Our collaboration with MigaLabs is instrumental in accurately assessing Ethereum's environmental impact. Their specialised data on key network metrics directly informs and enriches our models." - Cambridge Center for Alternative Finance
+
+- " Our partnership with MigaLabs propelled our research and testing to superspeed. Their ability to understand what we were after, the speed at which they could deliver and the honest and easy communication between our teams was critical to go to market. " - DappNode
+
+- " MigaLabs has been extremely helpful with the data they provide, providing an easy to use API, ensuring changes go smoothly, and being open to feedback and feature requests. " - Ether Alpha
+
+Reach Us
+
+Explore our platform to discover detailed metrics and single-chain analytics. Stay connected—follow us on Twitter or join our Discord to ask questions and engage with the community. As an open-source project, you can also browse and contribute to our work on GitHub.

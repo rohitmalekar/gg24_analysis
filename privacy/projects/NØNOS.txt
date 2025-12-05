@@ -1,0 +1,47 @@
+### NØNOS
+
+Research
+
+DApps
+
+Infrastructure
+
+Education
+
+[0x5aF685...f7C30E4c](https://arbiscan.io/address/0x5aF68580b9ccb5a3b147c09946454696f7C30E4c)
+
+[nonossystems](https://x.com/nonossystems)
+
+<https://nonos.systems/>
+
+[NON-OS](https://github.com/NON-OS)
+
+NØNOS is a cryptographic operating system built entirely from scratch to redefine privacy and digital sovereignty at the system level. Unlike conventional OS architectures that rely on trust-based or centralized control models, NØNOS introduces a ZeroState microkernel, an execution environment where all processes, proofs, and identities operate in RAM-only ephemeral memory and are mathematically verifiable at runtime.Key innovations include:
+
+-   ZK-verified execution: Every computation is provable using Groth16 and BLS12-381 attestations.
+-   Post-quantum cryptography integration: PQClean-based primitives ensuring future-proof encryption.
+-   Onion mesh networking: Decentralized routing that preserves anonymity and breaks metadata linkage.
+-   Capsule runtime: Developers can deploy modular apps ("capsules") that operate within isolated, verifiable sandboxes.
+-   ZKID layer: A privacy-preserving identity framework that never stores or exposes state.
+
+NØNOS is not another blockchain but it's the computational substrate for verifiable computation and privacy-first applications. It merges three traditionally separate domains:System-level isolation (microkernel, runtime, hardware trust)Cryptographic computation (ZKPs, PQ primitives, attestations)Ephemeral privacy architecture (RAM-only, onion mesh, zero persistence)This union creates a new paradigm:"A user doesn't run software they instantiate a cryptographic proof of trustless computation."Our mission is to restore digital freedom by building systems that cannot betray the user by design.Gitcoin funding will accelerate:kernel-level ZK proof integration,SDK expansion for capsule developers, and open-access testnet deployment for community experimentation.Privacy is not a feature. It's the foundation.NØNOS is building the foundation.
+
+### IMPACT STATEMENTS
+
+NØNOS aims to reshape how privacy and computation coexist. Its impact is measured not in hype, but in architecture by proving that operating systems can enforce cryptographic integrity and anonymity at their core, without centralized trust or persistent memory.Key impact areas:Freedom technology: Enabling people to compute, communicate, and develop without surveillance or data retention.Research contribution: Demonstrating how zero-knowledge proofs and post-quantum cryptography can be integrated natively into OS-level design.Infrastructure for DePIN & Web3: Providing the substrate for decentralized, verifiable, privacy-oriented computation.Education: Inspiring developers, researchers, and students to explore low-level, verifiable computing through open repositories and public documentation.NØNOS stands as proof that open-source can still defend freedom at the hardware and code level. It is not another blockchain it is the cryptographic backbone for human digital sovereignty. The impact of this work extends far beyond NØNOS itself. By moving cryptographic provenance into the boot process, NØNOS establishes a new model for trustless firmware and system security, where every binary, key, and proof is mathematically verifiable from the moment power is applied.Impact areas include:Infrastructure: Creation of a modular, open cryptographic boot architecture usable by privacy OS projects, DePIN nodes, or secure enclave systems.Research: Introducing the concept of Zero-Knowledge Boot verifiable firmware initialization anchored in multi-party cryptography and post-quantum primitives.Security & Privacy: Ensuring end-to-end provenance, distributed signer custody, and immutable proof chains without centralized trust.Education & Transparency: Publishing reproducible ceremony scripts, verifier bundles, and open documentation so others can replicate and audit the process.This work provides the missing link between cryptographic research and practical, trustless system engineering. It shows that verifiable computing doesn't stop at applications or blockchains it starts the moment your system wakes up.
+
+### CONTRIBUTIONS
+
+NØNOS has contributed a full open-source kernel architecture designed around zero-knowledge cryptography, ephemeral computation, and privacy-preserving networking. All core modules including cryptographic primitives, capsule runtime, networking stack, and sandboxed execution environments are being developed in Rust, under a fully auditable repository.Our contributions include:A microkernel framework built from scratch for verifiable, RAM-only computation.Integrated PQClean-based cryptographic modules and Groth16/BLS12-381 circuits for runtime attestations.An onion mesh network stack for anonymous communication and state propagation.Upcoming Developer SDK ("nonos-developer-kit") enabling capsule apps to run in privacy-enforced environments.Comprehensive documentation, continuous open testing, and an active effort to publish educational material on privacy-first computing.All progress is public and verifiable through our GitHub:https://github.com/NON-OS/nonos-kernelNØNOS has engineered a cryptographically verifiable boot stack that extends zero-knowledge provenance to the firmware layer a world-first for an open-source operating system. The bootloader now ships with a suite of four production-grade cryptographic tools, each implementing a distinct part of the trust chain:nonos-keygen hardened key generation with zeroized secrets, atomic writes, strict permission control, and auditable provenance logs.zk-embed deterministic embedding tool that validates verifying-key bundles, canonicalizes Groth16 VKs to compressed arkworks format, and emits compile-time Rust snippets containing PROGRAM_HASH and VK bytes guarded by provenance headers.nonos-attestation-circuit attestation engine generating Groth16/BLS12-381 verification circuits that bind program identity to kernel integrity through explicit domain-separated hashes.zk-ceremony a complete operator toolkit for multi-party "Powers-of-Tau" ceremonies, including transcript management, threshold signatures, provenance metadata, and optional Arweave anchoring for immutable storage.All firmware builds are CI-verified: build.rs enforces provenance by blocking any release build unless the ZK-EMBED marker and verified VK snippets are present. The CI pipeline validates signer thresholds, canonicalizes proofs, emits provenance JSON, and guarantees reproducibility end-to-end without ever exposing private keys to CI.These tools create a decentralized, auditable, and privacy-preserving provisioning process, bridging multi-party cryptographic ceremonies with on-device zero-knowledge verification. Together, they form the first fully open, self-verifying firmware pipeline, designed to integrate directly with the NØNOS microkernel through capsule-based attestation.This code is public and open-source, and is under active development final audits and ceremony execution will follow the v0.2 kernel release.https://github.com/NON-OS/nonos-boot (https://github.com/NON-OS/nonos-kernel)
+
+CONTRIBUTIONS LINKS[Kernel Repository Description: Core NØNOS microkernel written in Rust --- includes crypto modules, memory, task scheduler, and sandbox isolation. ](https://tps/github.com/NON-OS/nonos-kernel)[Bootloader & Cryptographic Toolchain Description: UEFI bootloader and the four integrated ZK tools --- keygen, zk-embed, nonos-attestation-circuit, and zk-ceremony. End-to-end verifiable firmware pipeline.](https://github.com/NON-OS/nonos-boot)[Documentation Portal Description: Official docs for NØNOS architecture, kernel design, and privacy-first computing principles.](https://docs.nonos.systems/)[Project Overview Description: Public repository and organization space summarizing the NØNOS ecosystem and modules.](https://github.com/NON-OS)
+
+### PAST GRANTS AND FUNDING
+
+NFTS PRESALE 
+
+Other
+
+20000
+
+USD

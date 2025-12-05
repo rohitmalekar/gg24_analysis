@@ -1,0 +1,109 @@
+### Pairwise
+
+DApps
+
+[0xd1B8dB...AfAD95d1](https://arbiscan.io/address/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1)
+
+[Pairwisevote](https://x.com/Pairwisevote)
+
+[https://app.pairwise.vote](https://app.pairwise.vote/)
+
+[GeneralMagicio](https://github.com/GeneralMagicio)
+
+Overview
+--------
+
+Pairwise has had several iterations, in its current form, it leverages Semaphore and account abstraction to create single-use wallets that are connected to onchain identities via zk proofs. With the single use wallet, the votes and delegation can happen onchain but the zk proofs disconnect the voters onchain wallet (and their voting power) from the onchain vote/delegation. With this foundation we have enabled a private, on-chain implementation of Liquid Democracy while offering a Tinder-like UX.
+
+The Problem
+-----------
+
+Onchain voting has many challenges.
+
+1.  Voting in the real world is private and does not show real time results. However voting onchain is usually public and biases the voters with a live visual of the outcome.
+2.  Delegation is usually one hop only, and if a voter cares about a specific vote, after they have delegated, they cannot vote themselves as the delegate has their voting power. Also delegates can't ever go on vacation without the people who have delegated to them losing their voting power. It is to the point that I (Griff Green) as a top delegate in several protocols, can not work at my main job, but have to bring my laptop on vacation just so my constituency can still be represented.
+3.  The complexity and cognitive overload of many votes in DAOs, especially when ranking many projects (e.g. LTIPP in Arbitrum), often leads to governance apathy and burn out.
+
+The Solution
+------------
+
+Pairwise creates a new model for web3 governance that is private, scalable, and resistant to capture. Using Semaphore and account abstraction, each voter gets a single-use wallet linked to their verified onchain identity through zero-knowledge proofs. This setup allows votes and delegations to happen fully onchain while keeping them private. No one can trace which wallet cast which vote or how much voting power it carried, and results are private but can be verified as true thanks to zk tech! Pairwise also redesigns delegation with a category-based, multi-hop, and delegation system. Instead of choosing one delegate for everything, users can assign different delegates by topic, letting expertise naturally rise in power within each area. Delegates can also delegate, creating a flexible web of trust that scales well beyond normal coordination limits. Because voting power depends on who actually participates, no one knows who holds the most influence until after votes are cast, making it much more capture resistant than traditional representative delegation systems. Delegations are made through social graphs like Farcaster or Twitter, using zero-knowledge proofs to stay private yet easy to find your delegate, while also avoiding the challenges of delegation depth and block gas limits. The user experience is simple and engaging. In retroactive public goods funding, for example, Pairwise replaces complex ranking with an easy interface where users compare two projects at a time and can add star ratings to reduce comparisons. This makes voting faster and breaks one large complex decision into many small simple decisions which makes for much less cognitive overload. See this blog to see an overview of our technical architecture: https://paragraph.com/@pairwise/empowering-superchain-with-pseudonymous
+
+### IMPACT STATEMENTS
+
+Impact of Pairwise on the Optimism Collective
+=============================================
+
+Pairwise built a new, simple and private voting app for the Optimism Collective's Retroactive Public Goods Funding (RetroPGF) by integrating with Optimism Agora and embedding privacy across multiple funding rounds. Our impact is highlighted by the following achievements:
+
+-   Enhanced Voter Privacy: Protected the identities of 924 voters across RetroFunding rounds 4, 5, 6, and 7, ensuring unbiased and secure participation through pseudonymous voting via attestations.
+-   Massive Funding Allocation: Supported the fair distribution of over $50 million USD across more than 1,000 projects, empowering impactful initiatives within the Optimism ecosystem.
+-   Streamlined Governance: Simplified the voting process with a Tinder-like interface, reducing cognitive overload and increasing engagement for hundreds of OP Citizens, Delegates, Token Holders, and Recipients.
+-   Scalable Impact Across Rounds: Supported four consecutive funding rounds (RetroFunding 4--7), demonstrating Pairwise's reliability and scalability in high-stakes governance processes.
+-   Inclusive Decision-Making: Enabled broader participation by incorporating diverse stakeholders with customizable voting weights, fostering equitable and collaborative capital allocation.
+
+### CONTRIBUTIONS
+
+Our Solution: Pairwise
+----------------------
+
+Pairwise was designed to simplify and enhance the RetroPGF voting process, making it more engaging, accessible, and private. Key features include:
+
+-   Simplified Voting: Instead of ranking extensive project lists, users select a category and compare two projects at a time, reducing decision fatigue and making the process intuitive and enjoyable.
+-   Inclusive Participation: Pairwise expanded participation beyond OP Citizens to include Delegates, Token Holders, and Recipients, broadening the voter base while maintaining fairness.
+-   Customizable Voting Power: Stakeholders are assigned tailored voting weights, ensuring equitable representation in decision-making.
+-   Liquid Democracy: Users can vote directly or delegate their votes by category, fostering flexibility and amplifying community engagement.
+-   Mobile-Friendly Design: A Tinder-like interface ensures an engaging, user-friendly experience accessible on mobile devices.
+
+Privacy and Anonymity
+---------------------
+
+To encourage unbiased participation, Pairwise implemented a pseudonymous voting system via attestations, safeguarding voter identities while maintaining accountability. The process is as follows:
+
+1.  Account Creation: Voters log in using traditional Web2 methods to create an Account Abstraction (AA) wallet via Thirdweb.
+2.  Reputation Integration: Voters connect their AA wallet to their existing OP Mainnet address, which holds their Superchain reputation, using a zero-knowledge proof via Semaphore (managed by Bandada).
+3.  Anonymous Voting: Votes are submitted as attestations via the Ethereum Attestation Service (EAS). To ensure anonymity, Pairwise sponsors all transactions, and the OP Mainnet address is never used again during the voting process.
+
+CONTRIBUTIONS LINKS[RetroFunding 4 Github repo with the integration of Semaphore](https://github.com/GeneralMagicio/pairwise-rf4)[Blog post about the integration of Pseudonymous Voting for Retro Funding](https://paragraph.com/@pairwise/empowering-superchain-with-pseudonymous)[Retrofunding 4 Results](https://www.pairwise.vote/rf4-results)[RetroFunding 5 blog post](https://paragraph.xyz/@pairwise/pairwise-in-retro-funding-round-5-your-voting-tool)[RetroFunding 4 post on Optimism Forum](https://gov.optimism.io/t/pairwise-community-signaling-in-retro-funding-4-no-badge-required/8091)[RetroFunding 5 post on Optimism Forum](https://gov.optimism.io/t/pairwise-in-retro-funding-5-your-voting-tool/8887)[RetroFunding 6 Github repo](https://github.com/GeneralMagicio/pairwise-rf6)[RetroFunding 6 blog post](https://paragraph.xyz/@pairwise/pairwise-retro-funding-round-6-liquid-democracy-experiment-1)[RetroFunding 6 results](https://www.pairwise.vote/rf6-results)[RetroFunding 6 post on Optimism Forum](https://gov.optimism.io/t/pairwise-rf6-s-voting-tool-liquid-democracy-experiment/9166)
+
+### PAST GRANTS AND FUNDING
+
+OPTMISM RETROFUNDING (MULTIPLE ROUNDS)
+
+Other
+
+132505
+
+O.P.
+
+OCTANT (MULTIPLE ROUNDS)
+
+Other
+
+35
+
+ETH
+
+ENS (MULTIPLE ROUNDS)
+
+Other
+
+5
+
+ETH
+
+GITCOIN GRANTS (MULTIPLE ROUNDS)
+
+Other
+
+21636
+
+USD
+
+GIVETH (MULTIPLE ROUNDS)
+
+Other
+
+3078
+
+USD

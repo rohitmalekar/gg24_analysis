@@ -1,0 +1,27 @@
+### Fluton
+
+Research
+
+DApps
+
+Infrastructure
+
+[0xBdc3f1...4ae22731](https://arbiscan.io/address/0xBdc3f1A02e56CD349d10bA8D2B038F774ae22731)
+
+[flutonio](https://x.com/flutonio)
+
+<https://fluton.io/>
+
+[Fluton-io](https://github.com/Fluton-io)
+
+Fluton's mission is to establish privacy as a foundational layer in DeFi & AI. With Fully Homomorphic Encryption (FHE), Fluton enables Privacy-Preserving Intent Settlement Mechanism (PRISM), private swaps, private payments and confidential access to existing protocols (Aave and Compound for beta).
+
+### IMPACT STATEMENTS
+
+Fluton is enabling intent-based, confidential asset transfers across blockchains. Through encrypted intents powered by Fully Homomorphic Encryption (FHE), Fluton bridges the gap between privacy and composability---allowing users and dApps to interact seamlessly and securely across chains without exposing sensitive data.
+
+### CONTRIBUTIONS
+
+Fluton introduces a privacy-preserving intent layer that lets users express their goals (e.g., bridging, swapping, staking) without revealing sensitive details. By integrating FHE-based encryption, cross-chain messaging, and solver networks, Fluton enables secure intent execution across multiple chains. Its SDK makes any dApp universally accessible, giving builders a plug-and-play way to add confidential chain-abstracted functionality to their protocols.
+
+CONTRIBUTIONS LINKS[Encrypted USDC Token (eUSDC)](https://sepolia.arbiscan.io/address/0x353e69f463f78987917b5C2505eb7635B7200CFd)[Confidential Bridge](https://sepolia.arbiscan.io/address/0x86db0a9184bE890FC254948E414A982258cd1528#code)[Relayer](https://github.com/Fluton-io/fluton-relayer)[Keynote: The role of FHE and encryption in intent-centric architectures](https://www.youtube.com/watch?v=J4zMfPvtsuU)[Livestream: Confidential + Anonymous DeFi](https://x.com/FhenixIO/status/1973395585366376578)[Space: Builders on Air](https://x.com/BlockhuntersOrg/status/1869363967111422164)

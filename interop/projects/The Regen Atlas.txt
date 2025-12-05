@@ -1,0 +1,46 @@
+The Regen Atlas ﻿🌍﻿
+
+
+TLDR ✨
+The Regen Atlas is an open-source platform designed to facilitate displaying, funding, and incubating of green crypto projects through a user-friendly, interactive map interface. 
+
+
+
+Vision 🌍
+The Regen Atlas is set to transform this landscape by providing a global, open-source platform for individuals and organizations to support green projects, equipped with detailed ratings for various green assets. This initiative not only diversifies the focus beyond carbon offsets to include other green assets like biodiversity and water purification but also introduces innovative financial instruments such as green bonds and nature-backed currencies.
+
+
+
+Solution 🗺️
+The Regen Atlas is a location-based aggregation layer enabling the discovery, trade, and creation of tokenized green assets throughout the globe.
+
+
+
+With the Atlas, we propose an alternative to the current state of the decentralized green asset market, where:
+
+
+
+Projects tokenizing green assets are in need of a clear and intuitive platform to display the location of their assets.
+Organizations, governments and individuals willing to buy green assets are in need of a unified interface enabling asset discovery beyond carbon.
+Environmental projects aiming to green assetsare in need of a platform to show where they are operating and advertise their project.
+
+
+The Atlas’ key features include:
+
+
+
+Support for Diverse Green Assets: The Regen Atlas accommodates a wide array of green crypto-assets, covering various environmental categories that go beyond carbon, such as green and blue bonds, forwards contracts, and more.
+Aggregated Ratings Agencies: To provide users with valuable insights, we're working towards aggregating scores from ratings agencies specializing ingreen assets. This consolidated resource will offer a bird's eye view of the highest quality initiatives.
+
+
+Milestones (4-6 months)
+
+Over the next 4–6 months, we will focus on two key deliverables. First, we will advance our open analytics pages — building on our current prototype (https://dashboard.regenatlas.xyz/) — to provide transparent, real-time market intelligence on green crypto assets. These analytics will surface cross-chain activity, asset performance, and ecosystem trends, and will be structured to integrate with the Open Intents Framework, enabling concrete use cases such as automated capital allocation to high-impact regenerative projects, triggering onchain governance proposals for impact DAOs, or informing solver-driven cross-chain asset swaps. Second, we will develop and release an API to make our standardized green crypto asset and organization data easily accessible, allowing other projects, dashboards, and protocols to embed market insights, build analytics dashboards, or programmatically interact with green assets, further strengthening Ethereum’s open data ecosystem.
+
+Please example how your project meets the round-specific eligibility criteria.
+
+"""Regen Atlas meets the round-specific eligibility criteria as follows:
+Open Source & Public Good: Regen Atlas codebase is fully open source (MIT License) and publicly available on GitHub. Our outputs — including the green crypto asset database, geolocated interface, and analytics — are freely accessible and serve as open infrastructure for the Ethereum ecosystem.
+Domain Alignment: Regen Atlas builds open data and analytics infrastructure for Ethereum’s green asset ecosystem. It aggregates and standardizes onchain environmental assets across chains, improving data accessibility, interoperability, and transparency. We are developing an API and analytics layer (see prototype here: https://dashboard.regenatlas.xyz/) that supports cross-chain interoperability and aligns with Open Data and OIF principles.
+Proven Activity & Impact: Since the last Gitcoin round, we have expanded the Regen Atlas database from roughly 200 to 389 green crypto assets and added an “Orgs” filter mapping green crypto organizations across Ethereum and related ecosystems. The fully functional interface has been live for over a year, with Uniswap integration already implemented for direct on-platform purchasing of certain Celo assets.
+Transparent Reporting: We publish updates, datasets, and methodologies openly to ensure reproducibility and community contribution."""

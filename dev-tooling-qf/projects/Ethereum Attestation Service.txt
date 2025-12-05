@@ -1,0 +1,46 @@
+Ethereum Attestation Service (EAS) is an infrastructure public good for making attestations onchain or offchain about anything. Open-source, permissionless, token-free. Built by the community for the community. Live on mainnet, several L2s, & testnets. Attestations are digital signatures on structured data used to build more trust online & onchain.
+
+How do you decide who and what to trust? Our online and onchain worlds are filled with both genuine and deceptive information. We need a common way we can trust the authenticity of information and the safety of our interactions. Anytime you need to prove or verify something, attestations will play a critical role. Learn more about why we exist.
+
+How It Works
+
+EAS runs on two smart contracts — one for registering a schema and the other for making attestations with schemas. We've also created several dev tools to help builders build faster:
+
+- An attestation explorer to discover and create schemas + attestations
+- EAS SDK to easily start building
+- GraphQL API for each chain
+- Endless Docs for technical & non-technical builders
+
+Who Uses It
+
+We've already seen a few amazing use cases from the community such as:
+
+- Gitcoin Passport stamps & scores can be attested to onchain
+- Optimism RetroPGF applications & approvals are attestations (EAS is natively integrated into the OP Stack)
+- Coinbase attesting to verified accounts
+- Devfolio's quadratic voting for hackathons
+- Guild using attestations to gate communities & chat groups
+- and many more...
+
+Where We're Focused
+
+- We're actively building out improvements to the attestation explorer experience
+- Continued builder education, awareness, and adoption
+- Building unique integrations such as (zkps generated from attestations)
+- Building out our builder programs that help promising attestation founders get access to the right people & support in the industry
+
+Get In Touch With Us & Check Out Some Community Content
+
+Community Content:
+
+- Ethereum Attestation Service - Unlocking Decentralized Identity - Bankless Podcast
+- Ethereum Attestation Service (EAS) - Explainer Video - Vaibhav Saini
+- ELI5 Ethereum Attestation Service (EAS) - Why You Should Care - Ryan Yi
+- Onchain Attestation Stats - Dune Dashboard - Ryan Yi
+
+EAS Channels:
+
+- EAS Twitter (@eas_eth)
+- Mirror Articles
+- Builder Telegram
+- EAS GitHub

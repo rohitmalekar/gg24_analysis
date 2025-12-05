@@ -1,0 +1,41 @@
+GainForest: Decentralizing Nature Finance and Research
+GainForest is a global non-profit on a mission to halt and reverse global deforestation by 2030. We decentralize nature finance and research, co-creating open and fair infrastructure with local communities to protect climate and nature. Learn more at gainforest.earth.
+
+Proven Impact Through Innovation
+Our partnership with ETH BiodivX won the XPRIZE Rainforest Bonus Prize award. Rather than treating the $250,000 award as traditional funding, we transformed it into an endowment to train Indigenous and grassroots scientists in the Amazon, ensuring conservation science is shaped by those who live it every day.
+
+Transparent Conservation Finance
+Through Ecocertain, our blockchain-based platform, we bring unprecedented transparency to conservation funding. We've connected 360+ donors directly with 40+ communities, channeling over $30,000 in transparent, impact-verified funding. Ecocerts give grassroots organizations a powerful new way to showcase results and secure support without the barriers of traditional grants.
+
+
+
+On the financial side, every flow of funds toward conservation projects is transparently displayed on the platform. On the ground, local communities use dMRV (Decentralized Monitoring, Reporting and Verification) and DePIN (Decentralized Physical Infrastructure Network) techniques to demonstrate proof of impact.
+
+The Green Globe showcases and monitors the impact of restoration and conservation projects worldwide, with a primary focus on the Global Majority where biodiversity data is often scarce. It integrates our partner communities' sites with information on local biodiversity and remote sensing analysis, creating visibility for critical conservation efforts while building a valuable database from underrepresented regions.
+
+
+
+Community-Led Governance
+The Nature Guild, our community-led governance body, was co-created with stewards from Brazil, India, Uganda, Kenya, Malaysia, and the Philippines. This model ensures local leaders guide decisions on funding flows, resource sharing, and knowledge exchange—putting community voices at the center of conservation strategy.
+
+
+
+Building Through Partnership
+We strengthen our collaborations through direct field engagement across communities worldwide. These on-the-ground partnerships are essential to our approach—by understanding the realities and specific needs of local stewards, we design tools that truly support their work.
+
+Currently, our platforms welcome a growing network of 43 communities globally, united in the vision of transparent, community-driven conservation that works.
+
+
+
+
+Milestones (4-6 months)
+
+"""Analytics & Insights: Deploy open analytics dashboards to track ecocert adoption, cross-chain activity, and user behavior patterns. These insights will inform product improvements and provide transparent metrics on environmental impact funding flows across Ethereum networks.
+Multi-Chain Payment Infrastructure: Expand beyond Celo to support additional Ethereum L2s (Optimism, Arbitrum, Base) and implement seamless cross-chain payment swapping through Splits.org integration, making it easier for users to fund conservation efforts from any Ethereum-compatible network.
+Standardized Impact Data: Develop and implement open data standards for proof-of-impact documentation using EAS attestations, creating reusable frameworks that other projects can adopt for transparent impact verification across the ecosystem."""
+
+Please example how your project meets the round-specific eligibility criteria.
+
+"""Ecocertain is an open-source platforms that directly support Ethereum's multi-chain ecosystem through interoperability standards and shared infrastructure. All Ecocert data lives on-chain using EVMs, and we leverage the Ethereum Attestation Service (EAS) as a standardized protocol for on-chain attestations—enabling transparent comment systems and proof-of-work verification across our ecocerts. Built on the Hypercerts protocol, we advance shared data models for impact certificates that can be adopted ecosystem-wide.
+
+Since launching in February 2025, we've demonstrated proven impact with Hypercerts contracts deployed on Celo. We've channeled over $30,000 to local conservation communities in six months. Our platforms operate transparently with all impact data publicly accessible on-chain, serving the Ethereum ecosystem as a public good focused on transparent and verified environmental conservation."""

@@ -1,0 +1,25 @@
+### Vector Privacy
+
+DApps
+
+Education
+
+[0x222a7a...F8163FDB](https://arbiscan.io/address/0x222a7aa6D4F7ba245EF26b5bcd047bdEF8163FDB)
+
+[VectorPrivacy](https://x.com/VectorPrivacy)
+
+[https://vectorapp.io](https://vectorapp.io/)
+
+[VectorPrivacy](https://github.com/VectorPrivacy)
+
+Vector is a decentralized communication platform built on the Nostr Protocol, offering no-compromise encryption with zero metadata leakage and plausible deniability for all content, including texts, media, voice notes, and files, adhering to the NIP-17 standard. It natively integrates BIP-39, allowing every Vector account to function as a crypto wallet and vice versa, streamlining tasks like address sharing and payments through compatibility with native wallets like MPW. Vector leverages local, private, device-powered AI to provide practical features such as voice message transcription, language translation, and meme gif search via a decentralized relay-based index. Its resilience is ensured by community-run Nostr relays, eliminating downtime, and its fully open-source codebase---from infrastructure to protocol specs---avoids proprietary lock-in, making it unkillable and transparent. Open-source technology developed by Formless Labs.⚠️ Privacy is a basic human right.- Private & Encrypted Messenger App- Open-Source & Free-to-Use- Zero Metadata Leakage- No Data Tracking- No Ads & Spam- One Click Setup (No KYC)- Built on Decentralized Relay Network (Nostr)- MLS & End-to-End Encryption
+
+### IMPACT STATEMENTS
+
+Currently, Vector Beta was just launched in July and has not had a significant impact yet as there have been minimal marketing efforts and onboarding experience up until this time. The core contributors have been focusing on optimizing a secure and private infrastructure, which is fully functional and operational at this time.Most privacy messenger apps have a poor user experience (UX) and that is something that Vector aims to solve and improve upon by providing your average person an actual end-to-end encrypted messenger app that feels like the mainstream apps they are used to, but with their privacy fully protected...not just marketing buzzwords on their website. Privacy and UX are our focus because in order for Vector to make a positive impact, it needs to be able to compete with the messenger apps that billions of people use daily. Privacy should be the standard and not sold as a feature. Vector fixes that.
+
+### CONTRIBUTIONS
+
+Vector's core contributors have been open-source developers for the past decade and ascribe to the philosophy of such. It is our responsibility to use our skills, tools, and time to contribute and give back to the ecosystems in which we use to enhance the experience and make it more accessible to everyone world-wide.Therefore, Vector has also contributed to both the Nostr and Tauri ecosystems, which are used to operate Vector. Contribution GitHub repo links are shared below.
+
+CONTRIBUTIONS LINKS[Creating and proposing the "Decentralised Typing Indicators" Nostr NIP](https://github.com/VectorPrivacy/Vector/blob/master/docs/typing-indicator.md)[Fixing small documentation bugs for the Rust nostr-sdk](https://github.com/VectorPrivacy/Vector/blob/master/docs/apple-silicon-android-compiling.md)[Fully documenting the Tauri v2 Android compiling process on the MacOS M-series chip, my docs are cross-referenced by the Tauri community to help them build Tauri apps on Android, like Vector](https://github.com/VectorPrivacy/Vector/blob/master/docs/apple-silicon-android-compiling.md)

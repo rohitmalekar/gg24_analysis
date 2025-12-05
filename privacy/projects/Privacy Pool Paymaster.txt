@@ -1,0 +1,47 @@
+### Privacy Pool Paymaster
+
+Research
+
+Infrastructure
+
+[0x2Cd06e...8c9E16b3](https://arbiscan.io/address/0x2Cd06e2f0C1B0Cf08D9Db9356562Ff508c9E16b3)
+
+[kdsinghsaini](https://x.com/kdsinghsaini)
+
+<https://github.com/KannuSingh/privacy-pool-paymasters>
+
+[KannuSingh](https://github.com/KannuSingh)
+
+Privacy Pool PaymasterERC-4337 Privacy Pool paymaster for enabling gas-efficient withdrawals without relying on centralized relayer services.
+
+* * * * *
+
+### 💡 What It Does
+
+Privacy Pool Paymaster is a secure, ERC-4337--compatible gas sponsor designed for privacy-preserving withdrawals.\
+It ensures that only valid zero-knowledge--verified transactions are executed, allowing users to privately withdraw funds without relying on a relayer.This implementation brings together account abstraction, zero-knowledge proofs, and decentralized gas sponsorship, making private transactions practical, affordable, and censorship-resistant.
+
+* * * * *
+
+⚙️ How It WorksValidation Flow: The paymaster validates the withdrawal, sender smart account, and ZK proof before sponsoring gas.\
+ZK-Verified Security: Each withdrawal is cryptographically verified against the state of the Privacy Pool.\
+Refund Optimization: It refunds excess gas to the recipient.\
+Deterministic Smart Accounts: Only accepts operations from verified, pre-deployed smart accounts --- preventing malicious or gas-draining calls.
+
+* * * * *
+
+🧠 Why It MattersToday's privacy pools rely on trusted relayers to pay gas and submit withdrawal transactions --- a major centralization and censorship risk. Using this paymaster removes this dependency from the third-party relayer by utilizing the standard ERC-4337 Account Abstraction Infrastructure. It also makes the withdrawal from the privacy pool cost-efficient for users by removing the relayer fee markup on the withdrawal transaction.This work directly strengthens the Ethereum privacy and account abstraction ecosystem, paving the way for autonomous, compliant, and privacy-preserving user operations.
+
+* * * * *
+
+Built with ❤️ for Privacy, Ethereum, ERC-4337, and Privacy Pools.
+
+### IMPACT STATEMENTS
+
+The Privacy Pool Paymaster makes private transactions on Ethereum more accessible, affordable, and censorship-resistant. By eliminating the dependency on third-party relayers, it advances decentralization and interoperability for privacy protocols. The project serves as a template and public good for the ecosystem --- providing reusable paymaster logic and reference tests for integrating privacy-preserving withdrawals with ERC-4337 wallets. In the long term, it contributes to a more open and privacy-preserving Ethereum, aligning with the cyberpunk goals
+
+### CONTRIBUTIONS
+
+We've built an open-source repository containing ERC-4337 Paymaster contracts and tests that demonstrate Privacy Pool withdrawals using sponsored gas payments --- where users only pay the actual gas cost of the withdrawal action. This implementation demonstrates how decentralized gas sponsorship can replace reliance on centralized relayers in a privacy pool system, utilizing the standardized ERC-4337 Account Abstraction Infrastructure.The same paymaster architecture can be adopted and extended by other privacy projects, such as Railgun or Veil.Cash, to integrate the ERC-4337 Account Abstraction infrastructure, enabling trustless, standardized, and private withdrawals across different ecosystems.
+
+CONTRIBUTIONS LINKS[Contract repo for paymaster working with Privacy Pool Protocol](https://github.com/KannuSingh/privacy-pool-paymasters)

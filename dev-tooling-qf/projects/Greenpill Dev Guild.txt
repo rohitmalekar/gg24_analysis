@@ -1,0 +1,61 @@
+We are a community of builders supporting Greenpill Chapters and regen communities with regenerative tools, guides, and workshops focused on impact measurement, community coordination, capital allocation and capital formation. Since October 2023, the Greenpill Dev Guild has nurtured a thriving community through weekly meetings, impactful workshops, and collaborative projects that members actively contribute to. The Guild operates several grant rounds with Grant Ships, Gitcoin, and Allo Alliance, funding regenerative initiatives across gaming, biodiversity, and public goods spaces. Join us in advancing the regen movement and amplifying meaningful impact!
+
+🎯Mission
+
+We aim to foster positive-sum actions where impact = profit, ensuring that meaningful change and prosperity go hand in hand as we work together to defeat Moloch.
+
+♻️ Our Regenerative Stack
+
+The Regenerative Stack connects blockchain infrastructure, onchain protocols, social governance, and impactful applications, creating a holistic cycle that funds and sustains regeneration.
+
+🌿 Green Goods
+
+Green Goods revolutionizes biodiversity conservation by bringing ecological data on-chain, enabling transparent impact tracking and rewarding conservation efforts. Built as a mobile-friendly Progressive Web App (PWA), it provides verifiable impact attestations, driving funding and community engagement toward ecological initiatives.
+
+⭐ GreenWill
+
+GreenWill is a user-friendly mini-app enabling Greenpill members and regen leaders to earn and showcase verifiable credentials for their regenerative actions. It makes reputation tracking seamless and shareable, enhancing cross-community recognition and engagement.
+
+🌐 Allo Alliance
+
+The Allo Alliance pioneers novel on-chain capital allocation mechanisms, including quadratic funding, conviction voting, and gamified grant distributions, to transparently and effectively channel resources to high-impact regenerative projects.
+
+🖥️ Squad Staking
+
+Squad Staking democratizes Ethereum staking through collective participation, significantly reducing barriers to becoming validators. It provides perpetual, community-directed funding streams for public goods by allocating a portion of staking yields directly to regenerative projects
+
+📋 Services We Provide
+
+📚 Educational & Technical Workshops
+
+We offer hands-on workshops that equip communities with the knowledge to effectively implement regenerative tools such as Hypercerts, Karma Gap, Passport, and Allo protocol strategies. These sessions foster deep community understanding and practical application of advanced regen tools.
+
+💸 Grant Program Design & Operations
+
+We provide comprehensive support in designing and operating regenerative grant programs, including end-to-end management of grant rounds, impact evaluation, and capital distribution, maximizing community engagement and regenerative impact.
+
+🎨 Graphic Design & Branding
+
+Our skilled design team creates cohesive visual identities, infographics, and brand kits that effectively communicate the regenerative ethos and enhance community outreach, visibility, and engagement.
+
+🤝 Web3 Tech Consultation
+
+We offer expert technical consultation to regenerative projects, guiding teams through blockchain integration, decentralized governance, and innovative Web3 solutions, facilitating successful project execution and scalable growth.
+
+🏆 Prior Accomplishments
+
+🏹 Allo Yeeter
+
+Allo Yeeter is a simple Allo protocol strategy that allows funds to be sent to multiple addresses in just a few transactions. This project supports the growth of Gitcoin by offering an easy mechanism to allocate funds efficiently and quickly through Allo.
+
+📈 Allo Advancement
+
+Allo Advancement is a project that fosters the growth of the Allo protocol by operating a Gitcoin grant round to fund builders growing the protocol. This initiative connects builders across the Allo ecosystem and supports the continued development of grants through Gitcoin RFPs and community rounds.
+
+🪸 Impact Reef
+
+Impact Reef is designed to capture qualitative data for public good projects, backed by community endorsements. This initiative aims to surface the value and impact of these projects, making it easier for them to gain additional funding and support.
+
+🚢 Grant Ships
+
+Grant Ships is a grant allocation game where the Greenpill Dev Guild competes with other allocators to fund games on Arbitrum. Using a retroactive and proactive funding mechanism, the Guild helps bring regenerative features into games, turning degens into regens and demonstrating the effectiveness of our unique funding model.

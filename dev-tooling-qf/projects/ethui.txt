@@ -1,0 +1,35 @@
+ethui is an EVM desktop application built for web3 developers and builders.
+
+We’re building tooling from the ground up, as an effort to improve the accessibility and smoothness of the Web3 development experience. Whether you’re writing smart contracts, debugging UI interactions, or testing features as a product stakeholder, ethui is your friend.
+
+ethui has now been around for a couple of years, and it’s had some killer features since very early on:
+
+- anvil-aware: unlike other wallets, it not only plays well with anvil chains (both locally and remotely), it actively benefits from them with real-time sync, access to cheatcodes, and the ability to impersonate on the fly.
+- foundry-aware: it indexes ABIs from your local file system, which it uses to decode payloads, and provides you a local explorer tool to interact with your contracts, without ever needing to deploy and verify them on a public testnet.
+- address aliasing: to easily track known wallets and contracts.
+- desktop-native experience: ethui ties together the best of desktop apps (great performance, access to native features) with browser extensions (direct access to communicate and connect with browser tabs, as any other standard wallet does).
+- multi-browser & multi-chain: you have the ability to connect multiple browsers to the same desktop app, and even connect different websites to different chains.
+
+Since last year, we have been busy polishing ethui itself, as well as building two additional tools to grow our ecosystem and continue to provide improvements to the developer experience.
+
+These tools work directly with ethui, but are also useful on their own:
+
+- ethui-explorer: a front-end-only block explorer, compatible exclusively with anvil chains. Connect to any anvil chain (local or remote) on the fly, without having to set up dedicated hosting, indexing, IPFS nodes, etc. This is currently live at https://explorer.ethui.dev, but can also be run locally from https://github.com/ethui/explorer.
+- ethui-stacks: a solution for orchestrating multiple anvil chains and subgraphs in an easy way. Create networks with a single API request, maintain private anvil testnets for each of your products, including a ready-to-go subgraph deployment. Just like everything else, this is available for free at https://github.com/ethui/stacks, with an ethui app integration coming soon, and a hosted service at https://stacks.ethui.dev ready for anyone to try out.
+
+As for improving ethui itself, here are the highlights:
+
+- improving performance of the app across the board
+- fixing numerous bugs
+- reworking the UI for much quicker access to information
+- now with a global search bar
+- an explorer section providing access to all addresses and contracts known to a chain
+- improved extension performance, now with fewer redundant connections generated, and more stability in the remaining ones
+
+The future
+
+In the coming months, we plan to:
+
+- finish up stacks.ethui.dev, as well as fully launch the self-hosted option
+- tackle foundry traces and make them more accessible and grep’able
+- create education content about how to better build Web3 products

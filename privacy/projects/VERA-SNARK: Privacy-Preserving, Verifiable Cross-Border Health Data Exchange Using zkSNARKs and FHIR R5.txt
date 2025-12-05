@@ -1,0 +1,50 @@
+### VERA-SNARK: Privacy-Preserving, Verifiable Cross-Border Health Data Exchange Using zkSNARKs and FHIR R5
+
+Research
+
+Education
+
+Infrastructure
+
+[0x7f2419...Cf549AA9](https://arbiscan.io/address/0x7f2419837012518ca4F8cFaD1876acA0Cf549AA9)
+
+<https://www.himolde.no/english/research/events-articles-and-news/events/conferences-and-seminars/2025/nors2025/>
+
+Every year, people die because their medical records cannot cross a border in time. A traveler collapses on vacation. A child needs a transplant in another country. A refugee seeks treatment but carries no documented history. In each story, a silent barrier stands between care and survival --- data silos.VERA-SNARK was born from this pain. It is not another blockchain prototype --- it is a *forensic intervention* into one of the most pressing humanitarian failures of our digital age: how to make health data useful without making it vulnerable.VERA-SNARK builds a Zero-Knowledge interoperability layer that allows hospitals to *verify* medical records without ever *revealing* them. Its cryptographic engine, powered by zkSNARKs, generates three verifiable proofs:
+
+-   Authorization Proof --- that the requester is a verified medical institution
+-   Consent Proof --- that the patient has explicitly approved this access
+-   Minimization Proof --- that only the essential data is shared, nothing more
+
+Together, these proofs make trust *programmable* --- enabling lawful, instant access to medical data under GDPR and the European Health Data Space (EHDS) framework.We are integrating this with FHIR R5, CEN EN 13606, and the EHDS architecture, ensuring that privacy-preserving interoperability becomes the European standard, not an exception.This is not theoretical research. We are building an MVP, a working model to let pilot hospitals in Europe securely exchange patient data during emergencies --- compliant with GDPR Articles 5 (Minimization), 6 (Lawful Basis), and 17 (Right to Erasure).Your support will help us:
+
+-   Develop the triple-proof zkSNARK protocol
+-   Build the first verifiable consent engine for Electronic Health Records (EHRs)
+-   Launch pilot integrations with European healthcare systems
+-   Open-source our libraries for developers, researchers, and public agencies
+
+We are building a future where a doctor in Berlin can save a patient from Oslo --- because trust no longer needs paper; it has cryptography. VERA-SNARK: When privacy and life meet halfway, humanity wins.
+
+### IMPACT STATEMENTS
+
+Our impact is measured not in transactions or throughput --- but in lives saved.By embedding Zero-Knowledge Proofs into cross-border health systems, VERA-SNARK reimagines how medical information moves during crises: securely, instantly, and lawfully.We envision a Europe where no emergency is delayed by bureaucracy, and where privacy never costs a life.Expected Impact:
+
+-   Pan-European interoperability: Real-time, lawful data exchange under the EHDS blueprint.
+-   Patient empowerment: Mathematical proof of who accessed what, and why.
+-   Life-saving readiness: Emergency responders can verify allergies or histories within seconds.
+-   Open innovation: Our open libraries accelerate global R&D in privacy-preserving health technologies.
+-   Policy alignment: Operationalizing GDPR Articles 5, 6, and 17 within an implementable architecture.
+-   Human outcome: Doctors save minutes. Minutes save lives. Lives restore hope.
+
+VERA-SNARK is not just a system --- it is a statement: That privacy and compassion can coexist, and that Web3 can finally serve what matters most --- human life.
+
+### CONTRIBUTIONS
+
+VERA-SNARK contributes a new ethical and technological standard for trustless healthcare interoperability --- where lives are no longer limited by jurisdictional or infrastructural barriers.Our work stands at the crossroads of cryptography, healthcare, and human rights:
+
+-   A Zero-Knowledge consent verification layer that lets hospitals validate data access without compromising privacy.
+-   FHIR + GDPR-compliant integration, bridging healthcare protocols with verifiable computation.
+-   Open-source cryptographic libraries, enabling academic and civic innovation in privacy-preserving health data systems.
+-   A real-world MVP, connecting national health systems (e.g., Norway's *Helsenorge*, Germany's *Gematik*) through privacy-first architecture.
+
+Through this, VERA-SNARK does not just advance technology --- it redefines the digital ethics of medicine. It builds a verifiable foundation for trust, autonomy, and dignity in every life-critical data exchange.

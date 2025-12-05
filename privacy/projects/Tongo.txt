@@ -1,0 +1,162 @@
+### Tongo
+
+Infrastructure
+
+DApps
+
+[0x4eed6f...3Fa11c64](https://arbiscan.io/address/0x4eed6f203c6360D4FA3c92fd480c897b3Fa11c64)
+
+[tongoxyz](https://x.com/tongoxyz)
+
+<https://www.tongo.cash/>
+
+Introduction to Tongo
+=====================
+
+Tongo is a confidential payment system for ERC20 tokens, providing privacy-preserving transactions while maintaining auditability and compliance features. Built on ElGamal encryption and zero-knowledge proofs, Tongo enables users to transact with hidden amounts while preserving the ability to verify transaction validity.
+
+What Makes Tongo Different
+--------------------------
+
+### No Trusted Setup
+
+Unlike many ZK systems (Zcash, Tornado Cash), Tongo requires no trusted ceremony. All cryptography is built on the discrete logarithm assumption over elliptic curves, with no hidden trapdoors or setup parameters.
+
+### Flexible Compliance
+
+The protocol supports multiple compliance models:
+
+-   Global auditor: All transactions encrypted for regulatory oversight
+-   Selective disclosure: Optional viewing keys per transaction
+-   Ex-post proving: Retroactive transaction disclosure without revealing keys
+
+How It Works
+------------
+
+### 1\. Key Generation
+
+Each user generates a keypair $(x, y = g^x)$ where $g$ is the Stark curve generator. The public key $y$ serves as their account identifier.
+
+### 2\. Encrypted Balances
+
+Balances are stored as ElGamal ciphertexts:$$\text{Enc}[y](b, r) = (g^b y^r, g^r)$$The encryption is additively homomorphic, allowing balance updates without decryption.
+
+### 3\. Zero-Knowledge Proofs
+
+All operations require proofs built from three primitives:
+
+-   POE (Proof of Exponent): Prove knowledge of discrete logs
+-   PED (Pedersen): Prove commitment correctness
+-   RAN (Range): Prove values are in valid ranges
+
+### 4\. Transaction Flow
+
+Fund → Transfer → Rollover → Withdraw
+
+-   Fund: Convert ERC20 to encrypted balance
+-   Transfer: Send hidden amounts with ZK proofs
+-   Rollover: Claim pending incoming transfers
+-   Withdraw: Convert back to standard ERC20
+
+Core Operations
+---------------
+
+### Funding
+
+Convert standard ERC20 tokens to encrypted balances:
+
+```
+const fundOp = await account.fund({ amount: 1000n });
+await signer.execute([fundOp.approve!, fundOp.toCalldata()]);
+
+```
+
+### Transfers
+
+Send hidden amounts to other users:
+
+```
+const transferOp = await account.transfer({
+  to: recipientPubKey,
+  amount: 100n,
+});
+await signer.execute([transferOp.toCalldata()]);
+
+```
+
+### Withdrawals
+
+Convert back to standard ERC20 tokens:
+
+```
+const withdrawOp = await account.withdraw({
+  to: starknetAddress,
+  amount: 50n
+});
+await signer.execute([withdrawOp.toCalldata()]);
+
+```
+
+Security Model
+--------------
+
+### Privacy Guarantees
+
+-   Balance confidentiality: Only key holders (account owners and auditors) can decrypt balances
+-   Transaction privacy: Transfer amounts are hidden from public view
+-   Unlinkability: Transactions don't reveal sender-receiver relationships
+
+### Integrity Guarantees
+
+-   No double spending: Range proofs prevent negative balances
+-   Conservation: Total supply is preserved (no money creation)
+-   Authenticity: Only key owners can spend their balances
+
+Use Cases
+---------
+
+### Individual Privacy
+
+-   Personal transactions: Hide payment amounts from public view
+-   Salary payments: Confidential payroll systems
+-   Merchant payments: Private commercial transactions
+
+### Institutional Compliance
+
+-   Regulated environments: Auditor oversight with user privacy
+-   Cross-border payments: Compliance with multiple jurisdictions
+-   Corporate treasury: Internal transfers with audit trails
+
+### DeFi Integration
+
+-   Private AMM trading: Hidden trade sizes
+-   Confidential lending: Private collateral amounts
+-   DAO treasuries: Private governance token distributions
+
+### IMPACT STATEMENTS
+
+Tongo's Ecosystem Impact
+========================
+
+-   Institutional Adoption: Enables financial institutions and neobanks to use Ethereum by providing compliant privacy mechanisms for sophisticated financial flows like on-chain credit cards and payroll systems.
+-   Privacy Economics: Makes confidential transactions economically viable with sub cent costs and sub second proving, transforming privacy from luxury feature to default option.
+-   Composable Primitives: Provides homomorphic encryption infrastructure through accessible SDK that any developer can integrate into wallets, dApps, and protocols without cryptographic expertise. If anyone wants to delve deeper the SHE library will let them do that too.
+-   Cross-VM Compatibility: Enables confidential interoperability across different virtual machines (Cairo, EVM, others), preventing confidential liquidity fragmentation as Ethereum scales to multiple rollups.
+-   Regulatory Precedent: Demonstrates that privacy and compliance can coexist, creating a model that benefits the entire ecosystem by showing regulators that confidential transactions can include appropriate oversight.
+
+### CONTRIBUTIONS
+
+What Tongo Contributes
+----------------------
+
+Tongo's contribution to Ethereum is ultimately about expanding what's possible by providing infrastructure that makes privacy practical, affordable, compliant, and interoperable. We're enabling applications that couldn't exist before, attracting institutions that couldn't participate before, and protecting users in ways that weren't feasible before. More importantly, we're demonstrating that privacy doesn't require sacrificing the properties that make Ethereum valuable security, composability, decentralization, and transparency where appropriate.By proving that privacy and compliance can coexist, that efficiency and confidentiality aren't contradictory, and that one solution can serve multiple VM architectures, we're helping Ethereum evolve into infrastructure that can serve global scale financial systems while respecting users' right to privacy. When homomorphic encryption primitives become accessible through simple SDK calls, when institutions can confidently build compliant privacy preserving applications, when privacy costs less than pennies instead of dollars, and when confidentiality can flow seamlessly across different execution environments, we fundamentally change what developers can build and who can use Ethereum.This is why we believe Tongo will contribute across many different verticals in the Ethereums ecosystem. We're not building a single application we're building foundational infrastructure that transforms privacy from an afterthought into a standard feature, from a technical challenge into a solved problem, and from a regulatory liability into a competitive advantage.
+
+### PAST GRANTS AND FUNDING
+
+STARKNET AUDIT GRANT
+
+Other
+
+25000
+
+usdc

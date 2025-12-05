@@ -1,0 +1,42 @@
+### Blanksquare
+
+Research
+
+DApps
+
+Infrastructure
+
+[0x36D540...c4006373](https://arbiscan.io/address/0x36D540551D14202ad62bbb4e52b642FBc4006373)
+
+[Blanksquare_io](https://x.com/Blanksquare_io)
+
+[https://blanksquare.io](https://blanksquare.io/)
+
+[Cardinal-Cryptography](https://github.com/Cardinal-Cryptography)
+
+Blanksquare is a plug-and-play privacy layer for wallets and DeFi apps, delivering shielded accounts with guardrails that enable compliance and deter misuse. It's engineered for fast client-side proving (sub second on modern devices), so users get a smooth, near-instant shield / send / withdraw experience.Technically, Blanksquare combines succinct zero-knowledge proofs to verify private actions, append-only Merkle commitments for state, and a non-custodial relayer network for unlinkability and gas abstraction. Individual viewing keys enable scoped transparency, while Shielder Guard mechanism provide auditable abuse deterrence without blanket deanonymization.Currently in production
+
+-   dApp live on Base mainnet since July
+-   production-ready SDK
+-   Ethereum support launches as voting starts (October 21)
+
+Roadmap (next weeks)
+
+-   Mobile showcase app demonstrating fast, on-device proving and simple UX
+-   Shielded Yield: earn yield while staying private via ERC-4626 integrations
+-   First partner feature deployed on HyperEVM using our stack
+
+### IMPACT STATEMENTS
+
+Blanksquare's impact is to make privacy a default capability in DeFi---not a silo, sidechain, or niche app. By shipping a production dApp (Base since July; Ethereum live now) and an open-source stack (contracts, circuits, SDK, relayer), we turn privacy into a drop-in feature for mainstream wallets and apps.Our impact lands across three groups:
+
+-   For Users: Fast, simple UX with highly optimized client-side proving optimized that feels immediate even on mobile. Users keep balances private while staying on the chains and apps they already use (Base, Ethereum), no migrations or special wallets.
+-   For the DeFi Ecosystem: Privacy that integrates, not isolates. Shielded accounts compose with existing primitives (e.g., ERC-4626 for Shielded Yield), so capital can move privately without leaving DeFi. Selective, auditable visibility adds credible guardrails, making privacy deployable in regulated or high-volume contexts.
+-   For Builders: A simple SDK and open protocol let wallets/PSPs/RWAs add privacy without ZK specialists. The monorepo includes optimized circuits, Solidity contracts, a relayer reference, and example apps---shortening "add privacy" from research project to product sprint. Builders can integrate today on Base and Ethereum.
+
+### CONTRIBUTIONS
+
+-   Open-source privacy protocol: Contracts (Shielder core, verifier, append-only Merkle state, viewing-key hooks), circuits (optimized for fast client-side proving), an integration-ready TypeScript SDK, plus relayer spec and docs - all public under the Apache License.
+-   Research-driven: Blanksquare is the culmination of applied cryptography brought to production. As part of our explorations into privacy protocols, our team co-authored the IACR ePrint "COMMON: Order Book with Privacy" (2023/1868).
+
+CONTRIBUTIONS LINKS[Shielded Account dApp - live on Ethereum and Base](https://app.blanksquare.io/)[Blanksquare Open Source Repository](https://github.com/Cardinal-Cryptography/blanksquare-monorepo)[Documentation](https://docs.blanksquare.io/)[Paper: "COMMON: Order Book with Privacy"](https://eprint.iacr.org/2023/1868)[Contract deployed on BASE](https://basescan.org/address/0x064A67a5484DF6baf36be42F9554d45E7741dCFf)

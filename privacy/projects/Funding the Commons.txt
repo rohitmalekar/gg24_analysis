@@ -1,0 +1,77 @@
+### Funding the Commons
+
+DApps
+
+Education
+
+[0x576edC...7d7f5d20](https://arbiscan.io/address/0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20)
+
+[@fundingcommons](https://x.com/@fundingcommons)
+
+[http://fundingthecommons.io](http://fundingthecommons.io/)
+
+[fundingthecommons](https://github.com/fundingthecommons)
+
+Funding the Commons is a global initiative that prototypes and incubates public-goods funding infrastructure through a builder pipeline---hackathons → residencies → real-world pilots - bringing together developers, funders, researchers, and public-sector partners. Our programs regularly feature tracks in privacy, resilient identity, and governance.In 2024 our public-goods hackathon drew 356 participants across 10 countries, generated 116 project submissions with a $110k prize pool, and fed top teams into our month-long residencies; our Chiang Mai residency hosted 40 builders from 25 countries, developed 22 projects, and helped catalyze ~$500k in follow-on funding. In the next four weeks we're running a one-month Buenos Aires residency (~25 builders) with mentorship from Tor Project's founder, hosting a fireside chat at Funding the Commons Buenos Aires on privacy between Tor Project founder Roger Dingledine and Ethereum founder Vitalik Buterin, and creating online content for distribution from these two events.
+
+### IMPACT STATEMENTS
+
+Our privacy track funded 9 winning prototypes via $31.5k in bounties and activated a sponsor/partner lane that includes Tor and leading privacy orgs in web3 - seeding teams that now have a clear on-ramp to incubation and real-world pilots.The upcoming Funding the Commons Buenos Aires residency, as well as a fireside between Tor and Ethereum founders at Funding the Commons Buenos Aires will continue to generate impact, and our media sprint will broaden reach and equip the ecosystem with practical strategies for integrating privacy tech into public funding systems.What this round unlocks: We already have $60k+ in matching commitments for a Tor QF + privacy campaign. Running it end-to-end will (1) leave behind an open-source privacy-centric funding infrastructure, along with replicable fundraising playbook that tech non-profits & DAOs can adopt - expanding grassroots privacy-first funding across the digital public goods ecosystem; (2) channel Ethereum privacy tooling to Tor's massive community; and (3) deliver critical funding to digital privacy's premier public good: the Tor Project.1) Open-source infrastructure for private public-goods funding.We will ship a reusable blueprint - code + contracts + ops - that lets any non-profit stewarding a digital public good (or DAO) run privacy-preserving Quadratic Funding (QF). The stack includes shielded donation flows (Railgun), verifiable proofs for match calculation, Sybil-resistance integrations, reporting templates, and a step-by-step "runbook." By publishing everything permissively, we turn one campaign into repeatable infrastructure others can fork, localize, and extend.2) Distributing Ethereum privacy tech to Tor's mainstream user base.Tor serves a global, non-crypto audience that already cares about privacy. By embedding a private, auditable donation path - and capturing clear how-tos, demos, and media during our BA residency/conference in partnership with Tor - we onboard a new class of donors and builders to Ethereum privacy tooling. This normalizes private giving while preserving public accountability of the match - a bridge from web2 privacy to web3 privacy.3) Funding the Tor ecosystem at scale.With $60k+ in matching commitments already lined up, a live QF + privacy round will catalyze a six-figure campaign to put more unrestricted, transparent capital into Tor. The demonstration effect matters: once proven, this provides Tor (and peer orgs) with an ongoing, community-powered funding rail that doesn't compromise user privacy.How we'll measure impact
+
+-   Open-sourced modules, docs, and a full "run your own private-QF" playbook; # of forks/adoptions across non-profits + DAOs.
+-   Funds raised for Tor, # of unique (private) donors, median donation, and match leverage.
+-   Share of shielded vs. public donations, proving privacy can coexist with auditable matching.
+-   New builder activity: projects/prototypes emerging from our BA program and subsequent rounds that reuse the stack.
+-   Content reach across Tor/Ethereum channels (guides, talks, demos) to evidence distribution beyond crypto-native audiences.
+
+### CONTRIBUTIONS
+
+From over 30 project submissions, our privacy track funded 9 winning prototypes via $31.5k in bounties and activated a sponsor/partner lane that includes Tor and leading web3 privacy organizations---seeding teams with a clear on-ramp to incubation and real-world pilots.The upcoming Funding the Commons Buenos Aires residency, and a fireside between Tor and Ethereum founders at Funding the Commons Buenos Aires, will continue to generate impact. Our media sprint will broaden reach and equip the ecosystem with practical strategies for integrating privacy tech into public funding systems.What this round unlocks: We already have $60k+ in matching commitments for a Tor QF + privacy campaign. Running it end-to-end will:
+
+1.  Leave behind open-source, privacy-centric funding infrastructure and a replicable fundraising playbook that tech nonprofits and DAOs can adopt---expanding grassroots, privacy-first funding across the digital public goods ecosystem.
+2.  Channel Ethereum privacy tooling to Tor's large, privacy-focused community.
+3.  Deliver critical funding to digital privacy's premier public good: the Tor Project.
+
+CONTRIBUTIONS LINKS[Funding the Commons Github repo](https://github.com/fundingthecommons/)[Interview with Executive Director of Tor Project](https://www.youtube.com/watch?v=a3sfT7WsxEw)[9 winning privacy apps from 3 privacy-focused tracks during RealFi hackathon](https://fundingthecommons.notion.site/Privacy-in-RealFi-Hack-292490db0c3580ccbdc0e2d5244b4f7b?pvs=73)[Funding the Commons Buenos Aires Builder Residency in partnership with Tor, and co-curated by Ethereum Foundation](https://www.fundingthecommons.io/builderresidency2025)[Product Spec for Privacy-centric QF platform](https://www.notion.so/fundingthecommons/Railgun-scoping-document-28e490db0c3580c8a288d46d8666752e?source=copy_link)
+
+### PAST GRANTS AND FUNDING
+
+GITCOIN GRANTS PREVIOUS ROUNDS
+
+Other
+
+45000
+
+USD
+
+OPTIMISM RETROPGF
+
+Governance Fund
+
+90000
+
+OPT
+
+FILECOIN RETROPGF
+
+Governance Fund
+
+2000
+
+FIL
+
+CELO RETROPGF
+
+Governance Fund
+
+3000
+
+CELO
+
+OCTANT
+
+Governance Fund
+
+45
+
+ETH

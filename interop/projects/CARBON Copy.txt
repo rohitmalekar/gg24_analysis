@@ -1,0 +1,51 @@
+New version launched October 1st, 2025!
+
+We are a data-first intelligence platform for the Web3 regenerative finance (ReFi) ecosystem. Our mission is to help demonstrate and promote the ecosystem's collective impact.
+
+
+
+Impact Data
+We track impact data from relevant projects and aggregate them into meaningful metrics across a number of categories.
+
+
+
+ReFi Ecosystem Tracking
+We also track the ecosystem's projects, tokens, news, and fundraising.
+
+
+
+Content & Research
+Our feature articles, learn pieces, and industry reports are still an important part of our work. We've also added a curated list of resources produced by ReFi projects.
+
+
+
+Roadmap
+Looking forward, we are planning to implement the following new features:
+
+Integrating impact data from more projects
+MCP server and other AI integrations
+Charts for individual project metrics
+More complete fundraising data (instead of just venture funding)
+How We Will Use the Funds
+All funds go towards the continuous development of this new version of CARBON Copy.
+
+Your donation helps keep the site and API a public good for all to benefit from.
+
+Links
+Website - https://carboncopy.news
+
+ReFi project listing - https://carboncopy.news/refi/projects/
+
+Newsletter - https://paragraph.com/@carboncopy/
+
+ReFi News Feed - https://api.carboncopy.news/feed
+
+Milestones (4-6 months)
+
+We'd like to be able to deliver: 1) a fleshed out "Chain ecosystem" page that indicates the extent of Ethereum's role in the ReFi space, 2) officially launch public access to our API with Ethereum-specific endpoints, and 3) a lot more impact data from projects to tell an even more compelling story about Ethereum's impact.
+
+Please example how your project meets the round-specific eligibility criteria.
+
+"""We are aggregating ReFi ecosystem data and making it available to everyone via API and a dashboard. This advances Open Data initiatives, and as most ReFi activity happens on Ethereum, it demonstrates Ethereum's role in making positive ecological and social impact. 
+
+Our API lists ReFi ecosystem assets, like projects, builders, news, fundraising, tokens, and media coverage, and delivers project impact data, such as investment in impact projects, CO2 emissions saved, and waste collected."""

@@ -1,0 +1,41 @@
+### CrowdWisdom
+
+DApps
+
+Infrastructure
+
+[0xe50110...3aD313E8](https://arbiscan.io/address/0xe50110D15891D0773FDFF5328533ee173aD313E8)
+
+<https://www.crowdwisdom.xyz/>
+
+This project aims to confront the challenges of addressing misinformation on news, social media, articles, and other forms of content. Our goal is to create a decentralized platform for verifying the validity of news, articles, X posts and photos on the open web while maintaining the anonymity of curators and validators.The platform stands into two building blocks developed by PSE : Semaphore and MACI. Additionally the claim data (schema) wil be created on EAS Scroll that eventually would allow to make attestation over it. Finally a Relayer is included to manage subscription and publish messages with MACI.Semaphore will be in charge of: Creating user identities. Adding identities to groups: Curators and Validators. Curators are individuals who challenge misinformation by providing clear evidence or helpful notes that effectively address any false information, enabling validators to easily verify the accuracy of the information.Validators are responsible for verifying the provided evidence and voting to accept or reject the claims. Anonymous signaling for managing interaction with MACI. Interaction will be from:
+
+-   Curators to create claims submissions
+-   Validators to cast votes for those claims.
+
+MACI will be in charge of:
+
+-   Creating the claims submission from curators.
+-   Casting votes from validators
+-   Tallying the final results for claims (coordinator)
+-   Finalizing claims (coordinator)
+
+### IMPACT STATEMENTS
+
+It has demonstrated how decentralized technologies can ensure trust, transparency, and accountability in information verification while preserving user anonymity---empowering communities to collaboratively address misinformation without relying on centralized authorities.
+
+### CONTRIBUTIONS
+
+Our project has contributed to building a decentralized and privacy-preserving framework to combat misinformation. By integrating Semaphore, MACI, and EAS, it enables anonymous identity management, verifiable claims, and transparent validation processes for online content.
+
+CONTRIBUTIONS LINKS[We contributed to the design and implementation of a decentralized platform to combat disinformation, enabling curators and validators to collaboratively verify online content while preserving privacy.](https://github.com/orgs/crowd-wisdom/repositories)
+
+### PAST GRANTS AND FUNDING
+
+SCROLL LEVEL UP GRANTS PROGRAM 2024
+
+Other
+
+8474
+
+SCR

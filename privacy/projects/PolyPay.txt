@@ -1,0 +1,35 @@
+### PolyPay
+
+DApps
+
+Infrastructure
+
+[0x353406...205aabe4](https://arbiscan.io/address/0x35340673E33eF796B9a2d00dB8B6A549205aabe4)
+
+<https://github.com/Quantum3-Labs/aztec-cross-chain-multisig>
+
+Today, on-chain payroll systems suffer from transparency. Salaries, bonus structures, and milestone payment exposed on-chain, creating significant confidentiality and security risks. This transparency deters teams from using blockchain for operations, particularly as real-world crypto payroll adoption continues to grow. According to industry data, over one-third of U.S. SMBs now use crypto in some form of payment, and more than 50,000 DAOs collectively manage over $16.9 billion in assets on-chain. Despite this growth, most existing payroll tools operate entirely publicly, leaving sensitive financial data exposed.PolyPay bridges this gap by introducing privacy as a default design principle. Built on Noir and Aztec, PolyPay provides a confidential, programmable payroll framework with support for private multisig approval, automated disbursements, and escrow-based milestone payments. Using an HTLC-based cross-chain settlement architecture, teams can fund and approve payments privately from Aztec while employees can choose to receive their salaries on their preferred chain such as Ethereum, Solana, or Polygon without compromising privacy.
+
+### IMPACT STATEMENTS
+
+PolyPay brings privacy into a real-world use case by payroll and organizational payments.Today, privacy in crypto mostly stops at private transfers. PolyPay pushes it further by showing how privacy can power actual financial coordination by salaries, contributor payouts, and DAO operations.By open-sourcing our codebase, developers can build on top of what we create, using Aztec as a private backend without needing to reinvent these core tools.Even if people dont use PolyPay directly, the underlying components contribute back to the ecosystem, helping make private payments and coordination a normal part of how organizations operate on-chain.
+
+### CONTRIBUTIONS
+
+PolyPay is building open-source privacy infrastructure for real-world payments. Instead of just another private payment, we are focusing on bringing private payment to real world use case on how teams, DAOs, and contributors actually move money in practice.Our main contributions:
+
+1.  Private Payroll Core (Noir-based) A module for running payroll privately on Aztec. Employers can pay contributors without revealing salary amounts or recipient addresses.
+2.  Private Multisig Logic A reusable Noir component that lets teams coordinate approvals in private, protecting internal data like who approved what and when.
+3.  Cross-Chain Settlement (HTLC, not develop yet, might depends on how bridging support on Aztec) A simple, trustless way to pay users who are on other chains, the payment stays private on Aztec while the receiver can still receive it elsewhere.
+
+CONTRIBUTIONS LINKS[Aztec multisig that manage fund on Arbitrum](https://github.com/Quantum3-Labs/aztec-cross-chain-multisig/tree/v2.0.2)
+
+### PAST GRANTS AND FUNDING
+
+AZTEC CROSS CHAIN CATALYST GRANT
+
+Revenue
+
+5000
+
+USD

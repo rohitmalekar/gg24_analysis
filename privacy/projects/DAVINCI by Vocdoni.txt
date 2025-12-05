@@ -1,0 +1,77 @@
+### DAVINCI by Vocdoni
+
+Infrastructure
+
+Research
+
+DApps
+
+[0x74D896...7440b10b](https://arbiscan.io/address/0x74D8967e812de34702eCD3D453a44bf37440b10b)
+
+[vocdoni](https://x.com/vocdoni)
+
+[https://davinci.vote](https://davinci.vote/)
+
+[vocdoni](https://github.com/vocdoni)
+
+The Vocdoni project was born in 2018 with the vision to improve democratic health and promote participatory governance using decentralized and open-source technology. We believe that a truly fair voting system should be free from political, corporate, or centralized control.The DAVINCI protocol (conceived in early 2025) is the next evolutionary step in Vocdoni's mission to enable gasless, fully verifiable, private, censorship and coercion resistant governance for any kind of organization: from DAOs to traditional institutions.Since 2018, we provided blockchain-based voting to hundreds of organizations worldwide, including political parties, local governments, associations, sports clubs and grassroots movements. Gathering real-world experience on the needs and requirements of civil organizations and individuals not originally connected to the web3 ecosystem.
+
+* * * * *
+
+DAVINCI relies on a specialized zkRollup system that inherits network security from Ethereum, ensuring neutrality by operating on a decentralized infrastructure, where no single entity can manipulate, censor, or bias election results. It provides a modular framework that integrates:
+
+-   🕵️‍♂️ zero-knowledge proofs
+-   🔐 threshold homomorphic encryption
+-   📦 KZG blobs for data availability
+-   ⚙️ Ethereum as the settlement and coordination layer
+
+* * * * *
+
+The latest version of the whitepaper can be found [here](https://whitepaper.vocdoni.io/) with a [shorter description](https://ethresear.ch/t/vocdoni-protocol-enabling-decentralized-voting-for-the-masses-with-zk-technology/21036) available at the Ethereum Research forum. There is also a 12-minute [video](https://www.youtube.com/watch?v=WLjIZ_Efp8o) from the official presentation at EthCC[8].Currently, the DAVINCI protocol is at the implementation phase that is being carried out by the Vocdoni Association, a non-profit association based in Switzerland, as a Public Good.The Mainnet launch is scheduled for Q2 2026 🚀​
+
+### IMPACT STATEMENTS
+
+Vocdoni has expanded who can participate in collective decisions, increased trust in digital results through verifiability and privacy, lowered the costs for democratic participation for both the organizers and the voters and accelerated the maturation of an open and interoperable governance infrastructure.
+
+1.  Broader and safer participation Vocdoni enabled communities to vote remotely and securely. This widened the electorate, lowered participation barriers, increased turnout and preserved voter agency where conventional processes were impractical or even risky.
+2.  Higher trust and legitimacy of results By making every all the voting process phases independently auditable while protecting ballot privacy, Vocdoni reduced reliance on black‑box procedures. Stakeholders can verify outcomes end‑to‑end, improving acceptance of results and reducing post election disputes.
+3.  Operational efficiency for organizers and voters Shortened time‑to‑result and reduced logistical overhead (venues, physical materials, staffing). Faster, transparent outcomes freed resources for community work rather than process administration.
+4.  Resilience under adversarial conditions Censorship resistant infrastructure allowed groups at risk to maintain decision making continuity despite network interference or political pressure. This resilience protected the democratic process itself, not just the software running it.
+5.  Alignment with democratic and sovereignty goals By pairing privacy preserving verifiable elections with human‑centered UX, Vocdoni supports objectives around digital sovereignty, inclusive participation, and trustworthy public infrastructure helping society to modernize without compromising rights.
+
+### CONTRIBUTIONS
+
+The Vocdoni project has contributed across four identified strategic domains: real-world adoption, research and development, free and open-source software, and privacy education and advocacy. These contributions collectively advance the state of digital democracy and verifiable governance infrastructure.
+
+1.  Real-world and mainstream adoption (RWA) Since 2019, Vocdoni has deployed secure, end-to-end verifiable digital voting systems for a wide range of communities and organizations, including NGOs, political parties, sports clubs, cooperatives, and public institutions such as city halls. It has also empowered persecuted and exiled political movements, such as the New Belarus opposition, to hold censorship-resistant elections in restrictive environments.
+2.  Research and Development (R&D) Vocdoni is actively advancing the scientific and technical frontiers of decentralized governance. Its research covers zero-knowledge proofs for ballot privacy and eligibility, verifiable tallying mechanisms, and hybrid architectures that combine off-chain scalability with on-chain verifiability.
+3.  Free and open-source software (FOSS) Vocdoni's entire technology stack is open-source, fostering transparency, reusability, and community-driven innovation. By publicly releasing its protocols, SDKs, reference implementations, and developer tools, Vocdoni empowers organizations and DAOs worldwide to implement trustless, privacy-preserving governance systems. This open approach strengthens the global digital democracy ecosystem, ensuring that critical civic infrastructure remains auditable, non-proprietary, and sustainable.
+4.  Privacy education and advocacy (PEA) Beyond technological development, Vocdoni is committed to educating communities about privacy, digital rights, and democratic participation. Through workshops, public talks, and accessible materials, the project raises awareness of data sovereignty and the ethical use of cryptography as enablers of trustworthy digital governance. These actions foster a culture of privacy literacy and civic empowerment, ensuring that digital democracy evolves alongside informed, privacy-conscious citizens.
+
+CONTRIBUTIONS LINKS[DAVINCI Node](https://github.com/vocdoni/davinci-node)[Circom to Gnark parser](https://github.com/vocdoni/circom2gnark)[EVM Storage Proofs in Golang](https://github.com/vocdoni/storage-proofs-eth-go)[Keccak256 in Circom](https://github.com/vocdoni/keccak256-circom)[Census3](https://github.com/vocdoni/census3)[Arbo MKTree](https://github.com/vocdoni/arbo)[Vocdoni DApp for mainstream users](https://app.vocdoni.io/)[DAVINCI showcase DApp](https://app.davinci.vote/)[How to Run an Election without the State with Vocdoni](https://youtu.be/_n-QKs7KW0Y)[PSE deep dive into DAVINCI](https://youtu.be/O2w0ce4qBLU)[DAVINCI Presentation at ETHCC[8]](https://youtu.be/WLjIZ_Efp8o)[Paper @ MIT: Remote voting in the age of cryptography](https://law.mit.edu/pub/remotevotingintheageofcryptography/release/1)[All relevant contributions links can be found here](https://vocdoni.notion.site/Vocdoni-contributions-GG24-2928cc4c1e42801e9865e607e642333f)
+
+### PAST GRANTS AND FUNDING
+
+GG23
+
+Other
+
+10786
+
+USD
+
+SUPPORTERS & ANGEL INVESTORS
+
+Other
+
+1000000
+
+USD
+
+PREZENTI 
+
+Other
+
+10000
+
+USD

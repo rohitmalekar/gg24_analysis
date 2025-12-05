@@ -1,0 +1,38 @@
+### The Forus
+
+DApps
+
+Infrastructure
+
+[0x96Cd56...96c7Ff45](https://arbiscan.io/address/0x96Cd565AAaB2e55Ffe4Bb9BF64CD234A96c7Ff45)
+
+[the_forus](https://x.com/the_forus)
+
+<https://theforus-v2.netlify.app/forus>
+
+[TheForus](https://github.com/TheForus)
+
+Forus is an open-source privacy infrastructure built on Arbitrum that makes private blockchain transactions simple and accessible. It allows users to receive ETH and ERC-20 tokens privately without ever revealing their wallet addresses. By combining stealth address technology, TEE (Trusted Execution Environment), and ECDH key exchange, Forus ensures transactions remain unlinkable, secure, and efficient---eliminating the need for mixers, complex setups, or multiple wallets.Blockchain transparency, while valuable for trust, exposes users to privacy and security risks such as identity leaks, financial profiling, and targeted attacks. Forus solves this by introducing a privacy layer that hides receiver identities while keeping the system auditable and gas-efficient. Each transaction on Forus uses a one-time stealth address, making it impossible to link payments to a user's actual wallet or past transactions.The system is designed to be simple for both users and developers. Users generate a cryptographic Link---a public meta-address that doesn't reveal any sensitive data. Senders use this link to create unique, one-time stealth addresses and send funds securely. On the backend, the TEE enclave automatically monitors and decrypts these private transactions, allowing recipients to access their funds safely without compromising anonymity.Ultimately, Forus aims to make privacy a default feature of the blockchain experience. It brings the power of advanced cryptography to everyday users---offering a transparent, secure, and censorship-resistant way to transact privately. By strengthening Arbitrum's ecosystem with low-cost, open-source privacy tools, Forus is building the foundation for a more private and user-controlled Web3 future.
+
+### IMPACT STATEMENTS
+
+Forus is redefining blockchain privacy by making confidential transactions simple, accessible, and scalable. Its impact extends beyond individual users---strengthening the broader Web3 ecosystem by addressing one of the most critical yet underserved areas in blockchain: on-chain privacy.By enabling users to receive ETH and ERC-20 tokens without exposing their wallet addresses, Forus helps protect individuals, developers, and institutions from unwanted surveillance, profiling, and financial exploitation. It promotes user safety and financial sovereignty, empowering people to transact freely without fear of being traced or targeted.Forus also contributes to the growth of the Arbitrum ecosystem by introducing a modular, low-cost privacy layer that can be integrated into wallets, dApps, and DeFi protocols. Its open-source architecture encourages collaboration and innovation, allowing developers to build privacy-preserving applications easily. This creates a multiplier effect---expanding privacy adoption across the Ethereum ecosystem while maintaining compliance and transparency.Ultimately, Forus aims to make privacy a default right in digital finance. By combining stealth address technology, TEE-based security, and user-friendly design, it bridges the gap between privacy and usability---laying the foundation for a more secure, inclusive, and censorship-resistant blockchain future.
+
+### CONTRIBUTIONS
+
+1.  Advancing On-Chain Privacy: Forus introduces an innovative privacy layer to the Arbitrum ecosystem by implementing stealth address technology directly on-chain. It eliminates the need for traditional mixers or off-chain tools, offering a transparent yet private mechanism for users to receive funds without exposing their wallet addresses. This contributes to the broader goal of making privacy a standard, built-in feature of blockchain transactions.
+2.  Integrating Trusted Execution Environments (TEE) in Crypto Privacy: By leveraging Trusted Execution Environments, Forus brings hardware-level security to blockchain privacy. Sensitive operations---like key storage and computation---are handled inside the TEE enclave, ensuring that even if a user's device is compromised, their private data remains protected. This is a major contribution toward building trustless, tamper-resistant privacy tools.
+3.  Promoting Financial Freedom and User Protection: By shielding users' financial activity from public exposure, Forus helps protect individuals and businesses from profiling, tracking, and targeted cyber threats. It empowers users to transact securely and privately, supporting the ethos of self-sovereignty and financial independence in Web3.
+4.  Cost-Efficient and Scalable Privacy Solution: Unlike many privacy protocols that are resource-heavy or expensive, Forus is optimized for low gas costs and high scalability on Arbitrum. This makes private transactions accessible to a global audience---not just crypto experts or high-value users---ensuring privacy is practical for everyday use.
+
+CONTRIBUTIONS LINKS[Github](https://github.com/TheForus/Forus-core)
+
+### PAST GRANTS AND FUNDING
+
+GITHUB
+
+Governance Fund
+
+3500
+
+USD

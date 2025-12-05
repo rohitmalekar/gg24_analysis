@@ -1,0 +1,50 @@
+### Blocktrend.today（區塊勢）
+
+Education
+
+Research
+
+[0x36F322...E2b38381](https://arbiscan.io/address/0x36F322fC85B24aB13263CFE9217B28f8E2b38381)
+
+<https://blocktrend.today/>
+
+While most global crypto narratives are written for Western readers, Blocktrend translates these ideas into local Taiwanese contexts --- connecting them with real cultural and economic situations. Our mission is to help readers see Web3 not just as a speculative market, but as public infrastructure that can improve financial access, transparency, and digital sovereignty.Since 2017, Blocktrend has published over 700 articles and 300 podcast episodes, reaching tens of thousands of readers across Taiwan, Hong Kong, and Singapore. Our work has been cited by major media, featured in education programs, and invited by government institutions to explain blockchain fundamentals in Taiwan.
+
+### IMPACT STATEMENTS
+
+Blocktrend has filled that gap and fundamentally changed how people in Taiwan and the broader Chinese-speaking world engage with Web3.
+
+-   Created a new public space for non-speculative crypto discourse: Blocktrend is now the #1 Chinese crypto publication on Substack, with nearly 20,000 subscribers, making it the largest non-trading, education-oriented Web3 newsletter in the region.
+-   Brought Web3 to mainstream audiences: Our podcast has been featured three times on Apple Podcasts' front page --- the only Taiwan-based Web3 program ever to do so --- reaching listeners who had never encountered blockchain beyond investment talk.
+-   Shifted public understanding from hype to utility: Through 700+ articles and 300+ podcast episodes, we've helped readers recognize that crypto is not merely about profit, but about privacy, autonomy, and infrastructure.
+-   Public engagement and media collaboration: We are regularly invited by Taiwan's Public Television Service, major media outlets, and universities to explain privacy, digital identity, and blockchain governance --- turning abstract tech into public knowledge.
+-   Catalyzed a new generation of voices: After years of sustained reporting, other independent creators and journalists in Taiwan have begun following these topics --- citing Blocktrend as a reference for responsible, tech-grounded reporting.
+
+### CONTRIBUTIONS
+
+We have published a series of in-depth features that explore privacy from multiple angles:
+
+-   Identity and surveillance: In-depth coverage of Worldcoin, zkKYC, RealDID, and China's national digital ID policy, analyzing how identity systems can both protect and endanger user privacy.
+-   Financial privacy: Long-term reporting on stealth addresses, Fluidkey, zkP2P, and non-custodial payments, exploring how users can transact safely without revealing onchain identity.
+-   Regulation and censorship: Analyses of the Tornado Cash sanctions, OFAC enforcement, and how privacy tools became test cases for free speech and open-source rights.
+-   Zero-knowledge education: A complete beginner-friendly series explaining zero-knowledge proofs (ZKP), privacy-preserving computation, and how they power zkRollups and private authentication systems.
+
+CONTRIBUTIONS LINKS[Website](https://blocktrend.today/)[zkp2p interview ft. Richard](https://www.blocktrend.today/p/ep283)[Fluidkey interview ft. Moritz](https://www.blocktrend.today/p/ep304)[zkp2p expaliner](https://www.blocktrend.today/p/666)[Tornado Cash explainer](https://www.blocktrend.today/p/653)[ZKP explainer](https://www.blocktrend.today/p/69)[Fluidkey explainer](https://www.blocktrend.today/p/697)[zkKYC explainer](https://www.blocktrend.today/p/641)
+
+### PAST GRANTS AND FUNDING
+
+SUBSCRIPTION
+
+Revenue
+
+100000
+
+USD
+
+GRANTS
+
+Other
+
+20000
+
+USD

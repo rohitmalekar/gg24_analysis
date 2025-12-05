@@ -1,0 +1,25 @@
+## Who?
+
+Viem is developed by the Wevm team, @tmm & @jxom, and contributors from all around the world. Viem is used in production by Stripe, Shopify, Uniswap, Coinbase, Optimism, ENS, Polymarket, Sushi, and many more.
+
+## What?
+
+Viem is a TypeScript interface for Ethereum, focused on developer experience, stability, bundle size, and performance. It is the industry standard for building websites and apps and used by most companies and organizations in the space (including Giveth;)). Viem has over 9M downloads/month, 3.2k GitHub Stars, 625 contributors, and 93.6k open source projects on GitHub.
+
+## Why?
+
+Swapped on Uniswap? Registered an ENS name? Bridged to Base? If you answered "yes" to any of these questions or used any other Ethereum-enabled apps, then you likely used Viem. Billions in transaction volume flow through Viem's code (think encoding/decoding, signing, sending to network, etc.).
+
+Viem is the common language developers in the space use to build modern Ethereum apps. As such, it must be constantly updated ( over 550 releases since March 2023 release) to support new Ethereum features. If Viem doesn't support an EIP or spec, then the reality is it is unlikely downstream developers will adopt and use these new Ethereum features. Viem is a critical dependency for ensuring feature adoption among thousands of developers and pushing forward the Ethereum frontier.
+
+## Where?
+
+Much like Ethereum, Viem is a global project with contributors all over the world. Viem supports all EVM chains. Developers can download Viem for free and use it to build websites, mobile apps, wallets, and more.
+
+## How?
+
+Viem is an Open Source Software project developed remotely. The core team members are located in USA (@tmm) and Australia (@jxom) with many other third-party contributors contributing from around the world. We love building developer tools on Ethereum to make it easier for devs to ship high-quality software quickly and securely.
+
+## When?
+
+Viem was launched March 2023 and is in constant development with over 550 releases.

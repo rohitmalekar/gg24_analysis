@@ -1,0 +1,168 @@
+GG24: Developer Tooling & Infrastructure
+========================================
+
+**1️⃣ About This Round**
+========================
+
+The **Developer Tooling & Infrastructure QF Round** is dedicated to strengthening the foundation of the Ethereum ecosystem. With a **$200,000 matching pool**, this round supports the open-source builders, client teams, and researchers whose work ensures that Ethereum remains secure, scalable, and accessible for developers worldwide.
+
+Ethereum's growth depends not only on cutting-edge applications but also on the invisible backbone of infrastructure that makes those applications possible. This round highlights projects that advance **core clients, staking diversity, security, scalability, wallet privacy, and developer tooling**, all of which are essential to the long-term resilience of the network.
+
+[Basic Round Info](https://www.notion.so/GG24-Developer-Tooling-Infrastructure-2793ab28d48c80bfb332fca61113022f?pvs=21)
+-----------------------------------------------------------------------------------------------------------------------
+
+🔹 **Round Operator(s):** Giveth & Team Tiger ([Wasabi](https://t.me/wasabinetwork), [Ivan Molto](https://x.com/ivanmolto), [0xChuche](https://t.me/Chuche0x))
+
+🔹 **Total Funding Pool:** $200,000
+
+🔹 **Matching Funds Network**: Arbitrum
+
+🔹 **Max matching per project:** 5%
+
+🔹 **Round location:** <https://giveth.io/qf>
+
+🔹 **Eligible donation Networks:** Ethereum Mainnet, ****Base, Gnosis, Optimism, Polygon POS, Celo, Ethereum Classic, Arbitrum, Polygon zkEVM
+
+[**Key Dates & Milestones**](https://www.notion.so/GG24-Developer-Tooling-Infrastructure-2793ab28d48c80bfb332fca61113022f?pvs=21)
+---------------------------------------------------------------------------------------------------------------------------------
+
+| Applications Open | October 3, 2025 |
+| --- | --- |
+| Applications Close | October 17, 2025 |
+| Donation Window Opens | October 14, 2025 |
+| Donation Window Closes | October 28, 2025 |
+
+* * * * *
+
+**2️⃣ Project Eligibility Criteria**
+====================================
+
+We aim to fund projects that strengthen the Ethereum ecosystem's foundational infrastructure by supporting projects crucial for its development, scalability, and security, and improve developer efficiency in the OSS and Web3 ecosystems through supportive tooling, libraries, and data analytics tools.
+
+✅ Target Areas for Funding
+--------------------------
+
+-   Core Protocol & Infrastructure
+    -   Ethereum clients (Geth, Nethermind, etc.)
+    -   Staking infrastructure & client diversity
+    -   Scalability research (EIPs, sharding, rollups)
+-   Developer Tooling
+    -   Smart contract languages (Solidity, Vyper, etc.)
+    -   Libraries (alloy, ethers.js, viem, etc.)
+    -   Frameworks & environments (Foundry, Ape, etc.)
+    -   Standardization tooling (Sourcify)
+-   Data analytics platforms/tools
+-   Security & Resilience
+    -   Network security enhancements
+    -   Wallet security & recovery
+    -   Privacy-preserving technologies (ZK proofs, privacy tools)
+-   Standards & Future-Proofing
+    -   Account abstraction
+    -   Statelessness
+    -   Broader Ethereum standardization efforts
+    -   Digital identity protocols and interoperability
+-   User Experience & Access
+    -   Wallet improvements
+    -   Usability upgrades for devs and users
+    -   Voting/governance mechanisms
+
+🚫 Exclusions
+-------------
+
+-   Pre-launch or concept-only projects without working code
+-   Simple forks or clones that lack meaningful innovation
+-   Closed-source components or proprietary tooling
+-   Speculative tokens or fundraising schemes
+-   Primarily commercial ventures with no public goods focus
+-   Maintenance-only requests without new development
+-   Non-Ethereum aligned work
+-   Marketing-only efforts or content creation without technical impact
+-   Duplicate or overlapping applications
+-   A team cannot apply with multiple projects in the round
+-   Activity metrics: Demonstrated established and ongoing development activity as evidenced by GitHub commit history. Projects that only meet two of these criteria will receive a manual review, whereas those failing to meet at least two criteria are deemed ineligible:
+    -   Be more than 90 days old
+    -   Have at least 2 contributors
+    -   Show more than 20 active development days within the last 90 days
+    -   Include at least 1 commit in the last 30 days
+
+Round Specific Criteria
+-----------------------
+
+-   Significant reduction of development barriers or enhancement of project efficiency.
+-   Demonstrated significant usage within the developer community.
+-   Infrastructure Impact: Infrastructure projects must demonstrate a significant contribution to the Ethereum network's infrastructure, addressing both foundational needs and innovative solutions to current challenges.
+-   Engagement in Pioneering Development: A focus on pioneering technologies or approaches that promise to elevate the Ethereum ecosystem, particularly in enhancing privacy, interoperability, and user experience.
+
+**Evaluation Process**
+----------------------
+
+The evaluation process combines quantitative measures, such as adherence to open-source licensing and active development indicators, with qualitative assessments, including the project's contribution to the OSS ecosystem, community engagement, and innovation.
+
+[**General Eligibility for Gitcoin Grants Program**](https://www.notion.so/General-Eligibility-for-Gitcoin-Grants-Program-2803ab28d48c80e487dbf7ee537d0409?pvs=21)
+
+* * * * *
+
+**3️⃣ Funding Mechanism**
+=========================
+
+This round uses **Quadratic Funding (QF)**, a community-driven matching model designed to maximize the impact of broad support. In QF, the number of contributors can matter more than the size of individual donations. For example, a project that attracts many small contributions can receive a larger share of the matching pool than one supported by only a few large donors.
+
+On Giveth, we use Cluster-Oriented Cluster Match QF to calculate the matching results, which acts as a built-in sybil protection and prioritizes the influence of real people.
+
+[How it works](https://www.notion.so/GG24-Developer-Tooling-Infrastructure-2793ab28d48c80bfb332fca61113022f?pvs=21)
+-------------------------------------------------------------------------------------------------------------------
+
+-   Donors contribute directly to the projects they want to support.
+-   Each contribution counts as a signal of community demand.
+-   The $200,000 matching pool is distributed based on a formula that boosts projects with widespread participation, ensuring community-backed initiatives are amplified.
+
+This mechanism helps ensure that funding aligns with the priorities of the many, not just the few, and allows every donor to have a meaningful influence on the outcome. Learn more about [QF](https://www.wtfisqf.com/) and [COCM](https://wtfiscocm.streamlit.app/) *[The app can go to sleep when idle. Just click wake up and it will load]*
+
+* * * * *
+
+**4️⃣ How to Apply & Donate**
+=============================
+
+For Projects
+------------
+
+[Join the round!](https://www.notion.so/Join-the-round-27a3ab28d48c80ed9566e06c90b64ed5?pvs=21)
+
+[Join our AMAs & X Shill spaces](https://www.notion.so/Join-our-AMAs-X-Shill-spaces-27a3ab28d48c809fa91feaf69adffc43?pvs=21)
+
+[Add an Arbitrum Address](https://www.notion.so/Add-an-Arbitrum-Address-2793ab28d48c8187935cea740e2a4b73?pvs=21)
+
+[Promote Your Project ](https://www.notion.so/Promote-Your-Project-27a3ab28d48c808399bdca5acdee5dd9?pvs=21)
+
+[Make Your Giveth Project GREAT!](https://www.notion.so/Make-Your-Giveth-Project-GREAT-2caebb4eef6440cc844cd3d9b85dbcd4?pvs=21)
+
+**🎨 [GG24 Official Design Template](https://www.figma.com/design/t9XXu5sSw65ElPLJBJastK/GG24-Templates--OFFICIAL-EXTERNAL---DUPLICATE-THIS-?node-id=57-14427)**
+
+For Everyone
+------------
+
+[How to Make a Donation](https://www.notion.so/How-to-Make-a-Donation-27b3ab28d48c8041918cd59b3aeb770e?pvs=21)
+
+[Matching Eligibility for Donations](https://www.notion.so/Matching-Eligibility-for-Donations-2793ab28d48c8198a783caaae7cd94da?pvs=21)
+
+[Disqualifying Factors for Donors & Projects ](https://www.notion.so/Disqualifying-Factors-for-Donors-Projects-27b3ab28d48c8094af93f76a1c820a0f?pvs=21)
+
+[**Round Protection & Payout**](https://www.notion.so/Round-Protection-Payout-27b3ab28d48c8044b31ee29027e701ee?pvs=21)
+
+* * * * *
+
+5️⃣ **Contact & Community Links**
+=================================
+
+📬 **How to Reach Us**
+
+-   Discord: <https://discord.giveth.io/>
+-   Telegram: <https://t.me/Givethio>
+-   Twitter: [@giveth](https://x.com/Giveth)
+
+✉️ **Support & FAQs**
+
+-   Support links: <https://giveth.io/support>
+-   Email: <info@giveth.io>
+
+* * * * *

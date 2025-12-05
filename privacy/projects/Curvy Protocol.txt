@@ -1,0 +1,60 @@
+### Curvy Protocol
+
+Research
+
+Education
+
+Infrastructure
+
+[0x708828...F7374B66](https://arbiscan.io/address/0x708828A29FA113E901D0EBD30c4b64fEF7374B66)
+
+[0xcurvy](https://x.com/0xcurvy)
+
+<https://curvy.box/>
+
+[0xcurvy](https://github.com/0xcurvy)
+
+Curvy is a privacy-first crypto payments protocol that combines stealth addresses on the receiving side, a ZK relayer for managing assets and spending, and embedded compliance to make private transactions accessible to everyone.We believe privacy is essential for the mass adoption of crypto. Curvy is built around four core product principles:
+
+-   End-to-end private payments across EVM and Starknet
+-   Embedded compliance through viewing keys and on-chain proofs
+-   Usability -- simple links, invoices, and SDK for integration into any app
+-   Open architecture -- developers can build custom workflows using our SDK and APIs
+
+### IMPACT STATEMENTS
+
+Curvy implemented the first stealth address solution on Starknet, making privacy-preserving transactions available to a broader ecosystem. We've onboarded the first 200 retail users to our web app beta and processed over $50K in private payments across 1,000+ stealth addresses.Beyond product development, we've been active contributors to the privacy and education ecosystem:
+
+-   Organizers at ZK Belgrade, Web3 Academy, Web3FM podcast, Ethereum Caravan, and Web3 Incubator
+-   Speakers & contributors at ETH Belgrade, ETHCluj, and BlockSplit
+-   Published open research and educational materials on stealth address protocols and ZK relayers
+
+### CONTRIBUTIONS
+
+Research Papers:
+
+-   Elliptic Curve Pairing Stealth Address Protocols
+-   Post-Quantum Stealth Address Protocols
+-   MPC Stealth Address Protocol
+
+Product:
+
+-   Curvy SDK -- developer toolkit for integrating stealth payments and viewing keys
+-   Web App -- privacy-first payment layer for individuals and teams
+
+Open Source Contributions:
+
+-   First open stealth address implementation for Starknet
+-   Ongoing research collaboration around privacy-preserving compliance and cross-chain interoperability
+
+CONTRIBUTIONS LINKS[Elliptic Curve Pairing Stealth Address Protocol](https://arxiv.org/abs/2312.12131)[Post-Quantum Stealth Address Protocol](https://eprint.iacr.org/2025/112.pdf)[Curvy SDK GitHub Repo](https://github.com/0xCurvy/curvy-sdk)[MPC Stealth Address Protocol](https://docs.google.com/document/d/160Zyq_LPxwOlFlIDsoJwThCjHRs5HtZaxwgI5lVbAS4/)[Curvy Web App](https://app.curvy.box/)
+
+### PAST GRANTS AND FUNDING
+
+GRANTS 
+
+Other
+
+90000
+
+USD

@@ -1,0 +1,147 @@
+{
+    "problems": [
+      {
+        "problem_id": "privacy_01",
+        "domain": "Privacy",
+        "name": "Lack of Default Onchain Privacy",
+        "level": "problem_type",
+        "problem_statement": "Most activity on Ethereum occurs in full public view, with transfers, trades and interactions easily traceable by anyone. Wallets ship without privacy defaults, and users have no seamless, built-in protection. Privacy infrastructure exists but is fragmented, hard to adopt, and not widely integrated across the ecosystem. :contentReference[oaicite:0]{index=0}",
+        "why_it_matters": "Without baseline privacy, users face exposure of financial behavior, identity patterns, and social relationships. This harms autonomy, increases security risks, and weakens Ethereum’s ability to support safe, everyday economic and civic participation. :contentReference[oaicite:1]{index=1}",
+        "solution_shape": "Work that integrates default privacy protections into wallets, tooling, and common user flows; simplifies use of stealth mechanisms; or creates drop-in privacy modules that can be embedded across applications.",
+        "positive_signals": [
+          "private-by-default user flows",
+          "wallet-level privacy integration",
+          "simplified private transfers",
+          "stealth address tooling",
+          "privacy UX improvements"
+        ],
+        "measurement_rubric": {
+          "1": "Touches on privacy only loosely or as a peripheral feature.",
+          "2": "Implements a small or optional privacy component without ecosystem impact.",
+          "3": "Provides meaningful privacy features adopted by some users or apps.",
+          "4": "Delivers widely usable privacy defaults or integrations across user flows.",
+          "5": "Directly advances default, systemic, ecosystem-wide onchain privacy."
+        }
+      },
+  
+      {
+        "problem_id": "privacy_02",
+        "domain": "Privacy",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "level": "problem_type",
+        "problem_statement": "The ecosystem lacks robust, widely adopted ZK primitives, proving systems, and developer tooling. Current frameworks require specialized expertise, remain hard to integrate, and limit experimentation. Many core mechanisms for private computation, messaging, voting, and identity remain early stage. :contentReference[oaicite:2]{index=2}",
+        "why_it_matters": "If ZK tooling remains immature or inaccessible, Ethereum cannot support scalable, safe, or secure privacy-preserving systems. This slows innovation, limits developer participation, and prevents private applications from reaching mainstream use.",
+        "solution_shape": "Research, tooling, improved ZK languages, proving systems, benchmarks, and reference implementations that lower barriers for developers and enable secure private computation.",
+        "positive_signals": [
+          "zk system research",
+          "Noir or ZK language tooling",
+          "new proving optimizations",
+          "reference implementations",
+          "developer-friendly ZK frameworks"
+        ],
+        "measurement_rubric": {
+          "1": "Explores ZK concepts without producing practical artifacts.",
+          "2": "Delivers minor improvements or niche tooling.",
+          "3": "Provides usable ZK components or research that informs development.",
+          "4": "Offers high-impact tools, primitives, or systems widely applicable to builders.",
+          "5": "Produces foundational ZK infrastructure that advances the ecosystem's privacy capabilities."
+        }
+      },
+  
+      {
+        "problem_id": "privacy_03",
+        "domain": "Privacy",
+        "name": "Low Adoption of Privacy Applications",
+        "level": "problem_type",
+        "problem_statement": "Privacy-preserving dApps exist but struggle with adoption due to complexity, unclear UX, limited integrations, and uncertain trust signals. Even when privacy features are implemented, usage often remains low and fragmented. :contentReference[oaicite:3]{index=3}",
+        "why_it_matters": "If privacy apps remain niche, users default to non-private behavior, leaving the ecosystem exposed and reducing demand for privacy infrastructure. This weakens the viability of privacy innovation overall.",
+        "solution_shape": "Applications that demonstrate practical, everyday privacy use cases; deliver intuitive UX; integrate with wallets or L2s; or show measurable adoption and growth of privacy features.",
+        "positive_signals": [
+          "clear private-user UX",
+          "adoption metrics",
+          "privacy features at core",
+          "wallet or L2 integrations",
+          "growth in private interactions"
+        ],
+        "measurement_rubric": {
+          "1": "Application mentions privacy without offering meaningful features.",
+          "2": "Implements a small privacy component with limited usage.",
+          "3": "Delivers real privacy-preserving functionality with some user adoption.",
+          "4": "Shows strong growth or ecosystem integration of privacy use cases.",
+          "5": "Drives significant adoption of privacy behavior across user segments."
+        }
+      },
+  
+      {
+        "problem_id": "privacy_04",
+        "domain": "Privacy",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "level": "problem_type",
+        "problem_statement": "Ethereum lacks reliable, user-controlled identity systems that preserve privacy. Many digital identity tools expose linkages between accounts, activities, and off-chain profiles. Private identity solutions remain early, fragmented, or hard to integrate. :contentReference[oaicite:4]{index=4}",
+        "why_it_matters": "Without private identity, users cannot safely participate in voting, governance, or reputation-driven applications. Public identity linkages undermine safety, increase risk of harassment, and deter civic engagement.",
+        "solution_shape": "Systems for selective disclosure, private credentials, unlinkable identifiers, privacy-preserving attestations, or identity architectures that allow users to control what they reveal.",
+        "positive_signals": [
+          "private credential issuance",
+          "unlinkable identity systems",
+          "selective disclosure protocols",
+          "private attestations",
+          "identity UX that avoids linkability"
+        ],
+        "measurement_rubric": {
+          "1": "Identity concepts with minimal privacy relevance.",
+          "2": "Basic identity tooling that exposes many linkages.",
+          "3": "Implements meaningful privacy-preserving features in identity flows.",
+          "4": "Provides robust, user-controlled private identity with adoption signals.",
+          "5": "Delivers foundational private identity infrastructure usable across the ecosystem."
+        }
+      },
+  
+      {
+        "problem_id": "privacy_05",
+        "domain": "Privacy",
+        "name": "Insufficient Private Governance and Voting",
+        "level": "problem_type",
+        "problem_statement": "Most governance on Ethereum is conducted in public, revealing voter preferences, social relationships, and strategic positions. Private voting systems exist but remain early stage, difficult to deploy, and not widely integrated. :contentReference[oaicite:5]{index=5}",
+        "why_it_matters": "Lack of private governance weakens democratic participation, enables coercion or retaliation, and deters honest voting. Without private voting, DAOs and onchain institutions cannot reach credible neutrality or robust decision making.",
+        "solution_shape": "Private voting protocols, improved MACI-like systems, secure tallying mechanisms, tooling for governance integrations, or frameworks that make private voting accessible for DAOs.",
+        "positive_signals": [
+          "private voting protocol",
+          "MACI-based systems",
+          "secure tallying",
+          "DAO integration tooling",
+          "governance privacy features"
+        ],
+        "measurement_rubric": {
+          "1": "General governance work with no real privacy component.",
+          "2": "A limited or experimental private voting feature.",
+          "3": "Operational private voting with some deployments.",
+          "4": "Mature private governance tooling adopted by multiple groups.",
+          "5": "Ecosystem-level infrastructure enabling widespread private voting."
+        }
+      },
+  
+      {
+        "problem_id": "privacy_06",
+        "domain": "Privacy",
+        "name": "Lack of Privacy Education and Field Building",
+        "level": "problem_type",
+        "problem_statement": "Developers and users often lack understanding of privacy risks, available tools, and correct implementation patterns. Educational resources are scattered, inconsistent, or outdated. This limits adoption and slows the growth of the privacy ecosystem. :contentReference[oaicite:6]{index=6}",
+        "why_it_matters": "Without clear education, builders implement privacy incorrectly or not at all. Users misunderstand risks and fail to adopt private tools. The result is a weaker, more exposed ecosystem with poor incentives for privacy innovation.",
+        "solution_shape": "In-depth explainers, workshops, updated documentation, training programs, podcasts, courses, field-building events, and frameworks that increase literacy around privacy tools and concepts.",
+        "positive_signals": [
+          "updated educational content",
+          "developer-focused explainers",
+          "field-building workshops",
+          "privacy literacy resources",
+          "recurring training programs"
+        ],
+        "measurement_rubric": {
+          "1": "Minimal or generic commentary on privacy.",
+          "2": "Basic or infrequent educational content.",
+          "3": "Consistent, well-researched materials that improve understanding.",
+          "4": "High-quality resources with community reach and measurable impact.",
+          "5": "Foundational education that significantly advances privacy adoption and field growth."
+        }
+      }
+    ]
+  }

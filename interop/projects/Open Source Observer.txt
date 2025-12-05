@@ -1,0 +1,25 @@
+Open Source Observer builds technology to measure impact in the open.
+
+
+
+First, we maintain a growing registry of open source software projects contributing to Ethereum annd adjacent ecosystems. Then, we create composable impact metrics based on projects' onchain and off-chain work. Finally, we enable funders, developers, and citizen data scientists to put the data to good use through our API, open data warehouse, and in-house analytics.
+
+
+
+Open Source Observer is designed to assess the ROI of funding open source teams, with a primary focus on supporting open source communities and funders. Our approach includes tracking the impact of grants on crucial ecosystem metrics like user growth and developer activity over time, developing reward functions for funding allocation based on comprehensive impact analysis, and performing detailed analyses of prominent projects to reduce bias.
+
+
+
+Our platform is free, fully open source, and an important building block for discovering, reviewing, and funding digital public goods.
+
+
+
+Our commitment to open source extends beyond just contributing open source code and open data. We are dedicated to creating a truly open infrastructure, aiming to make our data and analyses widely available and directly shared with the community. This commitment underscores our dedication to serving as a public good and fostering an environment of transparency and accessibility.
+
+Milestones (4-6 months)
+
+We are excited to release a suite of public dashboards (and tools for data scientists to fork / create their own dashboards). You can get started here: www.oso.xyz/explore
+
+Please example how your project meets the round-specific eligibility criteria.
+
+As an open source project, perhaps the best indicator is our overall contributor footprint. Since starting, we've had 225 developers who have contributed code or opened issues in one or more of our repositories.

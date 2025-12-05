@@ -1,0 +1,272 @@
+### DASHI
+
+Research
+
+DApps
+
+Infrastructure
+
+[0xf5Ac0b...69D2FedC](https://arbiscan.io/address/0xf5Ac0b87325Bf1B3Eee525EB9646faFD69D2FedC)
+
+[oFonCK](https://x.com/oFonCK)
+
+<https://dashizk.vercel.app/>
+
+[edsphinx](https://github.com/edsphinx)
+
+DASHI - Privacy Infrastructure for Sovereign Health Identity
+------------------------------------------------------------
+
+### The Privacy Crisis in Healthcare
+
+Every clinical trial requires patients to expose their most intimate health information---diagnoses, lab results, genetic data---to strangers. This creates a terrible choice: participate in potentially life-saving research or protect your privacy.The cost of this broken system:
+
+-   86% of patients cite privacy concerns as a barrier to participation
+-   Centralized medical databases are honeypots for hackers
+-   Vulnerable populations avoid trials to protect themselves
+-   Innovation slows because researchers can't recruit patients
+
+### Privacy Through Cryptography, Not Policy
+
+DASHI uses zero-knowledge proofs to fundamentally solve this problem. Patients can prove eligibility without revealing private data.Real Examples:
+
+-   ✅ Prove "I'm between 30-45 years old" → Researcher never sees your birthdate
+-   ✅ Prove "My cholesterol is below 200 mg/dL" → Researcher never sees your lab results
+-   ✅ Prove "I have Type 2 Diabetes" → Researcher never sees your medical history
+
+This isn't privacy through terms of service---it's cryptographic impossibility of data exposure.
+
+### How Privacy is Guaranteed
+
+1\. Zero-Knowledge Proof Circuits
+
+-   Mathematical proofs generated client-side (on patient's device)
+-   Researcher verifies proof on-chain without seeing underlying data
+-   Technology: Circom + Groth16 (industry-standard ZK stack)
+-   Performance: 33-60ms proof generation
+
+2\. Encrypted Medical Vault
+
+-   Patient health data encrypted with patient-only keys
+-   Stored on decentralized infrastructure (IPFS)
+-   No central database to hack or subpoena
+-   Patient can revoke access instantly
+
+3\. Anonymous On-Chain Identity
+
+-   Soulbound tokens (non-transferable health credentials)
+-   No correlation between blockchain address and real identity
+-   Multi-chain deployment (same privacy across all networks)
+-   Zero personal information on public ledger
+
+4\. Privacy-Preserving Smart Contracts
+
+-   Study enrollment verified via ZK proofs only
+-   Payment milestones without KYC
+-   Compliance tracking without surveillance
+-   Complete audit trail, zero data leakage
+
+### What Makes DASHI Different
+
+Structural Privacy (not policy-based):
+
+-   ❌ No "we promise not to look"
+-   ✅ Cryptographically impossible to access data
+-   ❌ No trusted third parties
+-   ✅ Patient is sole key holder
+-   ❌ No honeypot databases
+-   ✅ Decentralized encrypted storage
+
+Privacy by Design Principles:
+
+-   Data minimization: Only proofs transmitted, never raw data
+-   Purpose limitation: Each proof is single-use, study-specific
+-   Storage limitation: No long-term data retention by researchers
+-   Transparency: Open-source code, auditable on-chain logic
+-   User control: Patient owns keys, can revoke anytime
+
+### Privacy Technology Stack
+
+Cryptographic Layer:
+
+-   Zero-Knowledge Proofs (Groth16 proving system)
+-   Elliptic curve cryptography (bn128 curve)
+-   Poseidon hash function (ZK-optimized)
+-   Client-side proof generation (no server-side secrets)
+
+Decentralized Storage:
+
+-   IPFS for encrypted medical records
+-   Client-side encryption (AES-256)
+-   Content addressing (no location metadata)
+-   Patient-controlled decryption keys
+
+Blockchain Layer:
+
+-   EVM-compatible smart contracts (Solidity)
+-   Soulbound tokens (ERC-721 non-transferable)
+-   On-chain proof verification (gas-optimized)
+-   Multi-chain deployment (CREATE2 deterministic addresses)
+
+Key Innovation: First production-ready ZK proof system for healthcare privacy at scale.
+
+### Why This Matters
+
+For Patients:
+
+-   Participate in research without privacy sacrifice
+-   Own your health data, control access
+-   Earn rewards without KYC
+-   No risk of data breaches or leaks
+
+For Privacy Advocates:
+
+-   Proof that privacy and progress aren't enemies
+-   Real-world ZK application (not just DeFi)
+-   Open-source privacy infrastructure
+-   Scalable to billions of users
+
+For Society:
+
+-   Faster medical breakthroughs (better recruitment)
+-   More diverse trial populations (privacy reduces barriers)
+-   Reduced healthcare surveillance
+-   Foundation for sovereign health identity
+
+### Current Status & Proof of Work
+
+Deployed Infrastructure:
+
+-   ✅ 8 smart contracts on Optimism Sepolia (all verified)
+-   ✅ ZK circuits for age eligibility (33ms avg generation)
+-   ✅ Browser extension with encrypted identity management
+-   ✅ Multi-chain patient accounts (CREATE2)
+-   ✅ Milestone-based payment system (privacy-preserving)
+
+Open Source Commitment:
+
+-   MIT License (fully permissive)
+-   Comprehensive documentation
+-   GitHub: https://github.com/edsphinx/veritas-zero-health
+-   Clean architecture (maintainable, auditable)
+-   Community contributions welcome
+
+Privacy Audits:
+
+-   Client-side encryption verified
+-   No PII on-chain (manual audit)
+-   ZK circuit correctness (mathematical proof)
+-   Smart contract privacy review (planned formal audit with funding)
+
+### Funding Allocation
+
+Privacy R&D (60%):
+
+-   Additional ZK circuits (biomarkers, medications, genetics)
+-   Proof generation optimization (<10ms target)
+-   Mobile privacy-preserving app (iOS/Android)
+-   Formal security & privacy audits
+-   Performance benchmarking
+
+Open Source Ecosystem (25%):
+
+-   Developer documentation & tutorials
+-   Privacy education materials
+-   Community support & bug bounties
+-   Hackathon sponsorships
+-   Integration guides
+
+Research & Standards (15%):
+
+-   Privacy-preserving healthcare research
+-   Academic partnerships
+-   Standards development (W3C, IEEE)
+-   White papers & publications
+-   Conference presentations
+
+### Privacy Impact at Scale
+
+Short-term (6-12 months):
+
+-   10,000+ patients with private health identities
+-   100+ clinical trials using ZK verification
+-   <1% privacy-related dropouts (vs 86% current)
+-   Zero patient data breaches (structurally impossible)
+
+Long-term (2-5 years):
+
+-   Universal privacy-preserving health identity
+-   Integration with EHR systems (encrypted queries)
+-   Cross-border health research (no data transfer)
+-   DAO governance for privacy policies
+-   Global standard for medical data privacy
+
+### Why Support DASHI?
+
+1\. Real Privacy, Real Impact - Not a whitepaper---deployed and working - Solving actual patient privacy problems - Cryptographic guarantees, not promises2\. Public Good Infrastructure - Fully open source (MIT) - No vendor lock-in - Benefits entire healthcare ecosystem - Foundation for future privacy tools3\. Scalable Privacy Solution - $50B+ clinical trials market - 400,000+ active studies globally - Billions of patients needing privacy - Replicable to other sensitive data domains4\. Privacy Advocacy - Proves privacy-preserving tech is viable - Educational resource for ZK healthcare applications - Shifts narrative from "privacy vs innovation" to "privacy enables innovation" - Empowers patients, not corporations
+
+### Team & Ethos
+
+Built by privacy advocates who believe privacy is a human right, not a luxury. We're creating infrastructure that makes privacy the default, not an opt-in feature.Our principles:
+
+-   Privacy by cryptography, not policy
+-   Open source, always
+-   Patient sovereignty above all
+-   Technology that empowers individuals
+-   Building for the 99%, not the 1%
+
+### Get Involved
+
+Try DASHI:
+
+-   Demo: [Link to live deployment]
+-   Documentation: https://github.com/edsphinx/veritas-zero-health
+-   Browser Extension: [Chrome/Firefox link]
+
+Contribute:
+
+-   GitHub: Submit PRs, report issues
+-   Community: [Discord/Telegram]
+-   Research: Privacy-preserving healthcare discussions
+
+Spread the Word:
+
+-   Share if you believe privacy shouldn't be sacrificed for progress
+-   Vote if you want to see more real-world ZK applications
+-   Support if you believe patients deserve data sovereignty
+
+* * * * *
+
+DASHI: Your health, your data, your sovereignty. Privacy guaranteed by mathematics, not promises.*Support privacy infrastructure for the billions who need it most.*
+
+### IMPACT STATEMENTS
+
+DASHI directly addresses the surveillance economy in healthcare by providing:Privacy Impact:
+
+-   Zero patient data exposure: Clinical trials can verify eligibility without accessing raw health records
+-   Resistant to data breaches: No centralized medical databases to compromise
+-   Censorship-resistant enrollment: Participants can prove qualifications anonymously without institutional gatekeepers
+
+Ecosystem Impact:
+
+-   First open-source ZK health verification circuits (reusable by other projects)
+-   Demonstrates practical privacy tech in high-stakes environments (medical trials)
+-   Educational resource: Our architecture shows how to combine ZK proofs + encrypted storage + on-chain verification
+
+Real-World Adoption Potential:
+
+-   Target users: Clinical trial participants, researchers in privacy-sensitive studies
+-   Market gap: $70B clinical trial industry with zero privacy-first enrollment solutions
+-   Regulatory alignment: HIPAA/GDPR compliant by design (data minimization principle)
+
+Quantifiable Goals (next 6 months):
+
+-   3+ research institutions piloting the system
+-   100+ anonymous trial enrollments
+-   5+ derivative projects using our ZK circuits
+
+### CONTRIBUTIONS
+
+DASHI enables anonymous clinical trial enrollment through zero-knowledge proofs, protecting participant identities while ensuring data integrity. Our contribution to the privacy ecosystem includes:- Open-source ZK circuits for medical eligibility verification without data exposure - Privacy-preserving smart contracts for on-chain trial enrollment and milestone tracking - Browser extension for encrypted medical vault management (client-side encryption) - Cross-chain anonymous identity system using CREATE2 for deterministic addresses - Soulbound tokens for non-transferable, privacy-respecting health credentialsAll components are MIT licensed and designed for composability, allowing other privacy-focused health projects to build upon our infrastructure.
+
+CONTRIBUTIONS LINKS[Github Repository](https://github.com/edsphinx/veritas-zero-health)

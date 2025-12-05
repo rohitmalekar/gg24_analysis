@@ -1,0 +1,54 @@
+### Nihilium
+
+Infrastructure
+
+Research
+
+[0x8f05Cb...756E5B0F](https://arbiscan.io/address/0x8f05Cbae239fadDAaEc9b2b73AcEFb12756E5B0F)
+
+[nihiliumio](https://x.com/nihiliumio)
+
+[https://nihilium.io](https://nihilium.io/)
+
+Nihilium is building the missing primitive for privacy applications: universal, censorship-resistant key recovery for encrypted-at-rest data. While encrypted apps like Signal and PGP offer mathematical privacy, they fail mainstream adoption because losing your key means permanently losing your data---no "forgot my password" option exists. Nihilium solves this through a unique protocol that allow users to recover access by proving they meet predefined conditions (email ownership, biometric proofs, timelocks), without relying on custodians or requiring complex coordination with friends and family. The system uses zkp's, homomorphic encryption with two-party computation combined with economic incentives and on-chain enforcement to ensure recovery cannot be censored or denied, while keeping the burden of proof entirely on the recovering user. This makes privacy-preserving applications finally accessible to regular users without sacrificing the sovereignty that makes encryption meaningful---turning "technically correct but humanly difficult" privacy tools into practical everyday solutions.To read the full context description on why key recovery is so essential:<https://nihilium.substack.com/p/why-crypto-apps-keep-failing-users>
+
+Current state
+-------------
+
+-   PoC/MVC live on chain.
+-   The protocol works and operates
+-   Can operate with basic unseal conditions including timelocks
+-   Live example application at https://transfer.nihilium.io
+
+The file transfer application show-cases the protocols ability to provide access controls on cryptographic keys. The file transfer encrypts the contents and employs the Nihilium protocol on the decryption key. Whilst most similar applications do access control on the file delivery itself, Nihilium transfer does this through the protocol itself. Allowing for swappable backends including decentralized options like IPFS. Unique about the protocol is it's enforced public element, allowing for the party that sends the file to see if the file has been opened or not. All without central intermediaries/custodians.
+
+Roadmap
+-------
+
+-   Rewrite protocol components in Rust
+-   Open source
+-   SDK
+-   Full technical spec
+-   Fully implement all staking, slashing and payment mechanisms
+-   Implement privacy preserving identity proofs, like ZKEmail and ZKPassport
+-   Unseal conditions builder for developers
+
+### IMPACT STATEMENTS
+
+If successful, Nihilium could fundamentally shift the trade-off between privacy and usability that has kept encrypted/privacy applications marginalized for decades. By solving key recovery without reintroducing centralization and make it censorship free, it removes the primary barrier preventing mainstream adoption of end-to-end encrypted communication, file storage, and identity systems---making privacy the default rather than the exception. For cryptocurrency, it addresses the ongoing crisis of lost funds and poor inheritance planning while maintaining self-custody principles.More broadly, it provides the foundation for a new generation of privacy-first applications that can compete with centralized alternatives on user experience, finally making cryptographic sovereignty accessible to billions of users who currently choose convenience over control because the alternative is simply too risky.Whilst Nihilium was designed specifically to handle key recovery it's applications are much broader as it can be used for many different applications. Read the lite-paper on the website for more information.
+
+### CONTRIBUTIONS
+
+It has not been used outside of the demo application, interested? Contact us!
+
+CONTRIBUTIONS LINKS[Nihilium transfer, secure file transfer](https://transfer.nihilium.io/)[Article: Why crypto apps keep failing normal users.](https://nihilium.substack.com/p/why-crypto-apps-keep-failing-users)[Lite paper](https://www.nihilium.io/Nihilium%20Lite%20Paper.pdf)[LinkTree](https://linktr.ee/nihiliumio)
+
+### PAST GRANTS AND FUNDING
+
+NONE
+
+Other
+
+0
+
+USD

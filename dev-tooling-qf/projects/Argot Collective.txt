@@ -1,0 +1,37 @@
+The Argot Collective is a non-profit, independent research and development group sustaining Ethereum's core programming languages and tooling, most notably Solidity. We provide a stable, long-term home for these projects.
+
+Argot, formed by about 25 former Ethereum Foundation members, is committed to sustaining essential open-source software infrastructure for Ethereum, maintaining principles of transparency and neutrality. By uniting expertise in compilers, formal verification, and language design under one roof, we make smart contract and Ethereum application development simpler, safer, and more resilient.
+
+Our initial focus:
+
+Progamming Languages
+
+Solidity:
+
+As Ethereum's primary smart contract language celebrates its 10th anniversary, Solidity continues balancing innovation with the stability that billions of dollars in smart contracts depend on. The project is currently developing Core Solidity, the next iteration of the language, which will eventually become Solidity 1.0. It will enable rapid feature development while maintaining a lean, stable foundation. We aim to make the verification of contract correctness easier and a more common practice.
+
+Fe:
+
+Fe represents Argot’s experimental, forward-looking language efforts, combining Rust-like syntax with advanced type system features. Its backend, Sonatina, focuses on aggressive optimization to produce high-performance, verifiable EVM bytecode. Together, they aim to provide developers with a toolchain that is expressive, performant, and verifiable.
+
+Developer Tooling
+
+Sourcify: Open-source and decentralized source-code verification service
+
+The project aims to play the coordinator and builder role to create an open, decentralized, and dynamic smart contract verification ecosystem, powered by open-source tools, accessible datasets, and shared standards. Its mission is to strengthen the EVM tooling landscape while upholding Ethereum’s core values of transparency and trustlessness.
+
+Ethdebug: Standardized debug info format for the EVM
+
+The ethdebug format is an emerging standard debug‑info format for smart contracts. It lets compilers emit rich, language‑aware data so debuggers and explorers can map bytecode back to source with precision. Solidity already started implementing this on the write side and two debuggers - RV's Simbolik and Tenderly - are adding read-side support. This opens the door to faster, more confident analysis and auditing by standardizing data via Ethdebug.
+
+Formal Verification
+
+Hevm: Symbolic execution engine for the EVM
+
+Hevm continues to be a cornerstone tool for symbolic execution and testing of Ethereum smart contracts. By uncovering edge cases and enabling rigorous analysis, it plays an essential role in ensuring contract safety. The next phase of work aims to grow its user base, highlight real-world impact, and expand advanced analysis capabilities.
+
+Act: Formal specification language for smart contracts
+
+Act is our formal verification and documentation tool for EVM smart contracts. The current implementation, written in Haskell, has been successfully used to prove end-to-end correctness for standard contracts such as ERC20 tokens and automated market makers (AMMs).
+
+While we expect to both retire and launch new projects in the future, we are fully committed to the long term maintenance and development of Solidity for as long as it is considered useful by the community.

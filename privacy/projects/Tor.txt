@@ -1,0 +1,33 @@
+### Tor
+
+DApps
+
+Infrastructure
+
+[0xe3d34d...0a9C0880](https://arbiscan.io/address/0xe3d34daC159f88Fd2CD38b1380B998000a9C0880)
+
+[torproject](https://x.com/torproject)
+
+[https://torproject.org](https://torproject.org/)
+
+[https://gitlab.torproject.org](https://github.com/https:/gitlab.torproject.org)
+
+Is the internet today the internet you want for future generations? What if instead of for-profit greed, rampant privacy violations, and pervasive government spying, we could have a different relationship with the internet?What if we could FREE THE INTERNET from the chains of surveillance and censorship?At the Tor Project, along with our incredible community of supporters, we're not just imagining a free internet --- we're building it:
+
+-   In countries like Turkmenistan where access to information is tightly controlled, Turkmen.news trusts Tor to provide safe access to the free internet where it once did not exist.
+-   Freedom of the Press Foundation uses Tor as the backbone of SecureDrop, a tool that allows journalists and sources to communicate freely without fear of retaliation or exposure.
+-   In Russia and Egypt, where authorities often block encrypted tools to control communications, individuals use Tor Browser to access encrypted email services like Tuta Mail to freely communicate.
+
+Tor is a building block for a free, private internet, and it takes our collective efforts to improve and amplify it.As a 501(c)3 nonprofit, the Tor Project relies on donations to power its tools -- the Tor network, Tor Browser, Tails OS, and the Tor ecosystem. These tools are trusted by millions and always free to use, without collecting, selling, trading, or renting any of your data for profit.
+
+### IMPACT STATEMENTS
+
+For more than two decades, Tor has provided privacy, security, and anonymity to sites, services, and projects around the world. Today, an ecosystem of applications---from cryptocurrency wallets, chat applications, and file sharing services to email services, news sites, and social media use Tor to offer privacy to their users. At any given moment, more than two million users are connected to Tor.
+
+### CONTRIBUTIONS
+
+-   Academic research: Tor contributes to research on privacy, censorship, and anonymity.
+-   Open source software: Tor contributes privacy, security, and usability improvements to many of the open source components of our tools, like Firefox, the foundation of Tor Browser.
+-   Community: Tor builds community, bringing trainings on Tor, privacy, and digital security to classrooms, organizations, and newsrooms globally.
+
+CONTRIBUTIONS LINKS[Gitlab](https://gitlab.torproject.org/)

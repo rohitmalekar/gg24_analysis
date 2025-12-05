@@ -1,0 +1,52 @@
+Superchain Eco is a platform dedicated to accelerating the adoption and development of the Superchain and the broader Ethereum L2 ecosystem. Our mission is to unite the Superchain and drive its growth through meaningful participation, insightful analytics, and innovative solutions.
+
+
+
+Superchain Index
+
+Our web platform, Superchain.eco, serves as the collective HQ for everything Optimism and Superchain-related. It offers comprehensive resources, including insights into OP Chains, Superchain projects, and contributors within the Optimism Collective. In collaboration with the Optimism team, we proudly launched the Superchain Index—the source of truth for OP Chains' configuration, security, and policy choices.
+
+This index pulls data from the Superchain Registry, offering a definitive source of truth on which chains are part of the ecosystem and any modifications made to them. It provides a unified snapshot of OP Chains, detailing their block space configurations, alignment with the Blockspace Charter, and key security and policy choices. The Superchain Index is a public good that enhances transparency and accessibility for the entire ecosystem.
+
+
+
+
+
+
+
+Ethereum Interop Forum
+
+Together with Optimism, we co organized the Ethereum Interop Forum, the first Ethereum wide gathering focused on advancing interoperability across L2s. The Forum brought together the Ethereum Foundation, leading L2 teams, and wallet providers to align on shared goals and propose technical standards such as ERC 7785 and ERC 7828, aimed at improving onchain configurations and user experience.
+
+
+
+
+
+Super Accounts
+
+To further boost engagement across the Superchain, we developed Super Accounts — Superchain native-smart accounts powered by Safe that allow users to earn Superchain Points for meaningful onchain participation, increase their Superchain Rank, and evolve their Account to unlock special perks, such as access to a weekly Superchain Raffle and discounts in applications. 
+
+
+
+We have also introduced a Giveth donor badge to recognize and reward users who donate through the Giveth platform. This badge is assigned based on donation milestones, with data pulled directly from Giveth to reflect a user’s contributions. The Giveth donor badge currently has four tiers based on donation amounts: $25, $100, $250, and $1,000. As users donate and reach the specific thresholds, they earn badge levels that highlight their impact within the ecosystem. 
+
+
+
+At Superchain Eco, we are committed to fostering an engaged and informed community while driving the growth of the Superchain and Optimism ecosystems.
+
+Milestones (4-6 months)
+
+"""Over the next 4 to 6 months, Superchain Eco will continue strengthening Superchain and Ethereum’s interoperability and transparency through three main deliverables. First, we will expand the Superchain Index by adding more OP Stack chains and metrics, creating a comprehensive and standardized reference for developers, researchers, and governance participants.
+Second, we will prepare and organize future Ethereum Interop related events and provide support to the Ethereum ecosystem in H1 2026 to advance shared standards and coordination among L2s, the Ethereum Foundation, and wallet providers.
+Finally, we will curate and publish new Superchain related dashboards and analytics, including at least one research publication focused on the Open Intent initiative and its development. These artifacts will ensure visibility into cross chain activity and ecosystem growth, supporting the round’s goals of open data, interoperability, and transparent coordination across Ethereum’s scaling"""
+
+Please example how your project meets the round-specific eligibility criteria.
+
+"""Superchain Eco strengthens Ethereum’s multi-chain infrastructure through open analytics, interoperability standards, and collaborative coordination. Our initiatives include the Superchain Index, the Ethereum Interop Forum, and a suite of open analytics dashboards that directly advance the Interop Standards, Infra, and Analytics domain goals.
+All of our data is publicly available through superchain.eco and GitHub. The Superchain Index tracks every chain within the OP Stack ecosystem, publishing open data on configurations, deployments, and metrics such as activity, fees, and TVL. It is actively used by researchers and builders, including L2Beat, which integrates our data on its Superchain Ecosystem page.
+The Ethereum Interop Forum brought together L2 teams, the Ethereum Foundation, and wallet providers to align on shared interoperability goals and inform proposals such as ERC 7785, ERC 7828 and Open Intent related innovation.
+Relevant Links: 
+- https://www.superchain.eco/ 
+-  https://github.com/Superchaineco 
+- https://l2beat.com/ecosystems/superchain?tab=upcoming 
+- https://optimism.mirror.xyz/HEd377IzSD-1IsAM5NSkg6Tu5RkYejcMPw3-bLTEZfQ "

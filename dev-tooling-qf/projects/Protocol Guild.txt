@@ -1,0 +1,22 @@
+Protocol Guild is the leading independent funding org for ~190 Ethereum core protocol contributors.
+
+- this includes client implementors (Besu, Erigon, EthereumJS, Geth, Grandine, Lighthouse, Lodestar, Nethermind, Nimbus, Prysm, Reth, Teku.), research, and support for network upgrades (ie. coordination, testing and devops).
+- Donations vest over 4 years directly to a split, which provides long-term incentives to steward the core protocol. Track all funding on our Dune dashboard.
+- The onchain member registry is curated by the membership and updated each quarter. Peer members doing the work are in the best position to make these assessments according to our eligibility framework.
+
+We fund the people who scale the L1, Scale L2s (blobs) and improve interop UX. Some other work includes:
+
+- Scaling L1 via higher gas limits
+- Scaling L2s via more blobs
+- PoS evolutions including proposer build separation, LMD-GHOST confirmation rules and single slot finality
+- EVM and execution layer improvements: gas repricing, better UX for smart contract devs, state expiry
+- Cryptoeconomic research: multidimensional EIP-1559, POS timing games, prover incentives
+- Zero-knowledge proofs and cryptography research: post quantum, advancements to elliptic curve cryptography
+
+All this work - foundational shared resources - is of extreme importance to the long-term success of Ethereum’s ecosystem, and yet funding for this work has historically come from a select number of entities, which only provide a fraction of the financial incentives compared to other available work (apps, L2s etc.), on a risk-adjusted basis. Our Sept 2025 report ( Compensation Insights for Ethereum Core Developers ) surfaced the fact that core devs pass up 50% of their market value do values-aligned work.
+
+The Guild was created to serve as a counterbalance to this by giving core protocol contributors exposure to the broader ecosystem through things like the 1% Token Pledge. Overall, the Protocol Guild aims to secure the future of Ethereum, by enabling a highly efficient way for its ecosystem and community to sustainably fund core protocol development, while rebalancing incentives for core protocol contributors.
+
+Just as the Ethereum distributed system takes inputs from many actors to produce a unified global state, the production of the underlying software combines efforts from many contributors. There is no single entity which maintains and evolves the protocol on their own.
+
+Protocol Guild reproduces the qualities inherent to the production of a software commons as a funding stream: comprehensively curated, long-term oriented, and equitably distributed. With this tool, the ecosystem can now share the collective responsibility of funding core protocol stewardship.

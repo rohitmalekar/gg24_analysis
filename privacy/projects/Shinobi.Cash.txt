@@ -1,0 +1,119 @@
+### Shinobi.Cash
+
+DApps
+
+Infrastructure
+
+Research
+
+[0xd444aC...2D417abC](https://arbiscan.io/address/0xd444aC8F8B5680a5B655Cf29D4114F3f2D417abC)
+
+[kdsinghsaini](https://x.com/kdsinghsaini)
+
+<https://github.com/shinobi-cash>
+
+[shinobi-cash](https://github.com/shinobi-cash)
+
+Shinobi.cash: Borderless Privacy for a Multi-Chain WorldShinobi.cash is a cross-chain privacy protocol enabling users to deposit on one blockchain and withdraw privately on another --- with full cryptographic unlinkability between deposits and withdrawals.By combining zero-knowledge proofs (ZK-SNARKs) with the Open Intent Framework (OIF), Shinobi.cash treats the entire multi-chain ecosystem as one unified privacy set.Tagline: "Because privacy shouldn't stop at chain boundaries."
+
+* * * * *
+
+The ProblemPublic blockchains expose every transaction, linkable forever to wallet addresses. This leads to:
+
+-   Transaction surveillance and deanonymization risks
+-   Fragmented privacy sets --- privacy isolated per chain
+-   Poor UX for users moving between chains
+
+Existing privacy solutions like Tornado Cash or Privacy Pool work within a single chain, forcing users to either use bridge during cross-chain operations(Bad UX) or maintain separate privacy pools per chain---severely limiting the anonymity set.
+
+* * * * *
+
+Our SolutionZero-Knowledge Cross-Chain Privacy
+
+-   Users deposit on Chain A (e.g., Base) and withdraw privately on Chain B (e.g., Arbitrum).
+-   ZK-SNARKs prove ownership of deposits without revealing identities.
+-   Nullifiers prevent double-spending.
+-   Unified cross-chain pool expands anonymity set across all supported chains.
+
+Decentralized Settlement via OIF
+
+-   OIF enables intent-based, trustless cross-chain settlement:
+-   Intent-based deposits: Solvers compete to fill user intents; verified by oracles.
+-   Intent-based withdrawals: ZK proofs validate ownership; settlement verified by fill oracles.
+-   No centralized relayers or bridges.
+
+Transparency: All intents public --- privacy enforced only through ZK proofs.OIF provides the infrastructure, not privacy itself --- enabling decentralized execution for ZK-based privacy.
+
+* * * * *
+
+Current StatusDeployed & Operational:
+
+-   ✅ Core privacy pool contracts with ZK proof verification
+-   ✅ Cross-chain withdrawal via OIF intents
+-   ✅ Cross-chain deposits via OIF intents
+-   🚧 Dual oracle validation system (intent + fill) - in progress
+-   🚧 Solver network for intent settlement - in progress
+-   🚧 Web interface for deposit/withdrawal operations - in progress
+-   🚧 Testnet deployment (Base Sepolia ↔ Arbitrum Sepolia) - in progress
+
+* * * * *
+
+Roadmap (3-6 Months)Security & Testnet + Mainnet Launch
+
+-   Contract audits + gas optimization
+-   Testnet launch on Arbitrum, Base, Optimism
+
+New Features
+
+-   Stealth Address withdrawals
+-   Cross-asset withdrawals to any supported token
+
+### IMPACT STATEMENTS
+
+1.  Privacy Infrastructure Impact
+
+-   Exponentially larger anonymity sets: First protocol to unify privacy pools across chains (Base, Arbitrum, Optimism, etc.), dramatically increasing privacy guarantees compared to single-chain solutions
+-   Eliminates trusted intermediaries: Demonstrates viable alternative to centralized bridges for cross-chain transfers
+
+1.  OIF Ecosystem Impact
+
+-   Demonstrates OIF for complex, privacy-critical app, not just simple token swaps
+-   Sets reusable patterns (dual-oracle, solver network)
+-   Accelerates adoption through open reference implementation
+
+1.  Ethereum Ecosystem Impact
+
+-   Contributes cross-chain privacy layer to Ethereum
+-   Provides SDKs + contracts for developers
+-   Advances standards for multi-chain privacy interoperability
+
+1.  User Impact
+
+-   Enables private, cross-chain transfers for individuals, DAOs, and organizations
+-   Offers real-world privacy --- for salaries, treasury operations, and donations
+
+### CONTRIBUTIONS
+
+1.  Advancing OIF Adoption & Innovation
+
+-   First major privacy protocol built fully on OIF, demonstrating intent-based settlement for privacy-critical applications
+-   Introduces dual-oracle validation pattern (intent + fill oracles) establishing best practices for secure intent settlement
+-   Open-source reference for intent-based cross-chain applications
+
+1.  Defining Cross-Chain Privacy Standards
+
+-   Unified privacy pool architecture demonstrating how to merge anonymity sets across multiple chains
+-   Novel approach to cross-chain privacy without trusted bridge operators
+
+1.  Expanding Privacy Accessibility
+
+-   Removes technical, economic, and UX barriers
+-   Deposit once --- withdraw privately anywhere
+
+1.  Open Source Public Goods
+
+-   Fully MIT/Apache-2.0 licensed
+-   ZK circuits, intents, and oracles publicly available
+-   Reference contracts for developers building with OIF
+
+CONTRIBUTIONS LINKS[shinobi.cash contracts repo](https://github.com/shinobi-cash/shinobi.cash-contracts)[shinobi.cash mini app](https://github.com/shinobi-cash/shinobi-mini-app)

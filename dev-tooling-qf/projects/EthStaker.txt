@@ -1,0 +1,27 @@
+EthStaker is a 50,000+ person community made up of stakers and whose mission is to support the decentralization of the Beaconchain. Supporting decentralization means that, when possible, we encourage users to solo stake and we support and draw attention to projects that make the solo staking user experience easier. We are a 501(c)(6) nonprofit (awaiting federal status).
+
+Due to technical and financial barriers, solo staking isn’t always a viable option for everyone. Stakers that use a protocol to stake their ETH can still make choices that can directly benefit the health of the chain. The choice of protocol is characterized by a number of factors that apply to the protocol: degree of decentralization, permissionlessness, tokenomics of any liquid staked token, commitment to self-limit, etc. Project alignment can also be gauged by softer measures: communication from the team, willingness to engage with the community, funding of public goods, good faith participation in protocol-level discussions, etc. These are things that we aim to educate the wider Ethereum community about when they go to make a decision on where to stake.
+
+The EthStaker community is a community of people who are passionately interested in this technology developing with as much success as possible. We want to maintain the number of solo stakers by improving their 'quality of life' while also adding new ones where possible. Large monied projects have VC funding and revenue to advocate for their interest - solo stakers don't have this. This is where EthStaker comes in - we advocate for and represent solo stakers in protocol changes, in incentive structures, and in development.
+
+Current initiatives:
+
+- Educational content
+- The Knowledge Base, built by Eridian Alpha and Spacesider, is an EthStaker community effort that we’re proud to support
+- Rhino Review is a biweekly staking updates newsletter that EthStaker supports
+- The EthStaker twitter and youtube channel publishes short videos about once a day to help folks new to the space get their bearings on tooling, guides, developer organizations, and other staking-related resources
+- ethstaker.cc is primarily maintained by an EthStaker community member, hanniabu. The website aims to create a one-stop shop for people looking for a comprehensive place for staking resources and content
+- EthStaker hosts community calls with staking-related projects to help the community engage with them, ask questions, and get answers on how these projects function
+- Live events
+- Devconnect Istanbul Staking Gathering was livestreamed and was 2 days of all things staking. We ran this event at cost.
+- Devconnect Amsterdam Staking Gathering was livestreamed and hosted individual and project speakers, roundtables, and a hackathon.
+- Software that makes solo staking the best choice
+- Wagyu installer by EthStaker: This is in the concept-phase at the moment. It would create a graphical user interface for eth-docker
+- eth-docker by EthStaker: This is a well-documented text user interface that needs better marketing - it is a robust tool that containerizes and automates node setup - we feel that stakers could benefit from more educational content about eth-docker
+- Smoothly: Smoothly is creating a way for solo staking to be competitive with large staking pools that are able to pool MEV rewards and capture more stability in proposal payouts. EthStaker is helping to test their infrastructure and also supporting them through their audit process
+- Decentralization efforts
+- EthStaker assisted ether.fi with their solo staking initiative that aimed to increase the geographic diversity of solo stakers. ether.fi provided ETH and hardware to people in countries underrepresented in staking, helping provide a way for these stakers to earn a portion of staking rewards while also becoming knowledgeable on running a validator
+- EthStaker is a partner with Rocket Pool’s many community-led initiatives to increase the validator set on decentralized smart contracts
+- EthStaker is publishing* a data-driven blog post this month to highlight the available options for large-scale operators to diversify into minority execution clients (not yet public) in an effort to push for execution client diversity
+- Advocacy
+- We're currently running a solo and home staker survey. We'll publish a report and the raw data publicly and use this data to advocate for solo stakers based on their preferences and situations in their own words and also encourage others to do the same.

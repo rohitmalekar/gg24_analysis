@@ -1,0 +1,37 @@
+Introduction
+
+An opensource, private, self-hosted block explorer for EVM chains
+
+Description
+
+Otterscan is the most affordable way for regular people to run a mainnet block explorer locally. Since everything is local, everything is fast, private, and it runs on consumer grade hardware.
+
+It is built on top of Erigon, currently the only ETH client able to run an archive node on consumer grade hardware (syncs in 1 day, takes ~1.8 TB; regular external SSDs do the work).
+
+Otterscan implements some non-standard JSON-RPC methods to extract additional information (e.g. internal ETH transfers) directly from Erigon DB.
+
+Then, we use this data with other public datasets (4bytes, Sourcify) to provide a 100% local block explorer. It is a SPA and requires only an Erigon archive node, no additional middleware (SQL DBs, indexers) is necessary.
+
+It supports open standards like ENS, and widespread sources of info like Chainlink for getting historical price info directly from the archive, no external sources are needed.
+
+Community members have even made it available into a dappnode package.
+
+Problems we are trying to solve
+
+Privacy
+
+No info about your addresses is leaked to third-parties.
+
+Availability
+
+It runs against your node, as long as it has internet connectivity, the service is never down.
+
+Consumer hardware friendly
+
+Most opensource solutions out there have large hardware requirements, making it unaffordable to run it at home.
+
+Expand the API ecosystem
+
+Something simple as getting the transactions from your addresses often requires using a third-party, centralized, closed source indexer.
+
+We solved that problem for Otterscan by exposing that info directly from the node, and everyone can benefit from it.

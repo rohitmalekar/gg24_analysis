@@ -1,0 +1,26 @@
+Help us to build a ~$175 PnP Ethereum full/archive/staking L1 and L2 nodes based on ARM boads that uses only ~10 watts of power to run.
+
+Ethereum on ARM provides a PnP Ubuntu server image for the Rock 5B, Orange Pi 5, Orange Pi 5 plus and NanoPC-T6 that run both Execution and Consensus clients as a Systemd services and automatically turns the device into a full Ethereum EL+CL node or a home staking box.
+
+This is what we've been at these last months:
+
+- Support and include more Ethereum clients. Current list: Geth, Erigon, Besu, Nethermind, Reth, Prysm, Nimbus, Teku, Lodestar and Lighthouse
+- Support to L2 solutions: Optimism, Starknet, Gnosis, Polygon, Arbitrum and Base
+- Testing and releasing an image for the Rock 5B, Orange Pi 5 Plus, Raspberry Pi 5, and NanoPC-T6
+- Documentation update
+- Research and include other blockchain components in the image: Swarm & Status
+- RISC V: Continue to research and try to run an node on this architecture. First working Node on Vision Five 2.
+- EOA-Config: A new GUI to get a node up and running very easily
+- DVT: Distributed validator technology and Liquid Staking
+
+Other info:
+
+We are running a $175 Ethereum stake board device with 4 validators using 10 watts along with 12 validators in Lido CSM module.
+
+Our repository
+
+https://github.com/EOA-Blockchain-Labs/ethereumonarm
+
+Documentation page
+
+https://ethereum-on-arm-documentation.readthedocs.io

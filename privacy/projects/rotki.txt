@@ -1,0 +1,48 @@
+### rotki
+
+DApps
+
+Infrastructure
+
+Education
+
+[0x9531C0...B30B1306](https://arbiscan.io/address/0x9531C059098e3d194fF87FebB587aB07B30B1306)
+
+[rotkiapp](https://x.com/rotkiapp)
+
+<https://rotki.com/>
+
+[rotki](https://github.com/rotki)
+
+rotki is a fully opensource (AGPL) portfolio tracking, accounting & management app that puts users first. Unlike most financial apps, rotki never extracts your data, never locks you into someone else's system, and never monetizes your privacy. It's local-first software: your entire financial history lives on your machine, under your control.
+
+### IMPACT STATEMENTS
+
+rotki has demonstrated real-world impact by proving that user privacy and usability can coexist in financial applications. Thousands of users rely on it to manage their crypto portfolios privately and transparently.It has inspired derivative and companion projects such as buchfink, decodify, and rotki-chrome-extension, which reuse its components to extend privacy-preserving portfolio tracking to browsers and plaintext accounting systems.By sustaining itself through ethical monetization, not data exploitation, rotki sets an example for aligned, privacy-respecting business models in Web3. It has also contributed to public education on financial privacy through talks, blog posts, and community advocacy, advancing the broader narrative that financial transparency should never come at the cost of personal privacy.
+
+### CONTRIBUTIONS
+
+rotki is an open-source, local-first portfolio management and accounting tool that empowers users to track and manage their crypto and traditional assets without ever exposing their financial data to third parties. The project contributes to the privacy ecosyste in two main different ways:
+
+1.  It provides a privacy-preserving alternative to cloud-based portfolio trackers/accounting tools by performing all computation and data storage locally on the user's device.
+2.  It builds and maintains open infrastructure for data sovereignty in finance. rotki's modular EVM decoding, multi-chain integrations (Ethereum, Bitcoin, Substrate, etc.), and fully auditable codebase serve as a foundation for other privacy-conscious tools and researchers who want to analyze blockchain data without relying on centralized APIs or surveillance-based analytics platforms.
+
+CONTRIBUTIONS LINKS[rotki's main repo](https://github.com/rotki/rotki)[batching contract to read info on Gnosis pay](https://gnosis.blockscout.com/address/0x5De882ac4c220f69ADC18Ab242e5F0b834e302A2?tab=read_contract)[A project using rotki to decode EVM data and overlay on top of etherscans](https://github.com/prettyirrelevant/decodify)[a project doing plain text accounting, based on rotki](https://github.com/coinyon/buchfink)[Talk on privacy and aligned apps from rotkis' perspective](https://ethcc.io/archives/aligned-apps-vs-digital-serfdom-the-rotki-perspective)[Explaining how most dapps betray privacy and what we should do to change that](https://www.youtube.com/watch?v=maF8fcdDqfs&t=876s)
+
+### PAST GRANTS AND FUNDING
+
+USER REVENUE (PER MONTH)
+
+Revenue
+
+3500
+
+USD
+
+GIVETH (LAST ROUND)
+
+Governance Fund
+
+300
+
+USD

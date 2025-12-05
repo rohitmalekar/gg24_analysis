@@ -1,0 +1,40 @@
+Who am I?
+
+I am Ronan Sandford, a game developer, building open-source tools to make it easier to build fully on-chain games and applications.
+
+I am keen to explore what is possible with this new technology and help people doing the same.
+
+What do I make?
+
+I build many kind of tools, all open-source, I am also a co-author of various EIP and write some articles on how we could improve the space.
+
+Tools
+
+- hardhat-deploy used by many project in the web3 space to deploy and keep track of contracts
+- clones-with-immutable-args a mechanism to deploy cheap copy of contract that can be customised
+- jolly-roger, a template focused on full decentralisation, that let you build application without any backend
+- ethereum-indexer, a indexer for ethereum smart contract that run in the browser
+- fuzd, a tool to let you execute delayed transaction on behalf of users without knowing their content until execution time
+- missiv a messaging system mainly designed to be embeded in games for asynchronous messaging.
+
+Open-source games
+
+- Ethernal, a infinite onchain dungeon crawler generated and owned by players
+- Conquest.eth, an permissionless and persistent game of diplomacy. Conquest is at its core a very simple game. This aparent simplicity becomes a intricate game of diplomacy as player need to know who their friends are.
+- Stratagems, Stratagems is a persistent world where players act as gods and create islands on an endless sea by imbuing them with one of the spirits (montains, forest, grassland, etc...) and hope to collect the same from the other players. Alliances and betrayal are omnipresent as spirits get summoned into the world. The map thus created is a beginning for new experiences.
+- Duel In the Dark, A game where two players outwit each other to bring about their opponent's downfall while staying hidden. It use Zero Knowledge Proofs to let these game run fairly on an open blockchain.
+- Catacombs, explore the dungeon, battle monsters and collect loot. Collaborate with others to defeat bosses, or race against them to be the first to find rare items.
+- AI United, A Football-like Game where the players in the field are actual bots. Human players can code them, buy them to create a club, or maybe they want to hold shares of the clubs, or even manage the teams. A whole world of football!
+
+Other open-source projects
+
+- Mandalas, fully onchain generative art, also an identicon for ethereum addresses
+- Bleeps, fully onchain sounds, an oscilator implemented in solidity/yul
+
+Articles And EIP:
+
+- Ethereum, the Concept of Gas
+- ERC-1155
+- ERC-2771
+- 3 Proposal For Making Web3 A Better Experience
+-

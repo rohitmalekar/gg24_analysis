@@ -1,0 +1,31 @@
+Over 300 downloads, the most used Stateful Fuzzing Smart Contract Testing Framework!
+
+The Recon Extension allows you to quickly scaffold and run Invariant Testing with Echidna, Medusa and Halmos.
+
+Leveraging the Chimera Framework, the extension makes you write Foundry tests, which can then be run with other specialized tools.
+
+When a property breaks, you can immediately debug it using Foundry, making the best out of all tools.
+
+## Features
+
+The Recon extension is a VS Code extension that streamlines smart contract testing by providing:
+
+- **One-click setup**: Automatically install and configure [Chimera]( https://github.com/Recon-Fuzz/chimera) templates
+
+- **Integrated fuzzing**: Run [Echidna]( https://github.com/crytic/echidna), [Medusa]( https://github.com/crytic/medusa) and [Halmos]( https://github.com/a16z/halmos) directly from VS Code
+
+- **Contract explorer**: Browse and select target contracts and functions
+
+- **Fuzzer integration**: Quick access to fuzzing tools directly through the extension
+
+- **Coverage visualization**: View and analyze code coverage from fuzzers
+
+- **Test generation**: Generate Foundry unit tests from call sequences that break properties found by the fuzzer
+
+- **Log to Foundry Repro converter**: Convert Echidna and Medusa logs to Foundry test reproductions with customizable VM options
+
+- **Link Libraries (Experimental)**: Automatically detect and configure library dependencies for Echidna and Medusa
+
+- **Mock/TargetFunctions generation**: Easily create mock contracts and target functions for testing
+
+- **CodeLens integration**: Run tests and modify function behaviors directly in the editor

@@ -1,0 +1,57 @@
+EAS Pulse is a free, and open-source analytics platform that makes Ethereum Attestation Service (EAS) data comprehensible, transparent, and actionable for everyone – from developers building the next generation of trust infrastructure to analysts tracking ecosystem growth.
+
+🌟 What Makes Us Different
+
+Born from a hackathon project at ETHGlobal’s SuperHack 2024, EAS Pulse has evolved into the analytics backbone for one of Ethereum’s most promising primitives. We are building the data infrastructure that helps the entire EAS ecosystem understand adoption patterns, identify opportunities, and make informed decisions.
+
+📊 Why EAS Pulse Matters
+
+Ethereum Attestation Service represents a paradigm shift in how we establish trust and verify claims. Yet without clear visibility into how attestations are being used across chains and applications, the ecosystem operates in the dark.
+
+EAS Pulse solves this by:
+
+- Visualizing adoption trends across networks and attestors
+- Revealing opportunities
+- Enabling open data reuse, with every query publicly forkable on GitHub and Dune
+- Promoting transparency in projects using EAS (e.g., Coinbase Verifications, Human Passport, and others)
+- Supporting innovation by helping projects understand what’s working and where gaps exist
+
+🚀 Impact & Traction
+
+Since launching, we’ve become a trusted resource for the EAS community:
+
+- 10k+ monthly API calls from developers and analysts
+- 220+ followers on X engaging with our insights
+- 160+ stars on Dune Analytics, demonstrating data analysts' adoption
+- Participated in Gitcoin GG22 Hackathon Alumni and GG23 Developer Tooling rounds
+
+🛠️ What We Offer
+
+Current Features:
+
+- Multi-Chain Coverage: Analytics across Arbitrum, Base, Celo, Ethereum, Linea, Nova, Optimism, Polygon, Scroll, and zkSync Era
+- Temporal Analysis: Daily, weekly, monthly, and quarterly performance tracking
+- Economic Insights: Revenue generation and viability metrics for major attestation projects
+- Flagship Integrations: Deep-dive analytics for Coinbase Verifications, Human Passport, Gitcoin, and more
+- Community-Driven: Open-source Next.js platform with forkable DuneSQL queries
+
+Coming Soon:
+
+- Support for Shape and Ink networks
+- Additional featured attestors and use cases
+- Enhanced filtering and smarter analytics
+- Expanded chart library and optimized queries
+
+🌐 Why You Should Support EAS Pulse
+
+As a public good, we rely entirely on community support.
+
+Your donation directly enables:
+
+- Covering infrastructure costs for robust data access, ensuring platform reliability and data accuracy
+- Building new features, network integrations, and attestation projects requested by the community
+- Improving query performance and user experience
+
+By donating to EAS Pulse, you are also investing in ecosystem growth, open-source values, community empowerment, innovation, and transparency.
+
+EAS Pulse is a community-funded, open-source public good. We don't charge fees, we don't gate data, and we remain committed to serving the entire ecosystem transparently and equitably. Thank you for taking part in this journey!

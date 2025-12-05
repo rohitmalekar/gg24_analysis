@@ -1,0 +1,33 @@
+### Haven
+
+DApps
+
+Infrastructure
+
+[0x547202...55202C3a](https://arbiscan.io/address/0x547202fB75d77CCadF836a02eC68f2B955202C3a)
+
+[Haven_Hn_](https://x.com/Haven_Hn_)
+
+<https://www.haven.hn/>
+
+Haven brings crypto back to its roots: self-custody, privacy, and freedom, now made seamless for real-world spending.With a non-custodial card, users can connect their wallet, set limits, and spend anywhere without moving funds. Every transaction stays private by design, no personal identity ever tied to payments. Assets stay under full control with multisig security, and staking enables yield even while spending.Built for both individuals and businesses, Haven delivers a payment experience that is effortless, borderless, and future-proof, becoming the foundation for private payments across Web3.
+
+### IMPACT STATEMENTS
+
+Haven brings privacy and self-custody to a use case that affects everyone: spending. By enabling private, on-chain payments connected to any wallet, we strengthen the foundation of a more sovereign and censorship-resistant economy. Our infrastructure will empower individuals and builders to create new payment experiences that preserve user freedom while keeping interoperability across all EVM networks.
+
+### CONTRIBUTIONS
+
+Haven contributes to the crypto ecosystem by building the first self-custody and privacy payment layer for the EVM. We're developing an open architecture that allows any wallet or protocol to integrate real-world private payments without exposing user data or requiring custody. This creates a new privacy primitive for Web3, extending Ethereum's values of ownership and freedom to everyday transactions.
+
+CONTRIBUTIONS LINKS[We are currently focused on launching the product next month, while actively contributing to the ecosystem by promoting awareness about privacy, self-custody, and financial sovereignty through our content, events, and community initiatives.](https://x.com/Haven_Hn_)
+
+### PAST GRANTS AND FUNDING
+
+SELF-FUNDED
+
+Other
+
+40000
+
+USD

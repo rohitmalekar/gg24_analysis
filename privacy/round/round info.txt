@@ -1,0 +1,112 @@
+# GG24 Privacy Round
+
+## **1️⃣ About This Round**
+
+Privacy is a human right, essential to human dignity, autonomy, and freedom. Without privacy in the digital age, our individual autonomy, safety, democratic participation and economic freedom is at risk.
+
+The Ethereum ecosystem lacks robust and well-adopted privacy infrastructure. While Ethereum secures billions of dollars, the vast majority of transfers, trades, and votes happen in the open for everyone to see. There are no default privacy features in major Ethereum wallets - privacy roadmaps, such as Vitalik’s [simple L1 privacy roadmap](https://ethereum-magicians.org/t/a-maximally-simple-l1-privacy-roadmap/23459), acknowledge these gaps.
+
+While privacy tooling usually benefits everyone, they can generate little direct revenue. How can we ensure that protocols that aim to improve people’s lives and freedom are properly funded? 
+
+### Basic round info and dates
+
+🔹 Round Operators**:** https://x.com/john_guilding, https://x.com/privoteweb3
+
+🔹 **Apply / Donation / Participation Dates:**
+
+Apply: Oct 14th to Oct 21th
+Donate: Oct 14th to Oct 28th
+Vote: Oct 21th to Oct 28th
+Claim funds: End of Oct (after results are tallied)
+
+**⏱️ Exact times**
+
+💸 Donations start: 00:00 UTC 14th Oct
+
+📝 Applications start: 00:00 UTC 14th Oct
+
+📝 Applications end: 00:00 UTC 21st Oct (**Apply by end of day on the 20th!** 🚨)
+
+🗳️ Voting starts: 00:00 UTC 21st Oct
+
+🗳️ Voting end: 00:00 UTC 29th Oct (**Vote by end of day on the 28th!** 🚨)
+
+💸 Donations end: 00:00 UTC 29th Oct (**Donate by end of day on the 28th!** 🚨)
+
+🔹 **Total Funding Pool:** $145,000
+
+Gitcoin: $100k
+
+PSE: $40k ($25k matching funds. $10k software dev. $5k audit) 
+
+Celo PG: $2.5k
+
+Self: $2.5k
+
+**Total matching pool for projects**: $130k (Total funding minus operating costs)
+
+---
+
+## **2️⃣ Who We’re Funding**
+
+We’re funding a variety of privacy projects and initiatives under four categories:
+
+1. Privacy R&D
+2. Privacy dApps
+3. Privacy infrastructure
+4. Privacy education 
+
+### ✅ **Eligibility Requirements:**
+
+- **Privacy R&D**
+    - A clear description and proof of previous contributions to privacy solutions on Ethereum.
+        - A previous contribution to privacy R&D is:
+            - A research paper published in a scientific journal or open-access archive with concrete application over the industry (e.g. Groth16, KZG, etc)
+            - A written report which covers research undertaken related to privacy (e.g. State of Private Voting 2023, Nouns Private Voting technical report)
+            - PoC/implementation of a novel privacy solution that hasn’t been attempted before, with open source code and documentation (e.g. Zero-Knowledge Wormholes).
+        - The work must be related to Ethereum or Ethereum L2s
+        - Applications can only be made on a project/team level.
+- **Privacy dApps**
+    - Showcase proof, on-chain or on GitHub (or similar), of privacy-preserving elements in the application.
+        - Examples of dApps with privacy preserving elements include:
+            - A wallet with private transactions (e.g. Brume, Umbra)
+            - A private mixer (e.g. Privacy Pools, Veil)
+            - A stealth addresses implementation with UI (e.g: Fluidkey)
+            - A private voting protocol (e.g. Davinci, Shutter Network Shielded voting)
+            - An application that its core feature uses ZK (e.g. ZKP2P, zkEmail, an app that uses Noir)
+            - A digital identity implementation with private features (eg. Human.tech, Zupass)
+            - A private DeFi protocol
+        - This does not include the use of third-party privacy tools/integrations such as a private file sharing service in your company/organisation.
+    - Clearly describe the usage and growth of privacy elements
+    - Articulate the future development and expansion plans.
+- **Privacy Infrastructure**
+    - Showcase proof, on-chain or on GitHub (or similar), of privacy-preserving elements in the application.
+        - Infrastructure with a privacy integrated:
+            - Private compute infrastructure (e.g. Enclave, Shutter Network)
+            - Private messaging infrastructure (e.g. Waku, Status)
+            - Private identity
+            - Private data storage
+    - Clearly describe the usage and growth of privacy features
+    - Articulate the future development and expansion plans.
+- **Privacy education**
+    - Links to resources that help to educate users and developers about new privacy technologies.
+        - A resource that educates or communicates about privacy technologies can include:
+            - Online courses or workshops (e.g. 0xPARC Learning Resources)
+            - Podcasts with proven record (e.g. ZKPodcast)
+            - A website or blog that has articles explaining in-depth privacy content (e.g. PSE blog)
+            - Novel projects building scoring models for privacy (eg. Walletbeat)
+            - Events fostering privacy education (eg. Dev3pack’s “ZK & Privacy bootcamp”, “ZK monk”)
+    - Educational resources need to be constantly updated and maintained
+    - Content creators must have posted at least 10 pieces (e.g. episodes, videos, in-depth explainers, chapters of a book, well-researched blog posts), and/or proof-of-presentation at online or offline events (e.g. talk recordings, deck of slides presented, photos of unfilmed workshops)
+    - Event organizers must show proof of high-quality, rigorous and intentional curation (not sponsored-content/speakers only for the purpose of shilling) and qualify for **one or more of the following criteria**
+        - Recurring 2x already (one instance can be currently in development for later in 2025), with specific strategy for future instances
+        - Have attendance of more than 20 participants
+        - Result in a tangible outcome as documented by research, proof of concept, or other quantifiable “field building”
+        - Generate video documentation of educational content
+    - Events must be grassroots and self/collectively organized – not for the purpose of promoting a specific protocol
+
+---
+
+## **3️⃣ Funding Mechanism**
+
+The funding mechanism is retroactive public goods funding, with funds distributed according to a quadratic voting process. Funds have been initially matched by donations from the EF, Gitcoin, and Celo Public Goods. Donors can participate by transferring WETH to our matching funds contract. The contract will go live from 14th October.

@@ -1,0 +1,45 @@
+### LunarDAO
+
+Infrastructure
+
+Research
+
+Education
+
+[0x5C77d5...B191dA16](https://arbiscan.io/address/0x5C77d5b01C3CC02D7FEA8901CAF3803fB191dA16)
+
+[lunarpunksquad](https://x.com/lunarpunksquad)
+
+<https://lunardao.net/>
+
+[lunardao](https://github.com/lunardao)
+
+LunarDAO is an investment fund based on lunarpunk philosophy. By allocating funds in privacy projects & anonymity tooling we aim to expand freedom and ensure sovereignty. Squad wealth leverages collective strength and capture value in the ecosystem by building a portfolio of privacy assets. Anyone can exit at any time with their funds intact.LunarDAO curates and maintains a wiki covering various privacy topics from digital publications, to private messengers, to using Ethereum privately. LunarDAO members also maintain infrastructure for users of certain privacy networks to benefit from using LunarDAO provided infrastructure.
+
+### IMPACT STATEMENTS
+
+Our goal has been to enable the development of parallel, confederated societies that are diverse and autonomous, yet united in their commitment to mutual protection against the encroachment of centralized authority. We envision a decentralized ecosystem where ideas can flow freely, where education is elevated as a fundamental right, and where individuals can learn, educate, and share knowledge without fear of censorship or reprisal.As for impact, we've helped to grow a digital community online through various social networks including X, telegram, Mastodon, Simplex and coordination of community meetings over anonymous chat called DarkIRC. We've completed two raises for projects that are focused on bringing anonymity technology to the world using Molochv3. We've maintained infrastructure for the DAO on a barebones budget. We've continued to build and add to our wiki resources which helps to educate users across a wide variety of technologies.
+
+### CONTRIBUTIONS
+
+LunarDAO was formed in 2022 to address a need for privacy communities to come together to fund projects and teams that needed support. Many projects and teams that held strong values are left without funding from traditional sources due to a variety of reasons. LunarDAO came together to build squad wealth for all members that are willing to take a risk on privacy projects together.LunarDAO has contributed to: funding of various privacy/anonymity tools host infrastructure for users to use freely created educational resources privacy research holding privacy discussion and X spaces on various evergreen topics help provide support as partners for physical events held across the world
+
+CONTRIBUTIONS LINKS[LunarDAO wiki](https://github.com/lunardao/wiki)[LunarDAO Node Infrastructure](https://wiki.lunardao.net/gateways.html)[LunarDAO Raise II](https://arbiscan.io/address/0xaff8f43727e6cc9aa8e961de0473253d5d607869)[LunarDAO Raise I](https://etherscan.io/address/0x747da68facd1459e9d9b8f928418da30769d3ba1)
+
+### PAST GRANTS AND FUNDING
+
+GITCOIN GRANT 20
+
+Other
+
+4700
+
+USD
+
+MOROS NET
+
+Other
+
+1
+
+ETH

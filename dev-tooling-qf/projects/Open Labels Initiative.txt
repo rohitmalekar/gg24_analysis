@@ -1,0 +1,121 @@
+The Open Labels Initiative tackles the issue of isolated and non-standardized datasets of address labels within the blockchain community. It introduces a flexible, open and community owned framework for anyone to use and contribute to.
+
+By aligning on a single framework for address labels, we avoid redundant work and make it easier to share datasets within the community.
+
+The OLI repository functions as the community maintainer. Additionally, it serves as a neutral entity that provides tooling to get started.
+
+The 3 Pillars of OLI Framework
+
+- 1) Label Schema: We should all speak the same language when it comes to labels. The first step is implementing a unified data model that enables seamless synchronization of labels across different databases and ensures alignment on value sets.
+
+- 2) Label Pool: Sharing labels in a decentralized manner is the next logical step. Using attestations, we've created a pool of raw labels that anyone can contribute to. By consolidating all labels in one place, both labellers and data teams can share their work, reducing redundant work. All attestations will remain permanently accessible, fostering a collaborative, community-driven labeling effort.
+
+- 3) Label Trust: Trust algorithms optimized for specific use cases are applied to the raw labels contributed to the Label Pool. In doing so, raw labels are transformed into valuable, use-case-specific labels—optimized for analytics, security, and beyond.
+
+The three pillars of OLI are designed to build on one another, like stacking Lego blocks. At the base lies the OLI Label Schema, providing the core structure. On top of that comes the Label Pool, which enables broad collaboration and sharing. Finally, the Label Trust layer builds on both to establish confidence and reliability. You don’t need to adopt all three pillars at once, start small and implement only what you need.
+
+Frequently Asked Questions (FAQ)
+
+This sounds great, how can I get started / participate?
+
+Great to hear! To stay updated on the latest happenings, feel free to join our monthly OLI calls. You can also start submitting labels through our frontend or by using one of our bulk attestation scripts. If you’re just interested in reading labels from the label pool, you can access them via a GraphQL endpoints.
+
+Who will submit labels to the OLI Label Pool?
+
+We identified three core user groups among label submitters, which primarily differ in the volume of labels they contribute.
+
+Why should I submit my labels to the OLI label pool?
+
+This is a public, open initiative designed to break down data silos and empower everyone with higher-quality labels. The more people who contribute, the higher the quality of the labels—and the more possibilities they unlock.
+
+While OLI itself will not sponsor participants, we aim to maintain complete transparency about the number of labels contributed by different teams and individuals. This transparency can serve as a qualifying factor for public goods funding rounds such as Gitcoin, Optimism Retro Funding, Octant, and many more.
+
+Why do you use attestations for data entry / label submission?
+
+Attestations are a powerful tool for standardizing data entry while cryptographically verifying who submitted each label. This enables anyone to build robust trust algorithms that boost confidence in the submitted labels.
+
+Can every label in the label pool be blindly trusted?
+
+No. Currently, these labels are raw and haven't undergone any additional trust verification. A straightforward trust layer involves relying solely on labels submitted by verified, whitelisted entities — a process made easy since every label is associated with an attestation. Looking ahead, we plan to develop trust algorithms tailored to specific use cases. All future tools related to this will be made available here.
+
+I want to submit metadata, but I couldn't find a fitting tag in the data model. What should I do?
+
+Great! Simply open a pull request to our tag_definitions.yml file in this repository and include an explanation for why this tag should be added to OLI. We'll periodically review all new tags and incorporate them into the schema.
+
+How can I access the labels in the OLI Label Pool?
+
+There are multiple ways to access all labels in the OLI Label Pool, please see tooling documentation.
+
+Team experience
+
+Matthias Seidl is Managing Director and Co-Founder of growthepie, an analytics platform that makes the Ethereum ecosystem more transparent by providing in-depth insights into adoption, usage, and economics. With over a decade of experience in data analysis and product development, he combines strong technical expertise with entrepreneurial leadership. He has led distributed teams, built scalable data pipelines, and collaborated with leading projects and institutions in the Ethereum ecosystem. Previous to his work at growthepie, he worked as Head of Crypto Data at FJ Labs and supported the spin-out of a liquid crypto fund as CTO.
+
+Technical Skills
+
+Programming & Data: Python, SQL, Pandas, Web3.py
+
+Data Engineering: Airflow, ETL pipelines, Redis, Postgres/Google Big Query, Parquet
+
+Infrastructure & Cloud: Google Cloud Platform (Cloud Run, Cloud SQL, Memorystore, Cloud Build), AWS (S3, CloudFront), Vercel (Next.js)
+
+Blockchain: EVM, contract data analysis, gas fee modeling, transaction tracing
+
+https://github.com/mseidlx
+
+Lorenz Lehmann is Research Lead at growthepie, where he combines expertise in data analysis with a deep understanding of EVM architecture to drive research and insights in the Ethereum ecosystem. With a degree in chemical engineering from RWTH Aachen & Tsinghua University and over five years of data experience, Lorenz has built and led teams, contributed to open-source projects such as Dune Spellbook and DeFiLlama, and published web3 data dashboards that have been featured in leading news outlets. Before joining growthepie, he founded the Aachen Blockchain Club, a student organization dedicated to blockchain innovation.
+
+Technical Skills
+
+Programming & Data: Python, SQL, pandas, web3.py, TypeScript
+
+Blockchain & Web3: Solidity, EVM, smart contract analytics, on-chain data extraction
+
+Open Source & Analytics: Dune Spellbook, DeFiLlama, dashboard creation, community collaboration
+
+Research & Leadership: Team building, technical writing, cross-disciplinary project management
+
+You can view Lorenz’s open-source work and repositories here:
+
+https://github.com/lorenz234
+
+Ahoura is a graduate of FH Aachen and a former president of the Aachen Blockchain Club. As a core team member of growthepie, he has played a pivotal role in making blockchain data more accessible and actionable. Ahoura’s journey began with social media management and content writing, but quickly evolved as he gained technical expertise by winning Celestia’s Mammothon with PrivaCT and multiple multi-chain hackathons. Over the past two years at growthepie, he has specialized in smart contract labeling, developer relations, and strategic partnerships. He is responsible for maintaining growthepie’s extensive smart contract label database, which powers the Blockspace and Applications pages, and actively contributes to UI/UX improvements for OLI’s frontend.
+
+Technical Skills
+
+Programming & Data: JavaScript, Python, Solidity, SQL
+
+Frontend & UI/UX: React, Next.js, Tailwind CSS
+
+Blockchain & Web3: EVM, web3.js, smart contract integration, contract labeling, multi-chain analytics
+
+Data & Integration: ETL workflows, database management, API integration
+
+Developer Relations: Documentation, technical content, community support, partnership enablement.
+
+https://github.com/Aghostraa
+
+Contributors and Funding
+
+- growthepie: Ethereum & Layer 2 analytics platform with focus on labeling smart contracts in terms of their usage and project owners.
+
+Sponsors and funding
+
+The Ethereum Foundation funded this effort as part of the Data Collection Grants. This standardized data structure was part of their wish list and other foundations and data teams also expressed interest in the past.
+
+Furthermore, there are 2 ongoing grants from ESP and Arbitrum Questbook.
+
+Other Supporters
+
+Individuals or data teams that are involved in active feedback for this initiative and/or opened up their labeled databases.
+
+- walletlabels: Wallet labeling platform with focus on labels for Ethereum as well as social labels / labeling of EOAs.
+- Carl Cervone & Raymond Cheng | Open Source Observer
+- Hildobby | Dragonfly
+- Michael Silberling | OP Labs
+- Storm & Samczsun | Paradigm
+- Simon Brown | Consensys
+- Ethereum Attestation Service
+- Blockscout
+- Guild
+- sourcify.eth
+- Enscribe

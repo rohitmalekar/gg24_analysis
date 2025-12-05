@@ -1,0 +1,57 @@
+TL;DR
+
+DeVouch brings trust to Web3 funding by letting verified ecosystem members vouch for or flag projects through onchain attestations, building transparent, community-driven reputations that help funders back credible builders. devouch.xyz
+
+🧩 Problem
+
+In the Web3 ecosystem, hundreds of projects compete for grants and donations, but assessing their credibility is difficult.
+
+Platform, Grantors and donors struggle to assess the impact of projects and grantees, leaving funders uncertain and genuine builders undervalued.
+
+Without transparent, verifiable reputation, trust remains fragmented and inefficient.
+
+🔐 Solution
+
+DeVouch is a decentralized reputation infrastructure built on the Ethereum Attestation Service (EAS).
+
+It lets trusted community members, such as Optimism delegates, badgeholders, Giveth and DAOs, vouch for or flag projects through on-chain attestations, creating an open and verifiable layer of reputation.
+
+🔍 What You Can Do
+
+- Vouch for credible projects.
+
+- Flag questionable ones.
+
+- Explore reputations aggregated across Gitcoin (now deprecated), Giveth, Optimism Retro Funding and Garden communities.
+
+- Fund confidently, guided by transparent social proof.
+
+DeVouch’s open-source backend can be integrated into any grants or crowdfunding platform, while its front end serves as a reference interface.
+
+👥 Who Benefits
+
+- Funders & Grant Programs: Gain clarity on which projects are trusted by the community.
+
+- Builders & Teams: Earn visible, verifiable credibility through endorsements.
+
+- Communities & Contributors: Participate in transparent, decentralized evaluation that rewards genuine impact.
+
+DeVouch acts as a public library of Web3 projects, enriched with attestations from reputable ecosystem members.
+
+🌍 Why It Matters
+
+DeVouch transforms how trust is built in Web3 funding.
+
+By combining open data, verifiable attestations, and interoperable standards, it boosts accountability.
+
+DeVouch has already been adopted by Gitcoin, Giveth, and Optimism,
+
+🔗 Key links
+
+Website: https://devouch.xyz
+
+Twitter (X): @Devouchxyz
+
+GitHub repos: https://github.com/Giveth/DeVouch-BE and https://github.com/Giveth/DeVouch-FE
+
+Docs: https://docs.giveth.io/devouch

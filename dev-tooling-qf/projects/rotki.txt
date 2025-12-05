@@ -1,0 +1,29 @@
+rotki is a fully opensource (AGPL) portfolio tracking, accounting & management app that puts users first. Unlike most financial apps, rotki never extracts your data, never locks you into someone else’s system, and never monetizes your privacy. It’s local-first software: your entire financial history lives on your machine, under your control.
+
+In a world where most crypto apps are cloud-based and data-hungry, rotki is different. It’s an aligned app, built to serve its users, not exploit them.
+
+Why rotki matters
+
+Crypto is spread across centralized exchanges, multiple chains, and countless protocols. The result: a chaotic mess of wallets, trades, and balances. rotki brings clarity and control:
+
+- Unified portfolio view across exchanges, blockchains, and DeFi protocols.
+- Historical insight into your entire crypto journey: profits, losses, and positions.
+- Accounting & reporting tools that help you share results with an accountant without ever giving up your private data.
+- Privacy by design: no trackers, no hidden APIs, no accounts in someone else’s database.
+
+Where we’re going
+
+rotki is already the most advanced local-first portfolio manager, but the vision is much bigger:
+
+- More supported protocols, chains, and integrations.
+- Smarter search, filtering, and analytics.
+- Portfolio management features that let users act, not just observe.
+- Continued innovation around privacy-preserving, user-aligned financial tools.
+
+Why support matters
+
+Because rotki refuses to monetize users through ads, lock-ins, or surveillance, we rely on community funding to keep the project alive. Donations directly support development, maintenance, and new features ensuring rotki remains independent, transparent, and aligned with its users.
+
+By supporting rotki, you’re not just funding one app. You’re helping prove that aligned apps can survive and thrive: software that empowers people without exploiting them.
+
+Donate today and help us build a healthier digital future for finance.

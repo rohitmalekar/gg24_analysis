@@ -1,0 +1,32 @@
+### Incendia
+
+Research
+
+DApps
+
+Infrastructure
+
+[0xD4F6DC...7Ed4E818](https://arbiscan.io/address/0xD4F6DC3Ac7AfD370544F307f4A53D6f77Ed4E818)
+
+[burn2vote](https://x.com/burn2vote)
+
+<https://www.incendia.tech/>
+
+[incendia-tech](https://github.com/incendia-tech)
+
+Incendia introduces a new cryptographic primitive for private and verifiable participation on public blockchains. It leverages private proof-of-burn as a privacy-preserving commitment mechanism, allowing users to convert cryptocurrency into unforgeable, unlinkable proofs of eligibility. Unlike existing systems based on heavy cryptographic tallying (e.g., FHE or MPC), Incendia achieves coercion resistance and Sybil protection without trusted intermediaries or off-chain coordination.Each participant publicly burns a token and privately generates a zero-knowledge proof attesting to a valid burn. This proof can be verified on-chain without revealing who participated or how they acted. The result is a simple, verifiable, and censorship-resistant foundation for anonymous governance, voting, and resource allocation.By integrating with Ethereum and any EVM-based blockchain, Incendia enables scalable, low-cost deployments for DAOs and decentralized communities. Its formal guarantees of soundness and coercion resistance (analyzed in [ePrint 2025/1022](https://eprint.iacr.org/2025/1022)) make it a practical step toward truly private participation in open networks---where trust is minimized, and privacy is preserved by design.
+
+### IMPACT STATEMENTS
+
+Incendia provides a path to trust-minimized, censorship-resistant governance in public blockchain ecosystems. By using irreversible burns instead of deposits or custodial pools, it eliminates the risk of seizure or tracking that affects privacy systems like Tornado Cash.The protocol enables DAOs and open communities to run anonymous yet verifiable voting and allocation processes at low gas cost, supporting fair coordination without revealing who participated.Its impact extends beyond governance---Incendia establishes proof-of-burn as a general primitive for private eligibility, reputation, and access control, advancing practical privacy in decentralized systems.
+
+### CONTRIBUTIONS
+
+Incendia contributes a new privacy-preserving primitive for verifiable participation based on Private Proof-of-Burn (P-PoB). It replaces traditional identity or stake-based mechanisms with burn-based commitments, verified via succinct zero-knowledge proofs. This allows any Ethereum user to prove eligibility or participation without exposing identity, wallet history, or vote content.The project delivers:
+
+-   A formally analyzed ZK construction ([ePrint 2025/1022](https://eprint.iacr.org/2025/1022)) proving soundness and coercion resistance.
+-   A working fully on-chain contract system for EVM blockchains.
+-   All ZK circuits, contracts and developments are licensed under MIT
+-   A minimal, composable framework for anonymous DAO governance and Sybil-resistant coordination.
+
+CONTRIBUTIONS LINKS[Github Repo](https://github.com/zero-savvy/burn-to-vote)[Website](https://www.incendia.tech/)[LinkedIn](https://www.linkedin.com/company/burn2vote/)[Sepolia Testnet](https://sepolia.etherscan.io/address/0xbf36ae91d220ca3f387ee63979eb433ed9b1d0be#code)

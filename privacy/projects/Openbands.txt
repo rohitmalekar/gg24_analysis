@@ -1,0 +1,84 @@
+### Openbands
+
+DApps
+
+[0x80bD90...1101F506](https://arbiscan.io/address/0x80bD9086Bc803140eD7fC738DB3Ee1441101F506)
+
+[OpenbandsXYZ](https://x.com/OpenbandsXYZ)
+
+<https://www.openbands.xyz/>
+
+[openbandsxyz](https://github.com/openbandsxyz)
+
+Openbands is an anonymous, proof-of-membership forum where users prove real-world attributes, such as nationality, age, company affiliation, GitHub activity, bank balance, etc. to gain access to verified communities of people who share the same traits.Think of it as Reddit with authentic communities: you can only join a group if you truly belong there.\
+For example, only verified U.S. citizens can access the U.S. community, and only verified employees of a company can access their company's discussion space.This approach enables genuine, human interaction while eliminating bots, fakes, and misinformation.\
+We see this as an urgent need in an era dominated by AI-generated content.Openbands is part of the Self Protocol ZK residency, and our goal for the residency is to enable nationality-based communities by proving and verifying passport credentials.
+
+### IMPACT STATEMENTS
+
+When users remain private, trust might collapse under the weight of bots, fakes, and misinformation.\
+When platforms demand trust, privacy disappears through exposure, surveillance, and data leaks.Considering the fast growth of AI, the scale of the problem is growing fast.
+
+-   In the first half of 2025 alone, Meta removed over 10 million fake profiles.\
+    (Source: [Meta Creators Blog](https://creators.facebook.com/blog/combating-unoriginal-content))
+-   Over 16 billion credentials were exposed in data breaches in June 2025.\
+    (Source: [Cybernews](https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak))
+-   Malicious bots now account for 37% of all internet traffic, marking the sixth consecutive year of rising automated activity.\
+    These numbers highlight how fragile online authenticity has become.\
+    (Source: [Thales Group](https://cpl.thalesgroup.com/about-us/newsroom/2025-imperva-bad-bot-report-ai-internet-traffic))
+
+Openbands addresses this imbalance.
+
+* * * * *
+
+VisionThe grand vision for Openbands is to enable communities where verifiability and privacy coexist.\
+One trusted place with verifiable human presence, not blind faith, surveillance, or data exposure.
+
+### CONTRIBUTIONS
+
+Our MVP [app.openbands.xyz](https://app.openbands.xyz/) is live, and users can prove their company affiliation via their work email. After successful verification, users are able to create posts and write about their company culture, policies, layoffs, pay, etc.We are early adopters of zkEmail and Aztec's zkJWT repo, and our code is open-source.
+
+* * * * *
+
+Technical context
+
+-   Openbands MVP uses ZK proofs of JWT obtained from Google after a user signs in with their company account.
+-   After signing in, Google returns a JWT, which contains information about the user with a digital signature from Google.\
+    JWT is a string with the structure `$headers` `$payload` `$signature`, and anyone can verify the authenticity of the data by verifying the JWT signature with Google's public key.
+-   We have built a circuit in Noir that verifies RSA signatures of JWT using Google's public key.\
+    We extract the domain from the email claim within the `$payload`. Therefore, only `domain` and `JWT public key` are public inputs/outputs.
+-   The proof is generated in the user's browser and client-side, meaning no data ever leaves the user's device.
+-   After proof generation, the user can send the proof to our on-chain verifier and convince that the message was sent by someone within an organization.
+
+* * * * *
+
+Onchain contracts
+
+-   Honk verifier: https://basescan.org/address/0x8Cda51EBA880183C5F4174b553b1C7ea175c7a90
+-   ZkJwtProofVerifier: https://basescan.org/address/0x0bC7F66F9b76eA37Ae37e3965E866bDeD8b2824C
+-   ZkJwtProofManager: https://basescan.org/address/0x9218D30c18e2342BA5A1661E95a8B2BFeD6911e2
+
+* * * * *
+
+Future plansProof composability: We are exploring proof composability with recursion in Noir.\
+Our aim is to combine different proofs with different constraints into a single proof.\
+So instead of the user proving two proofs separately (e.g. nationality and company affiliation), we can combine the zkPassport and zkJWT proofs into a single proof.\
+This improves user experience AND unlocks new technical capabilities.zkMopro: Deploy a mobile app on iOS and Android.Semaphore: Explore Semaphore in Noir for anonymizing wallet addresses for the groups people are in.zkPDF: zkPDF is an interesting solution to let users prove their bank balance or salary from a specific company without disclosing sensitive information. We want users to be able to verify the digital signatures of a PDF to confirm the document is authentic and signed by a trusted source.In addition to proving real-world attestations as mentioned above, we aim to expand anonymity sets for Web3.\
+These can include:
+
+-   Proof of ERC20 balance
+-   Proof of NFT ownership
+
+This allows Web3 projects to engage with token holders within token-gated communities.
+
+CONTRIBUTIONS LINKS[Noirhack Submission](https://github.com/Openbandsxyz/OpenBands-Noirhack-Submission)[App deployed on Base Network (including Miniapp on Base and Farcaster)](https://github.com/Openbandsxyz/Openbands-Miniapp)[Openbands MiniApp - ZK circuit and Smart Contract](https://github.com/masaun/Openbands-Miniapp_ZK-circuit_and_contracts)[Honk verifier](https://basescan.org/address/0x8Cda51EBA880183C5F4174b553b1C7ea175c7a90)[ZkJwtProofVerifier](https://basescan.org/address/0x0bC7F66F9b76eA37Ae37e3965E866bDeD8b2824C)[ZkJwtProofManager](https://basescan.org/address/0x9218D30c18e2342BA5A1661E95a8B2BFeD6911e2)
+
+### PAST GRANTS AND FUNDING
+
+AZTEC NOIRHACK 1ST PLACE
+
+Other
+
+10000
+
+USD

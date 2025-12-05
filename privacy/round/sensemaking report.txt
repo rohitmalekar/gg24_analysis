@@ -1,0 +1,45 @@
+Note: This is a late submission for inclusion in the GG24 Domain and Gitcoin match. While initial traction was slow, momentum picked up quickly after the Snapshot vote, and we have now secured over $40K in firm commitments, along with additional interest from key stakeholders. We kindly request that Gitcoin review and include this Domain in GG24.
+
+The Privacy Domain funds solutions that directly improve privacy infrastructure and privacy-preserving identity solutions on Ethereum, aiming to make private, secure, and user-controlled identity a default feature of onchain life.
+
+Domains are the vehicles through which trusted and experienced stewards manage capital within clearly defined areas to solve Ethereum’s Biggest problems 1 per Gitcoin’s 3.* vision 1. GG24 1 is the first Gitcoin Grant round to utilize Dedicated Domains as allocation managers and will take place in October 2025.
+
+Privacy
+
+This domain leverages the expertise of the MACI, Web3Privacy Now, and Privote teams — all deeply familiar with privacy-preserving voting and Ethereum public goods funding — to curate and operate a focused Retro rewards round that accelerates the development and adoption of privacy infrastructure in onchain solutions.
+
+Programs	Description	Lead(s)	Target Budget
+A. Privacy Builder Retro	The Privacy Builder Retro will allocate retroactive grants to initiatives that have proven to meaningfully contribute to the development and adoption of Privacy solutions on Ethereum, with a specific focus on applications built using Noir or leveraging ZK privacy solutions.	John Guilding, Sov	$150,000
+TOTAL			$150,000
+Current Funds Raised: PSE, CeloPG			$40,000
+Anticipated Gitcoin Match			$100,000
+Fund to be Raised			$10,000
+Program Operations and Domain Governance: The Privacy Domain is stewarded by John Guilding (MACI) with close input from leading Ethereum privacy stakeholders, including the Privacy Stewards of Ethereum, a research and development lab that delivers privacy to the Ethereum ecosystem. Web3Privacy Now, a grassroots privacy advocacy group with strong domain knowledge of the privacy ecosystem, will help with campaigning for the round.
+
+In line with the emerging Fair Fees discourse 1, approximately 10% of the Domain budget will be used to cover operations, communications, fundraising, software, and admin costs.
+
+A. Privacy Builder Retro
+
+The Privacy Builder Retro will allocate retroactive grants to initiatives that have proven to meaningfully contribute to the development and adoption of Privacy solutions on Ethereum, with a specific focus on applications built using Noir or leveraging ZK privacy solutions.
+
+Matching Pool Aim: ~$125K post fees
+Round Operators: John Guilding (MACI), Sov (Gitcoin)
+Potential Council: A representative council of Privacy experts consisting of 8-12 individuals
+
+Key Criteria:
+
+To be eligible to join the Privacy Builder round, an application has to fit in one of the following two categories:
+
+Privacy R&D
+A clear description and proof of previous contributions to Privacy solutions on Ethereum.
+Applications can only be made on a project/team level.
+Privacy dApps
+Showcase onchain and GitHub proof of privacy-preserving elements in the application.
+Clearly describe the usage and growth of privacy elements/
+Articulate the future development and expansion plans.
+GG24 Round Mechanism
+
+The Privacy Builder Retro round will leverage the following tools to review and allocate rewards in a privacy-preserving and efficient manner:
+
+Privacy Preserving Retro Voting via Privote (link 15) will provide the initial entry point for applicants and serve as the first step in validation and support.
+Quadratic retro voting is used to count for votes. Each voter has the same amount of voting power; however, allocated points are counted quadratically

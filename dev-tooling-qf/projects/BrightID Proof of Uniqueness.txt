@@ -1,0 +1,37 @@
+Introduction
+
+BrightID exists to provide a decentralized way to prove that every person has only one account. It gives each user a unique identifier that can be recovered with the help of trusted friends, enabling truly soulbound accounts.
+
+As it becomes harder to tell humans apart from AI using traditional tools like captchas, BrightID will play a vital role in proving human uniqueness and help expand Ethereum adoption beyond financial use cases.
+
+By building on preexisting trust relationships among peers, BrightID ensures privacy through its guiding principle: share nothing that isn’t already known. This peer-to-peer foundation makes BrightID the privacy-safe, trust-based alternative for verifying human uniqueness in a digital world.
+
+BrightID Impact
+
+- 100,000 verified unique humans
+- 1,000 Aura players
+
+These two numbers define our progress so far. While growth in the first metric (verified humans in the Ethereum ecosystem) has slowed, we’re focused on making BrightID simple enough for mainstream adoption—bringing trusted verification to a wider range of apps.
+
+To reach global scale, we need more decentralized notaries (Aura players). Reaching a critical mass is key to the system’s self-sustaining growth.
+
+Aura Verified
+
+The new “Aura Verified” system makes integration easier for developers and use smoother for users. Soon, hundreds of projects will use BrightID and Aura behind the scenes to protect against Sybil attacks.
+
+Aura verification relies on an open, decentralized network of Aura players who validate one another as well as users seeking unique verification. The vision: everyone verified by someone they personally know.
+
+To achieve this, we aim for about 1% of the world’s population to become Aura players.
+
+Learn more at https://brightid.gitbook.io/aura
+
+Roadmap
+
+Our six-month roadmap focuses on these core initiatives:
+
+- Migrate the node coordination layer from IDChain to Status L2 for better decentralization and long-term resilience.
+- Launch the Aura Verified web component and web app, making integration as easy as adding an HTML tag and logging in with Ethereum or email.
+- Develop the Aura Dashboard, enabling apps to configure BrightID/Aura protection through a self-service interface.
+- Upgrade the BrightID mobile app to display and use the latest Aura score and level structures.
+- Speed up verification times from 20 minutes to under 5 by decoupling Aura verification from older seed/meet steps.
+- Strengthen node software and encourage participating apps to operate their own nodes, enhancing decentralization.

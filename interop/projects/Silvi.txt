@@ -1,0 +1,109 @@
+One-liner: Open-source standards and infrastructure for verifiable, on-chain tree knowledge and reforestation intents, enabling Ethereum to program ecological data at planetary scale.
+
+
+
+Introduction to Silvi: Building the Interoperable Reforestation Primitive
+
+Silvi is a reforestation coordination platform that develops financial, MRV (Monitoring, Reporting, Verification), and coordination tools to contribute to global targets like planting a trillion trees. At its core, Silvi is pioneering an interoperable reforestation primitive—a set of EAS (Ethereum Attestation Service) schemas extending Hypercerts v2, integrated with Allo for intent-based funding and STAC/IPFS for geospatial evidence. This primitive standardizes impact claims (e.g., tree planting, survival milestones) with fields like species_fit, geospatial_zone, and payout_logic, allowing seamless cross-chain coordination via the Open Intents Framework (OIF).
+
+For example, Silvi's TreeForwards are fractional, intent-based bonds on Celo that escrow funds in Allo pools and release them upon verified milestones, attested on EAS for transparency. The Silvi App (in open beta) enables per-tree MRV with geotagged evidence, while batch accounting scales management across portfolios. Through partnerships like BioFi and the Climate Coordination Network, Silvi is piloting this primitive in Bioregional Reforestation Campaigns across 9 regions (e.g., Kenya's Kakamega Forest, Brazil's Mata Atlântica), with $100K+ in crowdfunded pools via Gitcoin/Ma Earth. This creates a public good: a modular, OIF-aligned standard that other platforms can adopt for intent-driven ecological funding, closing silos in fragmented reforestation efforts. We have been supported by various grants which can be tracked on Karma
+
+
+
+
+
+
+
+Treekipedia: The On-Chain Tree Knowledge Engine
+
+The bulk of this grant will focus on advancing Treekipedia, an on-chain, AI-centric tree knowledge engine. Treekipedia transforms fragmented ecological data into a unified, verifiable knowledge graph, attested on Ethereum for programmable use in smart contracts and AI-driven analysis.
+
+Problem
+
+Ecological data—especially on trees—is scattered across siloed databases, lacking consistent schemas, provenance, and machine-readability. This hinders programmable applications: smart contracts can't reliably reference species traits, native ranges, or climate tolerances for automated decisions like funding releases or impact verification. In reforestation, mismatched species lead to high failure rates (up to 90% in some projects), while opaque data environmental/climate action amid escalating deforestation (10 million hectares lost annually). Crypto's potential for transparent, incentive-aligned systems is underutilized here, as ecological datasets aren't on-chain or interoperable and yet legacy players like UN, Verra and Deloitte and moving on-chain. The future of ecological coordination required deep, high resolution and automated context. We're building that layer for one of the most important asset classes preserve - trees.
+
+
+
+This round on interoperability will focus to advance Treekipedia and make it more useable by the ethereal community. Treekipedia has already achieved significant milestones since its launch in March 2025, following a year of development. It features a robust, living knowledge graph built on over 100 million verified species occurrence records, encompassing more than 67,000 unique tree species with over 100 million validated observational records organized in a multidimensional ontology. Powered by a hybrid architecture of Apache Jena for semantic querying and PostGIS for geospatial analysis and IPFS for research and insight architecture, it includes autonomous AI research agents for continuous data extraction and synthesis, decentralized attestation via Ethereum Attestation Service (EAS) and IPFS for tamper-resistant provenance, and an on-demand species recommendation engine that analyzes user-defined land areas (via KML or polygons) to deliver ranked portfolios of suitable native species with compatibility scores. Integrated with Google Earth Engine for planetary-scale data processing, Treekipedia is actively powering real-world applications like the Bioregional Reforestation Campaigns and is in Phase 1 of developing ecological embeddings for enhanced semantic search and AI-driven insights.
+
+
+
+
+
+Solution (what we’ll ship in 4 months)
+
+Treekipedia Open Schema v1 (EAS-Attested Standards)A public, versioned schema for tree knowledge: taxonomy, traits (e.g., soil/climate tolerances), native ranges (GeoJSON), habitat signals, and citations.
+Published as JSON Schema with CSV/Parquet dictionaries; attested on EAS for immutability and provenance.
+OIF-aligned extensions: Fields for intent-based logic (e.g., compatibility_score for conditional payouts). Design principle: Minimalist and modular for easy adoption by MRV tools, carbon registries, and DeFi protocols.
+Verifiable Tree Knowledge Datasets → IPFS + EAS Attestations. Normalize 100M+ occurrence records from sources like GBIF/iNaturalist into the schema, enriched with AI embeddings for semantic search.
+Monthly releases pinned to IPFS, with EAS attestations including schemaVersion, ipfsCID, recordCount, sourcesHash, and timestamp. Mutable via supersedes for updates (e.g., climate projections).
+Covers 67K+ species/subspecies; one master EAS schema for releases, enabling smart contracts to query verifiable data (e.g., "If species_fit > 80%, release funds").
+Public REST API v1 (OpenAPI 3.0, JSON)Endpoints:
+GET /api/species/search?name={query} — Fuzzy search by name/traits.
+GET /api/species/{taxonId} — Full record with on-chain provenance.
+POST /api/recommendations — Input: GeoJSON polygon + constraints; output: Ranked natives with fit scores and OIF intent templates.
+GET /api/analytics/{releaseId} — Dashboards tracking usage, species trends, and climate impacts.
+GET /api/attestations/{easUID} — Metadata with cross-chain mirrors.
+Why this matters: Provides a clean interface for Ethereum apps to integrate ecological data, powering intents like automated reforestation funding.
+
+
+Why This Is Important and Not Niche
+
+Treekipedia's on-chain knowledge engine addresses a critical gap in climate action: making ecological data programmable for real-world impact. Deforestation contributes 12-15% of global emissions, yet reforestation could sequester 1/3-1/2 of surplus CO2 while reversing the ecological collapse of our planet. Fragmented data silos slow this: Practitioners waste time reconciling sources, leading to inefficient projects and untrusted claims. On-chain graphs connect this data, enabling transparency in supply chains (e.g., verifying sustainable wood), incentivizing actions via tokens (e.g., ReFi rewards for planting), and uncovering risks like climate vulnerabilities.
+
+
+
+This is a massively scalable use case for crypto: Reforestation markets could reach $100B+ by 2030, with blockchain unlocking capital through verifiable uplifts, offsets and tokenized assets. Ethereum is uniquely positioned to lead: Its programmability enables hybrid smart contracts for regenerative incentives, EAS for attestations, and initiatives like the Ethereum Climate Platform (ECP) for science-based mitigation. As a neutral, open ecosystem, Ethereum can bridge silos, fostering a "digital oil" for ecological economies valued at trillions. This isn't niche—it's crypto's path to mainstream relevance in solving humanity's biggest problem: ecological collapse.
+
+Where we anchor on-chain
+
+Chain: Mostly Celo, but with integrations across Arbitrum, Polgyon and Optimism
+EAS: Deploy schemas; attest datasets and recommendations for verifiable queries.
+IPFS/STAC: Pin data with CIDs in EAS for tamper-proof access.
+OIF/Allo Integration: Intents for programmable logic (e.g., "Fund if species is native-verified").
+Users & integrations
+
+Users: Developers building ReFi apps, reforestation teams, climate DAOs, Bioregional Facilities
+Integrations: SilviApp, Bioregional Campaigns
+Milestones & timeline (4 months to February 2026)
+
+Weeks 1–4: Schema v1 deployed; EAS setup; API scaffold.
+Weeks 5–8: Ingestion pipeline; Release #1 attested.
+Weeks 9–12: Recommendations endpoint; OIF pilots; Release #2.
+Weeks 13–16: Analytics; docs; integrator onboarding.
+KPIs (by February 2026)
+
+3 releases covering 67K+ species.
+99% API uptime; 1K+ queries.
+≥3 integrations (Silvi, 2 ReFi tools).
+1 OIF pilot with attested intents.
+Risks & mitigations
+
+Data Conflicts: Document rules; mutable EAS.
+Adoption: Partner pilots; open docs.
+Compliance: Adhere to Giveth ethics; open reporting.
+Why this is a fit to the Interop round
+
+Standards: Treekipedia schemas advance OIF for ecological intents.
+Open Data: Attested datasets enable transparent analytics.
+Infra: API bridges Ethereum to real-world environmental action.
+Pilots: Proven in campaigns; scalable public good.
+About Silvi & Treekipedia (Proven Activity)
+
+Silvi: 600+ users; 30+ projects, $110,000 deployed or being deployed
+Treekipedia: Launched 7 months ago; 100M+ records; powers campaigns.
+Open-Source: GitHub repos; collaborations with Hypercerts, Regen Network. For more: Silvi | Treekipedia.
+
+Milestones (4-6 months)
+
+Over the next 4-6 months (through April 2026), Treekipedia will deliver key artifacts to Ethereum: By December 2025, deploy Open Schema v1 as EAS-attested standards for tree knowledge (taxonomy, traits, native ranges in GeoJSON, citations), published as JSON Schema/CSV/Parquet, with OIF-aligned fields like compatibility_score for intent-based logic. In January 2026, release two verifiable datasets (IPFS-pinned, EAS-attested) normalizing 100M+ records, enriched with AI embeddings, covering 67K+ species/subspecies. By February 2026, launch Public REST API v1 (OpenAPI docs) with endpoints for species search, full records, polygon-based recommendations (outputting ranked natives and OIF intent templates), analytics dashboards, and attestation metadata. Through April, onboard ≥3 ReFi integrations and run one OIF pilot for automated funding—all open-source under Apache-2.0, enabling programmable ecological interop
+
+Please example how your project meets the round-specific eligibility criteria.
+
+"""Silvi and Treekipedia meet the round's eligibility criteria as follows:
+Open source & public good: All code, schemas, and datasets will be released under Apache-2.0 license on GitHub (e.g., https://github.com/SilviProtocol/silvi-open for core logic and integrations). Outputs like EAS schemas, APIs, and attested datasets on IPFS/EAS are freely accessible, serving as public goods for Ethereum's ReFi and climate ecosystems by enabling programmable ecological data without restrictions.
+Domain alignment: The project focuses on Ethereum interop standards via EAS schemas extending Hypercerts v2 for reforestation claims, OIF-aligned intents for cross-chain funding (e.g., milestone payouts on Celo/Allo), shared data models for tree knowledge, reforestation methodologies, analytics dashboards for campaign metrics, and pilots demonstrating OIF in bioregional reforestation. No DeFi, NFTs, or unrelated elements—purely infrastructure for ecological interop.
+Proven activity & impact: The work behind this grant is being put to work in another $100k Gitcoin Grant (Bioregional Reforestation Campaigns) https://silvi-protocol.notion.site/. The tools are already driving majoy adoption around the world with integrations on Karma, EAS, etc. Silvi has deployed Allo strategy contracts on Celo for escrow/payouts (measurable via on-chain transactions in over 30 pilots with 150K+ trees propagated and 600+ users). Treekipedia has active repos with 100M+ records processed, powering real dashboards and publications (e.g., lightpaper and vision docs); documented usage in ongoing campaigns across 9 bioregions.
+Transparent reporting & data: We commit to monthly progress updates via GitHub issues, open IPFS-pinned datasets adhering to STAC standards, and shared methodologies (e.g., species recommendation logic). Aggregated metrics (e.g., API queries, tree verifications) will be published on public dashboards for community access.
+Ethical conduct & anti-spam: Fully compliant—no discriminatory content, deception, or bribery. The project is not a financial product or token scheme; it's focused on transparent, non-yield infrastructure for public good reforestation.
+This aligns with round interests: Advancing open data (verifiable tree datasets), developing standards (reforestation primitive), building infra (REST API with OIF hooks), creating analytics (dashboards for intent adoption), and running pilots (bioregional OIF implementations)."""

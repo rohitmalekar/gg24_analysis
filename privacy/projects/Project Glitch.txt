@@ -1,0 +1,41 @@
+### Project Glitch
+
+Research
+
+Education
+
+[0x20231a...E93F8aFe](https://arbiscan.io/address/0x20231a0C6695F56D9ce86cE2b0ABD120E93F8aFe)
+
+[projectglitch_](https://x.com/projectglitch_)
+
+[https://projectglitch.xyz](https://projectglitch.xyz/)
+
+Project Glitch is a journalism organization focused on the future of trust, freedom, and human expression online. We view these concepts through the lens of technology, specifically tools that enable technical and political decentralization. These emerging technologies have profound implications for the future of humanity, from how we identify ourselves to how we communicate---and, ultimately, whether we trust each other. Through our reporting and convening of carefully curated live events, Project Glitch aims to provide clear-eyed, evidenced-based journalism that will foster better conversations around these technologies and, in turn, more thoughtful policy, regulatory, and commercial outcomes.
+
+### IMPACT STATEMENTS
+
+Project Glitch's newsletter currently reaches nearly a thousand highly influential operators working in crypto and crypto policy. Our original journalism shines a light on key emerging issues in the space, and often punctures narratives and received wisdom that does not stand up to fact-based scrutiny.Since the beginning of 2025, we have convened monthly gatherings in partnership with PGP* for Crypto in Washington, DC. In these meetings, we host carefully curated discussion on topics ranging from privacy-preserving stablecoins to decentralized AI, with the goal of illuminating emerging issues for attendees. Each breakfast typically has 60 to 75 people in attendance, with hundreds joining via livestream.Our flagship event, the DC Privacy Summit, just completed its second iteration. We're proud to say that our diverse gathering of 115 in-person attendees included cryptographers, lawyers, crypto policy advocates, policymakers, academics, law enforcement officials, and technologists from around the globe. They hailed from MIT, Johns Hopkins University, the Ethereum Foundation, a16z, Aztec, Aleo, TACEO, Inco, Predicate, and many other privacy projects. We were honored to host SEC commissioner Hester Peirce as part of the agenda as well.Again, this is just the beginning for us---in addition to continuing our monthly events, our newsletter, and the DC Privacy Summit, we aim to add several similar events in the near future. Two focus areas we're considering are digital identity and the intersection of decentralized tech and AI. We'd also like to host a Privacy Summit on European soil to address the unique challenges for digital privacy in the EU.
+
+### CONTRIBUTIONS
+
+Our journalism has connected the dots between technologists, policymakers, legal scholars, and users in a way that no other media organization has done.We produce a newsletter packed with original reporting and deep, thoughtful analysis of the unique technological moment in which society finds itself. Our written work is complemented by a robust slate of live events---we host a regular monthly breakfast in Washington, DC to discuss new concepts in decentralized technology and policy, and have created the DC Privacy Summit, an annual gathering of the top minds in crypto privacy.Our most recent of these, which took place on October 16, explored the idea that in many cases, privacy is security. We're happy to say we were able to convene an extraordinary lineup of people thinking about and building with advanced privacy tools---as well as members of the public sector who are interested in understanding how to shape laws that will govern a future in which we can all benefit from these tools. This year's summit ran for two days, split between a closed-door round table and a full day public agenda.For us, this is just the beginning---the issue of how to meld strong, flexible privacy capabilities with today's complex digital world isn't going away.This is highlighted in particular by the prosecutions of the Tornado Cash and Samourai Wallet developers. We've covered these cases closely, documenting how government officials relying on old legal machinery to address the new risks that arise in decentralized financial systems have led to arguably unconstitutional consequences---including the criminal prosecution of software developers.This collision---between laws drafted in a bygone technological era, lawmakers and regulators hamstrung by the strictures of the government, and new technologies that are rapidly unlocking dazzling new possibilities for users---can continue to look like a train wreck in slow motion. Or, things can get better---but only if the people on all sides are able to come together, understand the nuances of each other's positions, and work in good faith to achieve a practical solution. That is what Project Glitch seeks to facilitate, and what we have been working on since our inception.
+
+CONTRIBUTIONS LINKS[2025 DC Privacy Summit (YouTube playlist)](https://youtube.com/playlist?list=PLWmtTg-WFLv7lbiY8nlABeadXbomhbede&si=TV_wmgt_fJDOzypB)[Interview with Samczsun, founder of SEAL](https://youtu.be/euqOljuV43c?si=pKz65dt4XHkxpjpi)[Newsletter article: How the US could sleepwalk into a dystopian digital ID system ](https://www.projectglitch.xyz/p/how-the-us-could-sleepwalk-into-a)[Newsletter article: The EU's digital identity wallet has a big privacy problem](https://www.projectglitch.xyz/p/the-eus-digital-identity-wallet-has)[Panel discussion: What decentralization can do for AI](https://youtu.be/cAMgGCCR3Os?si=JJ64RIfY-zloKvaT)[What more could Tornado Cash developer Alexey Pertsev have done?](https://www.projectglitch.xyz/p/what-more-could-tornado-cash-developer)
+
+### PAST GRANTS AND FUNDING
+
+ETHEREUM FOUNDATION GRANT
+
+Other
+
+30000
+
+USD
+
+EVENT SPONSORSHIP
+
+Revenue
+
+150000
+
+USD

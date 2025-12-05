@@ -1,0 +1,46 @@
+### Legum Privacy Guard AI
+
+DApps
+
+Infrastructure
+
+Education
+
+Research
+
+[0x11EB95...17a41a37](https://arbiscan.io/address/0x11EB9555D929C980e85cE7609016d6c117a41a37)
+
+<https://legum.tech/>
+
+Legum PrivacyGuard AI is a privacy-first AI agent platform designed to help regulated organizations such as law firms, fintechs, and healthcare providers use AI safely and lawfully.Legum PrivacyGuard AI addresses a global problem for organizations who want to use AI but face regulatory and ethical risks. By embedding compliance automation into the AI layer, we enable innovation without compromising trust or data rights.The platform provides self-hosted, privacy-preserving AI agents that automate Data Protection Impact Assessments (DPIAs), manage user consent, monitor real-time data flows, and enforce privacy-by-design principles while ensuring that no sensitive data ever leaves the user's infrastructure.Built as part of the broader Legum ecosystem, the project combines privacy engineering, AI safety, and legal compliance automation. It is aligned with Gitcoin's public-goods mission by open-sourcing core libraries (for consent management, data leak prevention, and privacy audits) and by training new privacy engineers through the Trailblazer Data Protection Bootcamp in partnership with Tech Minded Lawyers Club (TMLC).
+
+### IMPACT STATEMENTS
+
+Legum PrivacyGuard AI promotes responsible AI adoption, cross-jurisdictional compliance, and inclusive access to privacy technology --- directly advancing Gitcoin's mission of supporting digital public goods. Legum PrivacyGuard AI will have measurable impact across three key areas:
+
+1.  Expand access to enterprise-grade privacy tooling which will enable startups, NGOs, and regulators to adopt privacy-preserving AI workflows without high licensing costs.
+
+2.Provides a verifiable way for organizations to run AI agents that comply with GDPR, NDPR, HIPAA, and other frameworks, reducing privacy violations and restoring public trust.
+
+1.  Advance or capacity building for emerging market through the Trailblazer Bootcamp, with the goal of training at least 500 privacy and legal AI practitioners within 12 months, creating a pipeline of certified privacy engineers who contribute back to open-source projects.
+
+### CONTRIBUTIONS
+
+Funding from the GG24 Privacy Round will support Legum PrivacyGuard AI in the following ways:
+
+1.  Open-source privacy libraries and SDKs for consent tracking, real-time PII detection, and automated privacy audits.
+2.  Deploy a community sandbox that allows privacy engineers, law firms, and compliance officers to safely experiment with privacy-preserving AI workflows.
+3.  Build integrations with open-source privacy and governance tools.
+4.  Publishing open educational resources and tutorials through the Trailblazer Bootcamp, growing a new generation of privacy engineers across Africa and beyond.
+
+CONTRIBUTIONS LINKS[Legum Limited LinkedIn](https://www.linkedin.com/company/legum-limited/)
+
+### PAST GRANTS AND FUNDING
+
+BOOTSTRAPPING
+
+Other
+
+2500
+
+USD

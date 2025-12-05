@@ -1,0 +1,39 @@
+### Conspire
+
+Infrastructure
+
+[0xb11DA3...F903C131](https://arbiscan.io/address/0xb11DA387A47B6F52Da11A45269D684c1F903C131)
+
+[jaromil](https://x.com/jaromil)
+
+<https://dyne.org/conspire>
+
+[jaromil](https://github.com/jaromil)
+
+Current messaging platforms create permanent digital identities through phone numbers, email addresses, and centralised accounts. Even privacy-focused tools like Signal require phone verification, while alternatives like Session still depend on centralised infrastructure vulnerable to surveillance and shutdown. Citizens in authoritarian regimes, activists, and journalists require communication tools that appear instantly, rely on resilient infrastructure, and vanish entirely when needed. Current solutions do not offer genuinely ephemeral, infrastructure-independent communication. Conspire provides truly anonymous peer-to-peer communication that requires no accounts, phone numbers, or stable servers. It creates temporary spaces that disappear when participants leave and can operate on-site using mobile hotspots with captive portal features.
+
+### IMPACT STATEMENTS
+
+The project is new and being launched. Alpha testing identified three areas for improvement: mobile interface usability, documentation clarity, and system stability. Users appreciate zero-setup communication but need better first-time guidance and robust network handling. Target communities include digital rights advocates, journalists in restrictive environments, and individuals who prioritise privacy. Documentation will focus on visual guides that demonstrate practical use cases, including protest organisation, disaster coordination, and anonymous feedback collection. Impact plans include live demonstrations at conferences such as CCC and DEF CON where the Dyne.org team will showcase instant deployment capabilities.Funding will enable ARM porting for an embedded "Conspire Box" system with captive portal capability: a WiFi hotspot will present the chat interface to on-site connecting clients. Security enhancements will include Tor hidden-service integration and security hardening, such as Address Sanitiser (ASAN), static analysis, and penetration testing.
+
+### CONTRIBUTIONS
+
+Conspire combines complete anonymity, infrastructure independence, and instant deployment capabilities, addressing critical gaps in current secure communication tools for privacy-conscious communities and digital rights activists.
+
+```
++---------------------------+--------+----------+---------+-------+----------+
+| Feature                   | Signal | WhatsApp | Session | Briar | Conspire |
++---------------------------+--------+----------+---------+-------+----------+
+| Account creation required |   ✓    |    ✓     |    ✓    |   ✗   |    ✗     |
+| Phone/email required      |   ✓    |    ✓     |    ✗    |   ✗   |    ✗     |
+| Self-hostable             |   ✗    |    ✗     |    ✗    |   ✗   |    ✓     |
+| Ephemeral rooms           |   ✗    |    ✗     |    ✗    |   ✗   |    ✓     |
+| Mobile captive portal     |   ✗    |    ✗     |    ✗    |   ✗   |    ✓     |
+| Instant deployment        |   ✗    |    ✗     |    ✗    |   ✗   |    ✓     |
++---------------------------+--------+----------+---------+-------+----------+
+
+```
+
+Conspire is uniquely focused on instant, ephemeral deployment for secure and anonymous group chat use---the only messenger listed that is fully self-hostable, offering ephemeral rooms and a mobile captive portal. Users can use it without creating an account, email, or phone number, and deploy it instantly for temporary discussion spaces.Anonymity methods include random nicknames assigned per connection that cannot be altered, as well as secure, crypto-random room URLs serving as both identifiers and access keys. Files are transferred peer-to-peer via WebRTC data channels and become unavailable when the sharer departs. The current implementation targets x86_64 Linux and is licensed under Apache 2.0.
+
+CONTRIBUTIONS LINKS[I have started the project based on existing C++ code using the oat++ async framework, fixing some issues and improving usability, hosting support and documentation. I'm also running the service on my own server behind a Tor hidden service for added anonimity, which I intend to continue hosting if funded.](https://github.com/dyne/conspire)

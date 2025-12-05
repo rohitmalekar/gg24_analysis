@@ -1,0 +1,64 @@
+### Sozu Capital
+
+Research
+
+DApps
+
+Infrastructure
+
+[0xBe76b7...55Cae5C8](https://arbiscan.io/address/0xBe76b786E4D9A6039B9e9F188e0ee0a955Cae5C8)
+
+[sozucapital](https://x.com/sozucapital)
+
+[https://sozu.capital](https://sozu.capital/)
+
+[blessedux](https://github.com/blessedux)
+
+### The Entrepreneur's OS
+
+In a digital economy dominated by surveillance, rent-seeking middlemen, and exclusionary financial gatekeepers, Sozu Capital is building a public good. We are not a traditional startup; our primary goal is not to maximize investor profit but to maximize global entrepreneurial empowerment.Our model is simple and disruptive: we will take over market share by being uniquely powerful, useful, and convenient while being completely free. No monthly subscriptions. No percentage-based commissions. Ever.We fund our mission by strategically challenging the most profitable and abusive layer of the modern financial system, turning their greatest weakness into our strength and our revenue engine.
+
+#### The Core Problem: The Tyranny of the Financial Gatekeepers
+
+Today's entrepreneurs are trapped. To operate, they are forced to use a patchwork of tools (Zoho, PayPal, QuickBooks) that:
+
+-   Spy on their transactions and sell their data.
+-   Charge exorbitant fees (2.9% + $0.30 is just the start) on every payment, draining vital capital from small businesses.
+-   Act as arbitrary gatekeepers, freezing funds and shutting down accounts with no recourse (a fatal flaw of PayPal and its peers).
+-   Require invasive KYC, excluding billions from the formal digital economy.
+
+This system is presided over by the Visa/Mastercard duopoly, which enforces the infrastructure enabling these sky-high profit margins---often exceeding 50% on their payment services. This is a tax on innovation and a barrier to entry for the entire global south.Sozu Capital is a privacy-first, non-custodial stack of tools designed to be the all-in-one operating system for a sovereign business.
+
+1.  The AI-Powered Workflow Engine: Automate your invoicing, billing, and expense tracking. Get intelligent insights into your cash flow without ever sacrificing your private data to a third-party cloud.
+2.  The "Stealth" EVM Bank Account: A simple interface that feels like a traditional bank account but is, in fact, a powerful, non-custodial wallet on the Ethereum Virtual Machine. Users can send and receive money without knowing they're using Web3.
+3.  A New Financial Foundation: Beyond the USD Peg & KYC Gates
+
+We are not just building an on-ramp; we are building a new standard. Our system moves beyond simply replicating fiat on-chain. Instead, we introduce a native, stable token designed as a true store of value, de-pegged from the inflationary USD.This isn't another algorithmic experiment. It's a hybrid, over-collateralized stability system that combines the best of commodity-backing and algorithmic incentives to create a self-sustaining economy. Its stability is not pegged to a dying fiat, but to a decentralized oracle network that tracks the real-time global price of essential goods and services. This means the token's value is anchored to what it can actually buy, protecting users worldwide from inflation and currency devaluation.Accessing this system is seamless and private. On-ramping happens through a privacy-first, internal P2P network, allowing users to enter this new economy without KYC, surveillance, or the traditional gatekeepers. We aren't just reimagining on-ramping; we are building the stable monetary layer for the sovereign economy of the future.
+
+#### Our Public Goods Funding Model: Turning Their Strength Into Their Downfall
+
+How can this be free? Our endgame is audacious and simple.We will use the Visa/Mastercard monopoly's own excessive profit margins to fund their downfall.The 2.9%+ fees they charge are our market opportunity. By building a massive, loyal user base with our free, superior product, we will achieve the network effects necessary to launch our own decentralized payment network. This network will operate at a fraction of the cost, and the slim margin we *do* take (targeting well below 0.5% and only on defi earnings of users funds voluntarily deposited into a defi vault) will be more than enough to sustainably fund and expand the Sozu Capital public good, while simultaneously dismantling the economic stranglehold of the legacy giants.Our Non-Negotiables:
+
+-   Zero KYC: Your financial life is yours alone. We will never ask for it.
+-   Zero Commissions: We do not tax your success.
+-   Non-Custodial: You hold your keys; you control your funds. Always.
+
+We are not here to play the game. We are here to break it and build a new, equitable playing field for the entrepreneurs of tomorrow. Support Sozu Capital, and help us build the economic infrastructure for a free future.
+
+### IMPACT STATEMENTS
+
+### Impact: Igniting the Formalization of the Next Global Economy
+
+Our most profound impact will be felt in the up-and-coming economies of the Global South, where the current system has failed most catastrophically. Here, entrepreneurs are trapped in a vicious cycle: operating in informal, cash-based economies with hyper-inflationary currencies that evaporate their savings and cripple their ability to plan, scale, or access credit.Sozu Capital doesn't just offer these entrepreneurs a tool; it offers an economic upgrade.
+
+1.  The Great Formalization (Without the State): We enable the seamless formalization of informal economies, not through bureaucratic government programs, but through superior technology. By providing AI-powered accounting, invoicing, and tax-ready reporting, we give small businesses the infrastructure to operate with the legitimacy of a corporation, unlocking new opportunities for growth and cross-border trade.
+2.  A Shield Against Inflation: Our native, non-USD-pegged stable token provides an immediate escape hatch from local currency collapse. For a tailor in Lagos or a farmer in Argentina, this is not a speculative investment; it is a life-changing preservation of capital and labor value, allowing them to save for the future with confidence for the first time.
+3.  Birth of a New Credit System: With a transparent, on-chain history of business activity and cash flow, we can pioneer the world's first decentralized, algorithmic and socially collateralized credit system. This allows the most promising entrepreneurs in the world, currently invisible to the traditional financial system, to access capital based on their actual economic and community based reputation, not their passport.
+
+The impact is a tectonic shift in global economic power. We are not just building an app; we are building the rails for the next wave of global economic growth, empowering the billions currently locked out of the system to become the dominant entrepreneurial force of the 21st century.
+
+### CONTRIBUTIONS
+
+The global economic system is terminally ill. Built on endless debt and inflationary fiat, it is a parasite on human productivity, systematically transferring wealth from the productive class (entrepreneurs, creators, workers) to a financial elite. This is not sustainable; it is a controlled demolition of economic sovereignty.Web3 was promised as the escape hatch, a new foundation for a fairer economy. Yet, it has been co-opted by the very forces it sought to replace, devolving into a casino of speculative scams and predatory UX, mirroring the worst of Wall Street.Our contribution is a fundamental rejection of this failed path.Sozu Capital is reclaiming Web3's soul. Our impact is not measured in TVL or token price, but in empowered, sovereign individuals.We contribute a practical tool, not a speculative asset. We are building the essential infrastructure for real economic activity; invoicing, billing, banking -> the bedrock of commerce.We impact lives by fighting inflation directly. Our non-USD-pegged stable token isn't a financial product; it's a shield for the global south and small businesses against a system designed to devalue their labor.We contribute economic inclusion. By eliminating KYC and fees, we open the digital economy to the billions currently excluded by geography or bureaucracy.Our ultimate impact is a network of resilient, independent economies. By arming entrepreneurs with privacy-first, efficient tools, we make them immune to the collapse of the old system. We aren't just predicting the end; we are actively building the beginning of what comes next.True Web3 isn't a casino. It's the global, decentralized workshop where the future is built, business by business. Sozu Capital is laying the foundation.
+
+CONTRIBUTIONS LINKS[Sozu pay MVP, haiku payment links dApp](https://github.com/blessedux/sozupay)[Sozu Credit Clarity Smart Contract (Stacks, BTC L2)](https://explorer.hiro.so/address/ST2EX94QMG4FEHYV9KRJRX9BGM313YJ9DAYKZKWFN?chain=testnet)

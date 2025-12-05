@@ -1,0 +1,84 @@
+### Rankify - delegated democracy on steroids
+
+DApps
+
+Infrastructure
+
+Education
+
+[0x2EecE6...b70DD259](https://arbiscan.io/address/0x2EecE69698D467b77D1374372dfe5B89b70DD259)
+
+[peeramid_labs](https://x.com/peeramid_labs)
+
+<https://www.rankify.it/>
+
+[peeramid-labs](https://github.com/peeramid-labs)
+
+Reimagining Collaborative Decision-Making with Rankify
+======================================================
+
+At Rankify, we are building a new framework for teams and organizations to make decisions, find consensus, and foster collective growth. Our mission is to transform collaboration into a more equitable, insightful, and meritocratic process.
+
+The Core: Private, Round-Robin Deliberation
+===========================================
+
+Rankify is built on a unique system of round-robin discussion cycles. In each cycle, every participant has the right to submit one proposal. These proposals are then aggregated by a smart contract, shuffled, and presented to the group as a unified block, completely anonymizing the authors. Both the proposals and the subsequent votes are kept private.This design creates a powerful social dynamic. By removing personal identities from the equation, participants are encouraged to support ideas based purely on their merit. This process has proven to be highly effective in training team empathy, strengthening professional bonds, and promoting individual growth as members learn to craft proposals that resonate with the entire group.
+
+From Deliberation to a Meritocratic Autonomous Organization (MAO)
+=================================================================
+
+We extend this core concept into a delegated democracy framework. Winners of each discussion cycle receive an on-chain attestation in the form of an NFT, which allows them to advance to higher-ranking discussion circles. These attestations represent governance power within the resulting DAO, creating what we call a "Meritocratic Autonomous Organization." This structure ensures that influence is earned by those who consistently demonstrate the ability to find common ground and propose solutions valued by their peers.To power this ecosystem, Rankify can utilize any existing ERC20 token for staking or deploy its own Universal Basic Income (UBI) system. The UBI is secured by our proprietary DID lookup registry, which uses authority certificates to manage membership, ensuring a secure and self-sovereign community.These three pillars---our unique deliberation logic, the embedded MAO structure, and our secure DID registry with an optional UBI system---form a robust framework for the future of decentralized governance.
+
+The Privacy-Preserving Challenges Ahead
+=======================================
+
+Building a truly private and secure governance protocol presents several significant challenges:
+
+1.  Anonymity: Keeping proposals unlinked from their proposers is difficult, as the data must eventually be revealed for voting.
+2.  User Experience: While client-side MPC protocols offer robust privacy, they often come at the cost of user experience. Our goal is to make Rankify accessible to non-technical users.
+3.  Data Integrity: A commit-reveal scheme requires strong data integrity proofs to be effective.
+4.  Transaction Privacy: Token holder balances and transaction histories need to be shielded.
+5.  Secure Membership: Community membership and user PII within our DID registry must be protected.
+
+While Rankify already employs privacy-preserving techniques like ZKPs for our commit-reveal scheme, we are committed to pushing the boundaries further.
+
+Our Roadmap to Enhanced Privacy
+===============================
+
+We are seeking community support to fund the development of the following critical privacy features:
+
+1.  Content Validation: Reinforce our proof system to validate the content of proposals during the commit phase, preventing malicious submissions.
+2.  Decentralized MPC: Implement an MPC-based architecture that removes the need for a central server, further decentralizing the platform.
+3.  TLS-Verified DID: Enhance our DID registry to verify TLS traffic, eliminating reliance on centralized registrars.
+4.  On-Chain Data Gates: Create a stake-based "NDA alternative," allowing participants to use federated server nodes for data safeguarding and create on-chain data gates with user-selected privacy solutions (MPC, TEE, etc.) from a marketplace of providers.
+5.  Private Set Membership: Enable the use of private set intersection for gating community and discussion access, allowing users to join without revealing their identity.
+
+Rankify is more than just an app; it's a fun, engaging, and deeply cypherpunk tool that is already being used by non-technical people in their daily lives. We are requesting your support to help us build a more private, secure, and equitable future for collaborative decision-making.Our linkshttps://rankify.it https://github.com/peeramid-labs/ https://x.com/peeramid_labs
+
+### IMPACT STATEMENTS
+
+Our project currently is in localised "soft" testing launch, used by a community of non-technical people it has proven to get great feedback for it's ability to bring up great ideas and improve bounds between community members, training empathy and facilitating common growth.Beside that, it is a hands on example how a web3, privacy tech is getting embedded in to regular people life, while seamless it has impact of educating community about their rights and guarantees they have provided by math & tech.
+
+### CONTRIBUTIONS
+
+We are currently preparing rankify to support https://invisible.garden education bootcamp. It will be used as app to form a teams for the projects - by shuffling and facilitating round-robin brainstorms, we will help participants identify their tasks and also perform collective task solving.
+
+CONTRIBUTIONS LINKS[Contracts repo ](https://github.com/peeramid-labs/rankify-contracts)[DID lookup registry repo ](https://github.com/peeramid-labs/multipass/)[SDK](https://github.com/peeramid-labs/sdk)[Event indexer ](https://github.com/peeramid-labs/rankify-indexer)[research on infrastructure ](https://rankify.it/dip.pdf)
+
+### PAST GRANTS AND FUNDING
+
+GITCOIN GRANTS (GG20, 21, 22) 
+
+Other
+
+5000
+
+usd
+
+PERSONAL FUNDS
+
+Other
+
+10
+
+USD

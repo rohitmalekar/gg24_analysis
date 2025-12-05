@@ -1,0 +1,148 @@
+TL;DR
+
+Colibri is a trustless, stateless, ultra-light Ethereum client that makes blockchain verification accessible everywhere — from browsers and mobile apps to IoT and AI systems. It removes the need to trust RPC endpoints by verifying all blockchain data locally through cryptographic proofs and zk-aggregated consensus verification.
+
+The Problem
+
+Most users and applications today access blockchains through centralized RPC providers.
+
+While blockchains themselves are decentralized, the access layer is not.
+
+When a wallet, dApp, or IoT device queries blockchain data, it typically asks a centralized service like Infura, Alchemy, or QuickNode. These providers can see, filter, or even manipulate the data being served. Users must trust that the answers are correct — yet this trust is unverifiable.
+
+In recent years, multiple supply-chain and RPC hijack attacks have proven that this is not a theoretical risk.
+
+A malicious provider can:
+
+- Return fake balances or outdated state,
+- manipulate transaction data before signing to redirect assets to attacker-controlled addresses,
+- Manipulate smart contract reads (e.g., lending apps or governance votes),
+- Silence or censor certain accounts or regions.
+
+For end users, this means:
+
+- Wallets showing false information,
+- Transactions being hijacked or front-run,
+- IoT devices granting unauthorized access,
+- AI systems making wrong autonomous decisions.
+
+If this access-layer centralization continues, Web3’s decentralization becomes an illusion. We would end up with a decentralized core — but centralized control over how anyone interacts with it.
+
+What Colibri Does
+
+Colibri eliminates the need to trust RPCs at all.
+
+It acts as a verifiable access layer — a stateless client that uses only cryptographic proofs to verify blockchain data locally.
+
+This is done without any need for synchronization. Thus, colibri is a true stateless client. This minimizes both bandwidth requirements and energy consumption, which is the reason why “normal” light clients are not feasible for mobile devices.
+
+When Colibri retrieves information (like account balances, contract state, or event logs), it also receives:
+
+- Execution proofs (including EIP-1186 Merkle inclusions) verifying that the data truly belongs to a specific block, and
+- Consensus proofs showing that the block itself is legitimate and signed by validators of the correct sync committee.
+
+Together, these two layers ensure both what happened and that it really happened on Ethereum.
+
+[MetaMask with Standalone colibri client]
+
+[dApp with remote colibri proofer]
+
+[dApp with local colibri proofer]
+
+Colibri’s architecture:
+
+- C-based core: ultra-light, fast, and portable — can run on embedded or mobile devices.
+- SDK bindings for JS/TS, Python, Swift, and Kotlin/Java — making integration into wallets, browsers, or backend systems straightforward.
+- zk-proof stack built on various zkVMs — recursively aggregates sync committee transitions into a single compact proof, minimizing bandwidth and compute needs. (work in progress)
+- Local Transaction simulation: Next to on-chain data verification, all transaction data can be simulated locally before signing based on proofs. (offered as SDK library function)
+
+This means that even a sensor, phone, or AI agent can verify the Ethereum state independently — without syncing or trusting any third party.
+
+[Video showing colibri in the standalone case as RPC node within Metamask]
+
+[Proofer Infrastructure Dashboard]
+
+Roadmap
+
+Q4 2025
+
+- Ethereum Release
+- Client
+- Local Prover and Prover Service
+- Bindings (JS/TS, Python, Swift, and Kotlin/Java)
+- MVP Multichain
+- EVM-L1s (Gnosis, Test nets)
+- L2s (OP, Base, …)
+- Prototype
+- Local transaction simulation
+- Adjustments for Pectra (in December)
+- Launch open repository and documentation hub.
+
+Q1 2026
+
+- Release Multichain (I)
+- First L1s/L2s
+- Scale Prover Service Infrastructure
+- Prototype zkProofs for consensus proofs
+- Implement zk-aggregated sync committee proofs
+- Aggregated proofs with transition
+- Release bindings for Rust
+- Publish testnet verifiers for dApps and IoT integrators with docs
+- Allow configuration for local testnet support
+- Add sample integrations for wallet and IoT proof verification.
+- Integration in Ethereum tools for Android and IoS
+
+Q2 2026
+
+- Release Multichain (II)
+- Additional L1s/L2s
+- Scale Prover Service Infrastructure
+- MVP zkProofs
+- MVP IoT/Embedded
+- Provide PoC demo running on desktop and embedded platforms.
+- IoT memory optimization
+- Release bindings for Go
+- Collaborate with other open-source Ethereum client teams to align proof formats.
+- Contribute findings to Ethereum’s Statelessness R&D
+- Production Integration and Outreach
+- SDK and Developer Tooling
+
+Q3–Q4 2026
+
+- Release Multichain (III)
+- Additional L1s/L2s
+- Scale Prover Service Infrastructure
+- Release zkProofs
+- Research on extending zkProofs for additional use cases
+- Integrate Colibri into 2 real-world use cases (1 Web3, 1 IoT)
+- Deploy first public zk-aggregated consensus proof verifier
+
+The Future with Colibri
+
+In Web3
+
+Wallets and dApps no longer depend on centralized RPCs.
+
+Every user interaction — from checking balances to executing swaps — becomes self-verifiable.
+
+Even browser extensions and mobile wallets can validate blockchain state in milliseconds, ensuring data integrity before users sign anything.
+
+In IoT
+
+Smart locks, meters, and machines become independently verifiable participants of the decentralized economy.
+
+A car can verify a toll payment; a drone can confirm delivery completion; a sensor can verify carbon-credit issuance — all cryptographically validated directly on the device.
+
+In AI and Agentic Systems
+
+As autonomous AI agents increasingly transact on-chain — trading, managing assets, or coordinating with other agents — Colibri becomes their proof layer.
+
+Agents can verify facts, prices, and permissions on-chain before acting, preventing manipulation and ensuring that machine decisions are grounded in cryptographic truth.
+
+Conclusion
+
+Colibri transforms blockchain access from trust-based to proof-based.
+
+It is the missing piece in Ethereum’s journey toward full statelessness and decentralization — an infrastructure layer that guarantees verifiable truth at every endpoint.
+
+By making trustless verification possible on any device, Colibri expands the reach, security, and resilience of Web3 — ensuring that every wallet, every sensor, and every agent can independently verify the world it interacts with.
