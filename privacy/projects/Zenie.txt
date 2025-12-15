@@ -1,0 +1,124 @@
+### Zenie
+
+DApps
+
+[0x4B9943...B0019FdE](https://arbiscan.io/address/0x4B994361257d060cF20dab2F13286B16B0019FdE)
+
+<https://zenie.modori.io/>
+
+[ModoriLabs](https://github.com/ModoriLabs)
+
+Introduction
+------------
+
+Zenie is a decentralized escrow protocol enabling trustless peer-to-peer fiat-to-crypto exchanges using zero-knowledge proofs of bank transfers. Users can buy crypto with cash while preserving privacy - no KYC, no centralized exchange, no intermediaries.Demo video: https://x.com/qpzmly/status/1938575567588307220
+
+### How It Works
+
+1.  Depositor locks crypto in smart contract escrow (e.g., 1000 USDC)
+2.  Buyer signals intent to purchase (e.g., $500 worth)
+3.  Buyer sends bank transfer to depositor's account
+4.  Buyer generates ZK proof of transfer (via Reclaim Protocol)
+5.  Smart contract verifies proof and releases crypto to buyer
+
+### Key Features
+
+-   Zero-Knowledge Privacy - Prove bank transfers without revealing senders' bank accounts.
+-   Multi-Chain Deployment - Live on Base, Kaia.
+-   Trustless Escrow - Smart contracts hold funds until ZK proof verification
+-   Multi-Currency Support - USD, KRW, extensible to any fiat currency
+-   Nullifier System - Prevents replay attacks and double-spending
+-   Upgradeable Design - UUPS proxy pattern for protocol improvements
+
+Impact
+------
+
+### Problem We Solve
+
+2+ billion people globally lack access to reliable crypto on/off-ramps due to:
+
+-   Geographic restrictions and banking limitations
+-   Invasive KYC requirements compromising privacy
+-   High fees (3-7%) from centralized exchanges
+-   Account freezes and censorship by centralized gatekeepers
+
+Roadmap
+-------
+
+### Short Term (3 months)
+
+-   Chrome Extension - Generate ZK proofs from authenticated banking sessions (Chase, Bank of America, Wells Fargo, etc.)
+-   Additional bank verifier integrations (Revolut, Venmo)
+-   Mobile app UI for simplified user experience
+-   Enhanced liquidity dashboard for depositors
+
+### Medium Term (6-12 months)
+
+-   Cross-chain intent settlement
+-   Browser extension marketplace distribution
+-   Multi-signature depositor accounts
+-   Support for 10+ global banks via extension
+
+Links
+-----
+
+-   Website: https://zenie.modori.io/
+-   GitHub (Escrow): https://github.com/ModoriLabs/zk-escrow
+-   GitHub (Noir Library): https://github.com/ModoriLabs/
+
+### IMPACT STATEMENTS
+
+### Our Impact
+
+Zenie delivers financial sovereignty through:
+
+1.  Financial Inclusion - Anyone with a bank account can buy/sell crypto, regardless of location or KYC status
+2.  Privacy Preservation - ZK proofs ensure transaction validity without revealing banking credentials or personal data
+3.  Cost Reduction - Peer-to-peer model reduces fees from 3-7% to under 1%
+4.  Censorship Resistance - Decentralized protocol with no central authority to freeze accounts
+
+### Real-World Use Cases
+
+-   Emerging Markets - Users in South Korea, Vietnam, Southeast Asia buying crypto with local bank transfers
+-   Privacy-Conscious Traders - Acquiring crypto without KYC surveillance
+-   Remittances - Cross-border workers sending crypto home without expensive wire fees
+-   Crypto Off-Ramps - Liquidity providers earning yield by converting crypto to fiat
+
+### CONTRIBUTIONS
+
+Past Grants and Funding
+-----------------------
+
+### Noir Ecosystem Grants
+
+We are proven grant recipients in the Noir ecosystem with a track record of delivering production-ready cryptographic libraries:
+
+1.  Noir Symmetric Crypto Grant (#8811) - [Grant Discussion](https://github.com/orgs/noir-lang/discussions/8811)
+    -   Implemented ChaCha20, AES-128-CTR, AES-256-CTR in Noir
+    -   CLI & Browser-based ZK proof generation toolkit
+    -   Integration with Reclaim Protocol's attestor infrastructure
+    -   Enables web applications to generate privacy-preserving proofs
+    -   Repository: [ModoriLabs/noir-symmetric-crypto](https://github.com/ModoriLabs/noir-symmetric-crypto)
+
+Contributions
+-------------
+
+### Open Source Smart Contracts
+
+Core Infrastructure:
+
+-   `EscrowUpgradeable.sol` - Multi-chain escrow with intent-based liquidity management
+-   `TossBankReclaimVerifierV2.sol` - ZK proof verification for Toss Bank transfers
+-   `NullifierRegistry.sol` - Cross-verifier replay attack prevention
+
+CONTRIBUTIONS LINKS[Verifier Contract in Base](https://basescan.org/address/0xc3D3cDc54a4Ef7d36220604Fd73fa521B6F5Fb6c)[Escrow Contract in Base](https://basescan.org/address/0x5a790BC3038d6e46B8246127EC05540b424577E4)[Escrow, TossReclaimVerifier, NullifierRegistry contracts source code](https://github.com/ModoriLabs/zk-escrow)
+
+### PAST GRANTS AND FUNDING
+
+NOIR SYMMETRIC CRYPTO GRANT #4
+
+Partner Fund
+
+30000
+
+USD

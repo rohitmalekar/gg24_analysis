@@ -1,0 +1,1589 @@
+{
+  "summary": {
+    "total_projects": 93,
+    "folder": "privacy"
+  },
+  "results": [
+    {
+      "folder": "privacy",
+      "project": "warptoad",
+      "project_file": "warptoad.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "zkMonk",
+      "project_file": "zkMonk.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "ZK for the regular people",
+      "project_file": "ZK for the regular people.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 3
+      },
+      "primary_score": 4,
+      "secondary_score": 3
+    },
+    {
+      "folder": "privacy",
+      "project": "Noirlings.app",
+      "project_file": "Noirlings.app.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Session",
+      "project_file": "Session.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "rotki",
+      "project_file": "rotki.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 5
+      },
+      "primary_score": 4,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "PolyPay",
+      "project_file": "PolyPay.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Confidential Transfers and Balances",
+      "project_file": "Confidential Transfers and Balances.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "VERA-SNARK: Privacy-Preserving, Verifiable Cross-Border Health Data Exchange Using zkSNARKs and FHIR R5",
+      "project_file": "VERA-SNARK: Privacy-Preserving, Verifiable Cross-Border Health Data Exchange Using zkSNARKs and FHIR R5.txt",
+      "primary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Openbands",
+      "project_file": "Openbands.txt",
+      "primary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "zeroledger",
+      "project_file": "zeroledger.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "zkProofport",
+      "project_file": "zkProofport.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Funding the Commons",
+      "project_file": "Funding the Commons.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Fluton",
+      "project_file": "Fluton.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "KOKI'O",
+      "project_file": "KOKI'O.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 3
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "primary_score": 3,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "N\u00d8NOS",
+      "project_file": "N\u00d8NOS.txt",
+      "primary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Pairwise",
+      "project_file": "Pairwise.txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Zenie",
+      "project_file": "Zenie.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "ZkFOCIL: Making FOCIL Private",
+      "project_file": "ZkFOCIL: Making FOCIL Private.txt",
+      "primary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Meetwith",
+      "project_file": "Meetwith.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Rankify - delegated democracy on steroids",
+      "project_file": "Rankify - delegated democracy on steroids.txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Map3: ZK-Powered Private Reporting & Governance",
+      "project_file": "Map3: ZK-Powered Private Reporting & Governance.txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "primary_score": 4,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "zkETHer",
+      "project_file": "zkETHer.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Noir Playground",
+      "project_file": "Noir Playground.txt",
+      "primary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "CrowdWisdom",
+      "project_file": "CrowdWisdom.txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "ZK Email",
+      "project_file": "ZK Email.txt",
+      "primary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Privote",
+      "project_file": "Privote.txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Xythum",
+      "project_file": "Xythum.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "PrivID: Open Network Node for Identity Verification",
+      "project_file": "PrivID: Open Network Node for Identity Verification.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 3
+      },
+      "primary_score": 4,
+      "secondary_score": 3
+    },
+    {
+      "folder": "privacy",
+      "project": "LunarDAO",
+      "project_file": "LunarDAO.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Have I Been Rekt",
+      "project_file": "Have I Been Rekt.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "ZKPassport",
+      "project_file": "ZKPassport.txt",
+      "primary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Aztec Anonymous Messenger (AAM)",
+      "project_file": "Aztec Anonymous Messenger (AAM).txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "BeYou",
+      "project_file": "BeYou.txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 5
+      },
+      "primary_score": 4,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "VIMz (Verifiable Image Manipulation via ZKP)",
+      "project_file": "VIMz (Verifiable Image Manipulation via ZKP).txt",
+      "primary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Shinobi.Cash",
+      "project_file": "Shinobi.Cash.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "ZK-Cards game",
+      "project_file": "ZK-Cards game.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Obscura (StarkNet)",
+      "project_file": "Obscura (StarkNet).txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Hup",
+      "project_file": "Hup.txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Nihilium",
+      "project_file": "Nihilium.txt",
+      "primary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Haven",
+      "project_file": "Haven.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Incendia",
+      "project_file": "Incendia.txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "WORM",
+      "project_file": "WORM.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Project Glitch",
+      "project_file": "Project Glitch.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 2
+      },
+      "primary_score": 4,
+      "secondary_score": 2
+    },
+    {
+      "folder": "privacy",
+      "project": "Sozu Capital",
+      "project_file": "Sozu Capital.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "BackupBuddy",
+      "project_file": "BackupBuddy.txt",
+      "primary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Anyone Protocol",
+      "project_file": "Anyone Protocol.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Blocktrend.today",
+      "project_file": "Blocktrend.today.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 2
+      },
+      "primary_score": 5,
+      "secondary_score": 2
+    },
+    {
+      "folder": "privacy",
+      "project": "Privacy Pool Paymaster",
+      "project_file": "Privacy Pool Paymaster.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Hinkal",
+      "project_file": "Hinkal.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Obscura (Reputation)",
+      "project_file": "Obscura (Reputation).txt",
+      "primary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Cryptography Dojo",
+      "project_file": "Cryptography Dojo.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Conspire",
+      "project_file": "Conspire.txt",
+      "primary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Blanksquare",
+      "project_file": "Blanksquare.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "ETH Daily",
+      "project_file": "ETH Daily.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 3
+      },
+      "primary_score": 4,
+      "secondary_score": 3
+    },
+    {
+      "folder": "privacy",
+      "project": "Mirage",
+      "project_file": "Mirage.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "LibertAI",
+      "project_file": "LibertAI.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Zikuani",
+      "project_file": "Zikuani.txt",
+      "primary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "90 seconds to crypto",
+      "project_file": "90 seconds to crypto.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "ZkDNS",
+      "project_file": "ZkDNS.txt",
+      "primary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "primary_score": 4,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "UNIQ ID",
+      "project_file": "UNIQ ID.txt",
+      "primary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Azguard wallet",
+      "project_file": "Azguard wallet.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "The Forus",
+      "project_file": "The Forus.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Vector Privacy",
+      "project_file": "Vector Privacy.txt",
+      "primary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 3
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "primary_score": 3,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Eastore",
+      "project_file": "Eastore.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Walletbeat",
+      "project_file": "Walletbeat.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "DAVINCI by Vocdoni",
+      "project_file": "DAVINCI by Vocdoni.txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Eppie",
+      "project_file": "Eppie.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Invisible Garden",
+      "project_file": "Invisible Garden.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "The Bubble by Soda Labs",
+      "project_file": "The Bubble by Soda Labs.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "0xbow",
+      "project_file": "0xbow.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Curvy Protocol",
+      "project_file": "Curvy Protocol.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "DappLearning",
+      "project_file": "DappLearning.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Aragon",
+      "project_file": "Aragon.txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Tongo",
+      "project_file": "Tongo.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Bhutan National Digital Identity",
+      "project_file": "Bhutan National Digital Identity.txt",
+      "primary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "ZK Protocol",
+      "project_file": "ZK Protocol.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Dev3pack - Privacy Bootcamp",
+      "project_file": "Dev3pack - Privacy Bootcamp.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Tor",
+      "project_file": "Tor.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Fluidkey",
+      "project_file": "Fluidkey.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Canary",
+      "project_file": "Canary.txt",
+      "primary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Joshua Davila",
+      "project_file": "Joshua Davila.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 3
+      },
+      "primary_score": 5,
+      "secondary_score": 3
+    },
+    {
+      "folder": "privacy",
+      "project": "ZK Arabia",
+      "project_file": "ZK Arabia.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 3
+      },
+      "primary_score": 5,
+      "secondary_score": 3
+    },
+    {
+      "folder": "privacy",
+      "project": "Enclave",
+      "project_file": "Enclave.txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "DASHI",
+      "project_file": "DASHI.txt",
+      "primary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Nymph",
+      "project_file": "Nymph.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_04",
+        "name": "Weak Privacy-Preserving Identity Systems",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    },
+    {
+      "folder": "privacy",
+      "project": "Legum Privacy Guard AI",
+      "project_file": "Legum Privacy Guard AI.txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 3
+      },
+      "primary_score": 4,
+      "secondary_score": 3
+    },
+    {
+      "folder": "privacy",
+      "project": "WoCo",
+      "project_file": "WoCo.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Keypo",
+      "project_file": "Keypo.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 4
+      },
+      "primary_score": 4,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "HiddenPay",
+      "project_file": "HiddenPay.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_02",
+        "name": "Underdeveloped Zero-Knowledge Infrastructure",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Womxn in Web 3 Privacy Now (WinPrivacy)",
+      "project_file": "Womxn in Web 3 Privacy Now (WinPrivacy).txt",
+      "primary_problem": {
+        "problem_id": "privacy_06",
+        "name": "Lack of Privacy Education and Field Building",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "Shielded Voting. Privacy-Preserving On-Chain Governance (Shutter Network)",
+      "project_file": "Shielded Voting. Privacy-Preserving On-Chain Governance (Shutter Network).txt",
+      "primary_problem": {
+        "problem_id": "privacy_05",
+        "name": "Insufficient Private Governance and Voting",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 4
+      },
+      "primary_score": 5,
+      "secondary_score": 4
+    },
+    {
+      "folder": "privacy",
+      "project": "CuraAI",
+      "project_file": "CuraAI.txt",
+      "primary_problem": {
+        "problem_id": "privacy_01",
+        "name": "Lack of Default Onchain Privacy",
+        "score": 5
+      },
+      "secondary_problem": {
+        "problem_id": "privacy_03",
+        "name": "Low Adoption of Privacy Applications",
+        "score": 5
+      },
+      "primary_score": 5,
+      "secondary_score": 5
+    }
+  ]
+}

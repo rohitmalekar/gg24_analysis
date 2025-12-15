@@ -14,11 +14,23 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from openai import OpenAI
+import streamlit as st
 
 # Initialize OpenAI client (set OPENAI_API_KEY environment variable)
-if not os.getenv('OPENAI_API_KEY'):
-    print("Warning: OPENAI_API_KEY environment variable not set. LLM calls will fail.", file=sys.stderr)
-client = OpenAI()
+#if not os.getenv('OPENAI_API_KEY'):
+#    print("Warning: OPENAI_API_KEY environment variable not set. LLM calls will fail.", file=sys.stderr)
+
+#OPENAI_API_KEY = st.secrets["api"]["OPENAI_API_KEY"]
+
+def get_api_key():
+    # Prefer env var in production, fall back to st.secrets locally
+    if "OPENAI_API_KEY" in os.environ:
+        return os.environ["OPENAI_API_KEY"]
+    return st.secrets["api"]["OPENAI_API_KEY"]
+
+OPENAI_API_KEY = get_api_key()    
+
+client = OpenAI(api_key=OPENAI_API_KEY)
 
 
 def read_config(config_path: str) -> Dict[str, bool]:

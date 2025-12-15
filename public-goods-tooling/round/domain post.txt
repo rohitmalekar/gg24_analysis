@@ -1,0 +1,98 @@
+B. PG Tooling Development
+-------------------------
+
+The public goods tooling development round funds open‑source public goods tooling that measurably increases interoperability, raises product maturity, resolves critical Ethereum UX pain points, and forges cross‑project collaborations. The round complements the Mechanism Design for Public Goods round and operationalizes its learnings by prioritizing tools that compose with shared primitives (EAS, Hypercerts, DAOstar OpenGrants schema, OpenZeppelin, Karma GAP, Octant Vaults and more). Allocations are made via Conviction Voting and Retro Rewards.
+
+Matching Pool Aim: ~$150K post fees
+
+Round Operators: Paul Glavin & Afolabi Aiyeloja
+
+Potential Council: Round Operators, Round Advisors (EF, Octant), Domain Stewards, Product Teams (Octant, Karma, DAO Masons, EAS, Superfluid, DAOStar)
+
+#### [](https://gov.gitcoin.co/t/gg24-public-goods-r-d-domain-proposal/23774#core-criteria-7)Core Criteria
+
+-   Interoperability Intent: Projects should demonstrate how they will integrate with shared public goods primitives. Priority is given to teams that utilize:
+    -   ENSv2 (Ethereum Name Service) --- human-readable naming and account aliasing for wallets, contracts, and sub-identities (portable identity layer across apps).
+
+    -   EAS (Ethereum Attestation Service) --- verifiable attestations for milestones, impact, reviews, and governance signals (shared, queryable truth that other tools can reuse).
+
+    -   Hypercerts --- standard, onchain claims over work scope and impact windows (portable impact records that funding, reputation, and analytics can compose on).
+
+    -   RevNets --- revenue-/reward-routing primitives for public goods (common rails for splitting value across protocols and contributors).
+
+    -   Juicebox --- programmable funding/treasury projects with standardized payouts (widely used contracts that plug into Safes, streams, and governance).
+
+    -   Obol Protocol --- distributed validator tech (DVT) for cooperative staking (shared infra primitive that treasuries, vaults, and reward flows can connect to).
+
+    -   Hats Protocol --- onchain roles/permissions graph (machine-readable access control other DAO tools can honor).
+
+    -   Human Passport, Prosperity Pass, or Self --- sybil-resistance & reputation aggregation (identity signals that interoperate with QF, CV, and allowlisted actions).
+
+    -   Gnosis Safe + Zodiac Modules --- composable, programmable treasury kernel (de-facto multisig standard that many governance/payment modules plug into).
+
+    -   DAOStar's Open Grant Standard --- machine-readable proposals, milestones, and reports (portable grant data across dashboards, explorers, and CRMs).
+
+    -   Aragon OSx --- modular DAO framework with upgradeable apps (standardized governance surface that integrates with Safes, Hats, and OpenGrants).
+
+    -   Karma GAP Protocol --- transparent, schema-driven progress updates (uniform status feeds other tools can index, score, and visualize).
+
+    -   Octant Vaults --- deposit-and-signal vaults for community co-funding (standardized allocation signals composable with retro rewards and treasuries).
+
+    -   OpenZeppelin --- audited libraries and ERC standards (maximizes plug-and-play compatibility, lowers integration risk).
+
+    -   Privacy-Preserving Tools (e.g., zk-ID, RLN/Semaphore classes) --- selective disclosure & spam resistance (lets apps share signals without leaking sensitive data).
+
+    -   Quadratic Funding --- matching mechanism wired to identity proofs (interoperable grants logic that composes with Passport/EAS/metrics).
+
+    -   Glo Dollar --- impact-linked stablecoin (drop-in unit of account with PG alignment for treasuries, streams, and payouts).
+
+    -   Superfluid --- money streaming & vesting (continuous payments other systems can reference for conviction, milestones, or refunds).
+
+If your project does not apply these, please justify why and indicate any other standards or protocols you will align with. In addition if you are building a protocol or primitive you feel qualifies for this list please reach out on Telegram: afo_wefa
+
+-   Maturing Product: Projects should already have a minimum viable product (MVP) or be developing a new feature that extends existing, maturing tooling. Proposals should clearly identify their current product maturity level (prototype, beta, production) and outline how this funding will advance them further.
+-   Collaboration Focused: Preference for projects that show clear evidence of cross-team collaboration, integrations, or co-development efforts. Applications should name partners, standards bodies, or protocols with whom they plan to coordinate.
+-   Go-to-Market & Sustainability: Teams must present a clear go-to-market (GTM) plan that addresses adoption, distribution, and onboarding. Proposals should also include a pathway to long-term sustainability, whether through grants, community funding, service revenue, or other models that align with public goods values.
+-   Clear Deliverables & Milestones: Applications must define concrete, measurable deliverables with milestone acceptance criteria. These should be attestable onchain (EAS, Hypercerts) and backed with evidence of adoption, integration, or usage.
+-   Critical UX Focus: Proposals should explicitly identify a user experience challenge in Ethereum (e.g., onboarding, account abstraction, privacy, gas efficiency, developer experience) and describe how the project aims to alleviate it.
+
+#### [](https://gov.gitcoin.co/t/gg24-public-goods-r-d-domain-proposal/23774#growth-proposals-conviction-based-funding-8)Growth Proposals - Conviction-Based Funding
+
+-   Allocation Mechanism: Conviction Voting (CV) will be used to allocate 70% of the round's matching pool to mature tooling and teams. CV is a time-weighted, continuous funding mechanism where support for projects accumulates as council members signal conviction over time. The longer support remains on a proposal, the stronger its weight becomes, creating an incentive for thoughtful, durable commitments rather than short-term hype. Funds are released progressively to proposals that pass threshold levels of conviction, ensuring capital flows to the projects with sustained council confidence.
+-   Timeline: 2-3 months (Proposals will have a large time period to build as it expected with growth proposals to need more resources and time to execute well)
+-   Evaluators: Curated Council of Public Good Builders
+-   Evaluation Framework:
+    -   Interoperability (25): Concrete plan + credible execution path to adopt at least 2 primitives; evidence of upstream contributions (schemas, PRs).
+    -   UX Impact (20): Clear definition of the UX problem (onboarding, account abstraction, safety, gas, dev‑ex, privacy, etc.), severity evidence, and test plan.
+    -   Product Maturity & Feasibility (15): TRL‑style stage mapping with realistic scope for 1--2 months; risk register & mitigations.
+    -   Collaboration (10): Named integration partners; MOUs/issues opened; co‑maintenance or shared roadmaps.
+    -   Team Track Record (10): Repos, releases, audits, shipped infra; Proof‑of‑Ship track.
+    -   Measurement Plan (10): Which onchain/offchain metrics will be emitted; EAS schemas; Hypercert minting cadence; reporting via OpenGrants/Karma GAP.
+    -   Budget & Timeline (10): Value for money; milestone clarity; licenses; acceptance criteria; fallback plan.
+
+#### [](https://gov.gitcoin.co/t/gg24-public-goods-r-d-domain-proposal/23774#pilot-proposals-conviction-based-funding-9)Pilot Proposals - Conviction-Based Funding
+
+-   Allocation Mechanism: Conviction Voting (CV) will be used to allocate 10% of the round's matching pool to emerging tooling and teams. CV is a time-weighted, continuous funding mechanism where support for projects accumulates as council members signal conviction over time. The longer support remains on a proposal, the stronger its weight becomes, creating an incentive for thoughtful, durable commitments rather than short-term hype. Funds are released progressively to proposals that pass threshold levels of conviction, ensuring capital flows to the projects with sustained council confidence.
+-   Timeline: 1-2 months (Proposal will need to outline a project that can be built within the time window)
+-   Evaluators: AIlominati NFT holders (Community of public good builders focused on capital allocation)
+-   Evaluation Framework:
+    -   Interoperability (25): Concrete plan + credible execution path to adopt at least 2 primitives; evidence of upstream contributions (schemas, PRs).
+    -   UX Impact (20): Clear definition of the UX problem (onboarding, account abstraction, safety, gas, dev‑ex, privacy, etc.), severity evidence, and test plan.
+    -   Collaboration (15): Named integration partners; MOUs/issues opened; co‑maintenance or shared roadmaps.
+    -   Product Idea & Feasibility (15): TRL‑style stage mapping with realistic scope for 1--2 months; risk register & mitigations.
+    -   Measurement Plan (10): Which onchain/offchain metrics will be emitted; EAS schemas; Hypercert minting cadence; reporting via OpenGrants/Karma GAP.
+    -   Budget & Timeline (10): Value for money; milestone clarity; licenses; acceptance criteria; fallback plan.
+    -   Team Track Record (5): Repos, releases, audits, shipped infra; Proof‑of‑Ship track.
+
+#### [](https://gov.gitcoin.co/t/gg24-public-goods-r-d-domain-proposal/23774#retro-rewards-10)Retro Rewards
+
+-   Allocation Mechanism: Retro Rewards allocate 20% of the round's matching pool to recognize and incentivize projects that demonstrate real, verifiable impact after shipping. While Conviction-Based Funding supports teams at the build stage, Retro Rewards ensures that teams are also rewarded for adoption, usability, and interoperability achieved in practice. This mechanism acknowledges that it is often easier to agree on what was impactful in hindsight than to predict impact.
+-   Timeline: 1-2 months (Retro evaluations will take place after 1-2 months of development and be around 1-2 weeks)
+-   Evaluators: Curated Council of Public Good Builders
+-   Evaluation Framework:
+    -   Interoperability Outcomes (30): # of live integrations with EAS, Hypercerts, DAOstar, Karma Gap, Octant and other interop protocols/primitives; upstream PRs/standards; composition examples.
+    -   Usage & Adoption (30): tx volume relevant to the tool, distinct integrators, weekly active devs/users, downloads (pkgs), stars growth (normalized).
+    -   Peer & Council Evaluation (20): Structured reviews by integrators and council (attested on EAS), qualitative + numeric scores; sybil‑resistant peer input.
+    -   Docs & Replicability (10): Tutorials, examples, migration guides; evidence they were used (referrals/attributions).
+
+Sustainability & Stewardship (10): Maintainer onboarding, triage SLAs, governance handoff; evidence of future roadmap + co‑funding.

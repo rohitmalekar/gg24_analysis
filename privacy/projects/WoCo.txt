@@ -1,0 +1,79 @@
+### WoCo
+
+Infrastructure
+
+[0x1B7FE2...FfD59C8b](https://arbiscan.io/address/0x1B7FE2cb154CE1C5A7a4760e9be3F9dEFfD59C8b)
+
+[@woco_org](https://x.com/@woco_org)
+
+[https://www.woco.eth.limo](https://www.woco.eth.limo/)
+
+[yea-80y](https://github.com/yea-80y)
+
+WoCo --- Privacy-First, P2P Infrastructure for the Open Web
+=========================================================
+
+Vision
+------
+
+The original vision was first mapped out in October 2023, with the release of Whitepaper v1 -- fusing Swarm, Waku, and Ethereum to build what we called the only app we'd ever need. While the mission and values remain the same, the project has since matured, honing in on the underlying privacy-preserving technology that will underpin a decentralised ecosystem. Our aim is to disrupt centralised digital marketplaces, moving profit share back into communities. What was once called the everything app we now call the World Computer.
+
+Current Progress
+----------------
+
+The first stage focused on harnessing the Swarm tech stack to host decentralised user profiles and forums/message boards. Using Swarm feeds and Single Owner Chunks (SOCs), we enable users to create retrievable profiles by generating deterministic static hashes.The app implements EIP-712 for Web3 wallet login and binds a secondary account that uses EIP-191 to sign posts for verification. Each post's payload hash is saved to a forum feed (newest first), represented as a 4096-byte chunk on Swarm -- storing 128 × 32-byte hashes per feed.This demonstrates how an entire frontend bundle (React/TypeScript static files with client-side helpers) can be hosted directly on Swarm and served to the client's browser for rendering and computation.
+
+Roadmap / Next Steps
+--------------------
+
+This proof of concept now lays the foundation for the next stage: integrating Waku and zero-knowledge (ZK) technologies to significantly enhance privacy -- including the ability to obscure post signatures while maintaining verifiability and accountability.Waku will enable a robust, peer-to-peer layer for private communication and the distribution of PODs (Provable Object Data). We have already shown that PODs can be stored, retrieved, and rendered from Swarm; this next phase expands their role as a privacy-preserving primitive underpinning identity, ownership, and composability.A Toolbox will help users create enhanced profiles and issue PODs for diverse use cases. From event organisers creating tickets and attendee badges, to businesses issuing loyalty points or digital collectibles. To end users, a POD may appear as a simple image or credential, but its cryptographic properties unlock entirely new ways to interact while preserving privacy.We will also address current centralisation points. Implementing Swarm light clients will reduce reliance on Bee gateways, allowing direct interaction with Swarm (including on mobile devices) and strengthening both privacy and decentralisation. In parallel, we will explore account abstraction, secure shared keys, and decentralised identity to improve account recovery and enhance security while preserving user sovereignty.These steps will enable our first adoption campaigns, allowing users to host websites and web apps for loyalty programmes, online ordering, and ticketing. A crypto-to-fiat bridge will allow event organisers to sell tickets (as PODs) and launch engagement campaigns with attendee badges. Small and medium-sized businesses (such as fast-food outlets) will be able to host websites/apps/menus, accept payments, and offer the same UI/UX as centralised apps, but without the excessive platform fees. Toolbox templates will simplify onboarding and emulate current market expectations while shifting ownership and control back to users.
+
+Future Plans
+------------
+
+As simpler protocols mature, we will expand into more advanced protocols that require dynamic pricing models, such as those for hotel bookings, transport networks, and other real-world services, supported by protocol-specific Layer-2 rollouts. As new revenue-generating opportunities emerge, streaming and large-scale media will become viable, paving the way for features capable of disrupting centralised platforms like Twitch and YouTube.We will also address the physical infrastructure layer, onboarding users as full Bee nodes (contributing storage) or validator nodes (supporting protocol-specific L2s). Organic network growth will be supported through community campaigns and future hardware innovations, such as node software packages and nodes embedded directly into consumer devices.
+
+Addressing Centralisation
+-------------------------
+
+Pioneering privacy-preserving infrastructure requires some temporary centralised components, which we are actively working to phase out:
+
+-   Swarm Gateway: Currently a proxy Bee node that enables uploads and downloads. Light clients will remove this dependency, allowing direct user interaction with Swarm.
+-   Platform Feed Signer: A fixed hash generated and updated using the feed signer's public key currently anchors user profiles. Improving key management and exploring new feed mechanisms will reduce reliance on this signer and enhance privacy.
+-   New Chunk Types: The platform feed signer is also used to write post hashes to board chunks. By developing new chunk types with shared ownership, we can remove this central point of control and deliver truly unstoppable content.
+
+Reputation Layer
+----------------
+
+New programmable chunk types on Swarm will enable a privacy-preserving reputation system that enhances moderation, content discovery, and trust without central oversight. Reputation scores can reflect user behaviour and contribution quality, empowering communities to self-moderate and curate credible content.Privacy-preserving LLM-assisted analysis (similar to community notes on X) could further enrich this layer by signalling bias, factual accuracy, and relevance. Users remain sovereign while gaining better tools to understand and navigate the information they engage with.
+
+Open Standards & Interoperability
+---------------------------------
+
+Open standards are fundamental to WoCo's design. They ensure the system remains interoperable, composable, and accessible across protocols and applications, breaking down silos and enhancing user agency.For creators and organisations, this enables richer engagement models -- from premium features and exclusive groups to event access based on POD ownership. For users, it ensures their digital collections and credentials are portable and meaningful across contexts: a single POD can unlock premium content, power avatars/in-game assets, or grant real-world access, all while maintaining privacy and ownership.By building on open standards, we lower barriers for builders and invite a broad ecosystem to extend WoCo's privacy-first foundation, accelerating adoption and expanding what's possible in a decentralised web.
+
+### IMPACT STATEMENTS
+
+Impact
+------
+
+As an early-stage project, our measurable impact so far is modest, but our ambitions are significant. We believe that peer-to-peer and zero-knowledge technologies, if packaged and delivered correctly, can fundamentally change how people interact online. Our goal is to build tools, not empires: open-source, cooperative, and governed by the principle of "by the community, for the community." Collaboration, horizontal building, and adherence to open standards are central to this mission, ensuring that the products we create deliver meaningful benefits to users and to society as a whole.As the project evolves, WoCo will transition into a DAO (and subsequent sub-DAOs), enabling community-driven funding mechanisms that embed positive impact into the core of the network. For example, DAO members could vote to direct a small percentage (e.g. 3%) of transaction fees from specific protocols to charitable initiatives chosen by the community. With even 1% of a platform like Booking.com's annual turnover equating to hundreds of millions of dollars, the potential to disrupt centralised marketplaces while redirecting value to public goods is transformative. We believe this model, built on privacy-first infrastructure and governed collectively, can create seismic positive change at both societal and economic levels.
+
+### CONTRIBUTIONS
+
+Contributions
+-------------
+
+Our contributions to the Swarm ecosystem so far focus on building privacy-first infrastructure and proving key concepts in practice.The first project was a Swarm uploader built in Python, enabling users to connect their Bee node, purchase storage batches (including increasing batch capacity and TTL), and upload or download data via direct API requests.Building on this, we created a JavaScript version with expanded functionality, including Swarm feeds and automatic ENS content-hash updates, enabling dynamic data updates without manual intervention. This project also showcased decentralised user profiles on Swarm for the first time, using feeds and SOCs. Notably, the application was itself hosted on Swarm, with client-side helpers sent to the browser for computation -- a proof of concept demonstrating that a decentralised app can host itself on Swarm.In August 2025, we submitted a Devconnect Improvement Proposal (DIP) to integrate decentralised user profiles and forums directly into the Devconnect event app. We also initiated collaboration with Meerkat (Zupass) to explore migrating existing PODs to Swarm. A follow-up demonstration successfully stored, retrieved, and re-rendered PODs from Swarm, proving Swarm's viability as a storage layer for verifiable credentials.Building on this work, we are now developing an application that can also be distributed as npm modules for the Devconnect team, enabling seamless integration. It allows users to log in with an existing Web3 wallet or create a new account, post messages and replies in forums, and store their PODs directly on Swarm. This also enables users to save their Devconnect ticket PODs on Swarm, eliminating the need for repeated email logins when using Meerkat's Q&A feature -- they simply approve the GPC request.
+
+CONTRIBUTIONS LINKS[Swarm Python Uploader](https://github.com/yea-80y/swarm-project)[Swarm JS Uploader](https://github.com/yea-80y/Swarm-Uploader)[PODs on Swarm](https://github.com/yea-80y/Swarm-Uploader)[Swarm Forums](https://github.com/yea-80y/DevConnect-Profile-Forum-Sandbox)[DIP](https://forum.devcon.org/t/decentralised-devconnect-swarm-based-profiles-and-forums-for-attendees-and-speakers/7748/3)[Whitepaper v1](https://github.com/yea-80y/p2p-IM-inc.-Toolbox/blob/main/p2p%20IM%20%26%20Toolbox%20Whitepaper.pdf)
+
+### PAST GRANTS AND FUNDING
+
+VULCAN CREATIVES - HTTPS://VULCANWORKS.CO.UK/VULCAN-CREATIVES/
+
+Other
+
+1000
+
+GBP

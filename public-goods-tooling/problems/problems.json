@@ -1,0 +1,120 @@
+{
+    "problems": [
+      {
+        "problem_id": "PGT-01",
+        "domain": "Public Goods Tooling",
+        "name": "Fragmented Public Goods Primitives",
+        "level": "problem_type",
+        "problem_statement": "Public goods tooling across Ethereum is built on overlapping but poorly coordinated primitives, leading to fragmented standards, duplicated effort, and limited composability between tools.",
+        "why_it_matters": "Without shared and interoperable foundations, public goods tools fail to compound value, integrations remain brittle, and ecosystem-wide coordination costs stay high.",
+        "solution_shape": "Shared schemas, protocols, and primitives that are designed for reuse, composability, and cross-tool integration.",
+        "positive_signals": [
+          "integration with shared primitives",
+          "use of common schemas",
+          "cross-tool composability",
+          "upstream standard contributions",
+          "interoperable data models"
+        ],
+        "measurement_rubric": {
+          "1": "Mentions interoperability as a general aspiration with no concrete linkage.",
+          "2": "Integrates with a single shared primitive in a limited or isolated way.",
+          "3": "Uses multiple shared primitives with partial composability.",
+          "4": "Demonstrates strong multi-primitive integration and reuse by other tools.",
+          "5": "Acts as a connective layer that meaningfully reduces fragmentation ecosystem-wide."
+        }
+      },
+      {
+        "problem_id": "PGT-02",
+        "domain": "Public Goods Tooling",
+        "name": "Poor UX for Public Goods",
+        "level": "problem_type",
+        "problem_statement": "Many public goods tools expose complex workflows, unclear interfaces, or high cognitive load, making participation difficult for builders, funders, and communities.",
+        "why_it_matters": "Weak user experience limits adoption, excludes non-expert participants, and slows the growth and legitimacy of public goods ecosystems.",
+        "solution_shape": "User-centered tooling that simplifies onboarding, reduces friction, and makes public goods participation intuitive and accessible.",
+        "positive_signals": [
+          "clear onboarding flows",
+          "reduced cognitive overhead",
+          "improved developer experience",
+          "usability testing",
+          "accessible interfaces"
+        ],
+        "measurement_rubric": {
+          "1": "UX impact is incidental or not considered.",
+          "2": "Minor usability improvements for a narrow user group.",
+          "3": "Clear UX improvements addressing a defined pain point.",
+          "4": "Significant UX gains demonstrated through adoption or feedback.",
+          "5": "Transforms how users interact with public goods tooling at scale."
+        }
+      },
+      {
+        "problem_id": "PGT-03",
+        "domain": "Public Goods Tooling",
+        "name": "Unverifiable Impact and Progress",
+        "level": "problem_type",
+        "problem_statement": "Impact, milestones, and progress in public goods work are often reported inconsistently or offchain, making them hard to verify, compare, or reuse across tools.",
+        "why_it_matters": "Lack of verifiable impact data undermines trust, weakens funding decisions, and prevents cumulative learning across funding rounds.",
+        "solution_shape": "Standardized, attestable, and reusable impact reporting mechanisms that can be queried and composed across systems.",
+        "positive_signals": [
+          "onchain attestations",
+          "standardized impact reporting",
+          "reusable impact data",
+          "milestone verification",
+          "transparent metrics"
+        ],
+        "measurement_rubric": {
+          "1": "Provides no meaningful approach to impact verification.",
+          "2": "Reports impact in an ad hoc or non-reusable way.",
+          "3": "Uses structured impact data with limited interoperability.",
+          "4": "Emits verifiable, reusable impact signals consumed by other tools.",
+          "5": "Establishes a widely reusable standard for impact verification."
+        }
+      },
+      {
+        "problem_id": "PGT-04",
+        "domain": "Public Goods Tooling",
+        "name": "Low Tooling Maturity",
+        "level": "problem_type",
+        "problem_statement": "Many public goods tools remain stuck at prototype or early beta stages, lacking reliability, documentation, or readiness for broader adoption.",
+        "why_it_matters": "Immature tooling limits real-world usage, discourages integrators, and prevents public goods infrastructure from becoming dependable.",
+        "solution_shape": "Efforts that harden, stabilize, and advance tools along a clear maturity path toward production readiness.",
+        "positive_signals": [
+          "clear product roadmap",
+          "production readiness",
+          "improved reliability",
+          "documentation improvements",
+          "active maintenance"
+        ],
+        "measurement_rubric": {
+          "1": "Conceptual or experimental with no clear path to maturity.",
+          "2": "Early prototype with limited reliability.",
+          "3": "Usable beta with defined next steps toward stability.",
+          "4": "Production-ready tool with active users.",
+          "5": "Widely adopted, dependable infrastructure relied on by others."
+        }
+      },
+      {
+        "problem_id": "PGT-05",
+        "domain": "Public Goods Tooling",
+        "name": "Unsustainable Tool Stewardship",
+        "level": "problem_type",
+        "problem_statement": "Public goods tools often lack sustainable funding, governance, or maintenance models, placing long-term viability at risk.",
+        "why_it_matters": "Without stewardship and sustainability, critical tools degrade over time, creating systemic risk for the ecosystem.",
+        "solution_shape": "Sustainability models that align incentives for maintainers, funders, and users while preserving public goods values.",
+        "positive_signals": [
+          "maintenance plans",
+          "sustainability strategy",
+          "governance clarity",
+          "maintainer onboarding",
+          "long-term roadmap"
+        ],
+        "measurement_rubric": {
+          "1": "No consideration of long-term stewardship.",
+          "2": "Short-term maintenance plans without sustainability.",
+          "3": "Defined but unproven sustainability approach.",
+          "4": "Clear, credible stewardship model with early validation.",
+          "5": "Demonstrated long-term sustainability and shared ownership."
+        }
+      }
+    ]
+  }
+  

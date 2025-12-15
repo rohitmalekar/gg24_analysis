@@ -1,0 +1,33 @@
+### ZK for the regular people
+
+Education
+
+[0x087282...62B885AB](https://arbiscan.io/address/0x08728267cFFeE50a06C1ADbac862852a62B885AB)
+
+[LauriPelto](https://x.com/LauriPelto)
+
+<https://medium.com/@laurippeltonen>
+
+[microbecode](https://github.com/microbecode)
+
+A lot of (academic) material exists about ZK and privacy protocols. A lot of handwavy explanations also exist. Between those two worlds is a huge gap.The project consists of articles, social media posts, live presentations, ZK study groups, GitHub repos and other related information that helps to bridge the gap between a beginner ZK nerd and an intermediate one.
+
+### IMPACT STATEMENTS
+
+Loads of people have thanked for the material and have found it helpful. Over 200 followers on Medium, 30+ ZK articles.These articles already form a backbone for a further educational journey into ZK and privacy.
+
+### CONTRIBUTIONS
+
+The project has been creating ZK content for over 2 years. The material is humorous enough to be interesting to read, but serious enough to be helpful.Multiple codebases with tutorial / example implementations of various ZK / privacy themes, such as "website age check".
+
+CONTRIBUTIONS LINKS[Medium articles about ZK](https://medium.com/@laurippeltonen)[Educational STARK prover](https://github.com/microbecode/stark-from-zero)[ZK identity onramp template project](https://github.com/microbecode/zk-identity-onramp)[ZK intro talk at ZKForget bootcamp 2025](https://www.youtube.com/watch?v=miIOJFkGcY4)[Privacy for blockchains talk 2025](https://www.youtube.com/watch?v=c3-htx7dHeA)[ZK privacy in action talk 2024](https://www.youtube.com/watch?v=mtucno8c9MQ)
+
+### PAST GRANTS AND FUNDING
+
+NONE. EVERYTHING IS CREATED FOR FREE TO HELP OTHERS LEARN
+
+Other
+
+0
+
+USD

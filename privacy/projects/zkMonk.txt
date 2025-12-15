@@ -1,0 +1,33 @@
+### zkMonk 
+
+Research
+
+Education
+
+[0xF2f035...7FE4edbC](https://arbiscan.io/address/0xF2f03516e4bF21DADffC69A4c8e858497FE4edbC)
+
+[zk_monk](https://x.com/zk_monk)
+
+<https://zkmonk.org/>
+
+The zkMonk community initiative addresses critical barriers to entry in zero-knowledge technology by equipping newcomers with the knowledge and tools needed to begin their ZK builder journey. We provide accessible, high-quality educational resources and host impactful events and bootcamps that establish a strong foundation in zero-knowledge concepts and development. Through multilingual learning materials, interactive workshops, mentorship programs, and open-source tooling, zkMonk fosters a vibrant, inclusive ecosystem where both technical and non-technical participants can gain practical skills, exchange knowledge, launch new ZK-based projects, and contribute meaningfully to the advancement of zero-knowledge protocol development.
+
+### IMPACT STATEMENTS
+
+We have successfully organized high-impact events and intensive bootcamps across major global conferences in the privacy and cryptography space. These initiatives have onboarded hundreds of newcomers into the zero-knowledge ecosystem, equipping them with foundational knowledge, practical skills, and direct exposure to core ZK concepts. As a result, many participants have gone on to begin their zero-knowledge builder journey in web3, contributing to open-source projects, hackathons, and early-stage protocol development.
+
+### CONTRIBUTIONS
+
+zkMonk has hosted a global series of educational workshops featuring leading zero-knowledge mentors and practitioners, with programs held across regions including India and the United States. These workshops have provided hands-on learning, mentorship, and direct technical engagement, helping cultivate a new generation of ZK builders and contributors. We also organize multiple complementary initiatives including hackathons, bootcamps, and developer meetups both on-site and online, that further accelerate skill development and ecosystem participation.
+
+CONTRIBUTIONS LINKS[ZkForge Bootcamp ](https://zkmonk.org/bootcamp-zkForge-2025)[ZK From Theory to Practice ](https://zkmonk.org/past-bootcamp/BOOT_002)[ZkMonk educational events - International ](https://zkmonk.org/events)
+
+### PAST GRANTS AND FUNDING
+
+ZKVERIFY
+
+Other
+
+10000
+
+USD

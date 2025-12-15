@@ -1,0 +1,35 @@
+### warptoad
+
+Infrastructure
+
+Research
+
+[0xaDAbC3...9C374F02](https://arbiscan.io/address/0xaDAbC3a68a7e6e8ec9BEaEB0b6ccfb6e9C374F02)
+
+[warptoad_xyz](https://x.com/warptoad_xyz)
+
+<https://warptoad.org/>
+
+[warptoad](https://github.com/warptoad)
+
+Warptoad creates a single unified anonymity set across all rollups integrated. While also at the same time making bridge transactions within the protocol shielded as well. Which mean the recipient, sender, amount and destination chain is private!We achieve this by having a commitment tree on every rollup, which then periodically sends its root to L1 where that L2 root is then inserted as a leaf into merkle tree (we call it the gigaTree). The root (gigaRoot) of this tree now contains all transactions of all chains, which we then use to proof against so the public doesn't know which chain the commitment is from!For the nullifiers, we force the users to only nullify on one chain by attaching a blinded commitment of one chainId to their address. Anyone sending funds to that private address sends it to the recipients chain without the sender knowing which chain!We will build out the infrastructure and sdks to create your own nft or token to be used in this system. We will also open up our core bridge infra (the gigaBridge) so anyone can make their own crosschain privacy protocol as well.
+
+### IMPACT STATEMENTS
+
+Warptoad will allow rollups to share an anonymity set with each other. And our infra structure allows developers to make their own cross-chain privacy protocol.
+
+### CONTRIBUTIONS
+
+We are building a cross-chain private token standard and the required infra structure. For aztec and evm rollups.
+
+CONTRIBUTIONS LINKS[warptoad (PoC)](https://github.com/warptoad/warp-toad)[GigaBridge (WIP)](https://github.com/warptoad/giga-bridge)
+
+### PAST GRANTS AND FUNDING
+
+AZTEC GRANT
+
+Other
+
+5000
+
+usd

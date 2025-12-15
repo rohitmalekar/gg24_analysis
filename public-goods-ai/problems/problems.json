@@ -1,0 +1,143 @@
+{
+    "problems": [
+      {
+        "problem_id": "pg_ai_01",
+        "domain": "AI for Public Goods Funding",
+        "name": "Opaque Allocation Decisions",
+        "level": "problem_type",
+        "problem_statement": "Public goods funding decisions are often difficult to explain, audit, or justify due to opaque criteria, informal judgment, and limited use of structured evidence.",
+        "why_it_matters": "Opacity undermines trust in funding institutions, weakens legitimacy of outcomes, and makes it hard for communities to understand or improve allocation processes over time.",
+        "solution_shape": "Decision-support methods that make allocation logic more explicit, interpretable, and traceable while supporting human judgment.",
+        "positive_signals": [
+          "decision transparency",
+          "interpretable models",
+          "explainable allocation",
+          "clear evaluation criteria",
+          "auditability of decisions"
+        ],
+        "measurement_rubric": {
+          "1": "Touches funding decisions without addressing transparency or explainability.",
+          "2": "Provides limited visibility into decisions but lacks structured interpretation.",
+          "3": "Introduces partial methods to explain or document allocation logic.",
+          "4": "Clearly improves interpretability and traceability of funding decisions.",
+          "5": "Directly enables systematic, transparent, and auditable allocation processes."
+        }
+      },
+      {
+        "problem_id": "pg_ai_02",
+        "domain": "AI for Public Goods Funding",
+        "name": "Weak Impact Assessment",
+        "level": "problem_type",
+        "problem_statement": "Funding systems lack reliable ways to assess, compare, or learn from the real-world impact of funded public goods initiatives.",
+        "why_it_matters": "Without credible impact assessment, capital allocation cannot improve over time and resources risk being misdirected or inefficiently deployed.",
+        "solution_shape": "Methods that measure, infer, or surface impact signals using data, modeling, or structured evaluation frameworks.",
+        "positive_signals": [
+          "impact measurement",
+          "outcome evaluation",
+          "learning from results",
+          "impact data",
+          "evidence-based funding"
+        ],
+        "measurement_rubric": {
+          "1": "Mentions impact loosely without proposing assessment methods.",
+          "2": "Uses basic or indirect indicators of impact.",
+          "3": "Provides structured but limited approaches to impact assessment.",
+          "4": "Offers robust methods to evaluate or compare impact.",
+          "5": "Enables systematic, scalable, and learning-oriented impact assessment."
+        }
+      },
+      {
+        "problem_id": "pg_ai_03",
+        "domain": "AI for Public Goods Funding",
+        "name": "Bias and Inequity Risks",
+        "level": "problem_type",
+        "problem_statement": "Funding processes can unintentionally reinforce bias, exclusion, or power imbalances due to skewed data, implicit assumptions, or uneven access to resources.",
+        "why_it_matters": "Unchecked bias reduces fairness, limits diversity of funded work, and undermines the legitimacy of public goods funding systems.",
+        "solution_shape": "Approaches that identify, mitigate, or counteract bias while promoting fairness and equity in decision-making.",
+        "positive_signals": [
+          "fairness in allocation",
+          "bias mitigation",
+          "equity considerations",
+          "inclusive funding",
+          "stakeholder diversity"
+        ],
+        "measurement_rubric": {
+          "1": "Does not consider bias or equity implications.",
+          "2": "Acknowledges equity concerns without concrete methods.",
+          "3": "Includes limited techniques to address bias or fairness.",
+          "4": "Explicitly integrates fairness or equity into evaluation processes.",
+          "5": "Systematically advances equitable and inclusive funding outcomes."
+        }
+      },
+      {
+        "problem_id": "pg_ai_04",
+        "domain": "AI for Public Goods Funding",
+        "name": "Fragmented Information Signals",
+        "level": "problem_type",
+        "problem_statement": "Relevant data about projects, communities, and funding outcomes is scattered across platforms, formats, and stakeholders, limiting holistic understanding.",
+        "why_it_matters": "Fragmentation increases coordination costs, reduces signal quality, and prevents funders from making informed, comparative decisions.",
+        "solution_shape": "Tools or methods that aggregate, structure, or synthesize diverse information signals into usable representations.",
+        "positive_signals": [
+          "data integration",
+          "signal aggregation",
+          "cross-source analysis",
+          "structured datasets",
+          "information synthesis"
+        ],
+        "measurement_rubric": {
+          "1": "Uses isolated data without addressing fragmentation.",
+          "2": "Aggregates limited sources with minimal synthesis.",
+          "3": "Combines multiple signals into a partial unified view.",
+          "4": "Provides coherent synthesis across diverse information sources.",
+          "5": "Enables scalable, ecosystem-level understanding from fragmented data."
+        }
+      },
+      {
+        "problem_id": "pg_ai_05",
+        "domain": "AI for Public Goods Funding",
+        "name": "Poor Decision Scalability",
+        "level": "problem_type",
+        "problem_statement": "As funding ecosystems grow, manual or ad hoc decision processes struggle to scale across many proposals, domains, or communities.",
+        "why_it_matters": "Lack of scalability leads to bottlenecks, reviewer fatigue, inconsistent outcomes, and reduced responsiveness of funding systems.",
+        "solution_shape": "Decision-support systems that augment human capacity and scale evaluation without removing accountability.",
+        "positive_signals": [
+          "scalable evaluation",
+          "decision support",
+          "handling large proposal volumes",
+          "process efficiency",
+          "human-in-the-loop systems"
+        ],
+        "measurement_rubric": {
+          "1": "Operates at small scale without addressing growth constraints.",
+          "2": "Improves efficiency marginally for limited use cases.",
+          "3": "Supports scaling for specific stages of decision-making.",
+          "4": "Substantially enhances scalability while preserving quality.",
+          "5": "Enables sustainable scaling across complex funding ecosystems."
+        }
+      },
+      {
+        "problem_id": "pg_ai_06",
+        "domain": "AI for Public Goods Funding",
+        "name": "Weak Governance Feedback Loops",
+        "level": "problem_type",
+        "problem_statement": "Funding systems often lack mechanisms to learn from past decisions, incorporate stakeholder feedback, or adapt governance rules over time.",
+        "why_it_matters": "Without feedback loops, governance stagnates, mistakes repeat, and funding systems fail to evolve with ecosystem needs.",
+        "solution_shape": "Methods that capture feedback, analyze outcomes, and inform adaptive governance and coordination.",
+        "positive_signals": [
+          "learning systems",
+          "governance feedback",
+          "adaptive decision-making",
+          "stakeholder input",
+          "iterative improvement"
+        ],
+        "measurement_rubric": {
+          "1": "Does not address governance or feedback dynamics.",
+          "2": "Mentions learning or feedback without integration.",
+          "3": "Supports limited feedback or post-hoc analysis.",
+          "4": "Actively informs governance through structured feedback.",
+          "5": "Enables continuous, system-level learning and adaptation."
+        }
+      }
+    ]
+  }
+  

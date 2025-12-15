@@ -1,0 +1,49 @@
+### Zikuani
+
+DApps
+
+[0x86E67a...8C56A8bE](https://arbiscan.io/address/0x86E67a05324A55AF6B2b3bF1A5cBA1778C56A8bE)
+
+[kuronosec](https://x.com/kuronosec)
+
+<https://zikuani.app/en/>
+
+[kuronosec](https://github.com/kuronosec)
+
+Zikuani is a solution that allows holders of a government-signed digital identity to prove their identity in a privacy preserving way using Zero-knowledge proofs. It provides tools to generate and verify proofs, authenticate users, and verify proofs using Web2 or Web3 technologies. The project aims to create a privacy respecting infrastructure for enhancing the digital identity system. We strive to strengthen people privacy by minimizing data collection, enabling individuals to access a wide range of valuable services without disclosing sensitive information.
+
+### IMPACT STATEMENTS
+
+Zikuani is a zero-knowledge protocol that allows electronic ID and passport users to prove their identity in a privacy preserving way. It provides a set of tools to authenticate users and verify proofs off/on-chain. We already have developed a Proof-of-Concept you can find in the links section. The project is Open Source under the Apache-2.0 license. In addition we have created an on-chain voting system that uses Zikuani, to allows citizens to participate in electronic election processes, reducing the possibility of fraud while keeping the user identity and their vote private.Network level privacy is a topic that is no usually addressed in the Blockchain space. For our private identity system and voting app its important to protect the network interactions of the users, hence attackers cannot de-anonymize them or identify their activities (such as their votes). We are currently working on developing a way for Zikuani to communicate through the Internet using the Nym mixnet. Network mixnets help to obfuscate the users communication by hiding their IP addresses but also introducing random data and delays to the network packages. This makes nearly impossible to an attacker to monitor the communications and infers facts that allow to find the specific person behind a data exchange.This is a unique project born in LATAM, but with the goal of helping people around the world to protect their privacy while benefiting from the web2 and web3 worlds.
+
+### CONTRIBUTIONS
+
+Digital Identity is being rapidly adopted around the world. Many countries have recently introduced electronic identity cards and apps that allow their citizens to prove statements such as citizenship, residency, ability to work, age (e.g. older than 18), to interact with online services. However, there is a significant privacy concern related to sensitive data included in such cards or apps. A small amount of identity information, such as a national ID number or car plate number, can lead to extensive data collection. Private companies can use this kind of data to harvest citizen data, for instance, by calling and offering them products or services without any previous request or permission. This fact is exceptionally relevant now that big corporations harvest indiscriminate user data to train AI models. Even worse, criminals are collecting this same data to perform identity theft and fraud.Our project addresses these privacy and fraud issues by developing a zero-knowledge proof infrastructure. This solution enables citizens to verify their identity and provide specific information without revealing actual personal details. By minimizing the distribution of sensitive data across various institutions and companies, we can significantly reduce the risk of data theft. On the other hand, we help reduce the risk of fraud by ensuring users are the real individuals and not bots, or not even some else making an impersonation, without requiring personal identifiable information.
+
+CONTRIBUTIONS LINKS[Zikuani repo](https://github.com/kuronosec/zikuani)[zk-voto-digital repo](https://github.com/kuronosec/zk-voto-digital)[Electronic voting Dapp](https://voto.sakundi.io/)[Zikuani Website](https://zikuani.app/en/)
+
+### PAST GRANTS AND FUNDING
+
+DIF 2024 HACKATHON WINNER
+
+Other
+
+3000
+
+USD
+
+ZK BANKAI GRANT
+
+Governance Fund
+
+10000
+
+USD
+
+BLOCKDAG NETWORK GRANT
+
+Governance Fund
+
+10000
+
+USD

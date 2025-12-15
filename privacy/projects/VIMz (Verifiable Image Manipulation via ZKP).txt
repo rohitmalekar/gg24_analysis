@@ -1,0 +1,71 @@
+### VIMz (Verifiable Image Manipulation via ZKP)
+
+Research
+
+Infrastructure
+
+DApps
+
+[0xF48514...A199dD54](https://arbiscan.io/address/0xF48514aef1D0B72D4D913FCc95fe14aBA199dD54)
+
+[zero_savvy](https://x.com/zero_savvy)
+
+<https://www.zerosavvy.xyz/vimz/>
+
+[zero-savvy](https://github.com/zero-savvy)
+
+*THE PROBLEM*Ensuring that images shared online are authentic and trustworthy is increasingly difficult. Even genuine photos often require edits before publication --- cropping, redaction, or color correction --- yet these legitimate modifications blur the line between honest adjustments and malicious manipulations such as AI-generated or doctored content. proprietary tools (e.g., Adobe) and trust closed-source authorities to manage signing keys securely. Beyond the centralization risk, this model exposes the entire creative process, threatening the privacy of photographers, editors, and subjects.However, a fundamentally different approach is also possible.*APPLICATIONS*
+
+-   Trustless, GDPR-compliant media marketplaces
+-   Authentic AI dataset verification
+-   KYC: Privacy-preserving liveness and personhood proofs
+-   Trustworthy but Anonymous journalism/photography
+
+*THE SOLUTION*Using zero-knowledge proofs (ZKPs), we can potentially verify an image's authenticity and editing process without revealing originals or intermediates. But the challenge has always been scalability: ZKPs are computationally expensive over large data arrays like high-resolution images. Especially when considering our setting, an image editor or a photographer that wants to have everything always in the client-side. No server/cloud can be trusted with such sensitive media.VIMz solves this by leveraging folding-based zkSNARKs (like Nova), achieving efficient proof generation for real-world image sizes. It can verify that both original and final images are legitimate and that transformations (crop, resize, tone mapping, etc.) were applied correctly, all while keeping data private. Proofs remain under 11 KB, verification takes less than one second, and 8K (33 MP) images can be proven on a mid-range laptop, with only 10 GB of RAM requirement. We formally analyze the security of VIMz protocol in our paper (published in [PETS 2025 symposium](https://petsymposium.org/popets/2025/popets-2025-0065.pdf))*Current PLAN*We've already made VIMz practical on midrange laptops and integrated it with Sonobe's folding library, giving us full on-chain verifiability. The next big milestone is prover acceleration to make VIMz fast enough to run seamlessly on everyday devices, including mobile. Next phase is to tap into GPU acceleration (both integrated and external) to achieve dramatic speedups and unlock true real-world usability.The current roadmap of the project (✅ Done, 🔳 Todo):
+
+-   ✅ Support a wide range of transformations: crop, contrast, sharpness, blur, grayscale, brightness, redaction, resize.
+-   ✅ Support transformations for different resolutions including 33 MP
+-   ✅ Anonymize both the original image signer and subsequent editors
+-   ✅ Chained edits proved in parallel
+-   ✅ Multi-core CPU parallel proving
+-   ✅ Integrate with Sonobe library:--> on-chain verification of folding zkSNARKs
+-   🔳 Modular smart contract system for tracking and media licensing standard using VIMz proofs
+-   🔳 Browser extension VIMz verifier
+-   🔳 Plugin for image capture/editing mainstream softwares
+-   🔳 Prover/Verifier SDK release
+-   🔳 GPU acceleration in proof generation
+-   🔳 Mobile devices support
+-   🔳 Optimize gas usage of functions in smart contract (e.g. licensing, transferring ownership, submitting transformed images)
+
+*Open-Source MIT License*We made sure the VIMz will always be kept as an open-source standard by building it under Zero Savvy Ltd, a UK nonprofit CLG.
+
+### IMPACT STATEMENTS
+
+VIMz bridges a critical gap between media authenticity and privacy. Its impact includes:
+
+-   Establishing an open alternative to C2PA that does not rely on centralized authorities.
+-   Empowering creators, journalists, and researchers to prove authenticity without revealing identity.
+-   Enabling AI datasets to be verifiably legitimate without exposing sensitive inputs.
+-   Catalyzing adoption of ZKP-based provenance as a new internet primitive.
+
+### CONTRIBUTIONS
+
+VIMz contributes to the public-good cryptography ecosystem by building and maintaining a ZK-based standard for media provenance since 2023. Key contributions include:
+
+-   Open-source ZK circuits for generating proofs of verifiable image manipulation.
+-   A modular proof system compatible with different recursive/folding/general proof backends.
+-   Formally analyzed threat and system model for privacy-preserving provenance for both human and AI-generated content.
+-   Research published at [PETS 2025](https://petsymposium.org/popets/2025/popets-2025-0065.pdf). A new follow up is available on [e-print](https://eprint.iacr.org/2025/1024.pdf).
+-   All code is released under the MIT license to ensure broad reuse and interoperability.
+
+CONTRIBUTIONS LINKS[Github Repo](https://github.com/zero-savvy/vimz)[Project Website:](https://zerosavvy.xyz/vimz)[Published Paper [PETS 2025]:](https://petsymposium.org/popets/2025/popets-2025-0065.pdf)
+
+### PAST GRANTS AND FUNDING
+
+ZK_BANKAI (SOULFORGE) GRANT
+
+Other
+
+10000
+
+USD

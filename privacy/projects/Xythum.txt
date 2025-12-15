@@ -1,0 +1,43 @@
+### Xythum
+
+Research
+
+Infrastructure
+
+DApps
+
+[0xF2A75C...59d3BFD5](https://arbiscan.io/address/0xF2A75Ca947D1FD7cc79Aa6374915189259d3BFD5)
+
+[xythumL](https://x.com/xythumL)
+
+[https://xythum.io](https://xythum.io/)
+
+[Xythum-Labs](https://github.com/Xythum-Labs)
+
+#Xythum ProtocolWe are building Xythum as the unified darkpool-based aggregation layer for all blockchains, solving the privacy trilemma by balancing offchain and onchain privacy, DeFi composability, and compliance. We deliver Zcash-level privacy across every existing chain with one-click simplicity. No downloads, no wallet changes - instant privacy for the entire Web3 ecosystem.Architecture: Our unified multi-asset shielded pool system spans both EVM and UTXO networks, creating a single aggregated privacy layer rather than isolated pools per chain. Users get fully shielded private asset management through threshold-encrypted UTXOs (with Notes for internal balances and Memos for programmable transfers like atomic swaps), all while connecting to public DeFi via composable adaptors that verify proofs and execute callbacks atomically. Every transaction - from simple transfers to complex DeFi interactions - occurs privately within our unified darkpool infrastructure. We enable lightning-fast privacy in a single click, making protection as simple as toggling a switch.Cross-Chain Privacy: Through the use of FROST threshold signatures we are able to coordinate thousands of validators to enable universal private bridging within the unified darkpool. Assets move between Bitcoin, Zcash, Ethereum, and all EVM L2s without bridges, honeypots, or transparent intermediate states. Entry and exit addresses remain completely unlinked. Our unified aggregation layer means liquidity from all chains contributes to the same anonymity set - the world's largest.Universal Interoperability: We've designed Xythum as a protocol-agnostic privacy-as-a-service layer compatible with any blockchain and any DeFi protocol. The same darkpool infrastructure operates identically across all chains, allowing seamless movement between ecosystems. Our privacy adaptors make every existing protocol instantly compatible without those protocols needing modifications. Simple add-on privacy means instant feature enhancement for existing or new protocols.DeFi Integration: Our privacy adaptors act as universal connectors between the darkpool and public protocols. Users interact with Uniswap, Aave, or Hyperliquid while these protocols see only the adaptor address, never the user. We support three adaptor types handling everything from spot swaps to perpetual positions to yield farming. Shield and transact in one click - send, receive, trade or bridge privately without limiting functionality.Execution Layer: We've got a decentralized solver network planned to handle private settlements with recursive ZK proofs, keeping things liquid and MEV-resistant. Our professional solver network fills trading intents from a private mempool using recursive zero-knowledge proofs for atomic settlement. Our relayer network provides network-level privacy through onion routing and enables gas payments in any asset. We deliver zero MEV (eliminating $2+ billion in annual extraction), instant execution, and complete anonymity. Users never worry about front-running again.Offchain Privacy: For offchain privacy, we are implementing a Sphinx-style mixnet of relayers to hide IP metadata and sponsor fees privately, alongside PIR-based queries with OPRF for wallets (stateless) to detect memos without exposing viewing keys or patterns. This ensures complete privacy at every layer - not just transaction content but also network metadata and discovery patterns.Decentralized Compliance: For compliance, weighted threshold encryption on the ciphertexts lets users decrypt their own notes solo, but requires a t-of-n quorum for any authorized access via onchain proposals. This 15-entity quorum requirement prevents any small group from accessing user data without consensus. The high-friction governance process requires public evidence and DAO vote before any compliance action. Surgical decryption targets only specific illicit funds while 99.99% of activity remains completely private. Built into encryption at the core-protocol level, we satisfy both users and regulators through cryptographic enforcement.Impact: Through our infrastructure, protocols can offer "private mode" with simple integration. Fresh account funding reduces wallet setup time while preserving privacy. Users never leave their preferred applications yet gain complete protection. We're providing the $60+ trillion crypto market with Zcash-level privacy that works everywhere, instantly, while solving the privacy trilemma that has blocked mainstream adoption.
+
+### IMPACT STATEMENTS
+
+-   Proved private derivatives trading is viable on EVM networks while eliminating MEV
+-   Validated private trading across multiple ecosystems and developer communities
+-   Enabled Zcash community to access DeFi privately
+-   Help reduce bridge hacks and reduced bridging to minutes
+
+### CONTRIBUTIONS
+
+-   Won Avalanche Hackathon with private perpetuals trading platform
+-   Won ETHGlobal Hackathon with private perpetuals trading platform
+-   Built first Zcash-Ethereum bridge maintaining full privacy
+-   Developed FROST infrastructure for UTXO & EVM multi-chain bridging
+
+CONTRIBUTIONS LINKS[Eth Global Hackathon - 1st place NOX - Dark Perps Exchange](https://x.com/ETHGlobal/status/1972276914120425803)[Avax Hackathon - 1st place - Dark Perps Exchange](https://x.com/Olga58008361/status/1886010439936446912)
+
+### PAST GRANTS AND FUNDING
+
+SELF-FUNDED
+
+Other
+
+0
+
+USD

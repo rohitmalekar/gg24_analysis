@@ -1,0 +1,45 @@
+### ZK-Cards game
+
+Education
+
+[0x155d27...7E1331a7](https://arbiscan.io/address/0x155d27c2107734483d24Bb2E365E188a7E1331a7)
+
+[jayssj1](https://x.com/jayssj1)
+
+<https://zk-cards.netlify.app/>
+
+[ZK-card](https://github.com/ZK-card)
+
+ZK Card Clash is an educational, single‑player card game that turns Zero‑Knowledge (ZK) concepts into hands‑on problem solving. Players tackle real‑world privacy and verification scenarios---like private voting, selective disclosure, and blockchain scaling---by selecting and placing ZK technology cards (e.g., SNARKs, STARKs, zkEVM, Semaphore) into staged solution flows. The game validates solutions against optimal and acceptable paths, scores performance, provides progressive hints, and delivers clear educational feedback while tracking progress locally.
+
+-   Core loop: read a scenario → assemble a solution with ZK cards → submit → receive scoring and tailored feedback → progress through worlds.
+-   Math Foundations: interactive labs (finite fields, elliptic curves, polynomial commitments, hash functions, discrete logarithms) build intuition for the cryptographic math behind ZK.
+-   Content model: data‑driven scenarios and a curated catalog of 40+ cards spanning proof systems, circuit languages, scaling, privacy, and identity---easy to extend with new worlds (e.g., DeFi, Identity).
+-   Tech stack: React + Vite + Zustand, fully client‑side (static hosting, no backend) for fast demos, classrooms, and workshops.
+-   Learning outcomes: measurable progress via completion rates, scores, hint usage, and world unlocks--- demonstrating concrete skill gains for Web3 developers and students.
+
+The result is a scalable, engaging way to teach complex ZK topics through practice, immediate feedback, and progressive challenges.
+
+### IMPACT STATEMENTS
+
+The project lowers the barrier to understanding and applying ZK by replacing dense theory with guided, interactive problem solving:
+
+-   Accelerated learning: learners grasp core ZK concepts and when to use specific technologies through staged, real‑world scenarios and immediate feedback.
+-   Better technical choices: curated cards and scenario flows help developers reason about trade‑offs (privacy, scalability, cost, usability) before implementation.
+-   Educational reach: the static, no‑backend app is easy to deploy for workshops, hackathons, and classrooms, supporting self‑paced and instructor‑led formats.
+-   Community enablement: provides a shared vocabulary and reference for discussing ZK architectures, facilitating collaboration between researchers, builders, and educators.
+-   Open‑source public good: MIT‑licensed content and extensible data model encourage contributions (new scenarios, worlds, and cards) across the ecosystem.
+-   Measurable outcomes: built‑in scoring, hints, and progression enable quantifiable learning metrics (completion, average score, hint usage, time on task) to evaluate impact.
+
+### CONTRIBUTIONS
+
+ZK Card Clash contributes a reusable, open‑source learning framework that translates Zero‑Knowledge (ZK) concepts into interactive, scenario‑driven gameplay:
+
+-   Data‑driven content system for worlds, scenarios, stages, hints, scoring, and feedback (easily extended via world-template.js).
+-   Curated catalog of ZK technology "cards" (proof systems, circuit languages, rollups, privacy apps, identity) with capabilities, limitations, attributes, and icons for intuitive learning.
+-   Hands‑on math labs for foundational cryptography (finite fields, elliptic curves, polynomial commitments, hash functions, discrete logs) with interactive visualizations and quizzes.
+-   Transparent scoring and validation engine supporting optimal and alternative solution paths, plus progressive hints and localized persistence.
+-   Fully client‑side React + Vite + Zustand architecture (MIT‑licensed) enabling frictionless demos, classroom use, and community contributions.
+-   Clear documentation and in‑app tutorial to reduce onboarding time for educators, students, and developers.
+
+CONTRIBUTIONS LINKS[The project is authored by github.com/hackertron](https://github.com/ZK-card/zk-cards)

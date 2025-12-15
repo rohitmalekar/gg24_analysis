@@ -1,0 +1,198 @@
+About us
+========
+
+<aside> <img src="/icons/light-bulb_yellow.svg" alt="/icons/light-bulb_yellow.svg" width="40px" />
+
+AI4PG supports data science and AI research that advances public goods funding through improved decision-making, transparent allocation, and impact assessment. We provide fast grants of **up to USD 10,000** for accepted proposals. We will award a total of **up to** **USD 150,000** in grants across all projects and reviewers.
+
+The program is funded by Gitcoin, Ethereum Foundation, Octant, Seer, Funding the Commons, Hypercerts and GainForest. We are partnering with the academic secretariat of the Ethereum Foundation and we will announce all accepted proposals in *[recerts.org](http://recerts.org/)*.
+
+</aside>
+
+Eligibility
+-----------
+
+<aside> <img src="/icons/checklist_green.svg" alt="/icons/checklist_green.svg" width="40px" />
+
+We welcome applications from researchers worldwide, regardless of institutional affiliation or traditional academic credentials. We particularly encourage proposals from researchers in the Global South, practitioners with on-the-ground experience in public goods funding, independent researchers, and those from non-traditional backgrounds who bring diverse perspectives to AI development.
+
+Our goal is to support innovative ideas from a broad range of voices and experiences that can advance equitable and effective public goods funding systems.
+
+</aside>
+
+r Proposals | Opens Nov 17
+==========================
+
+:dr-casper-1: **Call for Proposals: AI for Public Goods Fast Grants**
+=====================================================================
+
+Artificial intelligence offers unprecedented opportunities to transform how we fund and support public goods. From optimizing grant allocation to predicting project impact, AI methodologies can make funding systems more effective, transparent, and equitable. Yet developing and deploying AI solutions for public goods presents unique challenges that require innovative thinking and diverse perspectives.
+
+The **AI for Public Goods Fast Grants program** provides up to **$10,000** per proposal to accelerate AI research and development that improves public goods funding decision-making. We're seeking projects that address real-world challenges in funding allocation, impact assessment, governance, and community coordination. Whether you're exploring machine learning for grant matching, natural language processing for proposal evaluation, or AI-driven governance tools, we want to hear from you.
+
+This program is designed as a **fast grants initiative**: streamlined applications (max 4-page proposals & max 1000 words), rapid review (within 4 weeks), and focused project timelines (1-6 months). We particularly welcome researchers from non-traditional backgrounds, practitioners with on-the-ground experience, and teams from the Global South who bring diverse perspectives to AI development.
+
+Funded projects will contribute to an emerging field while producing open-source research, datasets, and insights that benefit the broader public goods funding community. All research outputs will be eligible for publication in the Recerts Journal, helping to establish rigorous standards for this growing area of work.
+
+**Ready to help shape the future of public goods funding? Read on for selection criteria and application instructions.**
+
+:dr-casper-3: Selection Criteria
+================================
+
+Proposals will be reviewed through a single-blind process by independent reviewers with expertise in AI, machine learning, and/or public goods funding.
+
+Projects will be evaluated on the following criteria:
+
+**Public goods funding relevance:** Projects should demonstrate a clear link to improving decision-making in public goods funding systems. This includes grant allocation, impact assessment, governance mechanisms, community coordination, or related challenges. The relationship to public goods funding should be explicit and well-articulated.
+
+**AI/ML relevance:** Projects should employ or address AI or ML in a way that is well-motivated and well-scoped for the problem setting. This includes both projects where AI or ML are a central component, as well as those where AI or ML are one among many components. Projects proposing the implementation of AI/ML techniques will not be penalized if other techniques or approaches are found to be better-suited as the project progresses; negative results are welcome if well-tested.
+
+**Pathway to impact:** Proposals should address how their work, if successful, can be deployed or implemented in practice to improve public goods funding systems. This can be addressed in the form of deployments planned as part of the project itself, or via a concrete plan for disseminating the work among relevant organizations, funding platforms, or communities.
+
+**Ethics:** Proposals should explicitly discuss ethical considerations and implications of their work. This includes discussion of relevant stakeholders and equity considerations of the problems addressed, as well as the scope and potential negative social impacts of the proposed solution, including how these risks will be avoided or mitigated in the project's execution. Considerations may include algorithmic bias, fairness in allocation, transparency, privacy, and power dynamics in funding decisions.
+
+**Feasibility:** The scope of the proposed project should be realistic with respect to the associated timeline (3-6 months) and budget (up to $10,000).
+
+**Expertise of team:** The proposed team should have demonstrated expertise in areas of relevance to the development and execution of their project, notably in public goods funding mechanisms and/or AI/ML. Interdisciplinarity and diversity within the proposed team will be viewed favorably. Teams that bring together researchers and practitioners will be viewed favorably.
+
+In addition, the following aspects will be considered favorably during the review process:
+
+**Implementation partners:** Project teams including relevant organizations (funding platforms, grant-making organizations, DAOs, public goods projects, etc.) through whom the proposed work could be impactfully deployed will be viewed favorably.
+
+**Traditionally under-funded areas of work:** Projects that are impactful but may not be traditionally covered through other funding streams will be given priority as part of this call. Examples include projects that may not fit neatly into one discipline or area of study, or projects serving communities with limited access to capital or technical resources.
+
+**Equity:** Projects that explicitly incorporate equity-related considerations --- e.g., through the choice of problem addressed, stakeholders that are partnered with, or methods that promote fairness in allocation --- will be viewed favorably.
+
+**Global South and underrepresented researchers:** Projects led by researchers from the Global South, global majority countries, or traditionally underrepresented backgrounds in AI research will be viewed favorably.
+
+Across the full cohort of grantees, we will additionally seek to allocate grants to represent multiple approaches to AI for public goods, diverse geographic regions, and a mix of theoretical and applied projects.
+
+* * * * *
+
+Application Instructions
+========================
+
+All applications must be received by Jan 11, 2026 at 23:59 (Anywhere on Earth time, UTC-12). Applications should be submitted via **OpenReview (link opens soon)**, which will require the following information.
+
+Basic Information
+-----------------
+
+The submission portal will require:
+
+-   Project title and abstract (250 words maximum)
+-   Name, affiliation (if applicable), email, and country of the Principal Investigator
+-   Names, affiliations, emails, and countries of all co-Investigators (if applicable)
+-   Confirmation that you agree to make all project outputs publicly available under open licenses
+
+**Note:** Only one Principal Investigator may be named per proposal. There is no limit on the number of co-Investigators. Each person may serve as Principal Investigator on only one proposal, but may participate as a co-Investigator on multiple proposals.
+
+Project Description
+-------------------
+
+A detailed description of the project **(maximum 4 pages including figures/tables, using no smaller than 11pt font size, single line spacing, and 1 inch margins and with a maximum of 1000 words)**, with unlimited additional pages allowed for references. The Project Description should be submitted as one PDF attachment and include the following sections:
+
+### 1\. Header
+
+-   Project title
+-   Name and affiliation of the Principal Investigator
+-   Names and affiliations of any co-Investigators
+
+### 2\. Summary (up to 250 words)
+
+A concise description of the proposed project, including the public goods funding challenge addressed and the AI/ML approach to be used.
+
+### 3\. Project Description
+
+A detailed description of the proposed project that addresses:
+
+-   **Problem statement:** What specific challenge in public goods funding decision-making does this project address? What gap does it fill?
+-   **Methodology:** What AI/ML techniques will be employed? Why are these approaches appropriate for this problem?
+-   **Innovation:** What is novel about this approach, application, or context?
+
+### 4\. Team
+
+A description of the relevant expertise of each team member and how it relates to the project. Include any partnerships with funding platforms, grant-making organizations, or public goods projects.
+
+### 5\. Pathway to Impact
+
+A plan for how the proposed work will improve public goods funding systems. Be as specific as possible. Address:
+
+-   Which stakeholders (funding platforms, grant-makers, communities, etc.) will use this work?
+-   How will you engage with end users or stakeholders during the project?
+-   What considerations are necessary to facilitate real-world deployment?
+-   If full deployment is beyond the project scope, what steps will enable future implementation?
+
+### 6\. Deliverables and Timeline
+
+-   **Deliverables:** Concrete outputs expected from the project (e.g., open-source tools, datasets, models, reports, publications, deployed systems)
+-   **Timeline:** Key milestones aligned with deliverables over the 3-6 month project period
+
+### 7\. Ethics and Equity Considerations
+
+A discussion of ethical and equity-related considerations, including:
+
+-   Potential negative impacts or unintended consequences of the proposed solution
+-   How algorithmic fairness, transparency, and accountability will be addressed
+-   Equity considerations in team composition, stakeholder engagement, or problem selection
+-   How risks will be mitigated in project execution
+
+### 8\. Open Access Plan
+
+A brief plan for how project outputs (code, data, models, documentation) will be made publicly available. Describe:
+
+-   What will be released and under what license
+-   Where outputs will be hosted (e.g., GitHub, HuggingFace, academic repositories)
+-   How documentation will ensure outputs are accessible and reusable
+-   Any privacy or ethical considerations affecting data release
+
+Budget and Budget Justification
+-------------------------------
+
+An itemized **Budget (1 page maximum)** indicating the total amount requested (up to $10,000 USD) and how funds will be used, plus a brief **Budget Justification**, submitted as a single PDF file.
+
+Eligible expenses include:
+
+-   Researcher time/stipends
+-   Computing resources and cloud services
+-   Software licenses and development costs
+-   Data collection, annotation, or labeling
+-   Research assistance
+-   Collaboration and workshop costs
+-   Open-source tool development
+-   Publication and dissemination costs
+-   Travel for stakeholder engagement or deployment
+
+The Budget should:
+
+-   Itemize all expenses clearly
+-   Include any indirect costs/overhead (maximum 10% of total budget)
+-   If applicable, indicate other funding sources and which activities they cover to avoid double-funding
+
+We encourage you to use a simple table format that works for your project.
+
+CVs or Biographical Sketches
+----------------------------
+
+Brief CVs or biographical sketches for the Principal Investigator and all co-Investigators, as a **single PDF file (maximum 1 page per person)**. Include:
+
+-   Relevant expertise and experience
+-   Key publications or projects (if applicable)
+-   Links to GitHub, portfolio, or other relevant work
+
+For researchers from non-traditional backgrounds without formal CVs, a biographical sketch describing relevant skills, projects, and experience is perfectly acceptable.
+
+* * * * *
+
+Submission Checklist
+--------------------
+
+Before submitting, ensure you have:
+
+-   [ ] Completed all required fields in the submission portal
+-   [ ] Uploaded Project Description (4 pages and 1000 words maximum + references)
+-   [ ] Uploaded Budget and Budget Justification (1 page total)
+-   [ ] Uploaded CVs/Biographical Sketches (1 page per person maximum)
+-   [ ] Confirmed all PDFs are readable and properly formatted
+-   [ ] Verified your contact information is correct
+
+Questions? Contact us at <grants@gainforest.net>

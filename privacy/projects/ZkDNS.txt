@@ -1,0 +1,38 @@
+### ZkDNS
+
+Research
+
+[0x251e47...a3c389BA](https://arbiscan.io/address/0x251e4707865feba92094D3918DCDAcEDa3c389BA)
+
+[dhananjaypai08](https://x.com/dhananjaypai08)
+
+<https://github.com/dhananjaypai08/ZkDNS>
+
+[dhananjaypai08](https://github.com/dhananjaypai08)
+
+ZkDNS addresses common vulnerabilities in web2/web3 systems such as phishing attacks, DoS attacks, and data breaches by providing an on-chain private computing protocol for DNS lookups.The system enables secure and privacy-preserving DNS record management where:
+
+-   Domain owners can register and manage DNS records on-chain.
+-   Zero-knowledge proofs ensure that DNS queries and updates are verifiable without exposing sensitive data.
+-   A staking-based mechanism deters malicious entries and incentivizes honest participation. This approach enhances transparency, privacy, and security in DNS infrastructure, bridging the gap between traditional DNS and decentralized web technologies.
+
+### IMPACT STATEMENTS
+
+ZkDNS is built to make DNS lookups secure, private, and transparent using zero knowledge proofs. Normally when you query a DNS server, your data and query are exposed which can lead to phishing, tracking, or data leaks. ZkDNS fixes this by letting domain owners register and manage their DNS records on chain while proving the correctness of each query or update without revealing any private info.It helps both web2 and web3 users by turning DNS into something verifiable and trustless. Everything from record type to resolver address and expiry is stored on chain with a staking system that rewards honest users and slashes bad actors. This makes it harder for malicious entries or spoofed records to exist.The impact is that ZkDNS can actually make the DNS layer itself part of the decentralized web infrastructure instead of relying on centralized DNS providers. It creates a bridge between traditional DNS and Ethereum based identity systems like ENS, giving developers and users more control and privacy over how names and addresses are resolved on the internet.
+
+### CONTRIBUTIONS
+
+ZkDNS Whitepaper : https://docs.google.com/document/d/1WLMb759YfcMMLTPVOwptU4EVNyZ3rbpZEYaowruUaGU/edit?usp=sharingZkDNS operates on the principle of verifiable computation using zkProofs:
+
+-   DNS Record Management -- Domain owners create records (e.g., resolver address, record type, expiry date, contact info) stored securely and verifiably.
+-   Zero-Knowledge Proofs -- Queries and updates are accompanied by proofs that validate correctness without revealing underlying sensitive information.
+-   On-Chain Registry -- All records are kept in a decentralized registry, ensuring transparency and immutability. Staking and Incentives -- Users must stake tokens to add records, and malicious entries can result in slashing.
+-   Privacy Preservation -- Sensitive information is stored in an encrypted form, with decryption possible only by authorized entities.
+
+Inspiration and References:
+
+-   zkProofs Introduction -- ZKProof.org
+-   Decentralized Identifiers (W3C)
+-   Ethereum Name Service Concepts
+
+CONTRIBUTIONS LINKS[I brainstormed, researched, built the entire project](https://github.com/dhananjaypai08/ZkDNS)

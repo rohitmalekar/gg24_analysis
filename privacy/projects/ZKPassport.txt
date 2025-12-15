@@ -1,0 +1,51 @@
+### ZKPassport
+
+DApps
+
+Infrastructure
+
+[0x2a438A...b2eE28d8](https://arbiscan.io/address/0x2a438A3f0998b82A25B5c05F8975A446b2eE28d8)
+
+[ZKPassport](https://x.com/ZKPassport)
+
+<https://zkpassport.id/>
+
+[zkpassport](https://github.com/zkpassport)
+
+ZKPassport enables fully private identity verifications leveraging government-issued IDs with an electronic chip, as is the case with most passports and a growing number of national I Ds and residence permits.Through the app, available on iOS and Android, people can scan their ID via NFC, which is encrypted and stored locally on their device, so they remain in full control of their data. From this, and using the power of zero-knowledge proofs, users can selectively disclose information about themselves (e.g., age, nationality, exclusion/inclusion in a list of countries, not a sanctioned person, etc.) to third parties while keeping the rest of their data private.On the developer integration side, our TypeScript SDK allows any developer to integrate with ZKPassport and request their users to verify specific attributes about them through a flexible and easy-to-use query builder. Our SDK handles all the rest, including making sure all the proofs are valid, that the query results match the conditions expected by the developer, and the end-to-end encrypted communication with the mobile phone of the user. Smart contract developers can also leverage ZKPassport thanks to the Solidity verifier, also designed to abstract away the complexity of verifying zero-knowledge proofs and their associated public inputs.Our infrastructure is built using Noir for our circuits and Barretenberg (with UltraHonk) for the proving system. All of the proofs using the sensitive data from IDs are generated client-side, directly on the user's mobile phone, thanks to our mobile proving tooling. Users therefore remain in full control of their data, as nobody else can access it, while leveraging the power of an existing, global, and standardized identity system (i.e., ICAO-compliant IDs).Disclaimer: The team behind ZKPassport also work on Obsidion, currently available as a web wallet on Aztec with the goal of moving and focusing on mobile, leveraging Aztec for private payments and ZKPassport for true privacy-preserving compliance. Both projects are managed by the Obsidion Labs team, and while Obsidion is for profit, ZKPassport itself remains open-source, licensed under Apache 2.0, therefore open for everyone to use and contribute to.
+
+### IMPACT STATEMENTS
+
+Our push for mobile proving with Noir made it easier for developers to use Noir on iOS and Android out of the box. We wanted tools we could use and scale with, and shared them so everyone could build upon them.ZKPassport was integrated for ticket discounts, both for Devcon Southeast Asia (for Southeast Asian nationals) and the upcoming Devconnect in Argentina (for Latin Americans). And our integration on Aztec for validator registration has allowed 30k+ people to verify privately that they own a valid ID and prove they are human to join the Aztec testnet validator set.Today, as we are nearing the full deployment of our smart contracts on mainnets and the version 1.0 of our app, we are pushing for even more integrations in and outside web3.
+
+### CONTRIBUTIONS
+
+To build ZKPassport, we had to build a whole set of tooling and libraries that weren't there to make it possible to verify government-issued IDs using zero-knowledge proofs in a mobile app.One of the first big tasks was to take Noir and Barretenberg and make them work on mobile. Mobile proving was not so much a thing at the time, when we started, as ZK was not really optimized for the constraints of running on a mobile phone. Aztec was already moving in that direction since their core focus is on privacy, but they were focused on the browser at the time. This is how noir.rs and bb.rs were born. With the help of some others, we built a Rust library that could interact with and build Barretenberg for mobile targets (i.e., iOS and Android) and with all the other Rust crates already maintained by Aztec to solve Noir circuits and pass it onto the bb prover. This triggered a closer and closer collaboration with Aztec to make improvements on RAM consumption and speed on mobile phones to reach the stage we are at today with ZKPassport, allowing us to accomplish the goal of full client-side proving while benefiting from the flexibility and generality of Noir. The entirety of the mobile proving tooling is open-source, so anyone wanting to do proving with Noir on mobile can leverage it. Mopro (from PSE) integrated noir.rs and bb.rs to streamline mobile proving with Noir for even broader usage.The other major contributions we made were around the libraries we needed in Noir in order to verify signatures from IDs and make the selective disclosure of attributes possible. With the help of Aztec and some others, this gave birth to libraries for ECDSA signature verification, with support for the broad range of curves used by passports, RSA signature verification, Date parsing and manipulation (for age verification, birthdate, expiry date comparisons), and some others.
+
+CONTRIBUTIONS LINKS[ZKPassport TypeScript SDK](https://github.com/zkpassport/zkpassport-packages/tree/main/packages/zkpassport-sdk)[ZKPassport Circuits](https://github.com/zkpassport/circuits)[ZKPassport Registry Explorer & Map](https://registry.zkpassport.id/)[Noir.rs: Rust Library optimized for mobile proving with Noir and Barretenberg](https://github.com/zkpassport/noir_rs)[Swoir: library built on top of Noir.rs for mobile proving on ios](https://github.com/Swoir)[NoirAndroid: library built on top of Noir.rs for mobile proving on Android](https://github.com/madztheo/noir_android)[Noir ECDSA: library for ECDSA signature verification in Noir](https://github.com/zkpassport/noir-ecdsa)[Noir RSA (originally created by Aztec, but now extended and maintained by us)](https://github.com/zkpassport/noir_rsa)[Poseidon2 TypeScript library](https://github.com/zkpassport/poseidon2)[Noir React Native Starter: the first open-source starter to build mobile app generating proofs with Noir](https://github.com/madztheo/noir-react-native-starter)[Noir Date: library to manage dates in Noir](https://github.com/madztheo/noir-date)
+
+### PAST GRANTS AND FUNDING
+
+GRANT - OBSIDION LABS
+
+Other
+
+100000
+
+USD
+
+PRE-SEED FUNDING - OBSIDION LABS
+
+Other
+
+200000
+
+USD
+
+ANGELS - OBSIDION LABS
+
+Other
+
+100000
+
+USD

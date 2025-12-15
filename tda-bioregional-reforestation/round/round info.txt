@@ -1,0 +1,59 @@
+The Bioregional Reforestation Grants Round
+==========================================
+
+### ➡ Donations are live: <https://app.silvi.earth/bioregion-round-2025>
+
+### **About This Round - GG24 Round**
+
+This round delivers blockchain-native, outcome-based funding for community-led reforestation, aligning with SDGs 13 (Climate Action) and 15 (Life on Land). By leveraging smart contracts on Celo/Allo for milestone-based payouts, AI-driven [Treekipedia 1](https://treekipedia.silvi.earth/search) for species selection, and MRV (Monitoring, Reporting, Verification) via EAS attestations, the initiative funds bioregions as "containers" for bounties. Fostering reciprocity: donors seed pools, stewards verify via [Silvi app](https://app.silvi.earth/), boosting TVF and Web3 adoption. This replicable model can scale to agriculture, biodiversity, and other regenerative initiatives
+
+### Donating to your favorite Bioregion is easy:
+
+You can donate to the round here: [Bioregional Reforestation Grant Round](https://app.silvi.earth/bioregion-round-2025)
+
+1.  Add Bioregions to your cart.
+
+2.  Click - 🛒 View Cart
+
+3.  Add additional Bioregions
+
+4.  For Crypto click - Connect Wallet to Donate
+
+    For Credit Cards click - Donate with Card/Bank
+
+### 📬 **Contact & Support**
+
+[**Join Our Telegram Community**](https://t.me/+uEjl0T7enDkyMWZh)
+
+### 🕺🏼 Round Operators
+
+Silvi Protocol
+
+-   Telegram: [t.me/SilviProtocol](https://t.me/SilviProtocol)
+-   Twitter: [x.com/SilviProtocol](https://x.com/SilviProtocol)
+
+Climate Coordination Network
+
+-   Telegram: [t.me/climatecoordinationnetwork](https://t.me/climatecoordinationnetwork)
+-   Twitter: [x.com/Climate_Program](https://x.com/Climate_Program)
+
+### **Funding Mechanism**
+
+**Phase 1: Bioregional Level Allocation (**11/17/25 - 12/30/25**)**
+
+-   Funds from the $100k matching pool will be allocated using a QF-style round ([more about QF - Quadratic Funding](https://www.wtfisqf.com/)) to determine the percentage of funding distributed to each bioregion. Individuals and Organizations will donate to one or more bioregions to signal their support. After the funding round concludes we will match these donations with a portion of the $100k matching fund. This will enable us to crowdfund additional funding for the initiative while also utilizing the community's feedback to distribute funds to the bioregions.
+
+**Phase 2: Project Level Allocation (1/15/26-7/15/26)**
+
+-   Bounties for reforestation are established in each bioregion.
+-   Outcome-based funding via Silvi's app: Smart contracts on Celo/Allo for milestone payouts (65% planting, 35% survival).
+-   EAS attestations serve as decentralized MRV for proof of planting and survival.
+-   Treekipedia AI ensures species selection matches local soil, climate, and biodiversity data.
+
+### **🌍 Who We're Funding**
+
+-   **Scope**: 8 vetted global bioregions + 1 global pool for bounties outside these regions.
+-   **Vetting Criteria**:
+    -   At least one active reforestation group with a proven track record.
+    -   Preference for graduates of the BioFi Cultivator Program.
+    -   Treekipedia-led due diligence for impact categories (e.g., Red Spruce in Appalachia, Polylepis Australis in Dry Chaco Andean Mountains).

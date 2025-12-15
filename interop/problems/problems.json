@@ -6,7 +6,7 @@
         "name": "Fragmented Multi-Chain Visibility",
         "level": "problem_type",
         "problem_statement": "Ethereum’s growth across L1, L2s, rollups, and app-specific chains has created silos of data, liquidity, and activity. Core ecosystem metrics and behaviors remain scattered, inconsistent, or locked behind proprietary interfaces. This fragmentation reduces the ability of builders, funders, and policymakers to assess ecosystem health reliably.",
-        "why_it_matters": "Without unified visibility, the network becomes opaque, undermining credible neutrality and weakening coordination. Funders cannot allocate capital effectively, builders duplicate efforts, and systemic risks remain hidden. A fragmented view reduces Ethereum’s institutional legitimacy as an analyzable, transparent ecosystem. :contentReference[oaicite:0]{index=0}",
+        "why_it_matters": "Without unified visibility, the network becomes opaque, undermining credible neutrality and weakening coordination. Funders cannot allocate capital effectively, builders duplicate efforts, and systemic risks remain hidden. A fragmented view reduces Ethereum’s institutional legitimacy as an analyzable, transparent ecosystem.",
         "solution_shape": "Open data standards, shared schemas, cross-chain explorers, analytics layers, and unified measurement systems that consolidate multi-chain activity into coherent, verifiable formats.",
         "positive_signals": [
           "cross-chain analytics",
@@ -31,7 +31,7 @@
         "name": "Lack of Shared Interop Standards",
         "level": "problem_type",
         "problem_statement": "Ethereum’s rollups and applications lack consistent, widely adopted interoperability standards for messaging, execution, and intent schemas. This forces each project to create custom integrations and adapters, increasing operational complexity and reducing cross-chain reliability.",
-        "why_it_matters": "When standards remain fragmented, interoperability becomes costly and brittle. Builders reinvent the same components, ecosystems drift apart, and cross-chain interactions become error-prone. Ethereum loses scalability advantages and the network becomes harder to coordinate as it grows. :contentReference[oaicite:1]{index=1}",
+        "why_it_matters": "When standards remain fragmented, interoperability becomes costly and brittle. Builders reinvent the same components, ecosystems drift apart, and cross-chain interactions become error-prone. Ethereum loses scalability advantages and the network becomes harder to coordinate as it grows.",
         "solution_shape": "Development, refinement, and adoption of shared protocols such as messaging standards, intent schemas, execution frameworks, and reference implementations that reduce friction between chains and applications.",
         "positive_signals": [
           "ERC/EIP standard work",
@@ -56,7 +56,7 @@
         "name": "Underdeveloped Multi-Chain Coordination Infrastructure",
         "level": "problem_type",
         "problem_statement": "APIs, SDKs, solver frameworks, and execution environments needed for seamless cross-chain interaction are still early-stage or missing. Builders must work around inconsistent interfaces across L1s, L2s, and application chains, raising integration costs and slowing innovation.",
-        "why_it_matters": "Without robust coordination infrastructure, applications cannot reliably operate across rollups. This limits user mobility, stalls adoption of advanced architectures, and restricts the emergence of agent-based and intent-based systems. Fragmented infra erodes developer experience and increases systemic duplication. :contentReference[oaicite:2]{index=2}",
+        "why_it_matters": "Without robust coordination infrastructure, applications cannot reliably operate across rollups. This limits user mobility, stalls adoption of advanced architectures, and restricts the emergence of agent-based and intent-based systems. Fragmented infra erodes developer experience and increases systemic duplication.",
         "solution_shape": "Shared SDKs, solver frameworks, routing infrastructure, execution environments, and open APIs that make cross-chain coordination accessible and reliable for developers.",
         "positive_signals": [
           "multi-chain SDKs",
@@ -81,7 +81,7 @@
         "name": "Low Adoption of Intent-Based Architectures",
         "level": "problem_type",
         "problem_statement": "The Open Intents Framework (OIF) remains early in adoption, with limited analytics, tooling, solver coverage, and production pilots. Without measurement systems and usable infrastructure, intent-based execution cannot become a network-wide standard.",
-        "why_it_matters": "OIF has been identified as a top priority for Ethereum’s interoperability roadmap. Slow adoption limits the shift toward agent-based systems and more efficient cross-chain coordination. Without evidence-driven traction, the ecosystem risks fragmented intent implementations. :contentReference[oaicite:3]{index=3}",
+        "why_it_matters": "OIF has been identified as a top priority for Ethereum’s interoperability roadmap. Slow adoption limits the shift toward agent-based systems and more efficient cross-chain coordination. Without evidence-driven traction, the ecosystem risks fragmented intent implementations.",
         "solution_shape": "Measurement systems, analytics, solver frameworks, SDKs, adoption pilots, and open tooling that demonstrate feasibility and track OIF performance across chains.",
         "positive_signals": [
           "intent execution analytics",
@@ -106,7 +106,7 @@
         "name": "Opaque and Unverifiable Ecosystem Metrics",
         "level": "problem_type",
         "problem_statement": "Critical data about usage, risk, governance, and cross-chain flows remains locked behind proprietary platforms or inconsistent methodologies. Without open, verifiable metrics, builders and funders cannot make evidence-based decisions, and the ecosystem loses transparency.",
-        "why_it_matters": "Lack of open analytics undermines Ethereum’s credible neutrality and limits its ability to serve as an analyzable global financial system. Reduced transparency weakens policy discussions, risk management, and allocation decisions. :contentReference[oaicite:4]{index=4}",
+        "why_it_matters": "Lack of open analytics undermines Ethereum’s credible neutrality and limits its ability to serve as an analyzable global financial system. Reduced transparency weakens policy discussions, risk management, and allocation decisions.",
         "solution_shape": "Open analytics platforms, public methodologies, transparent measurement systems, and reproducible datasets that enable evidence-based decision making.",
         "positive_signals": [
           "open analytics dashboards",
