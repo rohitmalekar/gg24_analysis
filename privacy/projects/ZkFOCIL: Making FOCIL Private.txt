@@ -1,0 +1,56 @@
+### ZkFOCIL: Making FOCIL Private
+
+Research
+
+[0x221740...8B3ec9D9](https://arbiscan.io/address/0x2217400DBBbbf5b1377472c5CF1dD3D58B3ec9D9)
+
+[shreyas_twts](https://x.com/shreyas_twts)
+
+<https://github.com/shreyas-londhe>
+
+[shreyas-londhe](https://github.com/shreyas-londhe)
+
+This project implements BLS12-381 cryptographic primitives in Barretenberg to enable privacy-preserving validator membership proofs for two critical Ethereum protocols: zkFOCIL (censorship resistance via anonymous inclusion lists) and Proof of Validator (DAS network Sybil attack mitigation).Both protocols require validators to prove possession of a secret key corresponding to a public key in the validator set without revealing their identity. This demands in-circuit BLS12-381 scalar multiplication over BN254's native field---a non-trivial operation requiring custom bigfield arithmetic for the 381-bit base field and optimized elliptic curve primitives.
+
+### Technical Approach
+
+We will extend Barretenberg's existing bigfield library to support 381-bit modular arithmetic using optimal limb decomposition (5 limbs of 102 bits), implement efficient G1 point addition and doubling using projective coordinates, and construct variable-base scalar multiplication with windowing optimization. Analysis shows this requires approximately 18 gates per field multiplication---a 2x increase over BN254 operations.
+
+### Team Credibility
+
+This proposal builds on our [zkFOCIL benchmarking grant](https://hackmd.io/@suyash67/ryFVYSW6Je), where we implemented and benchmarked linkable ring signatures across Noir, Halo2, and Gnark. Our team includes:
+
+-   Shreyas Londhe: Core Developer @ [Provekit](https://github.com/worldfnd/ProveKit) Core cryptographic primitives for zkEmail (PSE-funded)
+-   Suyash Bagad: [Fast sumcheck for small fields](https://eprint.iacr.org/2024/1046.pdf), Blake2s/Pedersen circuits for Aztec's UltraPlonk
+
+### Deliverables
+
+Production-ready C++ library with BLS12-381 field arithmetic, G1 scalar multiplication, complete test coverage, and benchmarks (gate count, prover/verifier time) integrated into Barretenberg. This provides reusable infrastructure for any protocol requiring BLS12-381 operations in Barretenberg circuits, directly supporting Ethereum's scaling and censorship resistance roadmap.
+
+### IMPACT STATEMENTS
+
+Immediate Protocol Enablement: This implementation unblocks two active Ethereum security proposals. zkFOCIL (EIP-7805) requires anonymous validator signatures to prevent censorship threats but lacks efficient circuit implementations. Proof of Validator needs cryptographic foundations to secure DAS networks against Sybil attacks. Both are stalled without production-ready BLS12-381 primitives in Barretenberg.Censorship Resistance: zkFOCIL directly addresses Ethereum's censorship vulnerability where block proposers can threaten known includers. By enabling privacy-preserving membership proofs, validators can publish inclusion lists anonymously, making coordination attacks economically infeasible. This strengthens Ethereum's core credible neutrality guarantee.Scaling Security: Proof of Validator prevents adversaries from flooding DAS DHT networks with fake nodes to compromise data availability---a critical attack vector as Ethereum scales through danksharding. Without this defense, the entire DA sampling infrastructure is vulnerable.Ecosystem Multiplier: Beyond these two protocols, this library provides reusable BLS12-381 operations for any Barretenberg project. Current alternatives require protocol teams to each implement complex non-native field arithmetic from scratch---duplicating effort and introducing security risks. This consolidates that work into auditable, benchmarked infrastructure.Timing: Both protocols are in active development with implementation blockers. Delivering this now accelerates their deployment timelines and provides concrete performance data for protocol design decisions currently operating on theoretical estimates.
+
+### CONTRIBUTIONS
+
+This project delivers production-grade BLS12-381 cryptographic primitives for Barretenberg, enabling two critical Ethereum security protocols to move from research to implementation.Direct Impact:
+
+-   zkFOCIL: Enables anonymous inclusion lists for censorship-resistant block building, preventing proposers from threatening includers
+-   Proof of Validator: Secures DAS networks against Sybil attacks by creating a high-trust DHT layer restricted to staked validators
+
+Technical Contributions:
+
+-   Extends Barretenberg's bigfield library to support 381-bit field arithmetic with optimized limb decomposition
+-   Implements efficient BLS12-381 G1 curve operations (point addition, doubling, scalar multiplication) using projective coordinates
+-   Provides reusable infrastructure for any Barretenberg-based protocol requiring BLS12-381 operations
+
+Ecosystem Value:
+
+-   Open-source C++ library with complete documentation and benchmarks
+-   Reduces future implementation burden for protocols needing non-native BLS12-381 operations in circuits
+-   Strengthens Ethereum's censorship resistance and scaling infrastructure
+-   Provides concrete performance data (gate counts, proving times) for protocol designers
+
+This is foundational cryptographic infrastructure that multiple Ethereum improvement proposals depend on but currently lacks efficient circuit implementations.
+
+CONTRIBUTIONS LINKS[ZkFOCIL Base Benchmarks](https://github.com/shreyas-londhe/zkFOCIL-impl/tree/sb/ipa)[Core Developer](https://github.com/worldfnd/ProveKit)[Research on Optimizing Sumcheck Proving Time](https://eprint.iacr.org/2025/1117.pdf)

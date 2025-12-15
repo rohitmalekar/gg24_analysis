@@ -1,0 +1,53 @@
+A. Solution Development Grants
+------------------------------
+
+The Solution Development Grants Program allocates targeted development and expansion funding to 6--10 proven, onchain, open-source solutions. The goal is to accelerate the development of new SDG-aligned features or enable expansion into new development markets, maximizing Ethereum's impact on global sustainable development.
+
+Matching Pool Aim:  ~$182.5K post fees
+
+Round Mechanism:\
+Funding will be allocated using a hybrid approach:
+
+-   Conviction Voting (75%): Expert-driven allocation to ensure solutions with strong impact potential are prioritized.
+
+-   Impact Retro (25%): Distributed based on verifiable impact at the 4-month marks, leveraging Karma to reward measurable, high-leverage outcomes.
+
+This structure ensures a community-powered kickstart, while reserving additional flows for solutions demonstrating tangible impact.
+
+Round Operators: LuukDAO (CeloPG) with support from Erik Brinde (Avantgarde Finance)
+
+Sensemaking Report: [Ethereum For The World - Sensemaking Report](https://gov.gitcoin.co/t/ethereum-for-the-world-sensemaking-report/)
+
+#### Core Criteria
+
+Projects considered for the Solution Development Grants Program will be evaluated based on the following core criteria, designed to optimize for real-world impact, scalability, and ecosystem legitimacy:
+
+-   SDG Alignment:
+
+-   Projects must directly contribute to one or more Sustainable Development Goals.
+
+-   Features should have clear, measurable pathways to social or environmental impact.
+
+-   Scalability:
+
+-   Solutions should demonstrate potential to expand into new geographies, demographics, or sectors.
+
+-   Emphasis on enabling widespread adoption and replicability.
+
+-   Innovation & Feature Expansion:
+
+-   Development of new functionality or integrations that meaningfully enhance the solution's contribution to SDGs.
+
+-   Leveraging Ethereum's infrastructure to unlock previously unattainable efficiencies or transparency.
+
+-   Sustainability & Adoption Pathways:
+
+-   Clear strategies for long-term maintenance, growth, and adoption, including community engagement, funding sustainability, and open-source contributions.
+
+-   Preference for solutions with proven traction or pilot success.
+
+-   Open-Source, Onchain Orientation:
+
+-   Projects must be open-source and leverage onchain infrastructure, ensuring transparency, auditability, and accessibility.
+
+By applying these criteria, the program aims to scale Ethereum's real-world impact, strengthen the ecosystem, and validate blockchain as essential infrastructure for sustainable development.

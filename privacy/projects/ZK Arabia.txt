@@ -1,0 +1,31 @@
+### ZK Arabia
+
+Education
+
+[0x1F512a...7B2aC5ae](https://arbiscan.io/address/0x1F512aDDf482B8a3FcEd3C3Ad04991B37B2aC5ae)
+
+[zcasharabia](https://x.com/zcasharabia)
+
+<https://zcasharabia.xyz/>
+
+ZK Arabia is a community-driven educational initiative that aims to raise awareness about digital privacy and zero-knowledge (ZK) technologies in the Arabic-speaking world. It includes Zcash Arabia, a dedicated platform focused on Zcash and privacy-preserving tools, alongside Cryptoblarabi.com which features articles, videos, games, and infographics that make privacy education accessible to everyone.At the core of the project lies Zcash Arabia, a platform dedicated to explaining Zcash's privacy technology, shielded transactions, and its role in financial privacy. In parallel, the initiative collaborates with Cryptoblarabi.com, which provides a wide range of educational resources --- including technical and non-technical articles, explainer videos, interactive privacy games, infographics, and news updates --- all in Arabic.Through social media (mainly X), ZK Arabia consistently shares updates, visual explainers, and discussions about privacy tools, encryption technologies, and ZK use cases. Our mission is to make privacy knowledge accessible and engaging for both beginners and professionals in the region.We believe privacy is a human right, not a privilege. By combining educational content, interactive learning, and real examples like Zcash, ZK Arabia helps bridge the gap between privacy technology and public understanding in one of the world's most underserved regions in digital education.
+
+### IMPACT STATEMENTS
+
+Our work has already generated a measurable impact in the Arabic privacy education space:Built an active community with over 550 followers on Twitter and 200 members on Telegram, engaging daily in privacy-related discussions and a lot of views in X (~1000 views per post) and Youtube (~250 views per video).Published dozens of Arabic articles and videos, many of which now appear on the first page of Google search results for privacy and Zcash-related keywords --- proving strong SEO visibility and educational reach.Educated thousands of Arabic speakers who previously lacked access to privacy-focused resources.Established Zcash Arabia, the first Arabic hub dedicated to digital privacy, shielded transactions, and ZK learning.Encouraged developers and users across the MENA region to explore privacy tools and understand how zero-knowledge technologies can protect personal data.Normalized the discussion of privacy as a human right within Arabic blockchain and crypto communities.Contributed to a more inclusive global privacy ecosystem, expanding educational resources beyond English-speaking audiences.Through continuous education, multimedia content, and active community engagement, ZK Arabia empowers people to understand and protect their digital privacy in the decentralized era.
+
+### CONTRIBUTIONS
+
+ZK Arabia has actively contributed to expanding privacy education in the Arabic-speaking world through multiple community-driven initiatives. Our contributions include:Publishing over 10+ in-depth Arabic articles explaining privacy and zero-knowledge (ZK) technologies.Running the Zcash Arabia platform, dedicated to teaching users about shielded transactions, ZK proofs, and digital privacy.Producing technical and non-technical videos that make complex privacy topics accessible to a wide audience.Creating interactive games and infographics to help users understand privacy concepts in an engaging way.Sharing regular privacy news and visual explainers on Twitter to increase awareness about privacy rights and tools in Web3.Together, these actions have helped localize privacy knowledge and bridge the gap between advanced cryptographic technology and Arabic learners, developers, and blockchain users.
+
+CONTRIBUTIONS LINKS[Website for Zcash in Arabic](https://zcasharabia.xyz/)[ZK Game (Escape room)](https://zcashgame1.vercel.app/)[ZK Game (Treasure hunt)](https://zcash2.vercel.app/)[X account ](https://x.com/ZcashArabia)[X account](https://x.com/cryptoblarabi)[Articles](https://cryptoblarabi.com/?s=zk)[Videos](https://www.youtube.com/@ZcashArabia)[Videos](https://www.youtube.com/@Cryptola/search?query=zcash)[Articles](https://cryptoblarabi.com/?s=zcash)
+
+### PAST GRANTS AND FUNDING
+
+ZEC HUB
+
+Governance Fund
+
+4000
+
+USD

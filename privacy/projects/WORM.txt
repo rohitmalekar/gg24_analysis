@@ -1,0 +1,40 @@
+### WORM
+
+Research
+
+Infrastructure
+
+[0x8dc77b...afa1c0bb](https://arbiscan.io/address/0x8dc77b145d7009752d6947b3cf6d983cafa1c0bb)
+
+[EIP7503](https://x.com/EIP7503)
+
+[https://worm.cx](https://worm.cx/)
+
+[worm-privacy](https://github.com/worm-privacy)
+
+WORM implements a practical, deployable alternative to EIP-7503's idea of re-minting secretly-burnt ETH. Rather than changing Ethereum's base protocol, WORM is a separate token that is minted when users irreversibly burn ETH and can later be redeemed or sold back for ETH. Using zero-knowledge proofs, a user proves possession of a valid on-chain burn (an account/state entry containing X ETH that was consumed) without revealing which account or transaction performed the burn, yielding strong plausible deniability: observers cannot distinguish ordinary wallet activity from privacy burns. This approach preserves the privacy goals of EIP-7503 while remaining implementable today as an L2/contracted token, avoiding protocol changes to Ethereum core.
+
+### IMPACT STATEMENTS
+
+Our main goal is to:
+
+1.  Introduce the concept of private-proof-of-burn mining to people
+2.  Promote the base layer implementation of EIP-7503
+
+We see ourselves as a team which is quite impactful on integration of native privacy into Ethereum.
+
+### CONTRIBUTIONS
+
+We are implementing the very first implementation of an EIP-7503-style privacy protocol. We will build zero-knowledge proof circuits and ERC-20 private-proof-of-burn-mintable token
+
+CONTRIBUTIONS LINKS[Website](https://worm.cx/)[Github Repo](https://github.com/worm-privacy)[X Account](https://x.com/EIP7503)
+
+### PAST GRANTS AND FUNDING
+
+JUICEBOX (PUBLIC DONATION CAMPAIGN)
+
+Other
+
+180000
+
+USD

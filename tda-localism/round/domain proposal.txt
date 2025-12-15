@@ -1,0 +1,66 @@
+B. Local Funding
+----------------
+
+The Local Funding program will support a small cohort of local hubs to design and operate their own funding round or program. Local rounds can have diverse scopes --- from supporting local regenerative initiatives and NGOs to civic pilots, hackathons, learning hubs, cultural projects, or Web3-aligned builders --- but all with the shared outcome of growing meaningful adoption and utilization of Ethereum in real communities.
+
+Matching Pool Aim: ~$155K post fees
+
+Lead Operators: Monty Merlin (Regen Coordination) and Benjamin Life & Patricia Parkinson (OpenCivics)
+
+Key Support & Advisors: [Regen Coordination Council](https://www.regencoordination.xyz/mission-north-stars-coordination-council) + emerging network [Trust Graph](https://www.notion.so/opencivics/Initiative-GG24-Prototype-25b06d2570f280eb9278f75b55a33b24)
+
+Sensemaking Reports: 
+
+1.  [Ethereum Localism x Regen Coordination](https://gov.gitcoin.co/t/ethereum-localism-x-regen-coordination-gitcoin-3-0-sensemaking-report/)
+
+2.  [Open Civic Innovation](https://gov.gitcoin.co/t/open-civic-innovation-gitcoin-3-0-sensemaking-report/)
+
+### Key Criteria:
+
+The following criteria will guide Local Funding Program round eligibility and selection:
+
+-   Program Scope
+
+-   Clear articulation of what and who the local hub aims to fund, why this matters, and how it connects to broader intended outcomes.
+
+-   The scope should be right-sized: available resources (co-funding + GG24 match) must meaningfully support the targeted number of projects.
+
+-   Programs should be ready to start by late 2025 (or Jan 2026 latest).
+
+-   Local Fundraising
+
+-   Demonstrated ability to secure local co-funding from municipalities, NGOs, sponsors, or ecosystem partners.
+
+-   Minimum requirement: $5k raised/committed from outside sources to apply.
+
+-   More local funds = stronger proposal and higher potential GG24 match (up to 2× match, max $20k per local round/program).
+
+-   Applicants may also include[  Fair Fees](https://gov.gitcoin.co/t/temp-check-fair-fees-for-gg24/) in their program budgets to cover operational costs.
+
+-   Impact Measurement & Onchain Activity
+
+-   A clear pathway to capture and report both real-world outcomes (ecological, social, civic, educational, or cultural) and onchain activity.
+
+-   Commitment to credible impact reporting (qualitative + quantitative), with openness and ability to implement Web3-aligned approaches (e.g. Karma GAP, Hypercerts v2).
+
+-   Team Experience & Capability
+
+-   Demonstrated ability to deliver and operate a funding program (governance, partnerships, outreach, treasury, reporting).
+
+-   Ideally anchored in an existing hub, chapter, or coalition with trusted community relationships.
+
+### GG24 Round Mechanism
+
+The GG24 Local Funding Program's round will pilot a multi-stage governance flow that balances rigor, accessibility, and experimentation.
+
+-   Register Interest Form ([link](https://tally.so/r/wd7N7N)) will provide the initial entry point for applicants and serve as the first step in validation and support.
+
+-   Karma will be used for formal application intake and structured expert review.
+
+-   Trust Graph will be piloted as a governance primitive, using peer-to-peer attestations to validate both the expert group guiding the round and the communities applying. This "web-of-trust" aims to ensure only credible, well-referenced applicants move forward while also testing a reusable, reputation-aware governance layer.
+
+-   Conviction Voting may be used for final allocation, allowing expert and community signals to build over time before funds are released.
+
+The exact configuration will be confirmed as Trust Graph development and testing55 continues, but GG24 will serve as an MVP pilot. The outcome will not only fund local programs but also generate learnings and blueprints for future rounds.
+
+👉 For a more detailed exploration of the planned mechanism and process, see the draft doc:[  Local Funding Programs GG24 --- Governance Processes & Trust Graph Pilot Plan](https://docs.google.com/document/d/1orickDoHMNgRZg7ZI3mL2eLRnzT56Lwo3kQ5WWLjA_o/edit?usp=sharing)

@@ -1,0 +1,244 @@
+About Localism Fund
+===================
+
+<aside> <img src="/icons/push-pin_gray.svg" alt="/icons/push-pin_gray.svg" width="40px" />
+
+Jump back to  [Localism Fund | Public Portal](https://www.notion.so/Localism-Fund-Public-Portal-27306d2570f2804db628ed5bb648a65b?pvs=21)
+
+</aside>
+
+**Localism Fund** exists to support credible local networks and place-based groups to nurture political, economic, cultural, and ecological localism, while demonstrating Ethereum as a foundational infrastructure for this purpose. The fund provides grants, guidance, and hands-on support to empower local capacity-building; bridging global tools and knowledge into practical, locally rooted outcomes.
+
+### Objectives
+
+-   **Strengthen communities and economies** by empowering local hubs to integrate Ethereum-powered tools into their coordination, governance, and resource flows.
+-   **Advance Ethereum adoption and legitimacy** by demonstrating practical, real-world use cases beyond speculation, while growing key on-chain metrics.
+-   **Catalyze tangible local impact** across political, economic, cultural and ecological dimensions.
+-   **Build open knowledge commons** by documenting and sharing resources that enable replication and scaling of successful local models.
+-   **Support a global-local network** that connects diverse local hubs, rounds, and activities into a coherent movement for Ethereum Localism.
+
+### Our Partners
+
+![partnerlogos-07.png](attachment:ae00c08e-18ed-4ac2-8508-ff23a822b7fe:partnerlogos-07.png)
+
+![partnerlogos-01.png](attachment:77dc2850-eae0-49dc-a6d1-b361e4d61b3b:partnerlogos-01.png)
+
+![partnerlogos-04.png](attachment:c3ab6b4a-03c4-49d2-b5d0-5836b0e2bc2b:partnerlogos-04.png)
+
+![partnerlogos-02.png](attachment:638a5bec-3780-429c-9f75-79a7dffa8ae9:partnerlogos-02.png)
+
+![partnerlogos-03.png](attachment:5cec19da-7236-45ae-a1af-a1e3b77497e0:partnerlogos-03.png)
+
+![partnerlogos-08.png](attachment:a674389d-3968-4abf-aec2-401474ac9da6:partnerlogos-08.png)
+
+![New EE.png](attachment:ccf9086e-363d-4222-a168-e1edcc0b2d58:New_EE.png)
+
+![partnerlogos-09.png](attachment:7fe2bb3e-2674-4ed8-b98e-4e97c113c6bb:partnerlogos-09.png)
+
+![partnerlogos-06.png](attachment:714e98a4-7b8c-4574-affc-da5840b3209b:partnerlogos-06.png)
+
+**Stewardship Partners**
+
+-   **OpenCivics Network** - Co-steward providing civic innovation expertise, network coordination, and operational support
+-   **Regen Coordination** - Co-steward bringing regenerative finance, network coordination, localism strategy, and ecosystem connections
+
+**Development Partners**
+
+-   **Ethereum For the World (FTW)** - Ecosystem development and adoption strategy support
+
+**Funding Partners**
+
+-   **Gitcoin** - Coordination infrastructure and GG24 funding cycle coordination
+-   **Targeted Development and Adoption (TDA)** - Domain-level strategic alignment and matching pool contribution
+-   **Celo Public Goods** - Matching pool contribution and regenerative finance expertise
+-   **Ma Earth** - Matching pool contribution supporting ecological and community-rooted initiatives
+-   **Ethereum Foundation / Ethereum Everywhere** - Matching pool contribution and strategic support for Ethereum adoption
+
+**Technical Partners**
+
+-   **KarmaGAP** - Application management platform for grantee submissions and tracking
+-   **TrustGraph** - Attestation infrastructure enabling peer-based evaluation and reputation systems
+
+What is Localism?
+-----------------
+
+Localism is the belief and practice that decision-making, governance, and economic activity should be **rooted in local communities** rather than centralized authorities or distant institutions. It emphasizes the value of **place-based solutions**, where people closest to a community's challenges are seen as best positioned to solve them. Here are some key dimensions of localism:
+
+### Political Localism
+
+-   Advocates for decentralizing power from national or federal governments to regional and municipal levels.
+-   Supports policies like community councils, participatory budgeting, and local referenda.
+-   Example: Cities creating their own climate policies even if national governments lag.
+
+### Economic Localism
+
+-   Promotes local ownership and circulation of wealth (e.g., co-ops, local businesses, farmers' markets, and community currencies).
+-   Critiques globalization when it undermines local resilience, jobs, or ecosystems.
+-   Example: "Buy local" campaigns or community-supported agriculture (CSA).
+
+### Cultural Localism
+
+-   Values local identity, traditions, and heritage over homogenization.
+-   Sees community ties, local stories, and shared practices as essential to belonging and resilience.
+-   Example: Bioregional movements that connect culture with ecosystems.
+
+### Ecological Localism
+
+-   Tied to sustainability and regeneration: shorter supply chains, community stewardship of land and commons, and bioregional approaches.
+-   Example: Community energy projects or watershed-based governance.
+
+### Ethereum Localism
+
+We believe that decentralized and distributed technologies enabled by Ethereum technologies are critical enablers of resilient and effective localism, providing credibly neutral infrastructure for community-coordination, governance, and resource management.
+
+Frequently Asked Questions
+--------------------------
+
+### How do grants work?
+
+Localism Fund operates through a nested funding model where resources flow through aligned networks to reach local communities. We organize funding into **thematic rounds** that address specific opportunities for locally-rooted adoption and impact. Within each round, we **local hubs** --- local networks, organizations, or coalitions that run their own funding processes in their communities. These then direct resources to **local activities**.
+
+Each local hub manages its own fund allocation decisions locally. They know their communities, understand local needs, and have the relationships to identify what will create genuine impact. We don't dictate how they spend funds or what metrics they use --- that authority rests with them. What we provide is matching pool resources, evaluation support through our expert network, and connection to a broader ecosystem of learning. Programs report back on their activities and impact, creating attestations that flow up through the network and help everyone learn what works across different contexts.
+
+Our Funding Partners can work with Localism Fund to allocate resources to local communities in ways that align their global strategic priorities --- from Ethereum adoption to regeneration --- with outcomes rooted in political, economic, cultural, or ecological localism. By funding through our network rather than trying to evaluate individual local projects, partners can achieve their strategic goals while respecting local autonomy and context. This approach allows global resources to reach hyperlocal initiatives while maintaining both strategic coherence and community sovereignty.
+
+### Who are your partners?
+
+Partnerships play a critical role in Localism Fund, spanning stewardship, funding, technical infrastructure, and ecosystem development. Together, our partners enable locally-led programs while advancing the shared vision that meaningful technology adoption must be place-based and contextualized through real relationships between local builders, activists, and changemakers.
+
+**Stewardship Partners**
+
+-   **OpenCivics Network** - Co-steward providing civic innovation expertise, network coordination, and operational support
+-   **Regen Coordination** - Co-steward bringing regenerative finance, network coordination, localism strategy, and ecosystem connections
+
+**Funding Partners**
+
+-   **Gitcoin** - Coordination infrastructure and GG24 funding cycle coordination
+-   **Targeted Development and Adoption (TDA)** - Domain-level strategic alignment and matching pool contribution
+-   **Celo Public Goods** - Matching pool contribution and regenerative finance expertise
+-   **Ma Earth** - Matching pool contribution supporting ecological and community-rooted initiatives
+-   **Ethereum Foundation / Ethereum Everywhere** - Matching pool contribution and strategic support for Ethereum adoption
+
+**Technical Partners**
+
+-   **KarmaGAP** - Application management platform for grantee submissions and tracking
+-   **TrustGraph** - Attestation infrastructure enabling peer-based evaluation and reputation systems
+
+**Development Partners**
+
+-   **Ethereum For the World (FTW)** - Ecosystem development and adoption strategy support
+
+These partnerships recognize that transformation doesn't happen through isolated interventions imposed from above, but through connected communities of practice embedded in specific places. By funding networks rather than individual projects, our partners invest in the relationships, learning processes, and collective intelligence that make genuine adoption possible.
+
+Through these aligned partnerships, we are able to provide meaningful matching funds to communities worldwide while maintaining the autonomy and local governance that makes this work effective. Partners may make conditional donations to support specific objectives that align with their missions, but always within the framework of subsidiarity---trusting local hubs to make decisions based on their context and relationships.
+
+### How is the fund structured?
+
+The Localism Fund operates as part of a multi-scalar network funding architecture designed to address complex, interconnected challenges through aligned, polycentric coordination rather than hierarchical control.
+
+Grantees in the Localism Fund are local hubs --- community organizations, nodes, chapters, or bioregional or coalitions---that are anchored in specific places and committed to advancing political, economic, cultural, and ecological localism. Eligible projects should demonstrate:
+
+-   **Impact orientation** with plans to measure both real-world outcomes and on-chain activity
+-   **Ethereum alignment** through use of Web3 coordination tools and infrastructure
+-   **Operational capacity** to manage governance, partnerships, treasury, and reporting
+-   **Local anchoring** with deep community trust and relationships
+
+**Alignment with Gitcoin**
+
+The Localism Fund is autonomous---we govern our own operations, set our own criteria, and make our own allocation decisions. At the same time, we receive funding from and align with Gitcoin's Targeted Development & Adoption (TDA) domain and the mission of supporting Ethereum adoption and utility.
+
+**Gitcoin Cycles**: GG24 (October 2025), GG25 (March 2026)
+
+**Gitcoin Domain**: Targeted Development & Adoption (TDA)
+
+**TDA Sub-Domain**: Localism Fund
+
+-   **Round 01:** Local Grant Programs
+-   **Round 02**: Local Meetups
+
+This relationship embodies the principle of **subsidiarity**: decision-making authority rests at the most local level capable of addressing an issue. The TDA domain doesn't dictate which local programs we fund or how they operate. Instead, it provides matching pool resources and strategic coherence, trusting that we---and the local hubs we support---have the knowledge and relationships to direct funding effectively.
+
+Likewise, the **Localism Fund** applies this same principle of subsidiarity in how it works with the **local hubs and funding programs** it supports. Decision-making power is intentionally decentralized---each local hub determines how best to design and operate its own program, define priorities, and allocate resources within its community context. The Localism Fund provides frameworks, matching support, and shared infrastructure, but trusts that local leaders are best positioned to understand their ecosystems, build partnerships, and ensure funds flow where they can have the greatest real-world impact. In this way, subsidiarity cascades through every layer---from Gitcoin to the Localism Fund to the local communities themselves---creating a network of autonomous yet aligned actors working toward a shared vision of regenerative, Ethereum-powered local economies.
+
+**Bidirectional Flows**
+
+As resources cascade down through network scales, learning and attestations bubble up. Local hubs verify impact. Networks synthesize patterns across multiple hubs . Programs identify what works across different contexts. Domains raise funding and aggregate intelligence about what creates systemic change. This creates natural feedback loops that improve allocation over time---networks that consistently generate verified impact attract more resources, and effective strategies get replicated and adapted.
+
+The result is funding infrastructure capable of matching the complexity of real-world challenges: polycentric (multiple centers of authority), subsidiary (decisions at the most local level), and adaptive (continuously learning and evolving).
+
+### How is the fund governed?
+
+Localism Fund operates through a simple, two-tiered governance structure:
+
+**Operators:** Primary governance and day-to-day operations are managed by three core operators: Monty Merlin (Regen Coordination), Benjamin Life, and Patricia Parkinson (OpenCivics). Operators are responsible for executing funding rounds, managing logistics, evaluating applications, and making final operational decisions.
+
+**Attested Expert Network:** Operators are supported by a network of 9-12 expert evaluators who bring proven experience in grant-making, Web3-based programs, Ethereum Localism, and community-led funding. Experts evaluate applications, provide feedback, support grantees, and contribute to tooling improvements. Experts self-assess their contributions and receive compensation ranging from $200-$1,200 plus on-chain credentials based on their contribution tier.
+
+The expert network informs and guides operators' decisions, but ultimate operational responsibility remains with the core operator team. This structure enables both expert insight and focused execution.
+
+Each grantee establishes their own local governance mechanisms for their programs and operates an independent treasury for their local grant-making activities.
+
+### Who operates the fund + rounds?
+
+Program operators play a crucial role in coordinating and stewarding the multiscalar network that Localism Fund creates. Rather than acting as traditional funders who evaluate and control projects, operators facilitate the flow of resources through nested networks while maintaining strategic coherence and accountability.
+
+The operator role is multifaceted and involves planning, execution, community support, evaluation, and learning:
+
+1.  **Network Coordination**: Operators design funding architectures that embody subsidiarity and polycentricity, establishing frameworks that allow diverse local hubs to pursue their own approaches while maintaining alignment with shared outcomes. They identify and connect network weavers, facilitate relationships between local hubs, and create spaces for peer learning across geographies.
+2.  **Evaluation and Allocation**: Operators work with expert networks to assess local programs through rubrics that honor both strategic alignment and local autonomy. Rather than imposing uniform metrics, they support each hub in developing indicators meaningful to their context while contributing to broader understanding of what drives genuine adoption and impact.
+3.  **Communication and Transparency**: Operators maintain clear communication channels with program applicants, expert evaluators, local hubs, and funding partners. They ensure the funding process is transparent and accessible, publish comprehensive documentation, and create public portals that allow anyone to understand how decisions are made and resources flow.
+4.  **Resource Stewardship**: After local programs are selected and co-funding is verified, operators manage the disbursement of matching funds and track the progress of supported programs. They ensure financial accountability while respecting the autonomy of local hubs to direct resources according to their community's needs.
+5.  **Learning and Adaptation**: Operators synthesize impact attestations and learnings from across the network, identifying patterns in what works across different contexts. They publish reports that feed into future program design, continuously improving the system's ability to support transformative local work. This creates feedback loops where the network learns from its own experiments.
+
+Program operators ensure that resources flow to where they can create the most impact while maintaining the trust-based, subsidiary relationships that make network funding effective. Their work isn't about control but about creating the conditions for local communities to thrive.
+
+### Who can apply for a grant?
+
+The Localism Fund is open to local hubs---community organizations, chapters, or coalitions---that are anchored in specific places and ready to operate their own local grant programs.
+
+To be eligible, you must meet the following criteria:
+
+**Program Criteria:**
+
+-   **Local Focus** - Anchored in a place-based context advancing political, economic, cultural, and ecological localism
+-   **Ethereum Alignment** - Demonstrate how your work contributes to Ethereum adoption or utility through use of Web3 coordination tools
+-   **Public Goods Orientation** - Aim to utilize and advance open infrastructure that offers public benefit
+-   **Impact & On-chain Reporting** - Have a plan to track local outcomes and Ethereum on-chain activity
+-   **Readiness & Capability** - Show team capacity, community trust, and ability to operate governance, partnerships, treasury, and reporting
+-   **Ethical & Compliance Alignment** - Commit to OpenCivics Ethical Standards and pass compliance checks (e.g., OFAC)
+
+**Round Criteria:**
+
+-   Local grants program ready to start by January 2026
+-   Minimum of $5k local co-funding raised or committed
+-   Program operator compensation accounted for in budget
+-   Achieve evaluation rubric score of "qualified candidate" or above
+-   Receive evaluation from minimum of 4 experts
+
+Applications are submitted through KarmaGAP and evaluated by our expert network using a comprehensive rubric covering program scope, financial sustainability, impact measurement, and team capacity.
+
+### Who's behind this program?
+
+Localism Fund is a partnership between OpenCivics and Regen Coordination, operated by three core operators: Patricia Parkinson (OpenCivics Network), Monty Merlin (Regen Coordination), Benjamin Life (OpenCivics Network). We work with a network of 9-12 expert evaluators who bring diverse experience in grant-making, Web3 programs, and community-led funding.
+
+We partner with organizations that provide matching funds and support for local civic innovation --- including Gitcoin through their GG24 funding cycle.
+
+### What's your relationship with Gitcoin?
+
+Localism Fund is an autonomous networked grants program participating as part of Gitcoin's GG24 funding cycle in the Targeted Development & Adoption (TDA) domain. We are honored to collaborate with Gitcoin and participate in their ecosystem of funding programs supporting Ethereum adoption and public goods.
+
+Through this partnership, we are pioneering new models for decentralized, locally-led funding that demonstrate how Ethereum can serve as practical infrastructure for community coordination and resource allocation.
+
+### I know a project that wants to apply for funding
+
+We're always excited to meet communities committed to local resilience and civic innovation!
+
+If you know a local hub that would be a good fit for Localism Fund and they want to apply for matching funds, encourage them to:
+
+1.  Review the eligibility criteria above to ensure alignment
+2.  Prepare their local co-funding plan (minimum $5k)
+3.  Submit an application through KarmaGAP during the application period
+
+Applications for Round 01 opened on October 10, 2025. Communities should be ready to launch their local grant programs by January 2026.
+
+For more information, visit the [Localism Fund Public Portal](https://www.notion.so/Localism-Fund-Public-Portal-27306d2570f2804db628ed5bb648a65b?pvs=21).

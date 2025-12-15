@@ -1,0 +1,55 @@
+### zkProofport
+
+Infrastructure
+
+[0xdfaf06...7Ef98DC8](https://arbiscan.io/address/0xdfaf06fdC7aCEB1086A4Ab72E4e21cb97Ef98DC8)
+
+[zkproofport](https://x.com/zkproofport)
+
+[https://zkproofport.com](https://zkproofport.com/)
+
+[zkproofport](https://github.com/zkproofport)
+
+Problem: Web3 applications often need to verify user qualifications (like identity, reputation, or group membership) but doing so traditionally compromises user privacy by linking wallets to off-chain data.Solution: ZKProofport provides a general-purpose, privacy-preserving infrastructure composed of an SDK and a Proof Portal. We empower users to generate Zero-Knowledge proofs for *various* attestations or facts locally in their browser, using circuits written in Noir.How it Works:
+
+1.  A dApp integrates our simple SDK (`@zkproofport/sdk`) to request a specific type of proof.
+2.  The SDK opens our Proof Portal (`zkproofport.com`) in a secure iFrame modal.
+3.  Inside the Portal, the user connects necessary accounts (e.g., wallet) and interacts to provide inputs for the specific Noir circuit.
+4.  The Portal generates the ZK proof locally using bb.js.
+5.  The proof is sent back to the SDK via `postMessage`.
+6.  The dApp uses the SDK to verify the proof, choosing between fast off-chain verification (in-browser) or trustless on-chain verification, receiving only a `true`/`false` result. The user's underlying data or addresses remain private.
+
+Our First Circuit: Coinbase KYC: As our initial implementation, we've built a circuit proving Coinbase KYC completion (via EAS on Base), demonstrating the system's capability. Our live demo showcases this.Why it Matters: ZKProofport is designed to be extensible. It's not just for KYC. By leveraging Noir's flexibility, we can easily add new circuits for diverse use cases (Sybil resistance, social proofs, credentials, etc.), becoming a foundational layer for verifiable claims without sacrificing privacy in Web3. We provide the essential public good infrastructure for this.
+
+### IMPACT STATEMENTS
+
+ZKProofport aims to fundamentally reshape how user verification occurs in Web3, shifting the paradigm towards privacy by default. Our potential impact stems from providing essential public good infrastructure:
+
+-   For Users: Enhanced Privacy & Security: ZKProofport will empower users to prove necessary qualifications (like KYC) without exposing their sensitive wallet addresses. This will protect them from on-chain tracking, deanonymization risks, and targeted attacks, fostering a safer environment for participation in the decentralized web.
+-   For dApp Developers: Simplified Compliance & Reduced Risk: We will provide developers on Base and other EVM chains with an easy-to-integrate SDK (`@zkproofport/sdk`) that enables verification processes without the burden of handling or storing personally identifiable information (PII) like wallet addresses. This will reduce their compliance complexity and security liabilities.
+-   For the Ecosystem: Accelerated ZK Adoption & Increased Trust: By abstracting the complexities of Zero-Knowledge proofs through our user-friendly Portal and SDK, ZKProofport will lower the barrier for integrating cutting-edge privacy technology. This has the potential to foster innovation in privacy-preserving applications and increase overall user trust in the Web3 ecosystem, starting with Base.
+
+Ultimately, ZKProofport is being built to contribute core infrastructure that allows verification and privacy to coexist, enabling a more mature, user-centric, and trustworthy decentralized future.
+
+### CONTRIBUTIONS
+
+While ZKProofport is in its early stages and hasn't yet had widespread ecosystem adoption, we have contributed the foundational open-source components that lay the groundwork for future impact. This initial contribution includes:
+
+1.  A Functional Proof Portal (`zkproofport.com`): A live web app demonstrating the core user flow for browser-based ZK proof generation (currently for Coinbase KYC). This serves as a working demonstration and a core component of the protocol.
+2.  A Developer-Friendly SDK (`@zkproofport/sdk`): An open-source npm package enabling easy integration for dApps, abstracting ZK and communication complexities.
+3.  An Initial Noir Circuit (`circuits/coinbase-kyc`): An open-source PoC circuit for Base KYC verification, providing a tangible example for the growing Noir ecosystem.
+4.  A Live Demo dApp (`proofport-demo.netlify.app`): A public demonstration validating the end-to-end concept.
+
+ZKProofport is aiming to contribute crucial, privacy-enhancing public good infrastructure that empowers developers and protects users in the evolving Web3 landscape.
+
+CONTRIBUTIONS LINKS[Open-source SDK enabling developers to easily integrate privacy-preserving ZK proofs into their dApps.](https://www.npmjs.com/package/@zkproofport/sdk)[The live Proof Portal web application where users connect wallets and generate ZK proofs entirely in-browser.](https://zkproofport.com/)[Live Demo dApp showcasing the end-to-end user experience and demonstrating SDK integration for verification.](https://proofport-demo.netlify.app/)[Main GitHub organization hosting the open-source code for all ZKProofport components (SDK, Portal, Circuits).](https://github.com/zkproofport)
+
+### PAST GRANTS AND FUNDING
+
+GRANT - AZTEC LABS
+
+Other
+
+5000
+
+USD

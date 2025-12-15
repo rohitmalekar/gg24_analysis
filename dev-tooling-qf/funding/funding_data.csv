@@ -1,49 +1,49 @@
-Project Name,Matching (USDC),Donations (USD)
-Human Passport,10000.00,2908.96
-Blockscout Open-Source Block Explorer,10000.00,844.24
-Revoke.cash,10000.00,542.58
-Dappnode,10000.00,669.86
-snekmate,10000.00,8327.24
-rotki,10000.00,619.88
-Protocol Guild,10000.00,484.80
-eth.limo,10000.00,270.43
-Ethereum Attestation Service,10000.00,197.97
-DeVouch_ Decentralized Verification and Reputation,10000.00,393.09
-EthStaker,9954.08,296.97
-Vyper,9216.26,943.44
-Ethereum on ARM,8507.25,280.93
-BrightID Proof of Uniqueness,7701.97,935.54
-Greenpill Dev Guild,6294.46,201.69
-Scaffold-ETH 2,5569.53,90.00
-Shutter Network Keeping fairness privacy and security,5472.41,98.40
-L2BEAT,4191.16,62.49
-DeFiScan,4049.44,209.50
-Unlock Protocol,3863.02,196.12
-Astral,3061.91,264.08
-EAS Pulse,2752.52,49.12
-Remix Project,2746.46,188.84
-Dev Tools Guild,2449.48,86.96
-Argot Collective,2424.71,488.67
-ZK Email,2207.65,171.98
-Viem,2004.21,88.54
-Recon Invariant Testing Extension,1791.40,993.28
-Iggy-Web3 Social for DAOs,1779.22,145.20
-Open Labels Initiative,1661.09,106.62
-Web3GPT,1546.52,198.10
-Beacon Labs,1541.25,321.64
-Scaffold-ETH Mobile,1499.99,71.48
-EthPillar | Streamlining Ethereum Staking for Everyone,1221.46,968.64
-Swiss-Knife.xyz,1211.50,108.18
-Otterscan,870.45,86.39
-Colibri_ First Trustless Stateless Client,789.35,3696.19
-DexAppBuilder-The no-code/low-code toolkit of DexKit,750.76,52.94
-OrbitDB,648.16,13.63
-Ethaccount,627.32,107.63
-ethrex an ethereum protocol implementation,615.05,53.08
-Enscribe,537.86,21.66
-Vero a multi-node validator client,188.71,9.40
-mevlog-rs - EVM transactions querying powered by Revm,119.51,18.10
-ethui,98.52,53.99
-wighawag,35.35,10.00
-MigaLabs,0.00,2631.97
-simple-optimism-node,0.00,10.00
+Project Name,Matching (USDC),Donations (USD),Unique donors,Match per unique donor,Match-to-Donation Multiplier
+Human Passport,10000,2908.96,604,$16.56,3.44
+Blockscout Open-Source Block Explorer,10000,844.24,165,$60.61,11.84
+Revoke.cash,10000,542.58,98,$102.04,18.43
+Dappnode,10000,669.86,71,$140.85,14.93
+snekmate,10000,8327.24,63,$158.73,1.20
+rotki,10000,619.88,55,$181.82,16.13
+Protocol Guild,10000,484.8,48,$208.33,20.63
+eth.limo,10000,270.43,47,$212.77,36.98
+Ethereum Attestation Service,10000,197.97,42,$238.10,50.51
+DeVouch_ Decentralized Verification and Reputation,10000,393.09,29,$344.83,25.44
+EthStaker,9954.08,296.97,13,$765.70,33.52
+Vyper,9216.26,943.44,25,$368.65,9.77
+Ethereum on ARM,8507.25,280.93,17,$500.43,30.28
+BrightID Proof of Uniqueness,7701.97,935.54,51,$151.02,8.23
+Greenpill Dev Guild,6294.46,201.69,35,$179.84,31.21
+Scaffold-ETH 2,5569.53,90,22,$253.16,61.88
+Shutter Network Keeping fairness privacy and security,5472.41,98.4,15,$364.83,55.61
+L2BEAT,4191.16,62.49,10,$419.12,67.07
+DeFiScan,4049.44,209.5,24,$168.73,19.33
+Unlock Protocol,3863.02,196.12,17,$227.24,19.70
+Astral,3061.91,264.08,11,$278.36,11.59
+EAS Pulse,2752.52,49.12,15,$183.50,56.04
+Remix Project,2746.46,188.84,15,$183.10,14.54
+Dev Tools Guild,2449.48,86.96,8,$306.19,28.17
+Argot Collective,2424.71,488.67,18,$134.71,4.96
+ZK Email,2207.65,171.98,10,$220.77,12.84
+Viem,2004.21,88.54,14,$143.16,22.64
+Recon Invariant Testing Extension,1791.4,993.28,27,$66.35,1.80
+Iggy-Web3 Social for DAOs,1779.22,145.2,10,$177.92,12.25
+Open Labels Initiative,1661.09,106.62,18,$92.28,15.58
+Web3GPT,1546.52,198.1,10,$154.65,7.81
+Beacon Labs,1541.25,321.64,21,$73.39,4.79
+Scaffold-ETH Mobile,1499.99,71.48,10,$150.00,20.98
+EthPillar | Streamlining Ethereum Staking for Everyone,1221.46,968.64,19,$64.29,1.26
+Swiss-Knife.xyz,1211.5,108.18,10,$121.15,11.20
+Otterscan,870.45,86.39,6,$145.08,10.08
+Colibri_ First Trustless Stateless Client,789.35,3696.19,17,$46.43,0.21
+DexAppBuilder-The no-code:low-code toolkit of DexKit,750.76,52.94,8,$93.85,14.18
+OrbitDB,648.16,13.63,5,$129.63,47.55
+Ethaccount,627.32,107.63,8,$78.42,5.83
+ethrex an ethereum protocol implementation,615.05,53.08,4,$153.76,11.59
+Enscribe,537.86,21.66,7,$76.84,24.83
+Vero a multi-node validator client,188.71,9.4,2,$94.36,20.08
+mevlog-rs - EVM transactions querying powered by Revm,119.51,18.1,3,$39.84,6.60
+ethui,98.52,53.99,2,$49.26,1.82
+wighawag,35.35,10,2,$17.68,3.54
+MigaLabs,0,2631.97,2,$0.00,0.00
+simple-optimism-node,0,10,1,$0.00,0.00

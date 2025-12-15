@@ -1,23 +1,23 @@
-Project Name,Matching (USDC),Donations (USD)
-Silvi,10913.38,731.38
-Regen Claims Engine <--> Ethereum Intents Bridge,10865.34,806.44
-WebHash,10663.09,968.61
-Hypercerts Foundation,10311.67,529.77
-Superchain Eco,10047.17,1139.30
-GainForest,7203.33,349.18
-The Regen Atlas,6122.49,217.54
-CARBON Copy,5174.9,173.26
-growthepie - Understand every slice of Ethereum,4547.22,597.49
-Atlantis,4436.16,207.87
-Open Source Observer,4350.24,66.08
-Blockscout Open-Source Block Explorer,3783.76,527.37
-Shutter Network,3082.75,76.73
-DAOstar,2235.33,38.81
-Shinobi Cash,1364.57,64.93
-eth.limo,1149.66,45.9
-Ethereum Attestation Service,991.89,23.75
-Unlock Protocol - Certification boost with EAS,924.45,75.88
-Astral,886.73,142.42
-EAS Pulse,694.11,17.94
-Beacon Labs,225.23,26.89
-DIP.box_ Decentralized Innovation workspace,26.53,26.15
+Project Name,Matching (USDC),Donations (USD),Unique donors,Match per unique donor,Match-to-Donation Multiplier
+Silvi,10913.38,731.38,56,$194.88,14.9
+Regen Claims Engine <--> Ethereum Intents Bridge,10865.34,806.44,61,$178.12,13.5
+WebHash,10663.09,968.61,59,$180.73,11.0
+Hypercerts Foundation,10311.67,529.77,23,$448.33,19.5
+Superchain Eco,10047.17,1139.3,82,$122.53,8.8
+GainForest,7203.33,349.18,33,$218.28,20.6
+The Regen Atlas,6122.49,217.54,32,$191.33,28.1
+CARBON Copy,5174.9,173.26,23,$225.00,29.9
+growthepie - Understand every slice of Ethereum,4547.22,597.49,44,$103.35,7.6
+Atlantis,4436.16,207.87,31,$143.10,21.3
+Open Source Observer,4350.24,66.08,16,$271.89,65.8
+Blockscout Open-Source Block Explorer,3783.76,527.37,61,$62.03,7.2
+Shutter Network,3082.75,76.73,16,$192.67,40.2
+DAOstar,2235.33,38.81,13,$171.95,57.6
+Shinobi Cash,1364.57,64.93,16,$85.29,21.0
+eth.limo,1149.66,45.9,16,$71.85,25.0
+Ethereum Attestation Service,991.89,23.75,9,$110.21,41.8
+Unlock Protocol - Certification boost with EAS,924.45,75.88,10,$92.45,12.2
+Astral,886.73,142.42,7,$126.68,6.2
+EAS Pulse,694.11,17.94,8,$86.76,38.7
+Beacon Labs,225.23,26.89,5,$45.05,8.4
+DIP.box: Decentralized Innovation workspace,26.53,26.15,5,$5.31,1.0

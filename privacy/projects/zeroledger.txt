@@ -1,0 +1,29 @@
+### zeroledger
+
+DApps
+
+[0x3656da...A2e1A470](https://arbiscan.io/address/0x3656dae6c6040d5930250A9792d6830BA2e1A470)
+
+[killroy192](https://x.com/killroy192)
+
+<https://zeroledger.wtf/>
+
+[killroy192](https://github.com/killroy192)
+
+-   🔒 Privacy with compliance: The protocol deviates from the mixer paradigm, favoring a lightweight UTXO model backed by a universal Plonk proving system. Each commitment (UTXO) with a concealed value is managed directly in the contract, preventing double-spending without the need for Merkle trees, nullifiers, or heavy proof systems. By including user-selected additional "decoy" recipients in a single transaction, the protocol breaks linkability and conceals real value flows, while still providing on-chain observability to prove that no interaction with blacklisted addresses has occurred. This makes payments compliant by default, similar to public token transfers. Additionally, a user can provide full details about a single transaction without disclosing decryption keys, and a regulator can easily verify data integrity via simple hashing logic.
+-   🛠️ Programmability: The protocol is composable with ERC-20 tokens and smart contracts, making it fully compatible with smart wallets, escrows, and other programmable payment flows.
+-   ⚡ Usability: The ZeroLedger web app generates zk-proofs and settles transactions in seconds while abstracting gas fees. The most common transaction type --- "2 inputs → 3 outputs" --- consumes ~400k gas without optimisations. This means users on L2 can send 1 USDC in 2--3 seconds, paying ~0.01 USDC in fees. Migrating to UltraPlonk aggregate proofs could further reduce gas costs to ~150--200k.
+
+### IMPACT STATEMENTS
+
+ZeroLedger makes private crypto payments practical for everyday use. It reduces costs and complexity so freelancers, gig workers, and small businesses in high-inflation or unbanked regions can enjoy p2p payments without exposing their entire financial history. At the same time, it introduces a new model of compliance --- payments remain private, but regulators can verify integrity without requiring full disclosure. This balance between privacy, usability, and compliance can accelerate real-world crypto adoption by making payments both safer and more accessible.
+
+### CONTRIBUTIONS
+
+I have built and released the following open-source components of the ZeroLedger protocol:
+
+-   vycrypt --- cryptographic library for stealth addresses and ECDH encryption.
+-   circuits --- zk-proof circuits and verifier contracts for ZeroLedger.
+-   contracts --- core smart contracts, including the meta-transaction forwarder, vault, and protocol manager.
+
+CONTRIBUTIONS LINKS[zeroledger org repo](https://github.com/zeroledger)

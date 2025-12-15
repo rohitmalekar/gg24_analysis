@@ -1,0 +1,242 @@
+### zkETHer
+
+DApps
+
+Infrastructure
+
+[0xE34add...a042Eeb3](https://arbiscan.io/address/0xE34add59D0D599228E2f153793F0b33ea042Eeb3)
+
+[zketherProtocol](https://x.com/zketherProtocol)
+
+<https://crema.sh/>
+
+[yashsharma22003](https://github.com/yashsharma22003)
+
+Mobile-ZKEther
+==============
+
+Mobile-ZKEther is a privacy-preserving ETH transfer protocol designed for mobile-first environments.\
+It offers Tornado Cash--like anonymity with major improvements in usability, receiver privacy, no off-chain notes exchange and mobile accessibility --- bringing private Ethereum transactions to everyone, everywhere.
+
+* * * * *
+
+### What it does
+
+Mobile-ZKEther enables private, receiver-aware ETH transfers where only the intended receiver can detect and spend funds --- without revealing the recipient address on-chain.Users deposit ETH into a shielded pool, generating receiver-aware notes.\
+Proof generation happens directly on-device using [MoPro](https://zkmopro.org/), a mobile proving framework optimized for low-latency ZK circuits.Withdrawals are gasless via relayers, maintaining both privacy and ease-of-use.\
+All metadata exchange occurs off-chain through encrypted memos and tag buckets, which let recipients automatically discover incoming funds privately.
+
+* * * * *
+
+### Core Innovations Beyond Tornado Cash
+
+Receiver Privacy
+
+-   Tornado Cash: Sender must share note manually
+-   Mobile-ZKEther: Receiver-aware notes --- only receiver can derive secrets
+
+Discovery Mechanism
+
+-   Tornado Cash: None (manual note exchange)
+-   Mobile-ZKEther: Encrypted memos + tag buckets for automatic discovery
+
+ZK Proving
+
+-   Tornado Cash: Desktop or server-side
+-   Mobile-ZKEther: On-device via MoPro
+
+User Experience
+
+-   Tornado Cash: Complex note handling
+-   Mobile-ZKEther: Seamless mobile UX --- no manual sharing
+
+Withdrawals
+
+-   Tornado Cash: Manual gas payments
+-   Mobile-ZKEther: Gasless via relayers
+
+Composability
+
+-   Tornado Cash: ETH-only privacy pool
+-   Mobile-ZKEther: Extendable to L2s and multi-asset support
+
+In short: Mobile-ZKEther modernizes Tornado Cash's concept for the mobile age --- with receiver-aware privacy, automated discovery, and gasless withdrawals.
+
+* * * * *
+
+### Key Components
+
+-   Receiver-Aware Notes: Cryptographic notes bound to a receiver's key --- only they can spend.
+-   Encrypted Memos + Tag Buckets: Enable efficient discovery of incoming deposits while maintaining plausible deniability.
+-   MoPro Integration: Fully on-device zero-knowledge proof generation for fast, private UX.
+-   Relayer Framework: Supports gasless, privacy-preserving withdrawals using signed relay requests.
+-   Poseidon Merkle Tree: Lightweight, ZK-friendly commitments for scalability and low gas.
+-   Open Protocol Spec: Fully documented cryptography, APIs, circuits, and parameters --- versioned and upgradeable.
+
+* * * * *
+
+### Technical Summary
+
+Mobile-ZKEther's protocol flow follows a fully auditable, cryptographically-sound pipeline:
+
+1.  Deposit:\
+    Sender (Alice) deposits a fixed-denomination note tied to an ephemeral `R_pub`, computing commitments using Poseidon2 and HKDF-derived secrets.
+2.  Off-chain Discovery:\
+    Alice uploads an encrypted memo and tag to a relay. Receiver (Bob) queries only relevant tag buckets, decrypts, and recovers his note.
+3.  Proof Generation:\
+    Bob proves knowledge of `(secret, nullifier)` via a MoPro-compiled ZK circuit --- proving Merkle inclusion and nullifier uniqueness.
+4.  Gasless Withdrawal:\
+    Bob signs a relayRequest containing proof and withdrawal details; relayer posts the transaction, earning a fee while Bob stays anonymous.
+
+* * * * *
+
+### Cryptography and Circuits
+
+-   Key exchange: X25519
+-   Hash & commitments: Poseidon2 (ZK-friendly)
+-   KDF: HKDF-SHA256
+-   Signatures: Ed25519 / ECDSA (deterministic)
+-   ZK Backend: MoPro for mobile provers
+-   Merkle Tree Depth: Configurable (20 levels ≈ 1 M notes)
+
+* * * * *
+
+### Why It's Better Than Tornado Cash
+
+-   Receiver-aware privacy --- no off-chain note exchange.
+-   Automatic discovery via encrypted memos + tag buckets.
+-   Mobile-native ZK proofs --- no reliance on servers.
+-   Gasless withdrawals --- seamless user experience.
+-   Open, upgradeable design --- supports L2 extensions and new assets.
+
+* * * * *
+
+### Metrics & Roadmap
+
+-   Performance targets: < 10 s proof time on mobile, < 8 KB proof size.
+-   Anonymity set: Configurable Merkle depth (20 = 1 M leaves).
+-   UX goal: < 50 memos per tag query, automatic fund discovery.
+
+v1 ( completed ): Fixed denomination, encrypted memos + tag discovery, MoPro proving, single relayer (L2 testnet).\
+v2 ( on-going ): Batch proofs, recursion, multi-denomination support, enhanced relayer privacy.\
+v3: Community relayers, cross-chain privacy bridge, compliance flows.
+
+* * * * *
+
+### Current Status
+
+Protocol v1 specification finalized --- including circuits, smart contracts, and relayer API.\
+Reference implementation under active development.\
+Our goal: make Ethereum privacy as seamless as sending a regular transaction, optimized for the mobile world.
+
+* * * * *
+
+> ### Note from the Team
+>
+> We're an early-stage team building Mobile-ZKEther --- a new privacy protocol born from a simple idea:\
+> privacy on Ethereum should be as seamless as sending a message from your phone. While we're just getting started, we strongly believe this protocol has the potential to set a new standard for mobile-first, receiver-private, and gasless Ethereum transfers.\
+> Winning this grant would give us the momentum and resources to move from prototype to real impact --- accelerating development, audits, and open-source collaboration. This support would help us grow from a small but passionate team into a meaningful contributor to Ethereum's privacy ecosystem,\
+> ensuring users everywhere can experience truly private transactions without complexity.
+
+### IMPACT STATEMENTS
+
+Mobile-ZKEther aims to redefine financial privacy on Ethereum by making zero-knowledge--based private transfers usable, mobile, and accessible to everyone --- not just technically advanced users.While privacy protocols like Tornado Cash demonstrated the potential of zero-knowledge proofs for anonymity, they left critical usability and accessibility gaps that limited real-world adoption. Mobile-ZKEther fills those gaps by rethinking private transfer architecture from the ground up, introducing receiver-aware design, mobile proof generation, and gasless interactions --- all while maintaining robust cryptographic security.
+
+* * * * *
+
+#### Democratizing On-Chain Privacy
+
+Privacy on Ethereum is currently exclusive --- it assumes users have desktop machines, strong technical literacy, and can handle complex note management. Mobile-ZKEther changes this paradigm by enabling private, gasless ETH transfers directly from mobile devices.Our integration with MoPro allows zero-knowledge proofs to be generated efficiently on smartphones, which brings Ethereum-level privacy to billions of mobile users worldwide. This accessibility layer is critical to Ethereum's long-term vision of global inclusivity, where privacy is not a privilege but a baseline right.By making privacy accessible to anyone with a mobile device, Mobile-ZKEther turns private transactions into an everyday behavior --- not a niche use case.
+
+* * * * *
+
+#### Expanding the Ethereum Privacy Stack
+
+The project contributes a novel, modular protocol that can serve as a privacy primitive for the wider ecosystem. Developers can integrate Mobile-ZKEther into wallets, DeFi apps, and social protocols as a plug-and-play privacy layer.This architecture introduces:
+
+-   Receiver-aware notes: enabling private detection without out-of-band note exchange.
+-   Encrypted memos and tag buckets: a scalable, privacy-preserving message discovery layer.
+-   Relayer network architecture: enabling gasless, anonymized withdrawals.
+-   Open SDK and circuit specs: empowering other teams to build on top of our model.
+
+The result is not just a single dApp, but a mobile privacy infrastructure that others can adopt, fork, and extend --- similar to how Tornado Cash became the foundation for many privacy extensions, but designed for the next era of mobile-first, scalable Ethereum.
+
+* * * * *
+
+#### Measurable Impact
+
+We evaluate our impact across accessibility, privacy strength, and composability:
+
+-   Accessibility: Any user with a mobile phone can generate proofs and transact privately without running heavy infrastructure.
+-   Privacy Strength: Receiver-aware notes ensure no correlation between deposits and withdrawals; encrypted discovery prevents leakage via metadata.
+-   Composability: The protocol is designed for L2 and cross-chain deployment, ensuring longevity and interoperability within the Ethereum ecosystem.
+-   Ecosystem Utility: Open-source SDKs, contract interfaces, and APIs allow developers to integrate Mobile-ZKEther directly into their apps and wallets.
+
+Our long-term goal is for Mobile-ZKEther to become a standardized privacy building block in the Ethereum stack --- powering everything from stealth donations to privacy-preserving DeFi interactions.
+
+* * * * *
+
+#### Philosophical Impact
+
+At its core, Mobile-ZKEther reinforces Ethereum's foundational value: "freedom to transact privately."\
+It transforms the abstract concept of zero-knowledge privacy into a tangible, usable, and decentralized experience --- one that can be deployed on any device, by any user, anywhere in the world.By making privacy both usable and open-source, we hope to set a new UX and security standard for privacy protocols, ensuring that financial confidentiality remains a fundamental right within the decentralized web.
+
+### CONTRIBUTIONS
+
+Mobile-ZKEther contributes a new architecture and open specification for private Ethereum transfers that merge zero-knowledge cryptography, mobile optimization, and receiver-aware design.\
+It evolves Tornado Cash's original concept into a modern, developer-friendly, and user-centric protocol built for the mobile era.
+
+* * * * *
+
+#### Core Technical Contributions
+
+1.  Receiver-Aware Note System\
+    Traditional mixers like Tornado Cash rely on the sender to manually share a "note" that the receiver uses to withdraw.\
+    Mobile-ZKEther eliminates this manual exchange by introducing receiver-aware notes, cryptographically bound to the recipient's viewing key.\
+    This means only the intended receiver can detect and spend funds --- vastly improving security and UX.
+2.  Encrypted Memo + Tag Bucket Discovery\
+    A new off-chain event discovery layer based on encrypted memos indexed by tag buckets.\
+    Receivers can privately scan relevant tags to identify incoming transfers without revealing metadata or requiring trusted servers.\
+    This design provides scalable, private message discovery even for large anonymity sets.
+3.  On-Device Proof Generation via MoPro\
+    Proof generation no longer requires a server or desktop node.\
+    Through MoPro integration, all zkSNARK proofs are generated locally on mobile hardware, reducing latency and trust while improving accessibility.\
+    This approach proves that mobile ZK systems are production-ready, pushing the boundaries of lightweight proving frameworks.
+4.  Gasless, Privacy-Preserving Relayer Framework\
+    Introduces a relayer architecture where withdrawals can be executed without the receiver paying gas --- while maintaining unlinkability between the relayer and user.\
+    It uses signed `relayRequests` verified in-circuit to ensure privacy and prevent front-running.\
+    This makes private withdrawals both gasless and seamless.
+5.  Open Cryptographic Specification\
+    All primitives are defined using Poseidon2, HKDF, and X25519 for ZK-friendly efficiency and forward secrecy.\
+    The protocol defines open specs for Merkle tree structure, nullifier computation, and proof verification --- ensuring full transparency and verifiability for external auditors and contributors.
+
+* * * * *
+
+#### Developer & Ecosystem Contributions
+
+-   Open-Source Implementation: Circuits, smart contracts, and relayer code are being released under permissive licenses to encourage public auditing and reuse.
+-   Protocol Documentation: Full specification of cryptography, APIs, and architectural flows available in Markdown format for other builders.
+-   Composability Hooks: Developers can embed Mobile-ZKEther as a privacy module inside wallets or DeFi dApps with minimal integration overhead.
+-   Educational Contribution: Through open documentation and visual flow diagrams, Mobile-ZKEther serves as a learning reference for privacy developers exploring ZK mobility and receiver privacy concepts.
+-   Future Research Pathways: The project paves the way for research into recursive proofs, note aggregation, and privacy-preserving compliance mechanisms.
+
+* * * * *
+
+#### Long-Term Ecosystem Contributions
+
+1.  Expanding Privacy to L2s and Rollups\
+    Designed for extension to rollup environments (Optimism, Arbitrum, zkSync), Mobile-ZKEther creates a framework for privacy that is L2-compatible by design, not as an afterthought.
+2.  Public Goods and Reusability\
+    By publishing an open, modular protocol, Mobile-ZKEther provides reusable primitives --- note generation, encrypted memo patterns, and mobile proof tooling --- that other teams can leverage in wallets or DeFi protocols.
+3.  Strengthening Ethereum's Privacy Layer\
+    Mobile-ZKEther enhances Ethereum's credibility as a privacy-supportive ecosystem by demonstrating that privacy and usability can coexist.\
+    This project helps move Ethereum away from the perception that privacy tools are inaccessible, complex, or legally risky --- instead showing privacy as an integrated, user-centric, open-source primitive.
+
+* * * * *
+
+#### Vision of Contribution
+
+Ultimately, Mobile-ZKEther's contribution lies in creating a human-centric privacy stack --- where the cryptography is strong, the UX is effortless, and privacy becomes an invisible, default property of every transaction.\
+It reimagines Tornado Cash's legacy through a lens of accessibility, open research, and responsible innovation --- ensuring the future of private Ethereum remains decentralized, ethical, and usable.
+
+CONTRIBUTIONS LINKS[Complete protocol technical spec sheet](https://gist.github.com/sanjay-sol/8dff2c59f686084ebb78db4b2176dfda)[Fist revision implementation](https://github.com/yashsharma22003/zkETHer-Protocol)

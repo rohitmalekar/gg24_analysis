@@ -4,7 +4,8 @@
     "fields": {
       "mechanism": "Quadratic Funding",
       "funding_pool": "$200,000",
-      "number_of_grantees": 48
+      "number_of_grantees": 48,
+      "Funding_Currency": "$"
     }
   }
   

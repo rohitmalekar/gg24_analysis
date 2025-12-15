@@ -1,0 +1,11 @@
+{
+    "round_name": "Privacy",
+    "description": "The GG24 Privacy domain covers projects related to privacy in terms of research, dApps, infrastructure and education. All projects, initiatives and individuals working on privacy related topics are welcome to apply.",
+    "fields": {
+      "mechanism": "MACI",
+      "funding_pool": "$130,000",
+      "number_of_grantees": 93,
+      "Funding_Currency": "WETH"
+    }
+  }
+  

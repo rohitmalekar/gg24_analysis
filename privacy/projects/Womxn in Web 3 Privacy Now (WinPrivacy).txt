@@ -1,0 +1,37 @@
+### Womxn in Web 3 Privacy Now (WinPrivacy)
+
+Education
+
+Research
+
+Infrastructure
+
+[0x643F28...119A6283](https://arbiscan.io/address/0x643F281f6D356b9d29C9Ff2787ceC97D119A6283)
+
+[winprivacy](https://x.com/winprivacy)
+
+<https://winprivacy.org/>
+
+[WinPrivacy](https://github.com/WinPrivacy)
+
+WinPrivacy is a grassroots collective that treats privacy as culture, not a niche. We bring people who rarely share a room into steady collaboration. Lawyers sit with engineers. Researchers compare notes with designers. Activists test ideas with product teams. The point is simple. If only one kind of mind builds privacy then only one kind of person is protected. We work in public and in person. Classrooms, squats, community hubs, hackathons. We translate complex ideas into choices people can actually make. We keep our stack chain agnostic and our independence intact. We value consent, care, and autonomy. We welcome allies who show up with curiosity and leave with responsibilities.
+
+### IMPACT STATEMENTS
+
+We measure impact in changed lives, not just metrics. In Amsterdam a squat opened its doors and we sat on the floor together, installed Signal on dozens of phones, and showed peer to peer tools that made people feel safer that same night. Our Glitch Armour zine now lives in classrooms and community hubs; readers tell us it turned fear into small, doable steps. Through Sisterhood, mentees found mentors, then jobs, then the courage to leave roles that clashed with their values. Several womxn quit ad tech and moved into privacy teams inside web3 because this community made the leap feel possible and held them while they learned. At hackathons, first timers arrived as observers and left calling themselves builders. We keep the doors open to elders and teenagers, activists and academics, coders and poets. The result is quiet but profound. More people claim their autonomy, carry it into their workplaces, and reshape the industry from the inside out.
+
+### CONTRIBUTIONS
+
+What we doRebrand privacy for humans. We replace doom with clarity and invite the general public into the conversation. Stories, visuals, and language that demystify rather than gatekeep.GlitchArmour.org. A living toolkit for anyone who wants safer defaults. Think grandmother friendly guides, open tools that do not harvest you, and small habits that add up.Education in the wild. Workshops at high schools, universities, squats, community centers, and elder homes. People install tools on the spot and leave with muscle memory.Safe spaces at hackathons. We design formats where newcomers and non coders contribute from hour one. Culture and care increase output and reduce harm.Sisterhood. We match experienced womxn with those entering the field so confidence and skills compound. Knowledge moves faster when it moves together.Privacy First web app. We are currently in the development of a Privacy First web app. A home for news, events, guides, Glitch Armour, and developer SDKs. One place to find resources, people, and support across ecosystems.Chain agnostic and independent. We collaborate across stacks while staying true to civil liberties and community control.Incubating Privacy Projects: We support hackers, builders who build privacy/consumer/open source focused applications/communities. From connecting to people to building/managing teams.Global Privacy Arena: Our community members are diverse, from Ecuador & Argentina to Korea & Madrid. We share how Privacy is treated and affects us differently based on our geo[political] location. We share and work on practical solutions, tools, and approaches.Why it matters Privacy keeps a person a person in an environment that wants to sort and sell them. We make that autonomy practical through tools, training, and spaces where people learn together and act together.
+
+CONTRIBUTIONS LINKS[Glitch Armour, Privacy ToolKit:](https://glitcharmour.org )[ZK Training BootCamp:](https://x.com/dev3pack/status/1972652093803814984%C2%A0)[Projects incubated by WinPrivacy:](https://ethglobal.com/showcase/privycycle-anndr%C2%A0)[Privacy Content:](https://www.youtube.com/@Womeninweb3Privacy)[Our Philosophy:](https://x.com/protocollabs/status/1973420292132446422)[Our Newsletter:](https://paragraph.com/@winprivacy/cypherpunk-gurl-summer)
+
+### PAST GRANTS AND FUNDING
+
+WEB3PRIVACY NOW 
+
+Other
+
+5000
+
+USDC

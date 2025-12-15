@@ -1,2 +1,3 @@
-dev-tooling-qf:FALSE
+dev-tooling-qf:TRUE
 interop:FALSE
+privacy:FALSE
