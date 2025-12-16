@@ -559,29 +559,61 @@ def create_alignment_table(problems, alignment_results, funding_data=None, curre
                     multiplier = value
         
         # Add additional fields in order (only if they have values)
-        # Format dollar amounts with $ prefix
+        # Store as numeric values for proper sorting (formatting handled in column_config)
         if matching_usdc is not None:
-            # Format as dollar amount
+            # Ensure numeric type
             if isinstance(matching_usdc, (int, float)):
-                row_data['Matching (USDC)'] = format_currency_decimal(matching_usdc, "$")
+                row_data['Matching (USDC)'] = float(matching_usdc)
             else:
-                row_data['Matching (USDC)'] = matching_usdc
+                # Try to convert to float if it's a string representation of a number
+                try:
+                    clean_value = str(matching_usdc).replace('$', '').replace(',', '').strip()
+                    row_data['Matching (USDC)'] = float(clean_value)
+                except (ValueError, TypeError):
+                    row_data['Matching (USDC)'] = matching_usdc
         if donations_usd is not None:
-            # Format as dollar amount
+            # Ensure numeric type
             if isinstance(donations_usd, (int, float)):
-                row_data['Donations (USD)'] = format_currency_decimal(donations_usd, "$")
+                row_data['Donations (USD)'] = float(donations_usd)
             else:
-                row_data['Donations (USD)'] = donations_usd
+                # Try to convert to float if it's a string representation of a number
+                try:
+                    clean_value = str(donations_usd).replace('$', '').replace(',', '').strip()
+                    row_data['Donations (USD)'] = float(clean_value)
+                except (ValueError, TypeError):
+                    row_data['Donations (USD)'] = donations_usd
         if unique_donors is not None:
-            row_data['Unique donors'] = unique_donors
-        if match_per_donor is not None:
-            # Format as dollar amount
-            if isinstance(match_per_donor, (int, float)):
-                row_data['Match per unique donor'] = format_currency_decimal(match_per_donor, "$")
+            # Ensure numeric type
+            if isinstance(unique_donors, (int, float)):
+                row_data['Unique donors'] = int(unique_donors)
             else:
-                row_data['Match per unique donor'] = match_per_donor
+                # Try to convert to int if it's a string representation of a number
+                try:
+                    row_data['Unique donors'] = int(float(str(unique_donors)))
+                except (ValueError, TypeError):
+                    row_data['Unique donors'] = unique_donors
+        if match_per_donor is not None:
+            # Ensure numeric type
+            if isinstance(match_per_donor, (int, float)):
+                row_data['Match per unique donor'] = float(match_per_donor)
+            else:
+                # Try to convert to float if it's a string representation of a number
+                try:
+                    clean_value = str(match_per_donor).replace('$', '').replace(',', '').strip()
+                    row_data['Match per unique donor'] = float(clean_value)
+                except (ValueError, TypeError):
+                    row_data['Match per unique donor'] = match_per_donor
         if multiplier is not None:
-            row_data['Match-to-Donation Multiplier'] = multiplier
+            # Ensure numeric type
+            if isinstance(multiplier, (int, float)):
+                row_data['Match-to-Donation Multiplier'] = float(multiplier)
+            else:
+                # Try to convert to float if it's a string representation of a number
+                try:
+                    clean_value = str(multiplier).replace('$', '').replace(',', '').strip()
+                    row_data['Match-to-Donation Multiplier'] = float(clean_value)
+                except (ValueError, TypeError):
+                    row_data['Match-to-Donation Multiplier'] = multiplier
         
         # Add alignment fields at the end
         row_data['Primary Problem Alignment'] = primary_alignment
@@ -591,6 +623,14 @@ def create_alignment_table(problems, alignment_results, funding_data=None, curre
     
     # Create DataFrame
     df = pd.DataFrame(table_data)
+    
+    # Ensure numeric columns have proper numeric types for sorting
+    numeric_columns = ['Matching (USDC)', 'Donations (USD)', 'Unique donors', 
+                       'Match per unique donor', 'Match-to-Donation Multiplier']
+    for col in numeric_columns:
+        if col in df.columns:
+            # Convert to numeric, coercing errors to NaN, then fill NaN with original values
+            df[col] = pd.to_numeric(df[col], errors='coerce')
     
     # Define the desired column order
     base_columns = ['Project', 'Funding Allocated']
@@ -1308,6 +1348,33 @@ def main():
                             width="large"
                         )
                     }
+                    
+                    # Add numeric column configurations for proper sorting and formatting
+                    if "Matching (USDC)" in alignment_df.columns:
+                        column_config["Matching (USDC)"] = st.column_config.NumberColumn(
+                            "Matching (USDC)",
+                            format="$%d" if currency == "$" else f"%.2f {currency}"
+                        )
+                    if "Donations (USD)" in alignment_df.columns:
+                        column_config["Donations (USD)"] = st.column_config.NumberColumn(
+                            "Donations (USD)",
+                            format="$%d" if currency == "$" else f"%.2f {currency}"
+                        )
+                    if "Unique donors" in alignment_df.columns:
+                        column_config["Unique donors"] = st.column_config.NumberColumn(
+                            "Unique donors",
+                            format="%d"
+                        )
+                    if "Match per unique donor" in alignment_df.columns:
+                        column_config["Match per unique donor"] = st.column_config.NumberColumn(
+                            "Match per unique donor",
+                            format="$%.2f" if currency == "$" else f"%.2f {currency}"
+                        )
+                    if "Match-to-Donation Multiplier" in alignment_df.columns:
+                        column_config["Match-to-Donation Multiplier"] = st.column_config.NumberColumn(
+                            "Match-to-Donation Multiplier",
+                            format="%.2f"
+                        )
                     
                     st.dataframe(
                         alignment_df,
