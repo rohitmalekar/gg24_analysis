@@ -431,7 +431,7 @@ def create_problem_scatter_plot(problems, alignment_results, funding_data=None, 
                 text=data['text_labels'],
                 textposition='middle center',
                 textfont=dict(
-                    size=12,
+                    size=16,
                     color='black',
                     #family='Arial Black'
                 ),
@@ -445,7 +445,7 @@ def create_problem_scatter_plot(problems, alignment_results, funding_data=None, 
     fig.update_layout(
         xaxis_title="Number of Projects (Primary + Secondary)",
         yaxis_title=f"Total Attributed Funding ({currency_label})",
-        height=600,
+        height=800,
         showlegend=True,
         legend=dict(
             orientation="h",
@@ -453,7 +453,7 @@ def create_problem_scatter_plot(problems, alignment_results, funding_data=None, 
             y=1.10,  # Puts legend above the plot
             xanchor="center",
             x=0.5,
-            font=dict(size=10),
+            font=dict(size=16),
             bgcolor="rgba(255,255,255,0.8)",
             bordercolor="rgba(0,0,0,0.2)",
             borderwidth=1
