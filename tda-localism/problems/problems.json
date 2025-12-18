@@ -1,0 +1,143 @@
+{
+    "problems": [
+      {
+        "problem_id": "localism_01",
+        "domain": "Localism Fund",
+        "name": "Weak Local Coordination Capacity",
+        "level": "problem_type",
+        "problem_statement": "Many place-based communities lack durable coordination structures to design, govern, and operate collective initiatives that align local needs with shared economic, civic, and ecological goals.",
+        "why_it_matters": "Without strong local coordination, resources fragment, participation declines, and communities remain dependent on external institutions rather than developing self-sustaining local systems.",
+        "solution_shape": "Locally anchored hubs, networks, or coalitions that build governance, coordination, and decision-making capacity rooted in community relationships.",
+        "positive_signals": [
+          "place-based coordination",
+          "local governance structures",
+          "community-led decision making",
+          "trusted local networks",
+          "long-term community stewardship"
+        ],
+        "measurement_rubric": {
+          "1": "Mentions local context without meaningful coordination role.",
+          "2": "Supports isolated activities with limited coordination scope.",
+          "3": "Demonstrates emerging coordination capacity within a local group.",
+          "4": "Operates a functioning local coordination structure with shared governance.",
+          "5": "Provides robust, repeatable coordination infrastructure serving multiple local initiatives."
+        }
+      },
+      {
+        "problem_id": "localism_02",
+        "domain": "Localism Fund",
+        "name": "Low Trust in Local Funding Flows",
+        "level": "problem_type",
+        "problem_statement": "Local initiatives often struggle to access funding due to weak trust signals, limited transparency, and difficulty demonstrating credibility to external supporters.",
+        "why_it_matters": "When trust is low, capital fails to reach effective local actors, reinforcing underinvestment in communities closest to real-world challenges.",
+        "solution_shape": "Reputation-aware funding structures, peer validation, and transparent reporting that strengthen trust between local actors and funders.",
+        "positive_signals": [
+          "community trust",
+          "peer validation",
+          "transparent funding",
+          "credible local actors",
+          "accountable resource flows"
+        ],
+        "measurement_rubric": {
+          "1": "Acknowledges trust issues without addressing them.",
+          "2": "Provides basic transparency with limited validation.",
+          "3": "Implements partial trust-building mechanisms.",
+          "4": "Demonstrates strong, community-validated trust signals.",
+          "5": "Establishes systemic trust infrastructure reused across communities."
+        }
+      },
+      {
+        "problem_id": "localism_03",
+        "domain": "Localism Fund",
+        "name": "Disconnect Between Global Tools and Local Needs",
+        "level": "problem_type",
+        "problem_statement": "Global coordination tools and funding frameworks often fail to translate into practical, context-sensitive solutions for local political, economic, and cultural realities.",
+        "why_it_matters": "Misalignment reduces adoption, weakens legitimacy, and limits the real-world impact of otherwise powerful coordination technologies.",
+        "solution_shape": "Adaptation layers that contextualize global tools, knowledge, and infrastructure into locally relevant practices and workflows.",
+        "positive_signals": [
+          "contextualized tooling",
+          "local adaptation",
+          "bridging global and local",
+          "community-specific design",
+          "practical adoption pathways"
+        ],
+        "measurement_rubric": {
+          "1": "Uses global tools without local adaptation.",
+          "2": "Acknowledges local context but applies generic solutions.",
+          "3": "Partially adapts tools to local needs.",
+          "4": "Demonstrates strong contextual integration of tools.",
+          "5": "Creates reusable models for translating global tools into local practice."
+        }
+      },
+      {
+        "problem_id": "localism_04",
+        "domain": "Localism Fund",
+        "name": "Underdeveloped Local Economic Resilience",
+        "level": "problem_type",
+        "problem_statement": "Local economies often lack mechanisms to retain value, coordinate resources, and support community-owned economic activity.",
+        "why_it_matters": "Without resilient local economies, communities remain vulnerable to external shocks and extractive economic dynamics.",
+        "solution_shape": "Community-driven economic coordination, local ownership models, and resource circulation mechanisms aligned with local priorities.",
+        "positive_signals": [
+          "local economic resilience",
+          "community ownership",
+          "local value circulation",
+          "place-based economies",
+          "economic self-determination"
+        ],
+        "measurement_rubric": {
+          "1": "References economic impact without local focus.",
+          "2": "Supports limited local economic activity.",
+          "3": "Builds localized economic coordination for a specific use case.",
+          "4": "Strengthens multiple aspects of local economic resilience.",
+          "5": "Establishes systemic, community-owned economic infrastructure."
+        }
+      },
+      {
+        "problem_id": "localism_05",
+        "domain": "Localism Fund",
+        "name": "Insufficient Local Impact Visibility",
+        "level": "problem_type",
+        "problem_statement": "Local initiatives often lack consistent ways to capture, communicate, and learn from real-world outcomes across social, ecological, and civic dimensions.",
+        "why_it_matters": "When impact remains invisible or fragmented, effective practices fail to scale and funders cannot learn what works across contexts.",
+        "solution_shape": "Shared impact reporting practices that combine qualitative and quantitative signals while respecting local autonomy.",
+        "positive_signals": [
+          "impact reporting",
+          "learning loops",
+          "local outcomes",
+          "shared metrics",
+          "knowledge commons"
+        ],
+        "measurement_rubric": {
+          "1": "Mentions impact without evidence or learning intent.",
+          "2": "Tracks basic outputs with limited reflection.",
+          "3": "Demonstrates structured impact reporting for a local program.",
+          "4": "Contributes comparable impact insights across initiatives.",
+          "5": "Generates reusable knowledge that informs system-level learning."
+        }
+      },
+      {
+        "problem_id": "localism_06",
+        "domain": "Localism Fund",
+        "name": "Fragmented Global–Local Networks",
+        "level": "problem_type",
+        "problem_statement": "Local hubs frequently operate in isolation, with limited pathways to share learnings, align strategies, or collaborate across regions.",
+        "why_it_matters": "Isolation slows collective learning and prevents effective local models from informing broader ecosystem strategy.",
+        "solution_shape": "Networked structures that connect local hubs into global learning, coordination, and resource-sharing systems.",
+        "positive_signals": [
+          "networked local hubs",
+          "cross-community learning",
+          "global-local collaboration",
+          "shared frameworks",
+          "collective intelligence"
+        ],
+        "measurement_rubric": {
+          "1": "Operates as a standalone local initiative.",
+          "2": "Engages informally with other communities.",
+          "3": "Participates in a loose network of local hubs.",
+          "4": "Actively contributes to shared learning across regions.",
+          "5": "Provides core infrastructure enabling sustained global–local coordination."
+        }
+      }
+    ]
+  }
+  

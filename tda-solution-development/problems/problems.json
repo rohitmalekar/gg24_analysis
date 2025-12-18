@@ -1,0 +1,143 @@
+{
+    "problems": [
+      {
+        "problem_id": "sdg-solution-gap",
+        "domain": "Solution Development Grants",
+        "name": "SDG-Ready Solutions Gap",
+        "level": "problem_type",
+        "problem_statement": "Many blockchain-based initiatives demonstrate intent toward social or environmental goals, but lack production-ready, SDG-aligned solutions that can deliver measurable real-world outcomes.",
+        "why_it_matters": "Without mature, SDG-ready solutions, Ethereum’s potential to contribute to global sustainable development remains fragmented, difficult to validate, and easy to dismiss by external stakeholders.",
+        "solution_shape": "Focused development of proven solutions to add or strengthen SDG-aligned features with clear impact pathways.",
+        "positive_signals": [
+          "explicit SDG targets",
+          "measurable impact pathways",
+          "real-world use cases",
+          "production deployment",
+          "impact-oriented feature roadmap"
+        ],
+        "measurement_rubric": {
+          "1": "Mentions SDGs superficially without clear linkage to outcomes.",
+          "2": "Identifies relevant SDGs but lacks concrete impact pathways.",
+          "3": "Demonstrates partial alignment with measurable outcomes.",
+          "4": "Shows strong SDG alignment with credible measurement plans.",
+          "5": "Delivers direct, measurable, and validated SDG outcomes."
+        }
+      },
+      {
+        "problem_id": "scaling-friction",
+        "domain": "Solution Development Grants",
+        "name": "Limited Scaling Pathways",
+        "level": "problem_type",
+        "problem_statement": "Effective onchain solutions often struggle to expand into new geographies, demographics, or sectors due to insufficient resources and adaptation support.",
+        "why_it_matters": "If impactful solutions cannot scale, Ethereum’s contributions remain localized, limiting systemic change and global relevance.",
+        "solution_shape": "Development efforts that enable replication, localization, and expansion into new markets or user groups.",
+        "positive_signals": [
+          "multi-region strategy",
+          "replicable deployment model",
+          "local partnerships",
+          "market expansion plans",
+          "cross-sector applicability"
+        ],
+        "measurement_rubric": {
+          "1": "No consideration of scaling beyond current context.",
+          "2": "High-level intent to scale without concrete plans.",
+          "3": "Defined scaling strategy with limited validation.",
+          "4": "Clear, feasible expansion pathways.",
+          "5": "Demonstrated readiness for multi-market or multi-sector scale."
+        }
+      },
+      {
+        "problem_id": "feature-impact-mismatch",
+        "domain": "Solution Development Grants",
+        "name": "Feature–Impact Mismatch",
+        "level": "problem_type",
+        "problem_statement": "Existing solutions often lack specific features or integrations required to translate technical capabilities into tangible social or environmental impact.",
+        "why_it_matters": "Without targeted feature development, onchain infrastructure fails to unlock efficiencies, transparency, or accountability where they matter most.",
+        "solution_shape": "Development of new functionality or integrations that directly enhance impact delivery and verification.",
+        "positive_signals": [
+          "new feature development",
+          "impact-driven integrations",
+          "user-centered design",
+          "operational efficiency gains",
+          "data-driven improvements"
+        ],
+        "measurement_rubric": {
+          "1": "Features unrelated to impact outcomes.",
+          "2": "Incremental improvements with weak impact relevance.",
+          "3": "Features partially connected to impact goals.",
+          "4": "Strong linkage between features and impact delivery.",
+          "5": "Features that materially unlock or amplify impact."
+        }
+      },
+      {
+        "problem_id": "sustainability-risk",
+        "domain": "Solution Development Grants",
+        "name": "Adoption Sustainability Risk",
+        "level": "problem_type",
+        "problem_statement": "Many solutions lack durable plans for long-term maintenance, adoption, and community support once initial funding ends.",
+        "why_it_matters": "Unsustainable solutions erode trust, waste resources, and weaken confidence in Ethereum as long-term public infrastructure.",
+        "solution_shape": "Clear strategies for maintenance, governance, community engagement, and financial sustainability.",
+        "positive_signals": [
+          "long-term roadmap",
+          "community engagement",
+          "maintenance strategy",
+          "open governance",
+          "sustainable funding model"
+        ],
+        "measurement_rubric": {
+          "1": "No sustainability or adoption considerations.",
+          "2": "Aspirational sustainability statements only.",
+          "3": "Basic plans with limited execution detail.",
+          "4": "Credible, well-defined sustainability approach.",
+          "5": "Demonstrated traction with robust long-term viability."
+        }
+      },
+      {
+        "problem_id": "impact-verifiability",
+        "domain": "Solution Development Grants",
+        "name": "Weak Impact Verifiability",
+        "level": "problem_type",
+        "problem_statement": "Social and environmental outcomes are often difficult to verify, compare, or reward due to inconsistent measurement and reporting practices.",
+        "why_it_matters": "Without verifiable impact, capital allocation becomes opaque, reducing accountability and discouraging serious funders.",
+        "solution_shape": "Onchain, transparent mechanisms for tracking, reporting, and validating real-world impact.",
+        "positive_signals": [
+          "impact metrics",
+          "onchain reporting",
+          "verification mechanisms",
+          "transparent data",
+          "accountability frameworks"
+        ],
+        "measurement_rubric": {
+          "1": "No impact measurement or reporting.",
+          "2": "Qualitative or unverifiable impact claims.",
+          "3": "Basic quantitative metrics with limited transparency.",
+          "4": "Clear, verifiable impact reporting.",
+          "5": "Robust, onchain, and auditable impact validation."
+        }
+      },
+      {
+        "problem_id": "ecosystem-legitimacy",
+        "domain": "Solution Development Grants",
+        "name": "Ecosystem Legitimacy Gap",
+        "level": "problem_type",
+        "problem_statement": "Blockchain solutions addressing global challenges often lack credibility and legitimacy with non-crypto stakeholders.",
+        "why_it_matters": "Without external legitimacy, Ethereum-based solutions struggle to influence institutions, policymakers, and mainstream adopters.",
+        "solution_shape": "Strengthening credibility through open-source practices, transparent operations, and alignment with real-world standards.",
+        "positive_signals": [
+          "open-source codebase",
+          "external partnerships",
+          "standards alignment",
+          "auditability",
+          "real-world stakeholder engagement"
+        ],
+        "measurement_rubric": {
+          "1": "Isolated from broader ecosystem or standards.",
+          "2": "Minimal signals of external legitimacy.",
+          "3": "Some alignment with recognized practices.",
+          "4": "Strong credibility with relevant stakeholders.",
+          "5": "Widely recognized and trusted beyond crypto."
+        }
+      }
+    ]
+  }
+  
