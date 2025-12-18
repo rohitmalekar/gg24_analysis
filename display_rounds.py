@@ -1458,10 +1458,10 @@ def main():
         st.markdown("""
         This visualization maps round-specific problems to the broader Ethereum ecosystem challenges. 
         The Sankey diagram shows the flow from:
-        - **Category** (Ethereum Level 1 Problem): High-level problem categories
-        - **Ecosystem Challenge** (Ethereum Level 2 Problem): Specific challenges within each category
-        - **Round Problem**: Problems defined in GG24 rounds
-        - **Round**: The specific GG24 round
+        - **Category**: High-level problem categories in the Ethereum Ecosystem
+        - **Ecosystem Challenge**: Specific challenges within each category
+        - **Round Problem**: Problems addressed by each of the GG24 rounds derived from the domain's sensemaking research and the round's eligibility guidance
+        - **Round**: The specific GG24 round that addresses the Round Problem
         
         All Categories and Ecosystem Challenges are shown, even if they don't have mappings to Round Problems.
         
@@ -1499,7 +1499,7 @@ def main():
                 selected_rounds = st.multiselect(
                     "Filter by Round",
                     options=all_rounds,
-                    default=[],
+                    default="Developer Tooling & Core Infrastructure",
                     help="Select one or more rounds to see where they fit in the Ethereum ecosystem. Leave empty to show all."
                 )
             

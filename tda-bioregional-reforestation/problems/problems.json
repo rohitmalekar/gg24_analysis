@@ -1,0 +1,143 @@
+{
+    "problems": [
+      {
+        "problem_id": "bio_reforest_01",
+        "domain": "Bioregional Reforestation",
+        "name": "Fragmented Bioregional Coordination",
+        "level": "problem_type",
+        "problem_statement": "Reforestation efforts are often fragmented across projects and geographies, lacking a shared bioregional container that enables coordination, prioritization, and aggregation of local actions.",
+        "why_it_matters": "Without bioregional coordination, reforestation remains piecemeal, reducing ecological coherence, limiting learning spillovers, and constraining the ability to mobilize sustained funding at scale.",
+        "solution_shape": "Structures that treat bioregions as coordination units, enabling multiple local initiatives to align around shared ecological contexts and collective goals.",
+        "positive_signals": [
+          "bioregional focus",
+          "place-based coordination",
+          "landscape-level planning",
+          "local stewardship networks",
+          "ecosystem-scale outcomes"
+        ],
+        "measurement_rubric": {
+          "1": "Mentions reforestation without any bioregional framing.",
+          "2": "References a region but without mechanisms for coordination.",
+          "3": "Aligns projects within a defined bioregional context.",
+          "4": "Actively coordinates multiple efforts within a bioregion.",
+          "5": "Uses the bioregion as a primary unit for planning, funding, and learning."
+        }
+      },
+      {
+        "problem_id": "bio_reforest_02",
+        "domain": "Bioregional Reforestation",
+        "name": "Weak Outcome Accountability",
+        "level": "problem_type",
+        "problem_statement": "Many reforestation initiatives lack credible, outcome-linked accountability, making it difficult to verify planting success, survival, and longer-term ecological impact.",
+        "why_it_matters": "Poor accountability undermines trust from funders and communities, leading to inefficient capital allocation and reduced confidence in nature-based climate solutions.",
+        "solution_shape": "Outcome-oriented approaches that link funding to verifiable ecological milestones and transparent reporting.",
+        "positive_signals": [
+          "outcome-based funding",
+          "planting verification",
+          "survival tracking",
+          "transparent reporting",
+          "impact attestations"
+        ],
+        "measurement_rubric": {
+          "1": "No discussion of outcomes or verification.",
+          "2": "Qualitative outcome claims without evidence.",
+          "3": "Defines outcomes but limited verification.",
+          "4": "Links funding to verifiable milestones.",
+          "5": "Systematically ties capital to verified ecological outcomes."
+        }
+      },
+      {
+        "problem_id": "bio_reforest_03",
+        "domain": "Bioregional Reforestation",
+        "name": "Poor Ecological Fit",
+        "level": "problem_type",
+        "problem_statement": "Tree planting efforts frequently suffer from poor species-to-context matching, ignoring local soil, climate, and biodiversity conditions.",
+        "why_it_matters": "Ecologically mismatched planting leads to low survival rates, biodiversity loss, and wasted resources, weakening climate and ecosystem benefits.",
+        "solution_shape": "Decision-support systems and practices that align species selection with local ecological data and indigenous knowledge.",
+        "positive_signals": [
+          "native species selection",
+          "soil and climate matching",
+          "biodiversity alignment",
+          "ecological suitability",
+          "context-aware restoration"
+        ],
+        "measurement_rubric": {
+          "1": "No consideration of ecological context.",
+          "2": "Generic references to native species.",
+          "3": "Basic alignment with local conditions.",
+          "4": "Data-informed species selection.",
+          "5": "Systematic, context-specific ecological matching."
+        }
+      },
+      {
+        "problem_id": "bio_reforest_04",
+        "domain": "Bioregional Reforestation",
+        "name": "Limited Community Stewardship",
+        "level": "problem_type",
+        "problem_statement": "Reforestation initiatives often underinvest in long-term community stewardship, relying on short-term interventions rather than sustained local engagement.",
+        "why_it_matters": "Without durable stewardship, reforestation outcomes degrade over time, and communities remain disconnected from ecological and economic benefits.",
+        "solution_shape": "Models that embed local actors as stewards, verifiers, and long-term caretakers of restored ecosystems.",
+        "positive_signals": [
+          "community-led restoration",
+          "local stewardship",
+          "on-the-ground verification",
+          "long-term care",
+          "local capacity building"
+        ],
+        "measurement_rubric": {
+          "1": "No role for local communities.",
+          "2": "Communities involved only as labor.",
+          "3": "Shared responsibility for maintenance.",
+          "4": "Communities act as active stewards.",
+          "5": "Community stewardship is central to the model."
+        }
+      },
+      {
+        "problem_id": "bio_reforest_05",
+        "domain": "Bioregional Reforestation",
+        "name": "Misaligned Capital Flows",
+        "level": "problem_type",
+        "problem_statement": "Capital for reforestation is often poorly aligned with ecological need and community priorities, relying on opaque or one-off funding mechanisms.",
+        "why_it_matters": "Misaligned funding limits scalability, discourages participation, and prevents effective aggregation of resources toward high-impact regions.",
+        "solution_shape": "Funding mechanisms that aggregate signals from many contributors and route capital transparently toward prioritized bioregions.",
+        "positive_signals": [
+          "crowdfunded matching",
+          "capital aggregation",
+          "transparent allocation",
+          "donor signaling",
+          "prioritized regions"
+        ],
+        "measurement_rubric": {
+          "1": "Ad hoc or opaque funding.",
+          "2": "Single-source funding with limited transparency.",
+          "3": "Multiple contributors with basic allocation logic.",
+          "4": "Signal-based allocation across regions.",
+          "5": "Transparent, participatory capital routing at scale."
+        }
+      },
+      {
+        "problem_id": "bio_reforest_06",
+        "domain": "Bioregional Reforestation",
+        "name": "Low Replicability of Models",
+        "level": "problem_type",
+        "problem_statement": "Successful reforestation approaches are often hard to replicate across regions, limiting learning transfer and ecosystem-wide impact.",
+        "why_it_matters": "Low replicability slows global restoration efforts and prevents effective reuse of proven coordination, funding, and verification patterns.",
+        "solution_shape": "Modular, reusable frameworks that can be adapted to different bioregions while preserving core principles.",
+        "positive_signals": [
+          "replicable frameworks",
+          "modular design",
+          "cross-region learning",
+          "scalable restoration",
+          "transferable models"
+        ],
+        "measurement_rubric": {
+          "1": "Highly context-specific with no reuse potential.",
+          "2": "Limited applicability beyond one region.",
+          "3": "Some reusable components.",
+          "4": "Designed for adaptation across regions.",
+          "5": "Explicitly built for multi-bioregion replication."
+        }
+      }
+    ]
+  }
+  
