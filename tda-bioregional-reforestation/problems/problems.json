@@ -2,7 +2,7 @@
     "problems": [
       {
         "problem_id": "bio_reforest_01",
-        "domain": "Bioregional Reforestation",
+        "domain": "Targeted Development & Adoption",
         "name": "Fragmented Bioregional Coordination",
         "level": "problem_type",
         "problem_statement": "Reforestation efforts are often fragmented across projects and geographies, lacking a shared bioregional container that enables coordination, prioritization, and aggregation of local actions.",
@@ -25,7 +25,7 @@
       },
       {
         "problem_id": "bio_reforest_02",
-        "domain": "Bioregional Reforestation",
+        "domain": "Targeted Development & Adoption",
         "name": "Weak Outcome Accountability",
         "level": "problem_type",
         "problem_statement": "Many reforestation initiatives lack credible, outcome-linked accountability, making it difficult to verify planting success, survival, and longer-term ecological impact.",
@@ -48,7 +48,7 @@
       },
       {
         "problem_id": "bio_reforest_03",
-        "domain": "Bioregional Reforestation",
+        "domain": "Targeted Development & Adoption",
         "name": "Poor Ecological Fit",
         "level": "problem_type",
         "problem_statement": "Tree planting efforts frequently suffer from poor species-to-context matching, ignoring local soil, climate, and biodiversity conditions.",
@@ -71,7 +71,7 @@
       },
       {
         "problem_id": "bio_reforest_04",
-        "domain": "Bioregional Reforestation",
+        "domain": "Targeted Development & Adoption",
         "name": "Limited Community Stewardship",
         "level": "problem_type",
         "problem_statement": "Reforestation initiatives often underinvest in long-term community stewardship, relying on short-term interventions rather than sustained local engagement.",
@@ -94,7 +94,7 @@
       },
       {
         "problem_id": "bio_reforest_05",
-        "domain": "Bioregional Reforestation",
+        "domain": "Targeted Development & Adoption",
         "name": "Misaligned Capital Flows",
         "level": "problem_type",
         "problem_statement": "Capital for reforestation is often poorly aligned with ecological need and community priorities, relying on opaque or one-off funding mechanisms.",
@@ -117,7 +117,7 @@
       },
       {
         "problem_id": "bio_reforest_06",
-        "domain": "Bioregional Reforestation",
+        "domain": "Targeted Development & Adoption",
         "name": "Low Replicability of Models",
         "level": "problem_type",
         "problem_statement": "Successful reforestation approaches are often hard to replicate across regions, limiting learning transfer and ecosystem-wide impact.",

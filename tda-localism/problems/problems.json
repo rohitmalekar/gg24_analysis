@@ -2,7 +2,7 @@
     "problems": [
       {
         "problem_id": "localism_01",
-        "domain": "Localism Fund",
+        "domain": "Targeted Development & Adoption",
         "name": "Weak Local Coordination Capacity",
         "level": "problem_type",
         "problem_statement": "Many place-based communities lack durable coordination structures to design, govern, and operate collective initiatives that align local needs with shared economic, civic, and ecological goals.",
@@ -25,7 +25,7 @@
       },
       {
         "problem_id": "localism_02",
-        "domain": "Localism Fund",
+        "domain": "Targeted Development & Adoption",
         "name": "Low Trust in Local Funding Flows",
         "level": "problem_type",
         "problem_statement": "Local initiatives often struggle to access funding due to weak trust signals, limited transparency, and difficulty demonstrating credibility to external supporters.",
@@ -48,7 +48,7 @@
       },
       {
         "problem_id": "localism_03",
-        "domain": "Localism Fund",
+        "domain": "Targeted Development & Adoption",
         "name": "Disconnect Between Global Tools and Local Needs",
         "level": "problem_type",
         "problem_statement": "Global coordination tools and funding frameworks often fail to translate into practical, context-sensitive solutions for local political, economic, and cultural realities.",
@@ -71,7 +71,7 @@
       },
       {
         "problem_id": "localism_04",
-        "domain": "Localism Fund",
+        "domain": "Targeted Development & Adoption",
         "name": "Underdeveloped Local Economic Resilience",
         "level": "problem_type",
         "problem_statement": "Local economies often lack mechanisms to retain value, coordinate resources, and support community-owned economic activity.",
@@ -94,7 +94,7 @@
       },
       {
         "problem_id": "localism_05",
-        "domain": "Localism Fund",
+        "domain": "Targeted Development & Adoption",
         "name": "Insufficient Local Impact Visibility",
         "level": "problem_type",
         "problem_statement": "Local initiatives often lack consistent ways to capture, communicate, and learn from real-world outcomes across social, ecological, and civic dimensions.",
@@ -117,7 +117,7 @@
       },
       {
         "problem_id": "localism_06",
-        "domain": "Localism Fund",
+        "domain": "Targeted Development & Adoption",
         "name": "Fragmented Global–Local Networks",
         "level": "problem_type",
         "problem_statement": "Local hubs frequently operate in isolation, with limited pathways to share learnings, align strategies, or collaborate across regions.",

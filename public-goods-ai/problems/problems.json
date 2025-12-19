@@ -2,7 +2,7 @@
     "problems": [
       {
         "problem_id": "pg_ai_01",
-        "domain": "AI for Public Goods Funding",
+        "domain": "Public Goods R&D",
         "name": "Opaque Allocation Decisions",
         "level": "problem_type",
         "problem_statement": "Public goods funding decisions are often difficult to explain, audit, or justify due to opaque criteria, informal judgment, and limited use of structured evidence.",
@@ -25,7 +25,7 @@
       },
       {
         "problem_id": "pg_ai_02",
-        "domain": "AI for Public Goods Funding",
+        "domain": "Public Goods R&D",
         "name": "Weak Impact Assessment",
         "level": "problem_type",
         "problem_statement": "Funding systems lack reliable ways to assess, compare, or learn from the real-world impact of funded public goods initiatives.",
@@ -48,7 +48,7 @@
       },
       {
         "problem_id": "pg_ai_03",
-        "domain": "AI for Public Goods Funding",
+        "domain": "Public Goods R&D",
         "name": "Bias and Inequity Risks",
         "level": "problem_type",
         "problem_statement": "Funding processes can unintentionally reinforce bias, exclusion, or power imbalances due to skewed data, implicit assumptions, or uneven access to resources.",
@@ -71,7 +71,7 @@
       },
       {
         "problem_id": "pg_ai_04",
-        "domain": "AI for Public Goods Funding",
+        "domain": "Public Goods R&D",
         "name": "Fragmented Information Signals",
         "level": "problem_type",
         "problem_statement": "Relevant data about projects, communities, and funding outcomes is scattered across platforms, formats, and stakeholders, limiting holistic understanding.",
@@ -94,7 +94,7 @@
       },
       {
         "problem_id": "pg_ai_05",
-        "domain": "AI for Public Goods Funding",
+        "domain": "Public Goods R&D",
         "name": "Poor Decision Scalability",
         "level": "problem_type",
         "problem_statement": "As funding ecosystems grow, manual or ad hoc decision processes struggle to scale across many proposals, domains, or communities.",
@@ -117,7 +117,7 @@
       },
       {
         "problem_id": "pg_ai_06",
-        "domain": "AI for Public Goods Funding",
+        "domain": "Public Goods R&D",
         "name": "Weak Governance Feedback Loops",
         "level": "problem_type",
         "problem_statement": "Funding systems often lack mechanisms to learn from past decisions, incorporate stakeholder feedback, or adapt governance rules over time.",
