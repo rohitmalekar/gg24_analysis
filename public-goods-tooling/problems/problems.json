@@ -2,7 +2,7 @@
     "problems": [
       {
         "problem_id": "PGT-01",
-        "domain": "Public Goods Tooling",
+        "domain": "Public Goods R&D",
         "name": "Fragmented Public Goods Primitives",
         "level": "problem_type",
         "problem_statement": "Public goods tooling across Ethereum is built on overlapping but poorly coordinated primitives, leading to fragmented standards, duplicated effort, and limited composability between tools.",
@@ -25,7 +25,7 @@
       },
       {
         "problem_id": "PGT-02",
-        "domain": "Public Goods Tooling",
+        "domain": "Public Goods R&D",
         "name": "Poor UX for Public Goods",
         "level": "problem_type",
         "problem_statement": "Many public goods tools expose complex workflows, unclear interfaces, or high cognitive load, making participation difficult for builders, funders, and communities.",
@@ -48,7 +48,7 @@
       },
       {
         "problem_id": "PGT-03",
-        "domain": "Public Goods Tooling",
+        "domain": "Public Goods R&D",
         "name": "Unverifiable Impact and Progress",
         "level": "problem_type",
         "problem_statement": "Impact, milestones, and progress in public goods work are often reported inconsistently or offchain, making them hard to verify, compare, or reuse across tools.",
@@ -71,7 +71,7 @@
       },
       {
         "problem_id": "PGT-04",
-        "domain": "Public Goods Tooling",
+        "domain": "Public Goods R&D",
         "name": "Low Tooling Maturity",
         "level": "problem_type",
         "problem_statement": "Many public goods tools remain stuck at prototype or early beta stages, lacking reliability, documentation, or readiness for broader adoption.",
@@ -94,7 +94,7 @@
       },
       {
         "problem_id": "PGT-05",
-        "domain": "Public Goods Tooling",
+        "domain": "Public Goods R&D",
         "name": "Unsustainable Tool Stewardship",
         "level": "problem_type",
         "problem_statement": "Public goods tools often lack sustainable funding, governance, or maintenance models, placing long-term viability at risk.",

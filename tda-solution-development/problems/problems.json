@@ -2,7 +2,7 @@
     "problems": [
       {
         "problem_id": "sdg-solution-gap",
-        "domain": "Solution Development Grants",
+        "domain": "Targeted Development & Adoption",
         "name": "SDG-Ready Solutions Gap",
         "level": "problem_type",
         "problem_statement": "Many blockchain-based initiatives demonstrate intent toward social or environmental goals, but lack production-ready, SDG-aligned solutions that can deliver measurable real-world outcomes.",
@@ -25,7 +25,7 @@
       },
       {
         "problem_id": "scaling-friction",
-        "domain": "Solution Development Grants",
+        "domain": "Targeted Development & Adoption",
         "name": "Limited Scaling Pathways",
         "level": "problem_type",
         "problem_statement": "Effective onchain solutions often struggle to expand into new geographies, demographics, or sectors due to insufficient resources and adaptation support.",
@@ -48,7 +48,7 @@
       },
       {
         "problem_id": "feature-impact-mismatch",
-        "domain": "Solution Development Grants",
+        "domain": "Targeted Development & Adoption",
         "name": "Feature–Impact Mismatch",
         "level": "problem_type",
         "problem_statement": "Existing solutions often lack specific features or integrations required to translate technical capabilities into tangible social or environmental impact.",
@@ -71,7 +71,7 @@
       },
       {
         "problem_id": "sustainability-risk",
-        "domain": "Solution Development Grants",
+        "domain": "Targeted Development & Adoption",
         "name": "Adoption Sustainability Risk",
         "level": "problem_type",
         "problem_statement": "Many solutions lack durable plans for long-term maintenance, adoption, and community support once initial funding ends.",
@@ -94,7 +94,7 @@
       },
       {
         "problem_id": "impact-verifiability",
-        "domain": "Solution Development Grants",
+        "domain": "Targeted Development & Adoption",
         "name": "Weak Impact Verifiability",
         "level": "problem_type",
         "problem_statement": "Social and environmental outcomes are often difficult to verify, compare, or reward due to inconsistent measurement and reporting practices.",
@@ -117,7 +117,7 @@
       },
       {
         "problem_id": "ecosystem-legitimacy",
-        "domain": "Solution Development Grants",
+        "domain": "Targeted Development & Adoption",
         "name": "Ecosystem Legitimacy Gap",
         "level": "problem_type",
         "problem_statement": "Blockchain solutions addressing global challenges often lack credibility and legitimacy with non-crypto stakeholders.",

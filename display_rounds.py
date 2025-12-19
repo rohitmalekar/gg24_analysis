@@ -443,8 +443,18 @@ def create_problem_scatter_plot(problems, alignment_results, funding_data=None, 
     
     # Update layout
     fig.update_layout(
-        xaxis_title="Number of Projects (Primary + Secondary)",
-        yaxis_title=f"Total Attributed Funding ({currency_label})",
+        xaxis=dict(
+            title=dict(
+                text="Number of Projects (Primary + Secondary Problem Alignment)",
+                font=dict(size=22)  # Increase font size
+            ),
+        ),
+        yaxis=dict(
+            title=dict(
+                text=f"Total Attributed Funding ({currency_label})",
+                font=dict(size=22)  # Increase font size
+            ),
+        ),
         height=800,
         showlegend=True,
         legend=dict(
